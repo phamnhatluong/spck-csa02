@@ -1,0 +1,601 @@
+date,industry,job_title,region,job_openings,avg_salary,salary_growth_rate,experience_level,remote_ratio,required_skills,competition_level,automation_risk,growth_score,demand_forecast
+2022-01-01,Healthcare,Data Analyst,Đà Nẵng,81,29004.93,2.19,Senior,99,"Kubernetes, TensorFlow, Excel, Communication, Machine Learning",High,Low,51.7,Declining
+2022-01-01,Retail,ML Engineer,Đồng Nai,78,4000.0,3.08,Fresher,45,"Communication, Python",Low,Medium,58.9,Declining
+2022-01-05,Retail,Cloud Architect,TP.HCM,82,36983.26,12.82,Senior,28,"Communication, React, Machine Learning, AWS",High,High,80.4,Stable
+2022-01-06,Education,Software Engineer,Hà Nội,84,28231.28,8.01,Senior,60,"JavaScript, Figma, TensorFlow, TypeScript, Power BI, Excel",High,Low,80.3,Stable
+2022-01-07,Manufacturing,Product Manager,Cần Thơ,93,30409.01,11.71,Senior,21,"SQL, Excel, Java",Low,Low,67.3,Growing
+2022-01-07,Healthcare,ML Engineer,Đà Nẵng,80,30438.6,6.52,Senior,79,"AWS, JavaScript, Docker, SQL, Python, Go",Medium,Low,46.5,Growing
+2022-01-10,Education,Product Manager,TP.HCM,73,18095.41,4.72,Junior,49,"Excel, Power BI, Figma, Go, TypeScript, AWS",High,Medium,59.0,Stable
+2022-01-20,Education,Business Analyst,Hà Nội,72,24133.25,4.64,Senior,31,"Python, Docker, JavaScript",Medium,Low,20.1,Stable
+2022-01-20,Education,Product Manager,Bình Dương,67,16057.93,6.96,Junior,81,"JavaScript, TensorFlow",Medium,Low,38.7,Declining
+2022-01-21,Logistics,QA Engineer,Hà Nội,71,30441.36,17.75,Senior,60,"Docker, Python, TypeScript",Medium,High,90.3,Stable
+2022-01-23,Manufacturing,ML Engineer,TP.HCM,76,24109.71,3.42,Senior,15,"JavaScript, TensorFlow, Java, Excel",High,High,36.5,Growing
+2022-01-24,Technology,Backend Developer,Hải Phòng,84,14964.63,4.81,Junior,58,"AWS, Kubernetes, JavaScript",Low,Medium,88.6,Stable
+2022-01-27,Logistics,Business Analyst,Hải Phòng,92,4020.8,17.37,Fresher,34,"TypeScript, Spark, Excel, Go, Python, Docker",Low,High,34.8,Stable
+2022-01-27,Technology,DevOps Engineer,Bình Dương,95,14146.7,7.11,Junior,73,"Python, Java, JavaScript, TensorFlow, Agile, SQL",Medium,High,91.3,Declining
+2022-01-28,Technology,QA Engineer,Cần Thơ,54,28439.31,15.16,Senior,17,"Docker, JavaScript, Java, AWS, Spark",Low,Medium,47.0,Stable
+2022-01-31,Logistics,Data Scientist,Cần Thơ,90,28818.47,10.75,Senior,52,"Agile, Java, React, TensorFlow",Low,Low,52.5,Growing
+2022-02-02,Finance,Backend Developer,Hà Nội,75,30470.35,14.14,Senior,63,"Kubernetes, Agile, Communication",Low,High,27.7,Stable
+2022-02-03,Healthcare,Data Scientist,Hà Nội,93,33271.33,14.33,Senior,26,"React, TensorFlow, SQL, Spark, Power BI, Communication",Low,High,83.4,Stable
+2022-02-03,Education,Software Engineer,Đà Nẵng,88,7714.55,9.63,Fresher,52,"AWS, Spark, SQL",Low,Medium,73.9,Declining
+2022-02-10,Healthcare,Data Scientist,Hải Phòng,94,4032.0,4.6,Fresher,6,"Communication, Power BI, Kubernetes, JavaScript, TensorFlow, Excel",Medium,High,20.9,Growing
+2022-02-10,Manufacturing,Backend Developer,Hải Phòng,98,29478.6,12.15,Senior,97,"AWS, Communication",Medium,Medium,36.7,Stable
+2022-02-11,Education,UX Designer,Hải Phòng,91,15609.55,17.47,Junior,33,"Docker, Java, Python",Medium,Medium,51.3,Declining
+2022-02-12,Technology,Business Analyst,Hải Phòng,94,4033.6,14.62,Fresher,50,"Spark, SQL, Communication, Machine Learning, Kubernetes, Figma",High,Medium,69.9,Growing
+2022-02-12,Finance,UX Designer,Hải Phòng,88,4033.6,5.59,Fresher,50,"Power BI, Java, JavaScript, TensorFlow, Go, Machine Learning",Medium,Medium,53.9,Growing
+2022-02-13,Manufacturing,Cloud Architect,Cần Thơ,74,4034.4,14.86,Fresher,88,"React, Kubernetes, SQL, Machine Learning, Power BI, TypeScript",Low,High,89.7,Declining
+2022-02-13,Education,Data Analyst,TP.HCM,72,35500.6,4.87,Senior,83,"Agile, React, TypeScript, Spark, JavaScript, Python",High,Low,72.0,Stable
+2022-02-15,Logistics,Software Engineer,TP.HCM,74,11880.46,11.78,Fresher,5,"Kubernetes, TensorFlow, React, SQL, Figma",Low,High,50.8,Declining
+2022-02-16,Technology,UX Designer,Cần Thơ,70,6185.01,14.08,Fresher,14,"TypeScript, React",Medium,Medium,66.5,Stable
+2022-02-17,Technology,QA Engineer,Đồng Nai,82,7597.21,15.9,Fresher,58,"Machine Learning, Docker",Medium,Medium,62.8,Growing
+2022-02-17,Technology,ML Engineer,Đồng Nai,78,12159.18,15.7,Junior,84,"Python, Communication, AWS, Docker",Low,Low,72.6,Stable
+2022-02-18,Education,Data Analyst,Bình Dương,83,24049.95,14.19,Senior,20,"AWS, Java",Medium,High,82.5,Growing
+2022-02-19,Retail,Data Analyst,Bình Dương,85,27589.95,17.97,Senior,2,"Machine Learning, Figma",Medium,Medium,90.0,Growing
+2022-02-20,Retail,UX Designer,Đà Nẵng,81,34192.54,11.0,Senior,22,"TensorFlow, Agile",High,High,91.8,Declining
+2022-02-21,Technology,Product Manager,Đồng Nai,70,8504.41,13.65,Junior,5,"Kubernetes, Go, Figma, Spark",Low,Low,57.2,Growing
+2022-02-21,Retail,ML Engineer,Đồng Nai,77,8886.16,5.65,Fresher,1,"TypeScript, Docker",Medium,Medium,52.0,Stable
+2022-02-22,Finance,Backend Developer,Bình Dương,92,7591.64,2.1,Fresher,77,"JavaScript, SQL, AWS, TensorFlow, Agile, Communication",High,High,41.5,Declining
+2022-02-23,Retail,Frontend Developer,Đồng Nai,70,15328.6,14.76,Junior,47,"Machine Learning, Excel, Spark, React, JavaScript, TensorFlow",Low,Medium,31.2,Stable
+2022-02-23,Logistics,QA Engineer,Bình Dương,73,27746.15,4.63,Senior,42,"Go, Machine Learning",High,High,81.1,Stable
+2022-02-25,Logistics,Product Manager,TP.HCM,77,16447.94,17.94,Junior,25,"Figma, Agile, React, Docker",High,Low,47.6,Growing
+2022-02-25,Technology,Cloud Architect,Đà Nẵng,71,25313.17,4.95,Senior,25,"Agile, TypeScript, Kubernetes, TensorFlow, Communication, Java",High,High,87.0,Growing
+2022-02-26,Education,Business Analyst,TP.HCM,102,14949.28,15.11,Junior,47,"Java, Machine Learning, Excel",Low,High,86.3,Declining
+2022-02-27,Retail,Software Engineer,Bình Dương,95,10371.61,5.41,Junior,21,"Power BI, Figma",High,Medium,22.3,Declining
+2022-02-27,Logistics,DevOps Engineer,Hải Phòng,79,28608.87,15.89,Senior,49,"Docker, Spark, TypeScript, Communication",Medium,High,80.4,Declining
+2022-03-02,Technology,Product Manager,Hải Phòng,99,10985.63,11.7,Junior,90,"Machine Learning, Excel, Kubernetes",Low,Medium,77.4,Declining
+2022-03-04,Technology,UX Designer,Cần Thơ,71,14675.76,14.51,Junior,17,"AWS, Excel, TypeScript, Go, TensorFlow",High,Low,73.2,Stable
+2022-03-06,Finance,Data Scientist,Cần Thơ,97,8140.9,11.55,Fresher,62,"Excel, Machine Learning, Power BI, Kubernetes, Java, Go",High,Medium,69.1,Stable
+2022-03-08,Logistics,Software Engineer,Đà Nẵng,83,9852.62,2.94,Fresher,37,"Excel, Spark, Go, AWS, Power BI",Low,Medium,45.1,Stable
+2022-03-09,Healthcare,QA Engineer,Bình Dương,89,26219.32,3.61,Senior,99,"Figma, Machine Learning, AWS",High,High,38.0,Declining
+2022-03-11,Retail,DevOps Engineer,Cần Thơ,77,28122.24,11.75,Senior,15,"TypeScript, JavaScript, SQL, AWS, Go, Communication",High,High,57.7,Stable
+2022-03-12,Technology,ML Engineer,Đà Nẵng,85,27935.82,3.97,Senior,92,"Kubernetes, Spark, Java, Machine Learning, Communication, Agile",Medium,Medium,61.9,Declining
+2022-03-14,Logistics,UX Designer,Hải Phòng,97,30593.82,12.78,Senior,59,"Figma, TypeScript, Excel, Java, SQL",Medium,Medium,23.9,Growing
+2022-03-14,Healthcare,Backend Developer,Hà Nội,78,13334.75,14.93,Junior,93,"Machine Learning, Go",Medium,Medium,77.2,Growing
+2022-03-14,Manufacturing,Software Engineer,Đà Nẵng,85,23469.66,11.73,Senior,40,"TensorFlow, Figma, Kubernetes",High,High,77.4,Growing
+2022-03-15,Manufacturing,Frontend Developer,TP.HCM,93,18426.35,3.42,Junior,24,"TensorFlow, Python, Machine Learning, Spark",High,Low,56.6,Stable
+2022-03-16,Technology,Backend Developer,Đà Nẵng,88,33459.75,15.05,Senior,89,"Spark, JavaScript",Low,Medium,36.8,Growing
+2022-03-20,Retail,Data Analyst,Hải Phòng,82,16101.64,7.58,Junior,76,"TensorFlow, Agile, JavaScript, TypeScript, Spark, Communication",High,Low,89.7,Stable
+2022-03-21,Healthcare,Business Analyst,TP.HCM,95,10145.6,11.07,Junior,66,"Python, Spark, Go, Figma, JavaScript",Medium,High,75.4,Growing
+2022-03-22,Retail,Backend Developer,TP.HCM,84,15859.66,2.67,Junior,80,"Java, Go, SQL",Low,Medium,26.4,Declining
+2022-03-23,Healthcare,Data Scientist,TP.HCM,87,11029.18,8.32,Fresher,40,"Communication, Java, TensorFlow, React",Medium,Medium,23.0,Declining
+2022-03-25,Finance,DevOps Engineer,Hà Nội,77,10951.24,4.91,Junior,40,"Go, React",Low,Low,88.1,Stable
+2022-03-26,Manufacturing,Software Engineer,Đồng Nai,82,10663.11,11.87,Fresher,97,"Communication, JavaScript, Java",Low,High,73.0,Stable
+2022-03-27,Finance,Data Analyst,Hải Phòng,80,15238.9,9.77,Junior,26,"Spark, Go, TensorFlow",High,High,39.3,Declining
+2022-03-29,Manufacturing,Cloud Architect,Cần Thơ,86,13598.28,14.6,Junior,93,"Docker, TensorFlow, Excel, Python, Power BI, SQL",Medium,High,38.8,Declining
+2022-03-30,Finance,Frontend Developer,Cần Thơ,74,29648.04,5.63,Senior,50,"Power BI, Docker",High,Low,82.8,Growing
+2022-04-01,Logistics,Frontend Developer,Cần Thơ,77,16090.29,5.17,Junior,40,"Power BI, Python",Low,Medium,62.4,Stable
+2022-04-01,Healthcare,Frontend Developer,Bình Dương,75,30468.91,13.22,Senior,94,"Spark, Communication",High,Low,71.0,Stable
+2022-04-02,Technology,QA Engineer,Cần Thơ,72,30072.2,14.32,Senior,54,"Kubernetes, AWS, Go, Docker",High,High,80.5,Growing
+2022-04-03,Healthcare,Backend Developer,Đà Nẵng,71,30790.68,6.28,Senior,100,"React, Spark, Go, JavaScript, TypeScript",High,High,82.7,Growing
+2022-04-04,Retail,ML Engineer,Cần Thơ,81,13643.83,9.35,Junior,23,"TensorFlow, Kubernetes, Docker, TypeScript",Low,Medium,78.9,Stable
+2022-04-06,Healthcare,DevOps Engineer,Hải Phòng,87,6639.88,2.33,Fresher,77,"Spark, AWS",High,High,92.7,Declining
+2022-04-06,Education,Data Analyst,Bình Dương,83,4076.0,2.59,Fresher,94,"React, JavaScript, Go, Power BI",Low,Medium,38.9,Stable
+2022-04-07,Education,Data Analyst,Đồng Nai,74,8629.12,5.21,Fresher,17,"Python, JavaScript",Low,Low,60.2,Growing
+2022-04-07,Technology,Frontend Developer,Đà Nẵng,91,5321.76,15.15,Fresher,19,"Java, Kubernetes, TypeScript",Low,Medium,83.8,Stable
+2022-04-11,Finance,DevOps Engineer,Hải Phòng,76,5091.89,3.16,Fresher,95,"Spark, TypeScript, Agile, Docker, AWS, Excel",High,High,22.3,Declining
+2022-04-12,Finance,Frontend Developer,Đồng Nai,76,29389.36,11.96,Senior,76,"SQL, Docker, AWS, Java, TypeScript, Agile",High,Low,78.6,Growing
+2022-04-13,Manufacturing,Frontend Developer,Hà Nội,69,16750.38,17.51,Junior,92,"Figma, React, SQL",Medium,Medium,59.2,Stable
+2022-04-15,Healthcare,ML Engineer,Đà Nẵng,93,24681.97,8.15,Senior,70,"Java, React, Communication, Power BI",Low,Low,21.9,Growing
+2022-04-15,Healthcare,Data Analyst,TP.HCM,88,12675.2,13.12,Junior,55,"Spark, Excel, Figma, JavaScript, Python",Low,Medium,84.5,Declining
+2022-04-17,Healthcare,ML Engineer,TP.HCM,90,13981.26,8.85,Junior,53,"JavaScript, React, Java, Spark, Python",Low,High,73.8,Stable
+2022-04-17,Education,Product Manager,Đà Nẵng,74,28078.6,14.49,Senior,95,"TypeScript, Kubernetes",Medium,Low,54.5,Declining
+2022-04-19,Education,Cloud Architect,Đà Nẵng,68,33766.65,12.63,Senior,13,"SQL, Spark",High,High,86.1,Stable
+2022-04-21,Logistics,Backend Developer,Hà Nội,84,15869.57,12.42,Junior,81,"Machine Learning, Agile, Excel, Go, Communication, Java",Low,Medium,60.9,Growing
+2022-04-22,Logistics,DevOps Engineer,Bình Dương,89,9025.95,10.89,Fresher,85,"Docker, JavaScript, TensorFlow, Power BI",Medium,Medium,73.9,Growing
+2022-04-22,Healthcare,UX Designer,Hà Nội,79,13628.56,7.02,Fresher,89,"Power BI, React, AWS",High,High,38.1,Growing
+2022-04-22,Manufacturing,Backend Developer,Đà Nẵng,91,4599.66,7.21,Fresher,93,"Figma, Excel, Machine Learning, AWS",High,Low,76.0,Stable
+2022-04-24,Retail,Product Manager,Đà Nẵng,83,5191.28,6.82,Fresher,37,"SQL, Agile, Java, TensorFlow, AWS",High,High,57.7,Stable
+2022-04-24,Retail,Frontend Developer,Hải Phòng,79,12925.85,14.87,Junior,57,"Power BI, AWS, Go, Python",Low,Low,40.9,Declining
+2022-04-25,Finance,Software Engineer,Đồng Nai,85,4091.2,7.91,Fresher,25,"Agile, Excel",Low,Medium,90.0,Declining
+2022-04-25,Technology,Cloud Architect,Đà Nẵng,91,30416.54,4.5,Senior,31,"React, Machine Learning, SQL",High,Medium,31.7,Growing
+2022-04-25,Finance,UX Designer,TP.HCM,91,4091.2,16.2,Fresher,7,"SQL, Spark, Power BI",Low,High,55.4,Growing
+2022-04-26,Manufacturing,Frontend Developer,Bình Dương,80,17292.86,11.56,Junior,10,"Excel, Java, Agile",High,Low,85.0,Declining
+2022-04-27,Retail,Data Scientist,Đà Nẵng,80,4092.8,15.07,Fresher,50,"Python, Docker, AWS, Excel, Figma, Agile",High,Medium,33.6,Stable
+2022-04-27,Finance,Data Scientist,Đồng Nai,78,28558.09,9.12,Senior,58,"Docker, Communication, SQL, Go, Power BI, Spark",Low,Low,58.6,Stable
+2022-04-29,Technology,Cloud Architect,Hải Phòng,80,9308.13,2.65,Junior,19,"Communication, AWS, Go, Machine Learning",High,High,64.3,Stable
+2022-04-30,Retail,DevOps Engineer,Bình Dương,77,12047.99,14.47,Junior,74,"SQL, Excel, Agile, TensorFlow, Python",Medium,Low,46.3,Declining
+2022-05-06,Technology,Frontend Developer,Hà Nội,102,11107.23,8.39,Junior,21,"Figma, TensorFlow, Power BI, Python, AWS, Go",Medium,Low,31.4,Stable
+2022-05-06,Healthcare,Data Analyst,Cần Thơ,92,5842.46,2.43,Fresher,22,"SQL, Go, Kubernetes, Power BI, JavaScript",High,High,36.6,Stable
+2022-05-09,Retail,UX Designer,Hải Phòng,88,13694.68,11.99,Junior,68,"Excel, Docker",High,High,50.7,Growing
+2022-05-10,Finance,Business Analyst,Bình Dương,78,4333.95,10.05,Fresher,74,"Go, TensorFlow, Communication, TypeScript, Java, Power BI",Medium,Low,71.8,Declining
+2022-05-10,Education,QA Engineer,Hà Nội,94,4103.2,9.02,Fresher,72,"Agile, Java, Kubernetes",Low,High,25.9,Declining
+2022-05-10,Technology,DevOps Engineer,Đồng Nai,88,7063.01,14.41,Fresher,82,"Kubernetes, TensorFlow, JavaScript, Communication",Low,High,54.0,Stable
+2022-05-10,Retail,Product Manager,TP.HCM,85,32012.29,9.82,Senior,18,"TypeScript, TensorFlow, Power BI, SQL",High,High,70.0,Stable
+2022-05-12,Logistics,ML Engineer,Bình Dương,78,18530.76,4.9,Junior,75,"React, Figma, JavaScript",Low,High,63.7,Growing
+2022-05-13,Manufacturing,Cloud Architect,Hà Nội,84,21825.27,9.4,Junior,39,"TensorFlow, Go, React, Excel, Kubernetes, Figma",High,High,42.6,Growing
+2022-05-14,Manufacturing,UX Designer,Đồng Nai,89,6986.61,3.21,Fresher,22,"Python, React",Low,Medium,29.7,Growing
+2022-05-15,Manufacturing,Backend Developer,TP.HCM,99,31024.49,4.43,Senior,20,"Docker, Agile, JavaScript",Medium,Medium,43.4,Declining
+2022-05-16,Retail,QA Engineer,TP.HCM,87,31930.34,3.69,Senior,64,"Go, Machine Learning, Kubernetes, Java, TypeScript, Communication",High,High,69.3,Declining
+2022-05-16,Logistics,ML Engineer,Đà Nẵng,97,7207.85,9.21,Fresher,67,"Java, Docker, Spark, Agile, Figma, TypeScript",Medium,High,29.7,Stable
+2022-05-18,Logistics,ML Engineer,Cần Thơ,93,18214.96,9.68,Junior,34,"Machine Learning, Go, Docker",High,Medium,67.1,Declining
+2022-05-18,Retail,ML Engineer,Hà Nội,89,7348.59,6.07,Fresher,73,"JavaScript, Docker, Java",Low,High,47.1,Stable
+2022-05-19,Education,Product Manager,Bình Dương,86,22990.69,3.22,Senior,72,"Go, SQL, Machine Learning",Low,Medium,40.6,Growing
+2022-05-22,Manufacturing,DevOps Engineer,Hải Phòng,99,29429.09,14.9,Senior,41,"Excel, TensorFlow, Go, SQL, TypeScript",High,Medium,69.4,Declining
+2022-05-24,Manufacturing,UX Designer,TP.HCM,92,5438.17,6.27,Fresher,93,"Go, Spark, TypeScript, React, SQL, Excel",High,Low,85.9,Stable
+2022-05-28,Retail,Frontend Developer,Bình Dương,90,4117.6,3.21,Fresher,55,"SQL, React, Figma",Medium,High,91.4,Declining
+2022-05-30,Technology,UX Designer,Hải Phòng,92,29840.08,6.82,Senior,74,"Figma, Communication, React, Machine Learning, Docker, Agile",Medium,High,73.1,Growing
+2022-05-31,Logistics,Backend Developer,Hà Nội,93,31568.94,13.1,Senior,28,"Kubernetes, Python, Figma, Excel, AWS",High,Medium,60.7,Growing
+2022-06-02,Technology,ML Engineer,Hà Nội,78,12744.89,9.33,Junior,92,"Java, TypeScript",Medium,Medium,56.2,Stable
+2022-06-04,Finance,Software Engineer,Cần Thơ,99,27933.84,13.88,Senior,13,"Figma, SQL, Machine Learning, Spark",High,Low,51.9,Stable
+2022-06-04,Technology,Backend Developer,Hà Nội,90,8333.37,5.71,Fresher,29,"Kubernetes, Python, Go, Excel, TensorFlow, Power BI",Medium,High,49.3,Declining
+2022-06-05,Healthcare,Business Analyst,Đà Nẵng,96,4969.99,3.89,Fresher,10,"Machine Learning, Figma, TypeScript",High,Medium,72.3,Stable
+2022-06-06,Education,Cloud Architect,Hải Phòng,90,14258.28,17.86,Junior,47,"Spark, Power BI, AWS, TensorFlow, Machine Learning",High,High,37.4,Growing
+2022-06-06,Logistics,QA Engineer,Hà Nội,88,28635.1,7.39,Senior,22,"Agile, Spark, Go, Figma, Power BI",Medium,Low,30.1,Stable
+2022-06-07,Technology,Data Scientist,Hà Nội,74,14384.33,9.27,Junior,54,"Communication, Power BI",Low,Low,83.3,Growing
+2022-06-08,Technology,UX Designer,Đồng Nai,90,13274.14,4.23,Fresher,100,"Excel, Spark",Low,High,79.6,Stable
+2022-06-13,Logistics,QA Engineer,Cần Thơ,82,27248.01,4.25,Senior,76,"TensorFlow, Spark",High,Medium,80.2,Declining
+2022-06-15,Logistics,Data Analyst,Đà Nẵng,69,17569.84,16.83,Junior,99,"TensorFlow, Spark",Medium,Low,27.9,Stable
+2022-06-16,Logistics,Product Manager,TP.HCM,92,4132.8,5.07,Fresher,98,"Figma, Communication",Medium,High,88.9,Stable
+2022-06-18,Healthcare,Data Scientist,Bình Dương,97,17813.16,6.15,Junior,28,"Excel, Communication, SQL, React",Low,High,48.5,Declining
+2022-06-23,Finance,Business Analyst,Đồng Nai,76,14555.43,2.28,Junior,56,"React, Agile, JavaScript, Excel, Figma, Machine Learning",Low,High,42.0,Stable
+2022-06-24,Retail,UX Designer,Hà Nội,74,9341.68,4.4,Fresher,60,"Communication, TensorFlow",Medium,Medium,44.4,Declining
+2022-06-24,Logistics,Business Analyst,Hà Nội,88,32508.61,3.34,Senior,13,"Power BI, TypeScript",Low,Low,21.4,Stable
+2022-06-27,Manufacturing,Data Analyst,TP.HCM,95,8361.42,17.85,Fresher,0,"Agile, Power BI, Communication, Python, Machine Learning",Medium,High,50.9,Stable
+2022-06-27,Healthcare,DevOps Engineer,Đồng Nai,86,4141.6,17.09,Fresher,7,"JavaScript, Agile, Spark",Medium,High,38.1,Growing
+2022-06-28,Manufacturing,Cloud Architect,Hà Nội,93,14818.97,10.0,Fresher,76,"Power BI, SQL, Communication",Medium,Medium,50.9,Growing
+2022-06-28,Retail,ML Engineer,Bình Dương,113,9743.52,6.99,Junior,78,"TypeScript, Docker, TensorFlow, React",High,High,58.0,Stable
+2022-07-01,Logistics,Frontend Developer,Hải Phòng,100,17627.48,16.7,Junior,70,"Kubernetes, Docker, Java, Spark",High,Low,38.9,Stable
+2022-07-01,Retail,Software Engineer,Bình Dương,93,4144.8,11.91,Fresher,73,"JavaScript, Docker, Go, Agile, TensorFlow",High,Low,68.8,Declining
+2022-07-02,Education,Data Analyst,Cần Thơ,93,12720.85,4.55,Junior,25,"TensorFlow, Docker, Power BI, JavaScript, SQL, Java",Medium,Low,32.0,Declining
+2022-07-02,Logistics,UX Designer,Hải Phòng,85,4145.6,9.54,Fresher,9,"TypeScript, Java, Figma, AWS, Spark, Go",Medium,Medium,93.4,Stable
+2022-07-03,Healthcare,ML Engineer,Hà Nội,93,4742.27,11.98,Fresher,51,"Agile, Communication",Medium,Medium,53.9,Growing
+2022-07-05,Logistics,Product Manager,Hải Phòng,97,13382.48,3.39,Fresher,84,"SQL, React, Python, JavaScript, Kubernetes",High,Low,60.3,Stable
+2022-07-07,Technology,Backend Developer,Cần Thơ,96,12863.93,17.31,Junior,58,"TensorFlow, Power BI, Figma, Go",Low,Low,25.2,Growing
+2022-07-07,Finance,Cloud Architect,TP.HCM,85,11519.86,4.62,Fresher,65,"Figma, React, TensorFlow, AWS, SQL",Medium,High,49.3,Declining
+2022-07-10,Technology,UX Designer,Đà Nẵng,83,10728.7,13.81,Fresher,16,"Python, TypeScript, SQL, Power BI, Spark",Medium,Low,82.6,Stable
+2022-07-11,Finance,UX Designer,Cần Thơ,89,11675.43,3.43,Fresher,19,"TypeScript, Communication",Medium,Medium,76.6,Declining
+2022-07-14,Finance,Frontend Developer,Bình Dương,95,9214.96,16.74,Fresher,67,"Go, React, Machine Learning, Figma",High,High,72.1,Growing
+2022-07-14,Manufacturing,Frontend Developer,TP.HCM,102,5345.5,14.92,Fresher,54,"Java, Agile, TypeScript",Low,Medium,87.2,Declining
+2022-07-14,Healthcare,ML Engineer,Bình Dương,74,17722.3,9.9,Junior,31,"Docker, Figma, Machine Learning, TensorFlow, Go, Communication",Medium,High,49.1,Stable
+2022-07-15,Manufacturing,ML Engineer,Bình Dương,86,9280.04,14.43,Junior,17,"Java, Figma",Medium,High,61.9,Stable
+2022-07-18,Technology,Product Manager,Bình Dương,85,10640.25,13.07,Fresher,60,"Docker, Spark, JavaScript, Python, Go",Medium,Medium,35.5,Growing
+2022-07-18,Finance,Frontend Developer,TP.HCM,87,25633.49,3.34,Senior,87,"Docker, Spark",High,High,86.2,Growing
+2022-07-20,Manufacturing,Business Analyst,Bình Dương,95,25500.57,14.38,Senior,67,"TypeScript, SQL, Java",Medium,Medium,78.0,Declining
+2022-07-23,Manufacturing,ML Engineer,Cần Thơ,94,4162.4,13.72,Fresher,64,"JavaScript, Spark",Low,High,36.1,Stable
+2022-07-24,Manufacturing,ML Engineer,TP.HCM,75,26785.74,10.76,Senior,87,"Python, Agile, AWS, TypeScript, TensorFlow, React",High,Low,81.3,Stable
+2022-07-24,Logistics,Frontend Developer,Đà Nẵng,80,4163.2,11.7,Fresher,39,"TypeScript, Python, AWS",Medium,Medium,20.7,Stable
+2022-07-24,Logistics,UX Designer,Đồng Nai,86,27361.62,2.39,Senior,66,"Kubernetes, Figma, Communication",Low,Low,82.4,Declining
+2022-07-27,Retail,Product Manager,Bình Dương,95,15909.85,5.45,Junior,38,"Java, SQL, Kubernetes",Medium,Low,69.4,Stable
+2022-07-29,Retail,Cloud Architect,Đà Nẵng,79,13883.79,17.77,Junior,30,"TensorFlow, React, Communication, TypeScript",Medium,Low,38.2,Growing
+2022-07-29,Education,DevOps Engineer,Hải Phòng,98,29339.72,14.18,Senior,41,"TensorFlow, Agile, Kubernetes, React",Medium,Medium,60.6,Declining
+2022-07-30,Healthcare,Backend Developer,Bình Dương,97,17356.64,10.56,Junior,70,"Java, Communication, Excel, Machine Learning, JavaScript, Python",Medium,High,36.1,Declining
+2022-07-30,Retail,Data Scientist,Cần Thơ,93,30150.21,15.18,Senior,46,"React, Figma",High,High,91.6,Stable
+2022-07-31,Healthcare,DevOps Engineer,Đồng Nai,103,10557.52,4.47,Junior,31,"Kubernetes, React, Machine Learning, JavaScript, Agile, Go",High,Medium,21.9,Declining
+2022-08-01,Retail,Frontend Developer,Đà Nẵng,84,10508.79,6.78,Junior,30,"Python, SQL",Low,High,90.6,Declining
+2022-08-02,Logistics,Cloud Architect,Hải Phòng,85,8114.74,11.94,Junior,55,"Go, TypeScript, Docker, Spark, Agile",Low,High,45.1,Declining
+2022-08-04,Manufacturing,Product Manager,Bình Dương,90,17311.14,17.21,Junior,52,"TypeScript, JavaScript",Low,High,65.0,Declining
+2022-08-12,Technology,DevOps Engineer,Bình Dương,99,28122.86,2.8,Senior,55,"Python, Docker, Java, Communication",Low,Medium,25.5,Growing
+2022-08-13,Technology,UX Designer,Hà Nội,94,24386.35,16.71,Senior,60,"Kubernetes, TypeScript, Docker, JavaScript, Machine Learning, Go",Low,Medium,57.3,Declining
+2022-08-14,Technology,Data Analyst,Bình Dương,86,34982.68,16.52,Senior,80,"TypeScript, SQL",Low,Medium,38.7,Growing
+2022-08-16,Logistics,Business Analyst,TP.HCM,96,8476.07,7.83,Junior,6,"Figma, Power BI, JavaScript, Java, Docker, AWS",High,Low,36.3,Stable
+2022-08-20,Finance,QA Engineer,Đồng Nai,88,36055.43,17.74,Senior,10,"SQL, TensorFlow",Medium,Medium,50.7,Declining
+2022-08-22,Technology,DevOps Engineer,Bình Dương,84,20015.83,13.58,Junior,52,"TensorFlow, TypeScript, SQL",Medium,High,60.2,Stable
+2022-08-23,Healthcare,Cloud Architect,Đà Nẵng,91,16036.82,11.42,Junior,56,"React, Excel, Docker",Low,Low,48.1,Declining
+2022-08-27,Manufacturing,DevOps Engineer,Hà Nội,87,9300.37,12.26,Fresher,67,"Python, Go, AWS, TensorFlow, SQL",Medium,High,81.7,Growing
+2022-08-30,Healthcare,Data Analyst,Hải Phòng,93,30552.28,11.69,Senior,12,"Kubernetes, Excel, TypeScript, Power BI, TensorFlow, Go",High,Low,28.8,Stable
+2022-09-01,Finance,QA Engineer,Cần Thơ,84,34784.82,6.64,Senior,27,"React, Power BI, TypeScript, TensorFlow, Excel, Agile",Medium,Low,32.1,Growing
+2022-09-01,Education,Business Analyst,Đà Nẵng,85,37694.47,2.54,Senior,96,"TypeScript, Spark, Communication, TensorFlow, Agile",Medium,Low,62.7,Stable
+2022-09-01,Manufacturing,Cloud Architect,Đà Nẵng,100,16459.42,15.71,Junior,88,"TensorFlow, Spark",Medium,High,88.0,Stable
+2022-09-02,Education,Backend Developer,Hà Nội,97,26241.06,15.74,Senior,69,"Power BI, Agile, Python, Spark",Medium,Low,76.1,Stable
+2022-09-02,Manufacturing,Data Analyst,Bình Dương,95,17579.67,4.72,Junior,61,"AWS, TypeScript, Go, Docker, React, Java",High,Medium,34.6,Stable
+2022-09-04,Manufacturing,Backend Developer,TP.HCM,90,17353.96,16.95,Junior,85,"Excel, Kubernetes",Low,High,89.4,Declining
+2022-09-04,Technology,ML Engineer,Đồng Nai,84,7797.72,7.96,Junior,1,"AWS, React, Kubernetes, Excel, Machine Learning",High,Low,25.2,Growing
+2022-09-04,Retail,QA Engineer,Bình Dương,73,14226.89,14.85,Junior,13,"Go, React, JavaScript, Docker, Java, Agile",High,Low,20.3,Declining
+2022-09-06,Manufacturing,ML Engineer,TP.HCM,95,29375.57,10.95,Senior,87,"Docker, React, Java, Excel, Agile",Medium,Low,20.7,Growing
+2022-09-06,Technology,Cloud Architect,Đồng Nai,93,27644.04,12.56,Senior,38,"Machine Learning, JavaScript, Kubernetes, Java, AWS, Go",Medium,Low,41.0,Declining
+2022-09-11,Retail,Software Engineer,TP.HCM,76,17312.9,8.51,Junior,58,"Excel, AWS",Medium,Medium,25.0,Declining
+2022-09-11,Retail,Frontend Developer,Cần Thơ,94,7672.6,4.24,Fresher,67,"Docker, Kubernetes, Excel, Agile, React, AWS",Medium,Medium,79.6,Declining
+2022-09-14,Retail,Frontend Developer,Cần Thơ,97,27056.0,6.9,Senior,72,"TypeScript, Go, Agile, Excel, Spark",High,Low,79.2,Stable
+2022-09-15,Finance,Business Analyst,Đồng Nai,83,17878.61,8.71,Junior,97,"JavaScript, Machine Learning, Spark, Agile, Java",Low,Low,21.4,Growing
+2022-09-16,Retail,QA Engineer,Hải Phòng,88,15788.95,8.28,Junior,19,"SQL, React, Kubernetes, Excel",High,High,81.2,Declining
+2022-09-16,Logistics,Data Scientist,Đà Nẵng,112,32051.98,8.92,Senior,50,"Kubernetes, TensorFlow",Medium,High,90.8,Growing
+2022-09-16,Education,Cloud Architect,TP.HCM,96,25675.18,3.89,Senior,26,"Communication, Figma",High,Low,50.7,Declining
+2022-09-19,Retail,Software Engineer,Đồng Nai,98,12794.6,6.95,Junior,59,"Spark, Docker, SQL, TypeScript",Medium,High,81.0,Stable
+2022-09-20,Logistics,Data Analyst,Bình Dương,98,13491.98,10.15,Junior,0,"TensorFlow, Agile",High,Medium,94.8,Growing
+2022-09-22,Technology,Backend Developer,Bình Dương,92,13911.27,15.16,Fresher,100,"TypeScript, Go, Figma",Medium,High,84.3,Declining
+2022-09-25,Healthcare,Backend Developer,Hải Phòng,89,4213.6,12.44,Fresher,13,"SQL, Excel, Communication, Docker, JavaScript, TensorFlow",High,Medium,83.4,Declining
+2022-09-25,Logistics,Cloud Architect,TP.HCM,97,4213.6,13.42,Fresher,62,"Excel, JavaScript, Go",Low,Low,26.9,Declining
+2022-09-27,Healthcare,UX Designer,Hải Phòng,101,21066.49,13.01,Junior,7,"Machine Learning, SQL, Kubernetes",High,Medium,52.8,Declining
+2022-09-30,Manufacturing,Software Engineer,Bình Dương,91,27765.75,8.04,Senior,9,"SQL, AWS, Machine Learning, JavaScript",High,Low,92.3,Declining
+2022-10-03,Retail,Backend Developer,Hải Phòng,95,12393.81,14.99,Junior,82,"AWS, Agile",Low,Medium,69.2,Declining
+2022-10-04,Manufacturing,Business Analyst,Bình Dương,103,36393.13,11.15,Senior,17,"Machine Learning, Excel, Spark, React, JavaScript",Low,Medium,64.1,Growing
+2022-10-06,Manufacturing,ML Engineer,Cần Thơ,88,19601.62,8.23,Junior,56,"JavaScript, Figma",High,Medium,20.8,Declining
+2022-10-06,Education,QA Engineer,Cần Thơ,97,4222.4,7.7,Fresher,62,"Agile, Figma, Java, Machine Learning, TensorFlow, Power BI",Low,Medium,94.0,Stable
+2022-10-09,Retail,Software Engineer,Hà Nội,86,10696.31,5.28,Junior,85,"Kubernetes, Excel, Docker, Python, SQL",High,High,34.3,Stable
+2022-10-09,Technology,ML Engineer,Hải Phòng,102,18646.75,15.61,Junior,94,"Figma, Power BI, JavaScript",Medium,High,85.0,Declining
+2022-10-09,Logistics,UX Designer,Hà Nội,100,13172.21,11.43,Junior,94,"Docker, React",High,Medium,66.0,Stable
+2022-10-09,Manufacturing,UX Designer,Hà Nội,79,25798.41,12.47,Senior,64,"Docker, Machine Learning, Excel, Java, SQL",Low,Low,40.5,Declining
+2022-10-11,Retail,Business Analyst,Đồng Nai,91,15212.2,9.33,Junior,67,"Communication, Machine Learning, AWS, React, Excel, Docker",Low,Medium,60.9,Growing
+2022-10-11,Retail,Data Scientist,Đồng Nai,96,16960.83,6.76,Junior,35,"Communication, AWS, React, Java",Low,Low,62.4,Declining
+2022-10-12,Healthcare,Business Analyst,Cần Thơ,97,15153.97,6.69,Junior,81,"SQL, Power BI, Kubernetes, AWS, Docker",Medium,High,44.6,Growing
+2022-10-17,Retail,UX Designer,Đồng Nai,92,4231.2,3.78,Fresher,75,"Power BI, React, Agile, Java, TypeScript, Docker",Medium,High,56.9,Declining
+2022-10-18,Retail,QA Engineer,Hải Phòng,97,4232.0,3.63,Fresher,62,"Communication, JavaScript, TypeScript, AWS, Spark, Python",Low,Low,31.5,Stable
+2022-10-18,Healthcare,Cloud Architect,Hải Phòng,87,12922.96,13.96,Fresher,34,"Agile, Python",Low,Medium,55.5,Declining
+2022-10-19,Healthcare,Frontend Developer,Đồng Nai,97,20010.33,3.44,Junior,69,"Excel, Python, Communication, Agile",High,Low,82.6,Growing
+2022-10-19,Manufacturing,QA Engineer,Bình Dương,96,33043.12,7.31,Senior,89,"Spark, Docker, Agile, Kubernetes, Communication, Excel",Low,Low,84.1,Stable
+2022-10-21,Retail,Cloud Architect,Hải Phòng,87,32452.71,2.96,Senior,98,"Figma, TensorFlow, SQL, Go, Java",High,High,90.1,Growing
+2022-10-28,Healthcare,Business Analyst,Hải Phòng,86,15561.17,15.11,Junior,60,"Python, Machine Learning, Kubernetes, TypeScript, Excel, Go",High,High,60.6,Growing
+2022-10-29,Technology,Data Scientist,Đà Nẵng,94,11839.53,7.88,Fresher,13,"Go, Docker",Medium,Low,51.1,Declining
+2022-10-29,Education,Data Analyst,Cần Thơ,117,26773.08,7.23,Senior,6,"SQL, Power BI, AWS, Java, JavaScript, Go",Medium,High,31.2,Stable
+2022-11-01,Logistics,Business Analyst,Cần Thơ,101,18191.23,6.51,Junior,39,"JavaScript, Machine Learning, AWS, Go, Excel, React",High,Low,33.3,Growing
+2022-11-03,Manufacturing,Cloud Architect,Bình Dương,97,27494.33,3.26,Senior,40,"Spark, Python, AWS, Communication, Go, Docker",Medium,Low,60.8,Growing
+2022-11-04,Technology,Cloud Architect,Hà Nội,93,8263.62,9.79,Fresher,2,"Machine Learning, Docker, TypeScript, Java",Low,High,85.5,Growing
+2022-11-04,Logistics,Cloud Architect,TP.HCM,85,9314.27,15.95,Fresher,59,"Spark, Figma",Medium,High,22.2,Declining
+2022-11-04,Healthcare,DevOps Engineer,Đồng Nai,93,11902.11,5.34,Fresher,40,"Java, Excel",High,High,47.7,Declining
+2022-11-06,Manufacturing,Cloud Architect,Hải Phòng,92,14736.3,5.49,Junior,1,"Kubernetes, TypeScript, JavaScript, Go",Low,Medium,91.2,Stable
+2022-11-08,Education,Cloud Architect,Đà Nẵng,102,28404.09,6.45,Senior,11,"Python, Excel, TensorFlow, Figma, SQL, React",Low,Medium,40.7,Declining
+2022-11-08,Manufacturing,Product Manager,Đồng Nai,100,20519.04,17.03,Junior,39,"Java, TypeScript, Power BI",Medium,Medium,67.7,Growing
+2022-11-10,Finance,DevOps Engineer,Hà Nội,78,9536.29,2.42,Junior,92,"Go, Machine Learning, Docker",Low,Low,63.9,Declining
+2022-11-10,Retail,Business Analyst,Đà Nẵng,95,12798.44,12.54,Fresher,60,"Excel, Kubernetes, Figma, Spark, Java, Docker",Medium,High,32.2,Stable
+2022-11-15,Finance,Frontend Developer,Đồng Nai,98,12073.15,12.3,Junior,89,"TypeScript, React",Medium,High,59.8,Stable
+2022-11-16,Logistics,Frontend Developer,Đà Nẵng,102,16803.57,14.05,Junior,59,"Go, SQL",Low,Low,77.7,Stable
+2022-11-18,Education,Data Analyst,Hải Phòng,108,15769.58,10.53,Junior,45,"Agile, Communication, Spark",Medium,Low,44.3,Growing
+2022-11-18,Finance,DevOps Engineer,Hải Phòng,102,17918.82,7.99,Junior,34,"AWS, Power BI, Spark",Low,High,32.5,Growing
+2022-11-18,Technology,Cloud Architect,Đồng Nai,70,29718.01,16.5,Senior,86,"TypeScript, Go, Machine Learning, AWS, Excel, Kubernetes",Low,Medium,30.4,Stable
+2022-11-18,Education,Product Manager,Cần Thơ,111,18521.27,17.2,Junior,88,"Figma, Excel, Power BI",High,High,53.5,Growing
+2022-11-22,Education,UX Designer,TP.HCM,79,14151.15,3.08,Junior,9,"React, Machine Learning, Spark",Low,Low,80.0,Stable
+2022-11-23,Healthcare,Frontend Developer,Hà Nội,90,8186.55,12.42,Fresher,34,"TypeScript, React, Machine Learning, Python, Excel",Medium,High,82.2,Stable
+2022-11-23,Finance,Cloud Architect,Bình Dương,102,15135.11,7.43,Junior,81,"TypeScript, Go, TensorFlow, React, Figma",Medium,Medium,81.1,Growing
+2022-11-24,Manufacturing,Data Analyst,TP.HCM,92,10653.58,14.95,Junior,19,"TensorFlow, React, AWS",Low,Medium,80.8,Stable
+2022-11-25,Healthcare,Data Scientist,Đà Nẵng,113,15168.25,8.7,Junior,6,"TypeScript, TensorFlow, Excel, Figma, Machine Learning, JavaScript",Medium,Medium,39.5,Declining
+2022-11-26,Education,Frontend Developer,Cần Thơ,87,32928.04,6.49,Senior,86,"Excel, Power BI, Docker",High,Low,21.8,Stable
+2022-11-27,Healthcare,QA Engineer,Bình Dương,97,11967.48,3.23,Junior,5,"Excel, Machine Learning, Java, TypeScript, Go, React",Low,Medium,57.5,Growing
+2022-11-28,Technology,Product Manager,Đà Nẵng,87,31221.63,16.35,Senior,6,"Figma, Excel, Machine Learning",High,Low,55.5,Stable
+2022-11-29,Logistics,Software Engineer,TP.HCM,89,28770.48,6.99,Senior,4,"TensorFlow, Java, SQL, Machine Learning",High,High,59.0,Stable
+2022-12-03,Manufacturing,QA Engineer,Đà Nẵng,103,14602.64,2.29,Junior,88,"React, Kubernetes, Go, AWS, SQL, Python",Medium,Low,92.2,Growing
+2022-12-04,Education,Cloud Architect,Cần Thơ,101,9695.25,14.67,Fresher,36,"Spark, JavaScript, Agile, Excel, Docker",Medium,Medium,79.2,Growing
+2022-12-05,Logistics,Data Scientist,Cần Thơ,86,27927.22,6.64,Senior,62,"SQL, Power BI",Low,Medium,85.4,Stable
+2022-12-06,Finance,Data Analyst,Đồng Nai,96,28979.98,16.64,Senior,47,"TensorFlow, Agile, Spark, Docker, SQL",Medium,High,47.2,Stable
+2022-12-07,Retail,Product Manager,Đà Nẵng,110,21407.39,8.26,Junior,81,"Python, Agile",Medium,Low,50.9,Growing
+2022-12-07,Logistics,Backend Developer,Đồng Nai,110,25280.28,12.27,Senior,85,"Java, Docker, Machine Learning",Medium,Low,26.3,Stable
+2022-12-10,Technology,Data Analyst,Đà Nẵng,97,6668.53,5.93,Fresher,18,"Docker, Kubernetes, Spark, TypeScript, Machine Learning",High,Low,24.3,Growing
+2022-12-10,Logistics,Backend Developer,Đà Nẵng,99,4274.4,17.41,Fresher,67,"Java, SQL",Medium,Medium,56.3,Declining
+2022-12-11,Retail,QA Engineer,Đồng Nai,96,13147.55,6.58,Junior,51,"Agile, React, Python",Medium,High,64.3,Declining
+2022-12-16,Technology,Backend Developer,Đồng Nai,118,27508.14,10.87,Senior,62,"Figma, Kubernetes",High,Medium,65.9,Declining
+2022-12-18,Education,DevOps Engineer,Hải Phòng,93,8732.78,17.8,Junior,61,"Power BI, Machine Learning, Agile, Kubernetes",High,Medium,23.0,Stable
+2022-12-22,Manufacturing,ML Engineer,Đồng Nai,88,17055.87,13.34,Junior,92,"Docker, Kubernetes, React, Excel",Medium,High,28.0,Growing
+2022-12-26,Healthcare,Cloud Architect,Đà Nẵng,105,16144.91,12.08,Junior,32,"JavaScript, Python, SQL",Low,High,38.6,Declining
+2022-12-26,Retail,DevOps Engineer,Bình Dương,92,14355.96,8.34,Junior,95,"Figma, Agile, AWS",Low,Low,72.2,Growing
+2022-12-29,Logistics,ML Engineer,Đồng Nai,84,4289.6,16.41,Fresher,52,"React, TypeScript, Docker, TensorFlow, Agile, SQL",Medium,Low,67.5,Growing
+2022-12-30,Logistics,QA Engineer,Đồng Nai,109,11202.9,3.08,Junior,37,"Excel, Kubernetes, Machine Learning, Python, SQL, TypeScript",Low,High,73.1,Declining
+2023-01-01,Healthcare,QA Engineer,Bình Dương,92,13011.57,6.68,Junior,30,"Communication, SQL",Low,Medium,88.3,Stable
+2023-01-03,Finance,DevOps Engineer,Đà Nẵng,97,34174.53,15.68,Senior,16,"JavaScript, Java",Low,Low,86.2,Stable
+2023-01-03,Education,ML Engineer,Đồng Nai,99,27102.32,8.35,Senior,62,"Excel, Go, TensorFlow, React",Low,Low,53.5,Stable
+2023-01-06,Manufacturing,UX Designer,TP.HCM,95,17089.48,2.5,Junior,70,"TypeScript, Java, Power BI, Communication",Medium,Medium,49.1,Growing
+2023-01-06,Manufacturing,Cloud Architect,Đồng Nai,91,13682.63,3.67,Fresher,15,"Figma, Go, Machine Learning",Medium,High,48.8,Stable
+2023-01-08,Manufacturing,Software Engineer,Bình Dương,111,18615.14,3.26,Junior,30,"Docker, Excel, React, TypeScript, SQL, Figma",High,High,38.0,Declining
+2023-01-10,Education,UX Designer,TP.HCM,108,26850.78,11.18,Junior,38,"Python, Excel",Low,Medium,91.7,Stable
+2023-01-10,Finance,DevOps Engineer,Cần Thơ,89,12715.23,17.54,Fresher,14,"Power BI, Excel, Go, Communication",Medium,High,33.6,Stable
+2023-01-12,Logistics,QA Engineer,Bình Dương,111,31848.66,12.12,Senior,8,"Agile, SQL, Excel",Medium,Low,31.7,Stable
+2023-01-13,Education,Data Analyst,Đồng Nai,107,5253.6,7.32,Junior,54,"SQL, Communication, Power BI, Spark, JavaScript, Kubernetes",Medium,Medium,72.0,Declining
+2023-01-13,Logistics,Frontend Developer,Hải Phòng,86,7654.43,16.19,Junior,50,"Python, TypeScript",Medium,Medium,68.4,Declining
+2023-01-16,Education,Data Analyst,Hải Phòng,100,13017.46,8.41,Junior,17,"Kubernetes, TensorFlow, Go, Power BI, React, Machine Learning",Low,Low,62.0,Declining
+2023-01-17,Education,Cloud Architect,Hà Nội,87,39850.59,13.59,Senior,74,"Excel, React",High,Medium,63.4,Growing
+2023-01-17,Retail,QA Engineer,Bình Dương,106,14647.84,12.64,Junior,10,"Java, SQL, Python, JavaScript, Machine Learning, Go",Medium,Low,79.7,Growing
+2023-01-18,Healthcare,Backend Developer,Hải Phòng,98,29569.29,12.03,Senior,55,"TypeScript, Docker, TensorFlow, Figma, AWS",Low,Medium,89.5,Growing
+2023-01-25,Retail,QA Engineer,TP.HCM,93,14338.29,6.97,Fresher,94,"Go, Kubernetes, Machine Learning, JavaScript, Python",Medium,Medium,54.1,Stable
+2023-01-25,Manufacturing,Cloud Architect,TP.HCM,84,5707.02,8.57,Fresher,64,"Kubernetes, SQL, TensorFlow, Figma, Spark, Python",Medium,Low,93.7,Stable
+2023-01-28,Retail,Frontend Developer,Hải Phòng,89,11430.34,12.56,Junior,77,"JavaScript, Docker, Java, AWS, SQL",High,High,77.3,Declining
+2023-01-28,Finance,Frontend Developer,Hải Phòng,108,10207.89,4.25,Fresher,5,"Kubernetes, Docker, SQL, Java",High,Low,70.3,Growing
+2023-01-29,Logistics,Data Scientist,Đồng Nai,96,26711.73,5.29,Senior,53,"Communication, React, Excel",Low,Low,56.2,Declining
+2023-01-29,Retail,Frontend Developer,Hà Nội,94,9369.29,17.25,Fresher,72,"Kubernetes, Go, Communication, AWS, Python, Excel",High,Low,44.5,Stable
+2023-01-31,Technology,Product Manager,Đồng Nai,106,5351.01,15.47,Fresher,73,"TypeScript, Spark, AWS",Medium,High,74.6,Stable
+2023-02-02,Healthcare,UX Designer,TP.HCM,95,6924.44,4.57,Fresher,42,"Agile, Kubernetes",Low,High,81.3,Declining
+2023-02-03,Retail,Data Analyst,Hải Phòng,104,4318.4,12.98,Fresher,0,"SQL, JavaScript, Spark, Docker, Java, Excel",Medium,High,25.2,Stable
+2023-02-04,Technology,QA Engineer,Bình Dương,100,29365.92,5.1,Senior,45,"SQL, Agile, AWS, Spark, Python",Low,Low,84.4,Declining
+2023-02-05,Logistics,ML Engineer,Đà Nẵng,105,33533.5,6.88,Senior,81,"Communication, Kubernetes, Python",High,High,35.9,Growing
+2023-02-05,Manufacturing,Software Engineer,Hải Phòng,100,18779.74,7.71,Junior,90,"Power BI, Figma, TensorFlow, Excel, Kubernetes",Low,High,46.5,Growing
+2023-02-08,Retail,Data Scientist,Bình Dương,106,29385.4,8.76,Senior,48,"TensorFlow, Figma, AWS, Go, SQL",Medium,Low,46.0,Growing
+2023-02-10,Logistics,UX Designer,Bình Dương,95,5059.96,10.12,Fresher,43,"Go, Docker, SQL",High,High,38.2,Growing
+2023-02-10,Manufacturing,Data Analyst,Đà Nẵng,97,30307.17,7.88,Senior,38,"React, Docker, Figma, TensorFlow",High,Medium,25.1,Declining
+2023-02-11,Manufacturing,Data Analyst,Hà Nội,100,28273.21,13.72,Senior,65,"Spark, Communication, Excel, Go",Low,Medium,60.7,Growing
+2023-02-12,Finance,DevOps Engineer,Hà Nội,100,4325.6,8.34,Fresher,58,"AWS, Python",Low,Medium,66.7,Growing
+2023-02-13,Finance,Data Analyst,Cần Thơ,100,29419.41,10.5,Senior,64,"React, Spark, Power BI, Java, Machine Learning",Medium,Medium,64.6,Declining
+2023-02-15,Technology,Business Analyst,Hải Phòng,85,9534.37,5.93,Fresher,24,"Spark, Communication, SQL, AWS",High,Medium,49.2,Declining
+2023-02-15,Manufacturing,ML Engineer,Đồng Nai,93,27686.05,15.95,Senior,88,"Spark, JavaScript, Kubernetes, Power BI, TensorFlow",High,High,36.4,Declining
+2023-02-15,Retail,Data Analyst,TP.HCM,96,13077.97,6.74,Fresher,17,"Go, TypeScript, Python, React, AWS",Low,Medium,37.5,Stable
+2023-02-16,Technology,Backend Developer,Đà Nẵng,103,34074.33,5.29,Senior,88,"JavaScript, Power BI, Java",Medium,Low,29.1,Stable
+2023-02-20,Retail,ML Engineer,Bình Dương,108,8468.79,8.68,Fresher,98,"Machine Learning, Communication, Kubernetes, Excel",Low,Low,85.9,Growing
+2023-02-21,Education,ML Engineer,Đồng Nai,97,30103.93,12.16,Senior,30,"Power BI, Agile, Python, JavaScript, React",Low,Medium,23.4,Declining
+2023-02-23,Finance,DevOps Engineer,Hà Nội,94,30421.63,8.75,Senior,90,"Excel, Machine Learning",High,Low,50.8,Stable
+2023-02-23,Healthcare,Product Manager,Đồng Nai,92,13005.79,11.49,Junior,82,"Kubernetes, TensorFlow, Agile, Figma, AWS",Medium,Low,63.5,Declining
+2023-02-24,Technology,UX Designer,Hải Phòng,101,30580.37,9.33,Senior,25,"Machine Learning, TensorFlow, AWS",Medium,Low,56.4,Declining
+2023-02-27,Healthcare,QA Engineer,TP.HCM,106,13532.59,6.38,Fresher,8,"Python, AWS, Agile",Medium,Low,94.8,Declining
+2023-03-01,Education,Frontend Developer,Hà Nội,90,31689.95,6.93,Senior,81,"TensorFlow, Excel",High,Medium,72.9,Declining
+2023-03-02,Retail,Data Analyst,Đà Nẵng,92,16002.59,7.93,Junior,54,"Java, Kubernetes, React, Go",Medium,Low,56.3,Growing
+2023-03-03,Logistics,Data Analyst,Đồng Nai,108,11121.67,12.32,Junior,98,"Python, TensorFlow, JavaScript",Medium,High,49.6,Growing
+2023-03-03,Retail,ML Engineer,TP.HCM,93,14364.62,16.53,Junior,60,"Figma, Agile, Python, React",Low,Low,58.0,Growing
+2023-03-05,Healthcare,Data Scientist,TP.HCM,100,12821.08,8.21,Junior,37,"Docker, Spark, TypeScript, JavaScript, AWS, Java",Medium,Low,80.3,Declining
+2023-03-06,Healthcare,Frontend Developer,Hải Phòng,92,28618.26,6.87,Senior,35,"Docker, Figma",Medium,Medium,59.4,Growing
+2023-03-11,Healthcare,Backend Developer,Bình Dương,91,15239.63,14.1,Junior,96,"Kubernetes, TensorFlow, Java, TypeScript",Low,High,54.4,Growing
+2023-03-11,Retail,UX Designer,Cần Thơ,115,27013.01,17.2,Senior,38,"TensorFlow, Power BI, Machine Learning",Low,Medium,74.4,Declining
+2023-03-13,Education,Product Manager,Bình Dương,106,4348.8,10.74,Fresher,76,"Agile, Kubernetes, Communication, Docker, Figma, Machine Learning",High,High,92.5,Declining
+2023-03-16,Logistics,DevOps Engineer,Cần Thơ,113,4351.2,13.08,Fresher,34,"Communication, Go, React, Spark",Medium,Medium,82.9,Declining
+2023-03-22,Healthcare,Frontend Developer,Hà Nội,110,19175.65,7.74,Junior,92,"Excel, Docker, Machine Learning, Figma",High,Medium,28.7,Declining
+2023-03-22,Finance,Backend Developer,Đà Nẵng,97,4356.0,3.41,Fresher,61,"Kubernetes, Java",Low,High,46.3,Declining
+2023-03-22,Healthcare,Cloud Architect,Hải Phòng,98,4356.0,2.23,Fresher,83,"Spark, Power BI, Agile, AWS",High,High,28.7,Stable
+2023-03-23,Healthcare,DevOps Engineer,Hải Phòng,112,11424.63,15.49,Fresher,58,"TensorFlow, Kubernetes, React",Medium,High,56.4,Growing
+2023-03-27,Finance,Backend Developer,Đồng Nai,92,14187.6,12.18,Junior,83,"React, Communication, Go, Excel, Kubernetes, Machine Learning",Medium,Medium,73.0,Growing
+2023-03-28,Finance,Product Manager,Hà Nội,85,16334.98,15.52,Junior,32,"Machine Learning, SQL, TensorFlow, TypeScript, JavaScript",High,High,21.7,Declining
+2023-04-03,Manufacturing,Cloud Architect,Đà Nẵng,120,33136.94,11.72,Senior,9,"Machine Learning, JavaScript, AWS, Communication, Java, SQL",Low,Medium,58.5,Declining
+2023-04-03,Technology,Backend Developer,Hải Phòng,100,28755.86,9.82,Senior,36,"React, Docker, Go, AWS, Power BI",High,High,50.1,Stable
+2023-04-05,Manufacturing,Product Manager,TP.HCM,105,14994.97,4.15,Junior,83,"Spark, AWS, React",Medium,High,91.8,Declining
+2023-04-06,Manufacturing,Backend Developer,Cần Thơ,109,13287.34,13.45,Fresher,0,"AWS, Java, SQL",High,Low,88.2,Declining
+2023-04-06,Finance,Data Scientist,Đồng Nai,94,15581.33,6.32,Fresher,11,"Machine Learning, TypeScript, AWS, TensorFlow, Kubernetes",High,High,24.3,Stable
+2023-04-09,Education,Backend Developer,Hà Nội,82,17651.17,17.31,Junior,92,"Communication, Python",High,Low,57.5,Stable
+2023-04-10,Finance,Product Manager,Đà Nẵng,105,18671.3,8.91,Junior,39,"SQL, JavaScript, React, Spark",High,Low,29.6,Declining
+2023-04-11,Finance,QA Engineer,Bình Dương,90,4372.0,10.32,Fresher,86,"TensorFlow, Kubernetes, Machine Learning, Go",Low,Medium,77.9,Growing
+2023-04-11,Education,Data Scientist,Hải Phòng,130,17646.17,12.76,Junior,0,"Agile, Kubernetes",Low,High,53.3,Stable
+2023-04-12,Finance,DevOps Engineer,Bình Dương,84,15233.97,3.88,Junior,30,"TensorFlow, TypeScript, Figma, Python, Docker, Kubernetes",Medium,High,68.7,Stable
+2023-04-13,Manufacturing,Software Engineer,Hải Phòng,115,13275.53,17.92,Junior,59,"Python, TensorFlow, Java, Figma",Low,High,33.0,Growing
+2023-04-13,Technology,Data Scientist,TP.HCM,109,26070.38,5.47,Senior,37,"Communication, TypeScript, Agile, Docker, Spark, Excel",Low,High,27.2,Declining
+2023-04-13,Retail,Cloud Architect,Bình Dương,105,22442.19,17.69,Senior,72,"Excel, Communication, Kubernetes, TypeScript, Java",Low,Low,50.6,Stable
+2023-04-14,Technology,Data Analyst,Đồng Nai,109,31039.52,11.22,Senior,63,"Spark, Python, TypeScript, Kubernetes, SQL, React",Medium,Low,65.5,Declining
+2023-04-16,Manufacturing,Data Analyst,Cần Thơ,102,27155.18,5.19,Senior,10,"Communication, Kubernetes, AWS, Excel, JavaScript, Python",High,Low,58.6,Stable
+2023-04-18,Healthcare,Backend Developer,Đà Nẵng,109,18701.29,8.86,Junior,78,"Excel, React",Medium,High,22.2,Stable
+2023-04-21,Retail,QA Engineer,Hà Nội,103,33156.96,14.87,Senior,80,"TensorFlow, Go",High,Low,78.0,Stable
+2023-04-23,Technology,Cloud Architect,Cần Thơ,106,14970.25,3.64,Junior,97,"AWS, Kubernetes, Go, Spark",Low,High,90.3,Growing
+2023-04-25,Technology,Product Manager,Đồng Nai,124,7850.78,5.66,Fresher,28,"Spark, Kubernetes, SQL, TensorFlow, AWS",Low,Medium,70.4,Declining
+2023-04-26,Education,QA Engineer,Đà Nẵng,99,4384.0,6.07,Fresher,35,"JavaScript, Kubernetes, SQL, React, TypeScript, Figma",Low,Low,71.1,Stable
+2023-04-30,Logistics,Software Engineer,TP.HCM,127,6543.31,8.17,Fresher,53,"React, Excel, Go, TensorFlow, TypeScript",Medium,Medium,45.5,Declining
+2023-05-02,Manufacturing,Data Analyst,Cần Thơ,102,9533.19,17.42,Fresher,53,"AWS, TensorFlow, Power BI, Spark, Machine Learning, SQL",High,High,84.0,Growing
+2023-05-03,Manufacturing,Product Manager,Hà Nội,92,36264.12,17.01,Senior,57,"Go, SQL",High,High,33.6,Growing
+2023-05-04,Education,Software Engineer,Hà Nội,108,13246.38,11.28,Junior,68,"Kubernetes, Python, Go",High,Low,62.1,Growing
+2023-05-06,Healthcare,Data Scientist,Đà Nẵng,107,8420.39,12.14,Fresher,1,"AWS, Machine Learning, Power BI",Low,High,60.5,Declining
+2023-05-06,Manufacturing,Backend Developer,Đồng Nai,108,29356.81,6.69,Senior,52,"SQL, React, Go, Power BI, JavaScript, TypeScript",Medium,High,87.2,Declining
+2023-05-12,Retail,Frontend Developer,Hải Phòng,104,4396.8,11.37,Fresher,37,"Power BI, AWS, Docker, Java, Spark, Figma",High,Medium,66.9,Stable
+2023-05-14,Technology,UX Designer,Bình Dương,104,7228.23,7.36,Junior,24,"Excel, SQL, Machine Learning, Spark",High,High,33.0,Growing
+2023-05-15,Healthcare,Data Scientist,Đồng Nai,104,4399.2,4.77,Fresher,33,"Java, Spark, Python, Excel",Low,Low,52.5,Growing
+2023-05-16,Finance,Software Engineer,Hà Nội,109,24829.95,13.06,Senior,81,"Java, JavaScript, Python, Docker, TensorFlow",Low,High,49.0,Stable
+2023-05-19,Logistics,Data Analyst,Cần Thơ,100,31414.61,7.76,Senior,81,"Kubernetes, Figma",Medium,High,40.3,Growing
+2023-05-20,Education,Data Scientist,Hải Phòng,100,17094.64,10.43,Junior,48,"Power BI, TypeScript",Low,Medium,52.0,Growing
+2023-05-26,Retail,UX Designer,Hải Phòng,111,8653.9,3.36,Fresher,90,"Figma, Power BI, Excel, Machine Learning",Medium,High,94.0,Growing
+2023-05-27,Healthcare,QA Engineer,Đà Nẵng,106,38867.33,3.31,Senior,30,"React, Figma, TensorFlow, JavaScript",Medium,High,24.5,Stable
+2023-05-27,Manufacturing,Backend Developer,Hải Phòng,102,6393.41,12.3,Fresher,15,"Java, Agile, AWS, Communication",Medium,High,50.7,Stable
+2023-05-29,Finance,Software Engineer,Bình Dương,98,8669.49,16.68,Fresher,32,"Python, Java, TypeScript, SQL, Docker",Medium,High,41.8,Growing
+2023-05-30,Manufacturing,ML Engineer,Đồng Nai,109,5836.36,3.07,Fresher,73,"React, Machine Learning, Agile, SQL, Power BI, Excel",Low,Low,58.9,Growing
+2023-05-30,Logistics,Business Analyst,Cần Thơ,107,6690.38,8.99,Fresher,91,"Docker, TensorFlow, Power BI, TypeScript",Low,Low,64.5,Growing
+2023-06-07,Healthcare,Data Scientist,Đà Nẵng,93,33128.79,6.62,Senior,93,"TypeScript, Machine Learning, React",Medium,Low,63.6,Growing
+2023-06-12,Technology,Data Analyst,TP.HCM,114,14567.88,9.59,Junior,92,"Go, Figma, AWS, Kubernetes, Spark",Medium,Low,62.1,Growing
+2023-06-14,Education,Data Analyst,TP.HCM,107,15342.54,2.41,Junior,28,"Go, Python",High,High,28.1,Growing
+2023-06-16,Education,Product Manager,Hải Phòng,108,25678.59,9.94,Junior,65,"Go, Spark, Docker",Medium,High,64.8,Declining
+2023-06-18,Technology,ML Engineer,TP.HCM,107,9405.08,13.51,Fresher,53,"Spark, TensorFlow, SQL, Docker, Machine Learning, Figma",High,Medium,86.8,Stable
+2023-06-18,Education,Backend Developer,TP.HCM,105,38569.68,5.64,Senior,23,"React, TypeScript",High,Medium,92.3,Declining
+2023-06-20,Retail,Data Analyst,Hà Nội,113,4428.0,2.0,Fresher,16,"JavaScript, AWS, Machine Learning",Medium,Low,58.3,Growing
+2023-06-22,Retail,Cloud Architect,Đồng Nai,106,36759.49,2.14,Senior,4,"Machine Learning, Agile, Excel, Figma, Python, Spark",High,High,46.8,Stable
+2023-06-22,Healthcare,Cloud Architect,TP.HCM,114,16274.7,4.43,Junior,78,"Machine Learning, Excel",Low,Medium,85.7,Declining
+2023-06-25,Technology,DevOps Engineer,TP.HCM,118,4432.0,17.49,Fresher,88,"Power BI, Java, JavaScript, Agile, Spark, Go",Medium,High,33.9,Declining
+2023-06-27,Finance,Data Scientist,Cần Thơ,116,4433.6,8.21,Fresher,50,"Python, Kubernetes, Excel",Medium,High,70.6,Stable
+2023-06-28,Manufacturing,Business Analyst,Đà Nẵng,124,25163.04,11.12,Senior,96,"Excel, Figma, Agile, Power BI, SQL",High,Medium,27.3,Stable
+2023-06-30,Finance,Frontend Developer,Bình Dương,113,11255.75,17.15,Junior,15,"React, Docker, Java, JavaScript",Low,High,57.2,Declining
+2023-07-01,Healthcare,UX Designer,Hà Nội,125,33628.12,17.38,Senior,6,"Communication, React, Power BI, JavaScript, Figma, Python",High,Medium,87.9,Stable
+2023-07-02,Technology,Cloud Architect,Cần Thơ,118,14765.35,15.55,Junior,96,"Communication, Python, Figma, TensorFlow, React",High,Low,87.0,Growing
+2023-07-06,Logistics,Backend Developer,TP.HCM,101,30986.23,12.07,Senior,67,"Spark, React, Communication, Docker, AWS",High,Medium,24.1,Growing
+2023-07-06,Retail,Cloud Architect,Hải Phòng,120,30513.36,8.01,Junior,77,"Power BI, TypeScript, Java",Medium,Medium,27.0,Growing
+2023-07-07,Manufacturing,Product Manager,Đà Nẵng,120,12045.43,7.88,Junior,64,"React, JavaScript, TensorFlow",Medium,High,24.4,Declining
+2023-07-08,Finance,Backend Developer,Đồng Nai,95,33595.13,16.73,Senior,94,"SQL, Excel, Kubernetes",Low,Low,66.2,Stable
+2023-07-10,Education,Backend Developer,Hà Nội,116,17556.76,13.23,Junior,26,"TensorFlow, Python, Spark, TypeScript, Excel",Medium,Medium,79.7,Stable
+2023-07-14,Education,Product Manager,Hải Phòng,114,28406.02,14.13,Senior,82,"Excel, JavaScript",Low,High,21.8,Growing
+2023-07-14,Manufacturing,UX Designer,Hải Phòng,104,6914.05,3.05,Fresher,61,"React, Python, TensorFlow, Communication, Go, Java",Low,Medium,37.1,Growing
+2023-07-15,Technology,QA Engineer,Hà Nội,110,19021.34,6.3,Junior,8,"Figma, Machine Learning",High,Low,47.6,Declining
+2023-07-15,Technology,Data Scientist,Hải Phòng,116,9891.37,8.66,Fresher,78,"Python, Figma, Docker, Communication, AWS",Low,Low,56.1,Growing
+2023-07-18,Retail,QA Engineer,Đà Nẵng,104,16094.2,2.73,Junior,32,"Power BI, Agile, Docker, Kubernetes, TensorFlow",Medium,Low,85.4,Growing
+2023-07-18,Finance,Data Scientist,Cần Thơ,128,19183.18,6.77,Junior,97,"Go, TypeScript, AWS, Power BI, TensorFlow",High,High,27.9,Stable
+2023-07-19,Technology,Product Manager,Bình Dương,113,19808.88,3.54,Junior,77,"Java, React",High,Low,38.1,Stable
+2023-07-20,Healthcare,Backend Developer,TP.HCM,117,34333.06,10.47,Senior,5,"Kubernetes, JavaScript, Spark, Machine Learning",High,Low,38.1,Declining
+2023-07-20,Finance,UX Designer,Hải Phòng,114,12941.96,3.14,Junior,58,"Excel, Figma",Low,Medium,20.9,Growing
+2023-07-21,Logistics,Software Engineer,Bình Dương,116,19703.56,2.09,Junior,92,"Spark, Java",High,Medium,81.2,Growing
+2023-07-21,Education,Backend Developer,TP.HCM,99,12949.44,3.03,Junior,87,"TensorFlow, SQL, Communication, Spark, Machine Learning, Kubernetes",Low,Low,63.6,Stable
+2023-07-21,Technology,Backend Developer,Đồng Nai,107,10433.73,12.55,Fresher,66,"Spark, Power BI, TypeScript, Excel, React",Low,Medium,87.1,Declining
+2023-07-25,Manufacturing,Software Engineer,Đồng Nai,111,9616.61,3.83,Fresher,11,"Communication, Excel, AWS, Go, Agile, TypeScript",Medium,Medium,31.3,Growing
+2023-07-27,Manufacturing,Frontend Developer,Đà Nẵng,95,21889.91,9.3,Junior,39,"Kubernetes, TensorFlow, React, Figma, Agile, Go",Low,High,47.7,Growing
+2023-07-28,Education,Frontend Developer,TP.HCM,122,19689.24,6.43,Junior,51,"Docker, Figma, TensorFlow",Low,High,64.4,Declining
+2023-07-29,Finance,Business Analyst,TP.HCM,108,36199.64,10.83,Senior,82,"Agile, Communication",High,Medium,62.1,Growing
+2023-08-01,Retail,Software Engineer,Bình Dương,107,37848.51,4.24,Senior,93,"SQL, AWS, Agile, Communication",Medium,Medium,40.8,Growing
+2023-08-04,Manufacturing,Business Analyst,Đồng Nai,105,4464.0,12.58,Fresher,12,"Machine Learning, Communication",High,Medium,33.9,Stable
+2023-08-05,Technology,Backend Developer,Bình Dương,100,29772.46,5.63,Senior,16,"Communication, Java, Go",Medium,High,46.6,Declining
+2023-08-08,Education,Business Analyst,TP.HCM,101,7239.96,9.56,Fresher,93,"Go, Power BI",Low,Medium,86.0,Declining
+2023-08-08,Retail,Backend Developer,Bình Dương,119,6535.93,5.95,Fresher,62,"Java, JavaScript, Kubernetes, Machine Learning, Communication, Power BI",Low,Low,75.6,Growing
+2023-08-08,Education,Frontend Developer,Đồng Nai,105,33142.64,3.77,Senior,36,"Excel, Spark, Figma, SQL, Power BI",Low,High,83.5,Growing
+2023-08-11,Retail,ML Engineer,Cần Thơ,114,8634.05,16.79,Fresher,50,"React, Communication, JavaScript, Spark",High,Low,92.8,Stable
+2023-08-12,Finance,Cloud Architect,Đà Nẵng,112,17570.59,16.92,Junior,2,"Java, Python, JavaScript, Agile, Communication",High,Medium,85.0,Stable
+2023-08-14,Logistics,Data Analyst,Hải Phòng,112,33927.59,4.19,Senior,82,"JavaScript, TensorFlow, SQL, Excel",Low,Medium,68.9,Stable
+2023-08-14,Manufacturing,QA Engineer,Bình Dương,110,7168.05,11.29,Fresher,68,"Communication, Kubernetes, Go",High,High,30.4,Stable
+2023-08-21,Finance,Cloud Architect,Đồng Nai,114,12916.63,5.94,Junior,88,"Power BI, Java",High,High,81.4,Declining
+2023-08-22,Education,Frontend Developer,Đồng Nai,109,34754.67,7.94,Senior,86,"AWS, Excel, Go",High,High,89.1,Growing
+2023-08-24,Healthcare,DevOps Engineer,Hà Nội,102,34031.48,3.23,Senior,85,"TypeScript, Spark, JavaScript, Power BI, AWS, Docker",High,Medium,72.2,Growing
+2023-08-27,Retail,Backend Developer,Đà Nẵng,107,7905.3,5.8,Fresher,54,"React, TypeScript, Java, Go",Low,Low,48.0,Declining
+2023-08-29,Technology,Cloud Architect,Bình Dương,118,15306.01,3.29,Junior,45,"React, AWS, Power BI, Java, Spark, SQL",Medium,Low,50.2,Growing
+2023-08-31,Finance,ML Engineer,Đồng Nai,97,20210.38,13.65,Junior,65,"Power BI, Communication, Spark, Figma, Python, Docker",Medium,High,57.2,Growing
+2023-09-01,Manufacturing,DevOps Engineer,Cần Thơ,112,11770.44,14.81,Junior,13,"Communication, Python, TensorFlow",Medium,High,35.0,Stable
+2023-09-03,Manufacturing,Data Analyst,TP.HCM,102,15381.64,3.73,Junior,48,"React, Machine Learning, Python, Excel, Java",High,High,45.4,Stable
+2023-09-04,Manufacturing,Data Scientist,Đồng Nai,118,4488.8,9.69,Fresher,49,"Communication, Figma",Medium,Low,27.9,Declining
+2023-09-04,Retail,UX Designer,Bình Dương,107,33668.47,5.02,Senior,100,"Java, JavaScript, Power BI, Communication, SQL, Agile",Low,High,70.4,Stable
+2023-09-04,Manufacturing,Product Manager,Đà Nẵng,105,15914.83,2.67,Junior,90,"Communication, Java, Machine Learning, SQL",Medium,Low,31.1,Stable
+2023-09-06,Retail,Data Analyst,Bình Dương,116,10693.29,9.08,Fresher,15,"React, TensorFlow",High,High,68.7,Declining
+2023-09-07,Education,Data Analyst,Hà Nội,128,14835.56,12.86,Junior,33,"Kubernetes, SQL, JavaScript",High,Medium,47.1,Stable
+2023-09-07,Retail,Business Analyst,Đà Nẵng,113,37891.19,8.08,Senior,99,"Communication, AWS",High,High,84.8,Declining
+2023-09-07,Manufacturing,Data Scientist,Hải Phòng,100,28899.89,14.11,Senior,49,"TypeScript, Java, TensorFlow, Docker, React",Medium,Low,59.0,Growing
+2023-09-09,Retail,Cloud Architect,Hải Phòng,122,12583.02,5.82,Junior,38,"Go, AWS, Excel, Machine Learning, Communication, Kubernetes",Medium,High,53.8,Stable
+2023-09-12,Logistics,Cloud Architect,Đà Nẵng,108,24470.68,4.05,Senior,54,"Go, Java, Kubernetes, Agile, SQL, Communication",High,Medium,77.4,Declining
+2023-09-13,Technology,Product Manager,Cần Thơ,111,9123.63,16.91,Fresher,78,"JavaScript, Excel, Machine Learning, Spark, TypeScript, Go",Low,High,49.8,Declining
+2023-09-14,Healthcare,Data Scientist,Đồng Nai,101,9009.8,2.29,Junior,91,"Kubernetes, TensorFlow, React, Excel",Medium,High,88.6,Declining
+2023-09-14,Logistics,Data Scientist,TP.HCM,113,12510.14,17.52,Fresher,81,"Java, React, Machine Learning",High,High,83.2,Growing
+2023-09-16,Manufacturing,Backend Developer,Hà Nội,111,37377.38,2.29,Senior,99,"TypeScript, Communication, Machine Learning, Python",Low,Medium,85.4,Declining
+2023-09-16,Healthcare,Product Manager,Đà Nẵng,122,35154.41,7.29,Senior,97,"Spark, Excel, Python",High,Medium,24.8,Stable
+2023-09-16,Technology,UX Designer,Bình Dương,117,27144.96,8.62,Senior,94,"Machine Learning, Python, React",High,Low,29.1,Growing
+2023-09-17,Retail,Backend Developer,TP.HCM,88,34358.93,9.24,Senior,78,"AWS, Spark, JavaScript",High,Medium,90.0,Declining
+2023-09-17,Logistics,Backend Developer,Hải Phòng,113,4499.2,17.59,Fresher,87,"Power BI, React, TypeScript",Medium,High,94.0,Stable
+2023-09-20,Finance,ML Engineer,Cần Thơ,121,14230.85,13.26,Junior,6,"Python, Power BI, JavaScript",Low,Medium,92.8,Growing
+2023-09-29,Manufacturing,Data Analyst,Hà Nội,116,16970.46,5.8,Junior,68,"Excel, Java, React",Medium,Low,74.6,Growing
+2023-10-01,Healthcare,Frontend Developer,Hải Phòng,105,11824.18,11.58,Junior,54,"Agile, TensorFlow, Kubernetes, Machine Learning, SQL, AWS",High,Low,66.8,Declining
+2023-10-02,Technology,UX Designer,Cần Thơ,97,31332.91,16.63,Senior,10,"Excel, SQL, Java",Medium,Low,52.6,Declining
+2023-10-03,Healthcare,ML Engineer,Đồng Nai,117,15718.14,13.08,Junior,78,"Communication, Java, Figma, Machine Learning",Low,Low,30.1,Growing
+2023-10-04,Healthcare,Data Analyst,TP.HCM,98,19319.4,5.53,Junior,25,"Java, Python",Medium,Medium,22.9,Stable
+2023-10-04,Technology,Cloud Architect,Hà Nội,107,31512.92,6.76,Senior,2,"Python, TensorFlow, AWS, Agile, Spark, Java",Medium,High,42.5,Declining
+2023-10-10,Education,Frontend Developer,Đồng Nai,113,32886.75,17.57,Senior,23,"TypeScript, Communication, AWS, Python, JavaScript, Agile",Medium,High,37.0,Growing
+2023-10-11,Logistics,UX Designer,Đồng Nai,116,36222.4,16.06,Senior,94,"Spark, Docker, TensorFlow, Go",Medium,Medium,62.9,Declining
+2023-10-18,Healthcare,Cloud Architect,Đà Nẵng,104,4524.0,13.87,Fresher,32,"Communication, Spark",High,High,83.6,Stable
+2023-10-20,Finance,Data Analyst,Hà Nội,106,6991.57,3.0,Fresher,21,"TensorFlow, Power BI, Communication, TypeScript, Kubernetes",High,Low,54.4,Stable
+2023-10-21,Technology,Software Engineer,Cần Thơ,102,13742.26,3.93,Junior,51,"Machine Learning, Power BI, Agile, JavaScript, Excel",Medium,High,54.6,Growing
+2023-10-21,Technology,UX Designer,Bình Dương,121,27769.39,6.98,Senior,55,"JavaScript, TypeScript, SQL",Medium,Low,65.8,Stable
+2023-10-23,Healthcare,ML Engineer,TP.HCM,121,26566.47,17.52,Senior,62,"React, Docker, Go, Figma",Medium,High,54.0,Growing
+2023-10-24,Logistics,ML Engineer,TP.HCM,117,17474.79,3.78,Junior,20,"TypeScript, Java, AWS",Low,Low,53.5,Declining
+2023-10-24,Healthcare,Frontend Developer,TP.HCM,110,5240.41,14.91,Fresher,80,"Spark, Go, Agile, TensorFlow, Figma",Medium,High,93.9,Growing
+2023-10-25,Logistics,Data Analyst,Bình Dương,112,14300.91,12.42,Junior,87,"Python, Agile, Go",Low,Low,66.6,Growing
+2023-10-26,Technology,Business Analyst,Bình Dương,118,29331.81,3.95,Senior,21,"TypeScript, Docker, Agile, AWS, React, Go",High,High,57.1,Growing
+2023-10-27,Healthcare,Software Engineer,Cần Thơ,100,38194.63,17.99,Senior,80,"TypeScript, Figma, SQL, Kubernetes",Low,Low,23.6,Growing
+2023-10-28,Technology,QA Engineer,Hà Nội,93,4532.0,10.65,Fresher,96,"TypeScript, AWS",Low,High,67.8,Growing
+2023-11-01,Logistics,Product Manager,Đà Nẵng,120,14670.09,16.45,Junior,50,"Communication, React, Agile",High,High,83.9,Growing
+2023-11-03,Manufacturing,UX Designer,Bình Dương,115,29177.28,12.18,Senior,76,"Docker, Power BI",Medium,Low,88.5,Growing
+2023-11-03,Education,Backend Developer,Bình Dương,115,4536.8,3.42,Fresher,58,"Java, React, TypeScript",High,High,34.7,Declining
+2023-11-03,Finance,Cloud Architect,Cần Thơ,124,15721.78,7.11,Junior,27,"Spark, Java, Excel",Low,Low,82.2,Declining
+2023-11-03,Education,DevOps Engineer,Đà Nẵng,121,26819.84,15.16,Senior,31,"Go, Java, SQL, Communication, Docker",Low,High,51.8,Declining
+2023-11-06,Manufacturing,Cloud Architect,Hải Phòng,120,4539.2,15.9,Fresher,43,"JavaScript, Python, SQL, Excel, Go, TensorFlow",High,Medium,56.6,Declining
+2023-11-06,Education,Data Scientist,Cần Thơ,129,5885.13,12.13,Fresher,52,"JavaScript, Machine Learning, Spark, AWS, Kubernetes",Medium,Low,85.4,Growing
+2023-11-07,Education,ML Engineer,TP.HCM,101,4540.0,14.17,Fresher,33,"Figma, AWS, Excel, Kubernetes, React, Power BI",High,High,62.1,Stable
+2023-11-08,Finance,UX Designer,Cần Thơ,113,14824.45,3.07,Junior,77,"Docker, Agile, Kubernetes, TypeScript, Python",High,Medium,76.2,Declining
+2023-11-08,Finance,QA Engineer,TP.HCM,117,18885.98,4.56,Junior,92,"Power BI, Communication",Medium,Medium,54.6,Stable
+2023-11-10,Logistics,QA Engineer,Đà Nẵng,137,15981.42,7.85,Junior,13,"Communication, TensorFlow",Low,Medium,36.9,Declining
+2023-11-11,Retail,Business Analyst,Đà Nẵng,128,27545.28,2.25,Senior,11,"Communication, TypeScript, AWS",Low,Low,89.6,Growing
+2023-11-11,Logistics,QA Engineer,TP.HCM,120,14753.7,17.39,Junior,63,"React, Excel",High,Medium,48.1,Growing
+2023-11-11,Logistics,Data Analyst,Bình Dương,106,17542.13,17.57,Junior,38,"Communication, Figma, Go, AWS, Kubernetes, React",High,Low,49.5,Growing
+2023-11-12,Education,QA Engineer,Bình Dương,122,17004.12,11.23,Junior,22,"Communication, TensorFlow, Python, React, Agile, Machine Learning",Medium,High,56.9,Declining
+2023-11-13,Education,Data Analyst,TP.HCM,120,37471.44,17.46,Senior,23,"TensorFlow, Excel, Go, Power BI, SQL, Java",High,Medium,77.1,Stable
+2023-11-14,Manufacturing,Frontend Developer,Bình Dương,112,31557.68,4.62,Senior,62,"Python, Figma",Low,Low,79.6,Declining
+2023-11-15,Manufacturing,Business Analyst,Đà Nẵng,122,7203.86,9.96,Fresher,42,"JavaScript, Machine Learning",Medium,Low,35.4,Growing
+2023-11-16,Healthcare,ML Engineer,Đồng Nai,117,8236.32,3.5,Fresher,46,"Power BI, Agile, JavaScript, Python, Go",Medium,Low,88.2,Declining
+2023-11-17,Finance,Product Manager,Bình Dương,110,18384.14,13.56,Junior,58,"Python, Agile, Excel, TensorFlow, SQL, Kubernetes",Medium,Low,69.3,Stable
+2023-11-18,Education,ML Engineer,Đà Nẵng,111,31914.91,16.5,Senior,2,"Communication, Docker, AWS, Excel",Medium,Low,66.8,Growing
+2023-11-18,Technology,DevOps Engineer,Đà Nẵng,108,8411.24,11.24,Fresher,96,"Communication, Java, React",Low,High,67.6,Stable
+2023-11-20,Retail,Software Engineer,TP.HCM,125,38998.01,9.69,Senior,94,"TensorFlow, Agile",Low,High,64.4,Growing
+2023-11-22,Retail,ML Engineer,Đà Nẵng,123,15621.97,14.41,Junior,54,"Excel, Machine Learning",Low,Medium,92.3,Growing
+2023-11-23,Retail,ML Engineer,Hà Nội,106,32680.14,3.92,Senior,77,"Python, Docker, Java, Kubernetes",Medium,Medium,86.8,Stable
+2023-11-24,Retail,Backend Developer,TP.HCM,115,28898.01,7.56,Senior,71,"JavaScript, Python, Docker, Java, Figma, TypeScript",Medium,Low,87.5,Growing
+2023-11-24,Logistics,Cloud Architect,Bình Dương,119,10617.05,5.99,Junior,82,"Power BI, AWS, TypeScript, React",High,Medium,56.7,Growing
+2023-11-28,Finance,QA Engineer,Hà Nội,115,9548.03,14.18,Fresher,28,"TypeScript, Communication, Figma, TensorFlow",Medium,Medium,22.6,Stable
+2023-11-30,Finance,Backend Developer,Đồng Nai,120,6568.56,9.54,Fresher,14,"Java, Communication, Python, Agile, Spark",Medium,High,81.6,Declining
+2023-12-01,Technology,Data Analyst,Hải Phòng,131,37847.47,5.2,Senior,81,"Figma, Java, Go, React",Medium,Low,66.3,Stable
+2023-12-02,Finance,DevOps Engineer,Bình Dương,94,35400.56,17.21,Senior,11,"Machine Learning, Spark, Agile, SQL, Kubernetes",Medium,Low,86.8,Growing
+2023-12-03,Logistics,Business Analyst,Đồng Nai,120,5843.18,2.91,Fresher,48,"Power BI, JavaScript, SQL, Machine Learning",Low,High,48.0,Declining
+2023-12-04,Healthcare,Data Analyst,Bình Dương,110,34170.05,11.65,Senior,34,"Spark, Figma, TensorFlow",Low,Low,82.0,Declining
+2023-12-06,Finance,Frontend Developer,TP.HCM,108,13328.04,12.67,Junior,54,"JavaScript, TensorFlow, Go, AWS, Communication",High,High,32.2,Declining
+2023-12-08,Finance,DevOps Engineer,Cần Thơ,112,12215.96,16.47,Fresher,56,"Kubernetes, Machine Learning, Spark",High,High,46.1,Stable
+2023-12-11,Education,QA Engineer,Hà Nội,118,30367.0,9.27,Senior,42,"TensorFlow, Go, Power BI, Figma, Java, Python",High,Low,67.1,Growing
+2023-12-14,Logistics,Product Manager,Đồng Nai,114,8881.56,4.45,Junior,90,"Agile, Python, SQL, Excel, React",Low,Low,64.0,Declining
+2023-12-14,Education,QA Engineer,TP.HCM,116,11946.8,7.54,Junior,17,"Agile, JavaScript",Medium,Low,46.0,Growing
+2023-12-17,Manufacturing,Frontend Developer,Đà Nẵng,120,4777.12,9.77,Fresher,88,"Python, AWS",Medium,High,22.1,Growing
+2023-12-19,Logistics,UX Designer,TP.HCM,110,7466.31,7.94,Fresher,36,"TensorFlow, Go",Low,High,65.1,Growing
+2023-12-24,Education,Frontend Developer,Đà Nẵng,121,34775.09,17.22,Senior,18,"Figma, Python, Communication, Agile, TensorFlow, TypeScript",Medium,High,82.9,Stable
+2023-12-25,Retail,Business Analyst,Đà Nẵng,114,12103.96,10.65,Fresher,53,"React, AWS, Spark, Go, Power BI",High,Medium,72.2,Stable
+2023-12-27,Education,Software Engineer,Hải Phòng,120,11875.73,3.5,Fresher,68,"Kubernetes, Figma, SQL",High,Medium,47.6,Declining
+2023-12-28,Retail,UX Designer,Cần Thơ,94,36769.12,4.11,Senior,48,"Agile, Java, AWS, TypeScript",Medium,High,74.4,Declining
+2023-12-29,Logistics,Frontend Developer,Cần Thơ,117,34043.65,4.11,Senior,29,"React, Java, Kubernetes",Medium,Low,84.9,Declining
+2023-12-31,Healthcare,Frontend Developer,Hà Nội,123,35066.83,8.28,Senior,32,"Docker, Machine Learning, SQL, JavaScript",High,Medium,76.6,Declining
+2024-01-06,Technology,Product Manager,Đà Nẵng,126,32864.52,8.54,Senior,13,"Python, Communication, TensorFlow, AWS, Kubernetes, Machine Learning",Low,High,33.0,Declining
+2024-01-06,Healthcare,Software Engineer,Bình Dương,114,14269.53,5.82,Junior,43,"AWS, Docker, TensorFlow, Figma",Medium,High,28.3,Stable
+2024-01-09,Technology,Business Analyst,Cần Thơ,110,10573.33,7.78,Fresher,21,"TensorFlow, React, TypeScript, Python, Communication, Kubernetes",Low,Low,26.9,Growing
+2024-01-10,Manufacturing,Data Analyst,TP.HCM,115,6218.42,3.9,Fresher,99,"Spark, React, TensorFlow, AWS, Docker, TypeScript",Low,Low,41.7,Stable
+2024-01-12,Technology,Frontend Developer,Cần Thơ,123,11604.62,6.39,Fresher,91,"Machine Learning, Python, Communication, Agile, Excel, Go",High,Low,80.5,Stable
+2024-01-14,Technology,Product Manager,Hà Nội,110,31758.17,16.5,Senior,53,"Power BI, Agile, Docker, Communication, AWS, TensorFlow",Medium,High,38.7,Growing
+2024-01-18,Education,ML Engineer,Bình Dương,123,12017.75,4.36,Fresher,78,"Figma, TypeScript, React",Medium,Medium,20.6,Declining
+2024-01-19,Logistics,ML Engineer,Bình Dương,136,33239.18,10.3,Senior,91,"React, AWS, Communication, Machine Learning, Python",High,High,72.7,Declining
+2024-01-24,Technology,ML Engineer,Cần Thơ,99,35857.04,14.9,Senior,74,"Excel, Docker, Spark, Kubernetes, Figma",Low,Low,54.4,Stable
+2024-01-24,Retail,Frontend Developer,Đà Nẵng,125,14943.01,11.32,Fresher,5,"Power BI, TypeScript, SQL",Medium,Medium,94.7,Growing
+2024-01-25,Technology,Business Analyst,Bình Dương,103,17646.43,14.8,Junior,73,"Go, TypeScript, Power BI",High,Medium,35.3,Declining
+2024-01-28,Retail,Backend Developer,Đà Nẵng,127,28469.48,15.96,Senior,46,"Go, Power BI, Agile",Medium,Medium,28.4,Stable
+2024-01-30,Education,ML Engineer,Bình Dương,134,8339.0,7.46,Fresher,54,"Python, Machine Learning, SQL, Agile, Kubernetes, Power BI",High,Low,28.5,Stable
+2024-01-31,Retail,ML Engineer,Cần Thơ,123,36173.37,4.18,Senior,75,"Figma, Machine Learning, Power BI",High,Medium,21.1,Stable
+2024-02-02,Finance,UX Designer,Đà Nẵng,116,16710.15,6.15,Junior,46,"Spark, Java, Kubernetes, Python, AWS, JavaScript",Medium,High,34.6,Declining
+2024-02-04,Manufacturing,Backend Developer,Hải Phòng,97,16933.5,8.22,Junior,51,"TypeScript, React, Power BI, JavaScript",Low,Low,40.4,Growing
+2024-02-05,Education,UX Designer,Bình Dương,118,12146.12,2.41,Fresher,6,"Power BI, TensorFlow, Machine Learning",Low,Medium,45.6,Declining
+2024-02-05,Finance,Software Engineer,Hà Nội,142,9110.34,9.96,Fresher,74,"Excel, Spark, Docker, Python, Java",Low,Low,42.6,Growing
+2024-02-06,Logistics,UX Designer,Hà Nội,136,8404.51,17.97,Fresher,1,"Machine Learning, Go, Communication, TypeScript",High,High,46.3,Declining
+2024-02-07,Technology,DevOps Engineer,TP.HCM,119,33319.52,4.09,Senior,50,"Machine Learning, SQL",Medium,High,79.3,Growing
+2024-02-08,Education,Cloud Architect,Hà Nội,118,37819.69,3.71,Senior,36,"Communication, Kubernetes, Machine Learning, Spark, Java, Power BI",Low,High,53.6,Stable
+2024-02-08,Healthcare,Product Manager,Đồng Nai,126,13924.93,14.62,Junior,51,"TypeScript, Spark",High,Low,58.8,Growing
+2024-02-09,Healthcare,QA Engineer,Đà Nẵng,130,16388.26,13.15,Junior,98,"Power BI, TypeScript, Java, Excel, JavaScript, Kubernetes",Medium,Low,72.7,Stable
+2024-02-10,Finance,Cloud Architect,Hải Phòng,119,11560.89,14.26,Junior,69,"AWS, SQL, Go, Kubernetes, Python, Java",High,Medium,63.8,Growing
+2024-02-11,Manufacturing,Software Engineer,Đà Nẵng,126,4616.8,16.64,Fresher,57,"Spark, TypeScript",High,High,60.0,Declining
+2024-02-13,Logistics,Frontend Developer,Hải Phòng,98,6639.41,13.5,Fresher,16,"Agile, Machine Learning",Medium,Medium,84.7,Declining
+2024-02-15,Retail,Data Analyst,Hà Nội,114,8496.75,2.02,Fresher,94,"TypeScript, React",Medium,Low,42.5,Stable
+2024-02-15,Healthcare,QA Engineer,TP.HCM,137,4620.0,12.74,Fresher,57,"Communication, TensorFlow, Agile, Machine Learning, Power BI, Go",Medium,Medium,67.4,Declining
+2024-02-17,Manufacturing,Data Scientist,Đồng Nai,106,19927.69,16.85,Junior,7,"Docker, SQL, Communication, Kubernetes, Java, AWS",Low,High,36.8,Declining
+2024-02-17,Retail,Software Engineer,Hà Nội,115,13091.22,7.14,Junior,45,"Spark, Machine Learning, React",Medium,Low,55.7,Stable
+2024-02-18,Technology,DevOps Engineer,Đà Nẵng,114,12549.36,4.29,Junior,70,"Communication, Agile, Power BI",Low,Low,77.1,Declining
+2024-02-19,Education,UX Designer,Đồng Nai,126,16441.23,11.97,Junior,53,"SQL, Power BI, Python, Kubernetes",High,Low,26.4,Stable
+2024-02-21,Finance,Data Analyst,Hà Nội,117,10288.98,11.79,Fresher,48,"Kubernetes, Spark",High,Medium,30.5,Growing
+2024-02-22,Logistics,ML Engineer,Hà Nội,123,7224.93,7.45,Fresher,61,"Go, Power BI, Java, TypeScript",Low,High,25.4,Stable
+2024-02-22,Healthcare,Frontend Developer,Đồng Nai,124,30761.71,11.91,Senior,97,"React, Figma",High,Medium,46.7,Stable
+2024-02-23,Technology,Software Engineer,Đồng Nai,104,32250.7,12.93,Senior,84,"Python, TypeScript, AWS, JavaScript, Agile",High,Low,25.7,Stable
+2024-02-25,Manufacturing,Backend Developer,Hải Phòng,132,14968.8,8.8,Fresher,81,"Power BI, Communication",High,Medium,21.7,Stable
+2024-02-25,Healthcare,UX Designer,Đà Nẵng,110,5464.22,4.77,Fresher,41,"Python, Power BI",High,Medium,87.3,Growing
+2024-02-27,Technology,QA Engineer,Hải Phòng,114,4629.6,16.18,Fresher,29,"JavaScript, Docker, Figma, Agile, Power BI, SQL",Low,Medium,66.2,Stable
+2024-02-28,Technology,Software Engineer,Hải Phòng,128,9539.9,17.29,Junior,8,"Java, AWS",Low,Low,21.4,Stable
+2024-02-29,Finance,Cloud Architect,TP.HCM,110,17950.14,16.65,Junior,88,"Go, Power BI, Kubernetes, Java, TensorFlow",High,Medium,22.5,Stable
+2024-02-29,Education,ML Engineer,Đồng Nai,107,9999.83,6.41,Fresher,10,"Java, React",Low,High,85.8,Stable
+2024-02-29,Healthcare,Software Engineer,Hải Phòng,102,37507.1,10.63,Senior,20,"Power BI, Spark, AWS, TensorFlow, React",Medium,Medium,79.3,Declining
+2024-03-02,Finance,Data Scientist,Bình Dương,120,9295.43,12.43,Fresher,65,"Spark, Go, Python, JavaScript, React",Low,High,36.8,Stable
+2024-03-03,Logistics,Product Manager,Bình Dương,127,20126.4,15.09,Junior,86,"SQL, Excel, Python",High,High,29.0,Growing
+2024-03-04,Retail,QA Engineer,Cần Thơ,104,13545.86,3.82,Fresher,66,"Kubernetes, JavaScript, Figma, Machine Learning, TensorFlow",Medium,Medium,45.9,Stable
+2024-03-05,Retail,ML Engineer,Cần Thơ,120,6117.62,4.29,Fresher,93,"Python, Kubernetes, TypeScript",Medium,High,78.2,Growing
+2024-03-07,Finance,ML Engineer,Hải Phòng,123,12415.52,5.08,Junior,13,"Excel, TypeScript, JavaScript, Kubernetes, TensorFlow",High,High,23.1,Stable
+2024-03-08,Education,DevOps Engineer,TP.HCM,130,4679.6,4.71,Fresher,89,"Agile, JavaScript, TypeScript, Spark, Figma, Excel",Medium,Low,61.8,Stable
+2024-03-08,Technology,Frontend Developer,Cần Thơ,117,33845.28,11.33,Senior,65,"Go, Figma, Kubernetes, TensorFlow, React",Medium,Low,39.0,Growing
+2024-03-10,Education,Business Analyst,Bình Dương,109,6114.29,2.59,Fresher,98,"Spark, Excel, Machine Learning, Communication, JavaScript",Medium,High,75.2,Stable
+2024-03-12,Retail,Product Manager,Hà Nội,108,19884.6,14.02,Junior,27,"TensorFlow, Go, JavaScript, SQL, AWS, Excel",Low,Low,25.3,Growing
+2024-03-15,Manufacturing,Data Scientist,Bình Dương,125,19584.66,11.9,Junior,53,"React, Communication, TensorFlow, SQL, Power BI",High,Medium,76.5,Growing
+2024-03-16,Manufacturing,DevOps Engineer,Hà Nội,119,4644.0,9.88,Fresher,97,"AWS, Spark, TypeScript, Docker, TensorFlow, SQL",High,Low,44.7,Stable
+2024-03-16,Manufacturing,ML Engineer,Hà Nội,132,28486.74,11.46,Senior,49,"JavaScript, TensorFlow, Kubernetes, React, Power BI",Low,Medium,49.9,Growing
+2024-03-18,Retail,Data Scientist,Đồng Nai,116,35102.11,3.97,Senior,56,"Python, TensorFlow, Kubernetes",High,Low,86.6,Stable
+2024-03-18,Education,Software Engineer,Hải Phòng,130,14352.45,8.64,Junior,46,"SQL, Communication, Go",High,Medium,40.5,Growing
+2024-03-20,Education,Software Engineer,Đà Nẵng,106,4647.2,13.56,Fresher,70,"Kubernetes, Agile, React, Communication, JavaScript, Figma",Medium,Medium,84.2,Declining
+2024-03-21,Logistics,QA Engineer,Hải Phòng,117,6879.4,5.51,Fresher,48,"Python, Power BI, SQL",Low,Low,92.0,Growing
+2024-03-26,Technology,UX Designer,Đà Nẵng,119,17028.29,6.44,Junior,47,"React, TypeScript, Figma, Communication, Go",Low,Low,34.1,Growing
+2024-03-27,Manufacturing,UX Designer,Đồng Nai,122,15174.49,2.21,Junior,10,"SQL, Figma, Docker, Java, React",Medium,Low,69.8,Growing
+2024-03-29,Healthcare,Cloud Architect,TP.HCM,105,29232.23,3.16,Senior,39,"Python, Figma, SQL, Machine Learning, Excel, JavaScript",Medium,Low,81.6,Declining
+2024-04-03,Retail,Cloud Architect,Hải Phòng,121,36994.71,17.89,Senior,12,"React, Java, Power BI, TensorFlow, Machine Learning",Low,Medium,29.9,Declining
+2024-04-03,Manufacturing,UX Designer,TP.HCM,127,36493.88,16.44,Senior,4,"Excel, Spark, TypeScript, Communication, SQL, Go",Low,Medium,25.0,Growing
+2024-04-03,Technology,UX Designer,Cần Thơ,131,38922.76,16.38,Senior,60,"Go, AWS",High,High,78.7,Growing
+2024-04-04,Logistics,QA Engineer,Cần Thơ,124,9408.45,4.23,Fresher,38,"SQL, JavaScript, Docker, TypeScript, AWS",Medium,Medium,82.6,Growing
+2024-04-06,Technology,Business Analyst,Cần Thơ,141,30965.62,8.99,Senior,30,"Power BI, Agile, Figma",Medium,Low,63.5,Declining
+2024-04-06,Retail,UX Designer,Đồng Nai,116,4660.8,17.91,Fresher,90,"JavaScript, AWS, Go, SQL, Spark, Kubernetes",Low,Medium,69.6,Stable
+2024-04-10,Logistics,Cloud Architect,Bình Dương,111,20072.21,5.86,Junior,51,"Machine Learning, React, Go, Figma",Low,Low,46.6,Declining
+2024-04-21,Retail,QA Engineer,Bình Dương,111,8785.26,6.85,Fresher,93,"Agile, Python, Java, Machine Learning",Low,High,27.6,Growing
+2024-04-22,Logistics,Software Engineer,Đồng Nai,132,31399.91,11.37,Senior,92,"Spark, AWS, Figma, JavaScript, Kubernetes",High,Low,85.1,Stable
+2024-04-25,Manufacturing,QA Engineer,Hải Phòng,116,13396.62,13.5,Junior,15,"Machine Learning, TensorFlow, Kubernetes",Medium,High,42.3,Stable
+2024-04-26,Healthcare,Data Analyst,Hà Nội,129,13947.97,3.65,Junior,21,"Communication, Agile, Machine Learning, TypeScript",High,Medium,87.7,Declining
+2024-04-30,Education,Business Analyst,TP.HCM,125,4680.0,5.31,Fresher,74,"Excel, Java, Docker",High,High,58.7,Stable
+2024-05-01,Retail,Data Scientist,Hà Nội,138,12665.69,11.15,Junior,55,"TypeScript, Figma",High,Medium,41.0,Declining
+2024-05-04,Manufacturing,QA Engineer,Đà Nẵng,131,4683.2,14.74,Fresher,52,"Go, Spark, Power BI, Communication, Excel, Kubernetes",High,High,40.4,Stable
+2024-05-04,Technology,Software Engineer,Đà Nẵng,107,6606.88,7.96,Fresher,59,"Figma, TensorFlow, TypeScript, Machine Learning, Power BI, Docker",Low,Medium,39.5,Growing
+2024-05-05,Technology,ML Engineer,Đà Nẵng,117,21708.8,14.38,Senior,48,"Excel, TensorFlow, Kubernetes",Medium,Medium,65.1,Stable
+2024-05-06,Education,Data Analyst,Hải Phòng,128,34468.75,3.09,Senior,76,"Go, Machine Learning, Agile, SQL, React",Medium,Low,78.8,Declining
+2024-05-07,Education,Backend Developer,Đồng Nai,129,9406.09,5.97,Fresher,49,"Agile, Docker, AWS",High,High,36.1,Stable
+2024-05-07,Education,UX Designer,Hà Nội,119,16224.03,17.49,Junior,93,"TypeScript, Spark, Go, AWS, Communication",Low,High,25.0,Growing
+2024-05-08,Technology,Data Scientist,Hải Phòng,130,13651.52,3.88,Fresher,98,"TensorFlow, Go, Python, Excel, React, Spark",Medium,Medium,29.4,Growing
+2024-05-08,Retail,Product Manager,Cần Thơ,116,31969.62,9.2,Senior,62,"Figma, Agile",Low,Low,78.3,Stable
+2024-05-10,Technology,Data Scientist,Cần Thơ,129,22242.56,14.49,Junior,80,"Docker, TensorFlow, Spark, Communication, JavaScript, Excel",Medium,High,63.8,Stable
+2024-05-13,Retail,QA Engineer,Cần Thơ,121,36865.86,10.3,Senior,36,"Python, Machine Learning, Figma, SQL, React, Kubernetes",Medium,Medium,23.5,Stable
+2024-05-14,Education,Data Scientist,Hải Phòng,115,8063.3,15.61,Fresher,98,"Power BI, Kubernetes, Agile, JavaScript, Spark, TensorFlow",High,Low,62.1,Growing
+2024-05-15,Healthcare,QA Engineer,Hải Phòng,126,23277.79,7.69,Junior,23,"Machine Learning, Power BI, React, Kubernetes",Medium,High,78.8,Declining
+2024-05-16,Healthcare,UX Designer,Đồng Nai,116,20777.11,11.15,Junior,44,"React, Excel, Machine Learning, AWS, Figma, Kubernetes",Low,Medium,82.5,Declining
+2024-05-17,Technology,Data Scientist,Đồng Nai,117,4693.6,2.32,Fresher,71,"Machine Learning, Java, TypeScript, TensorFlow",Medium,High,44.2,Declining
+2024-05-17,Retail,DevOps Engineer,Bình Dương,116,11090.35,13.31,Junior,64,"Figma, Kubernetes, JavaScript, Python",High,Medium,65.8,Declining
+2024-05-18,Healthcare,Business Analyst,Cần Thơ,115,28394.83,13.67,Senior,52,"Go, Kubernetes",High,High,92.5,Growing
+2024-05-21,Healthcare,Cloud Architect,Bình Dương,132,19404.66,12.44,Junior,89,"Kubernetes, Excel, TypeScript",Low,Low,37.9,Growing
+2024-05-22,Technology,ML Engineer,Cần Thơ,122,31891.53,10.75,Senior,82,"SQL, Communication, Spark, React, JavaScript, Machine Learning",High,High,48.5,Stable
+2024-05-22,Healthcare,Data Analyst,Đà Nẵng,102,14451.2,15.69,Junior,57,"Agile, TensorFlow, Go",Low,Medium,72.8,Stable
+2024-05-22,Healthcare,QA Engineer,Bình Dương,130,15049.24,11.76,Fresher,21,"Kubernetes, Agile, Java, Excel",High,Low,30.2,Stable
+2024-05-23,Finance,Data Analyst,Đồng Nai,119,35138.66,17.06,Senior,58,"AWS, Docker, JavaScript, Spark",High,Low,85.7,Stable
+2024-05-23,Retail,QA Engineer,Đồng Nai,105,5345.56,14.9,Fresher,70,"Figma, Agile, TypeScript",Medium,Medium,76.1,Stable
+2024-05-25,Manufacturing,Backend Developer,Hải Phòng,132,18542.13,12.18,Junior,46,"Java, TensorFlow, AWS, Power BI, Spark, Excel",High,Medium,23.8,Growing
+2024-05-25,Healthcare,Data Analyst,Cần Thơ,125,4700.0,11.72,Fresher,35,"Kubernetes, Docker, Spark, Excel, Machine Learning",High,Medium,32.8,Declining
+2024-05-30,Education,Data Analyst,Bình Dương,120,38186.87,15.73,Senior,29,"AWS, Figma, Machine Learning, Java",Low,High,52.2,Growing
+2024-05-31,Finance,Frontend Developer,Cần Thơ,118,16346.33,14.19,Junior,69,"Spark, Agile, React, Kubernetes",High,Low,49.0,Declining
+2024-05-31,Manufacturing,Product Manager,Hà Nội,117,33796.7,15.16,Senior,67,"Agile, Communication, Java",High,Medium,80.3,Stable
+2024-06-01,Finance,Business Analyst,Cần Thơ,133,7250.96,4.73,Fresher,73,"Figma, Communication, Machine Learning, AWS, Python",Medium,Low,70.1,Declining
+2024-06-04,Manufacturing,Software Engineer,Bình Dương,105,16427.55,9.06,Junior,69,"Figma, JavaScript, AWS, Java, Docker",High,Medium,86.6,Declining
+2024-06-04,Education,Software Engineer,TP.HCM,122,9458.87,3.92,Fresher,48,"TensorFlow, Java",Medium,Medium,45.3,Stable
+2024-06-05,Healthcare,Data Scientist,Hải Phòng,116,4708.8,4.19,Fresher,92,"AWS, Docker, Power BI, Java",Medium,Medium,87.5,Stable
+2024-06-14,Manufacturing,Product Manager,Bình Dương,135,30483.33,12.48,Senior,44,"Docker, TensorFlow",High,Low,61.3,Declining
