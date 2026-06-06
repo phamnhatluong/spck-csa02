@@ -1,0 +1,29 @@
+# ── Secrets ──
+.env
+.env.local
+*.env
+
+# ── Streamlit ──
+.streamlit/secrets.toml
+
+# ── Python ──
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# ── Data & outputs ──
+uploads/
+public_data/
+*.zip
+
+# ── OS ──
+.DS_Store
+Thumbs.db
