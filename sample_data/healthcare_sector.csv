@@ -1,0 +1,601 @@
+date,industry,job_title,region,job_openings,avg_salary,salary_growth_rate,experience_level,remote_ratio,required_skills,competition_level,automation_risk,growth_score,demand_forecast
+2021-06-03,Healthcare,Clinical Researcher,Hải Phòng,112,35761.12,9.59,Senior,25,"Medical Coding, Python, Surgery",High,Low,75.9,Growing
+2021-06-06,Healthcare,General Practitioner,Đà Nẵng,78,38042.23,4.61,Senior,2,"Patient Care, Medical Coding",Low,Low,61.6,Stable
+2021-06-07,Healthcare,Physical Therapist,Bình Dương,84,15167.4,4.5,Junior,12,"EMR Systems, Patient Care",Low,Medium,46.8,Stable
+2021-06-08,Healthcare,Clinical Researcher,Đà Nẵng,73,16998.33,3.19,Fresher,14,"Data Analysis, HL7/FHIR, Medical Coding, AI Diagnostics, Telemedicine",High,Low,52.8,Growing
+2021-06-10,Healthcare,Surgeon,Bình Dương,69,17344.22,9.98,Fresher,21,"Pharmacology, Clinical Research",Medium,Medium,66.4,Growing
+2021-06-10,Healthcare,Biomedical Engineer,Cần Thơ,88,11012.78,7.29,Fresher,12,"Surgery, Telemedicine",High,Low,65.4,Declining
+2021-06-10,Healthcare,General Practitioner,Đà Nẵng,87,23367.48,5.32,Junior,30,"Data Analysis, Patient Care, HIPAA Compliance",High,Low,51.9,Stable
+2021-06-12,Healthcare,Clinical Researcher,Bình Dương,81,20762.23,9.75,Junior,25,"AI Diagnostics, Patient Care, Medical Coding, Data Analysis, SQL",High,Low,56.6,Stable
+2021-06-14,Healthcare,Clinical Researcher,TP.HCM,90,9097.85,7.05,Junior,21,"Python, HIPAA Compliance, Data Analysis, AI Diagnostics",Low,Low,60.7,Growing
+2021-06-14,Healthcare,General Practitioner,Đồng Nai,71,7847.66,4.32,Fresher,33,"Surgery, Data Analysis",High,Low,67.1,Growing
+2021-06-16,Healthcare,Surgeon,Hải Phòng,69,42292.74,6.46,Senior,9,"SQL, HIPAA Compliance",High,Low,64.6,Stable
+2021-06-17,Healthcare,Telemedicine Physician,Bình Dương,63,22004.39,8.55,Junior,20,"Clinical Research, Pharmacology",Low,Low,69.3,Stable
+2021-06-19,Healthcare,Physical Therapist,Cần Thơ,89,39342.39,9.36,Senior,24,"Surgery, HIPAA Compliance, SQL",High,Low,48.3,Stable
+2021-06-23,Healthcare,Physical Therapist,Cần Thơ,78,16363.91,4.02,Junior,37,"SQL, Data Analysis, Radiology, Pharmacology, Medical Coding",High,Medium,71.7,Growing
+2021-06-25,Healthcare,Healthcare IT Specialist,Hà Nội,76,34162.77,11.28,Senior,18,"AI Diagnostics, Patient Care, SQL, Radiology, Medical Coding",Medium,Medium,71.0,Growing
+2021-06-25,Healthcare,Clinical Researcher,Đồng Nai,70,7737.8,8.98,Fresher,14,"Patient Care, Telemedicine, Pharmacology, SQL, Clinical Research",High,Low,64.7,Growing
+2021-06-25,Healthcare,Clinical Researcher,Đồng Nai,76,16974.59,5.04,Fresher,15,"Medical Coding, SQL",Low,Medium,77.7,Stable
+2021-06-26,Healthcare,Physical Therapist,Đồng Nai,68,15480.53,6.98,Junior,23,"Data Analysis, Python, HL7/FHIR, Radiology",High,Low,50.5,Growing
+2021-06-26,Healthcare,Hospital Administrator,Đồng Nai,84,19179.29,7.96,Junior,22,"Pharmacology, HIPAA Compliance, Surgery, Telemedicine, Data Analysis",Medium,High,56.6,Declining
+2021-06-26,Healthcare,Telemedicine Physician,TP.HCM,84,38794.85,8.1,Senior,29,"Clinical Research, Pharmacology, Python, AI Diagnostics",Medium,Low,52.8,Growing
+2021-06-27,Healthcare,General Practitioner,Bình Dương,79,24505.84,6.12,Junior,37,"Patient Care, HIPAA Compliance, SQL",Medium,High,76.7,Stable
+2021-06-30,Healthcare,Healthcare IT Specialist,Hà Nội,79,9744.74,6.48,Fresher,30,"SQL, Clinical Research",High,Low,50.3,Growing
+2021-06-30,Healthcare,Surgeon,TP.HCM,89,11539.98,8.6,Fresher,19,"HIPAA Compliance, AI Diagnostics, Clinical Research",Low,Low,54.1,Declining
+2021-07-01,Healthcare,General Practitioner,Hải Phòng,89,42629.23,3.64,Senior,32,"Pharmacology, HL7/FHIR, EMR Systems",High,Low,46.5,Growing
+2021-07-02,Healthcare,General Practitioner,Đồng Nai,87,30828.41,4.26,Senior,0,"Patient Care, Medical Coding, Radiology, Data Analysis",High,High,58.5,Growing
+2021-07-06,Healthcare,Medical Data Analyst,Đà Nẵng,87,27393.31,6.46,Senior,36,"Surgery, Patient Care",High,Medium,69.7,Growing
+2021-07-06,Healthcare,Clinical Researcher,Bình Dương,95,18614.05,8.27,Junior,1,"Medical Coding, HIPAA Compliance, Radiology",High,Low,65.4,Growing
+2021-07-06,Healthcare,Healthcare IT Specialist,Đà Nẵng,71,32514.35,4.07,Senior,32,"Medical Coding, SQL",Medium,Medium,76.6,Growing
+2021-07-07,Healthcare,Surgeon,TP.HCM,97,16719.26,9.9,Junior,22,"Radiology, Medical Coding, Pharmacology, Patient Care, Python",Low,Medium,47.2,Growing
+2021-07-08,Healthcare,Pharmacist,Đà Nẵng,79,9706.33,5.25,Fresher,13,"HIPAA Compliance, Surgery, Pharmacology",Medium,Low,66.5,Stable
+2021-07-10,Healthcare,Radiologist,TP.HCM,84,26580.45,3.59,Junior,27,"HIPAA Compliance, Pharmacology",Low,Low,48.0,Growing
+2021-07-11,Healthcare,Clinical Researcher,Cần Thơ,74,41146.69,9.93,Senior,15,"HIPAA Compliance, Telemedicine, EMR Systems",High,Medium,74.0,Declining
+2021-07-16,Healthcare,Surgeon,Đà Nẵng,78,7545.09,4.24,Fresher,6,"Clinical Research, Patient Care, Pharmacology, AI Diagnostics, SQL",Medium,Low,54.5,Stable
+2021-07-17,Healthcare,Radiologist,Bình Dương,79,18416.93,11.25,Junior,7,"Patient Care, Pharmacology, Python, HL7/FHIR",High,High,69.0,Stable
+2021-07-21,Healthcare,Nurse Practitioner,Bình Dương,66,12579.61,7.06,Fresher,2,"Python, Surgery, Radiology",Medium,Low,54.8,Stable
+2021-07-24,Healthcare,Pharmacist,TP.HCM,75,30431.43,8.97,Senior,8,"Clinical Research, HIPAA Compliance",Medium,Medium,65.6,Growing
+2021-07-24,Healthcare,Surgeon,Đồng Nai,87,4368.43,11.24,Fresher,28,"Python, Radiology, HL7/FHIR, Medical Coding, Surgery",High,Low,57.3,Growing
+2021-07-25,Healthcare,Physical Therapist,Đà Nẵng,84,11143.47,6.06,Fresher,15,"Surgery, EMR Systems",Medium,Medium,79.4,Stable
+2021-07-26,Healthcare,Hospital Administrator,Bình Dương,92,25189.48,9.27,Junior,14,"Python, Patient Care, Medical Coding, Radiology",Medium,Medium,76.3,Growing
+2021-07-29,Healthcare,General Practitioner,Đồng Nai,77,38839.37,4.34,Senior,30,"Radiology, Clinical Research, Telemedicine, Python, Surgery",High,Low,82.2,Growing
+2021-07-30,Healthcare,Physical Therapist,Hà Nội,84,14358.08,9.96,Junior,14,"HIPAA Compliance, Surgery",Low,Medium,46.6,Declining
+2021-07-31,Healthcare,Radiologist,Hải Phòng,81,16801.76,5.59,Fresher,21,"Pharmacology, Radiology",Low,High,65.4,Declining
+2021-08-01,Healthcare,Healthcare IT Specialist,Đồng Nai,82,21773.93,7.83,Junior,8,"Radiology, Clinical Research, Surgery, Data Analysis",Medium,Medium,54.5,Growing
+2021-08-01,Healthcare,Nurse Practitioner,Hà Nội,77,21469.24,8.64,Junior,20,"HIPAA Compliance, Medical Coding, Clinical Research, Pharmacology, Surgery",High,Medium,78.6,Growing
+2021-08-02,Healthcare,Medical Data Analyst,Đà Nẵng,96,43507.19,7.04,Senior,1,"Surgery, SQL, Patient Care, HIPAA Compliance",Medium,Low,60.0,Stable
+2021-08-06,Healthcare,Medical Data Analyst,Hải Phòng,73,29827.58,8.21,Senior,16,"SQL, HIPAA Compliance",Medium,Medium,61.1,Declining
+2021-08-09,Healthcare,Medical Data Analyst,Hà Nội,83,4041.4,8.79,Fresher,34,"Telemedicine, Surgery, HIPAA Compliance",Medium,Low,78.1,Growing
+2021-08-09,Healthcare,Physical Therapist,Đà Nẵng,89,20546.39,7.98,Junior,22,"EMR Systems, Clinical Research",High,Low,68.0,Declining
+2021-08-15,Healthcare,Telemedicine Physician,Cần Thơ,72,12635.86,7.3,Junior,15,"HL7/FHIR, Medical Coding, SQL, Radiology",Medium,Low,69.3,Growing
+2021-08-20,Healthcare,Hospital Administrator,Đồng Nai,78,17371.34,10.49,Junior,9,"Python, Data Analysis, Surgery, Clinical Research, HIPAA Compliance",Medium,Low,64.0,Declining
+2021-08-25,Healthcare,General Practitioner,Hải Phòng,78,6918.99,5.99,Fresher,37,"Python, Telemedicine, Radiology, Data Analysis",Medium,Low,62.9,Stable
+2021-08-25,Healthcare,Telemedicine Physician,TP.HCM,86,32796.21,4.0,Senior,17,"Radiology, Pharmacology, EMR Systems, HL7/FHIR",High,Medium,52.9,Growing
+2021-08-26,Healthcare,Medical Data Analyst,Đồng Nai,101,4274.53,6.74,Fresher,39,"Radiology, Patient Care, Data Analysis, SQL, Telemedicine",Low,Low,71.0,Growing
+2021-08-26,Healthcare,Nurse Practitioner,TP.HCM,97,39777.99,5.48,Senior,9,"Data Analysis, Medical Coding, HL7/FHIR, Radiology, HIPAA Compliance",Medium,Medium,80.5,Stable
+2021-08-26,Healthcare,Healthcare IT Specialist,Đồng Nai,87,37640.31,4.81,Senior,32,"Patient Care, AI Diagnostics",Low,Medium,73.0,Growing
+2021-08-27,Healthcare,Telemedicine Physician,Hà Nội,83,7857.67,4.82,Fresher,25,"Pharmacology, Data Analysis, HL7/FHIR, EMR Systems, SQL",Medium,Medium,53.5,Growing
+2021-08-28,Healthcare,General Practitioner,Bình Dương,75,30014.17,4.35,Senior,6,"Patient Care, AI Diagnostics, Clinical Research",High,Low,59.0,Growing
+2021-09-01,Healthcare,Physical Therapist,Bình Dương,68,37100.17,8.05,Senior,25,"Clinical Research, SQL, HL7/FHIR, Surgery",Medium,Low,65.2,Growing
+2021-09-01,Healthcare,Healthcare IT Specialist,TP.HCM,102,14766.19,9.21,Junior,9,"Medical Coding, EMR Systems, HL7/FHIR",Medium,Low,68.0,Declining
+2021-09-04,Healthcare,Physical Therapist,Hà Nội,86,4057.0,9.76,Fresher,5,"Surgery, Radiology, Patient Care, Data Analysis",High,High,52.6,Growing
+2021-09-04,Healthcare,Pharmacist,Cần Thơ,90,16856.59,8.88,Junior,11,"Pharmacology, HIPAA Compliance, Radiology",High,Low,59.4,Growing
+2021-09-05,Healthcare,Pharmacist,Cần Thơ,90,36536.81,8.31,Senior,30,"Medical Coding, HIPAA Compliance, Clinical Research, EMR Systems, HL7/FHIR",Low,High,79.6,Stable
+2021-09-08,Healthcare,Medical Data Analyst,Đồng Nai,73,33200.91,10.91,Senior,12,"HL7/FHIR, Python",High,Low,50.9,Stable
+2021-09-08,Healthcare,Physical Therapist,Cần Thơ,94,19622.06,6.2,Junior,21,"EMR Systems, SQL",Medium,Low,68.8,Stable
+2021-09-08,Healthcare,Pharmacist,Đồng Nai,76,11591.09,10.32,Fresher,19,"Radiology, EMR Systems",Medium,Low,51.4,Growing
+2021-09-11,Healthcare,Physical Therapist,TP.HCM,77,37943.9,7.97,Senior,38,"Medical Coding, HIPAA Compliance, Patient Care, AI Diagnostics, Data Analysis",High,Low,54.6,Stable
+2021-09-12,Healthcare,General Practitioner,Đồng Nai,99,4177.24,11.61,Fresher,27,"SQL, Clinical Research",High,Low,80.0,Stable
+2021-09-16,Healthcare,Radiologist,Đà Nẵng,74,4933.43,8.76,Fresher,11,"HL7/FHIR, SQL, Radiology, Python",Medium,Low,69.5,Declining
+2021-09-22,Healthcare,General Practitioner,Bình Dương,95,6883.66,3.17,Fresher,2,"Surgery, Clinical Research, Patient Care",Medium,Low,63.2,Declining
+2021-09-23,Healthcare,Physical Therapist,Đà Nẵng,91,11919.08,9.93,Fresher,32,"AI Diagnostics, Surgery, Telemedicine, Clinical Research",Medium,Medium,55.7,Growing
+2021-09-23,Healthcare,Clinical Researcher,Hà Nội,93,11241.14,10.38,Fresher,35,"HL7/FHIR, Telemedicine, SQL",High,Medium,45.1,Stable
+2021-09-24,Healthcare,Nurse Practitioner,TP.HCM,78,38434.11,3.92,Senior,13,"HIPAA Compliance, HL7/FHIR, Python, Data Analysis",Low,Low,67.4,Growing
+2021-09-24,Healthcare,Hospital Administrator,Cần Thơ,77,24662.69,7.81,Junior,34,"Clinical Research, HIPAA Compliance, Python, Patient Care, Medical Coding",Medium,High,49.7,Growing
+2021-09-27,Healthcare,Clinical Researcher,Đà Nẵng,82,8475.8,4.07,Fresher,40,"HL7/FHIR, EMR Systems, SQL, Surgery",Medium,Low,65.5,Stable
+2021-09-29,Healthcare,Healthcare IT Specialist,Đà Nẵng,62,38174.68,4.92,Senior,12,"Data Analysis, Patient Care, Pharmacology, SQL",Low,Low,81.7,Growing
+2021-09-29,Healthcare,Medical Data Analyst,Hải Phòng,91,37201.92,8.39,Senior,6,"Pharmacology, Python, Radiology, Medical Coding, EMR Systems",Medium,Medium,54.9,Growing
+2021-09-29,Healthcare,Physical Therapist,Bình Dương,84,10879.75,10.19,Fresher,11,"Surgery, Radiology",High,Low,81.3,Growing
+2021-09-30,Healthcare,Hospital Administrator,Hải Phòng,78,21245.11,9.17,Junior,31,"HL7/FHIR, AI Diagnostics, Data Analysis",Medium,High,65.5,Stable
+2021-10-02,Healthcare,Biomedical Engineer,Hà Nội,86,39462.61,3.07,Senior,37,"Patient Care, Python, AI Diagnostics, SQL",Medium,Low,79.1,Declining
+2021-10-02,Healthcare,Physical Therapist,Bình Dương,85,15969.71,3.53,Fresher,12,"SQL, Radiology, EMR Systems",Low,Low,53.1,Growing
+2021-10-02,Healthcare,Medical Data Analyst,Hà Nội,83,16992.14,10.85,Junior,22,"HIPAA Compliance, Surgery, Clinical Research",High,Low,71.3,Stable
+2021-10-08,Healthcare,Nurse Practitioner,Bình Dương,81,38364.92,4.21,Senior,36,"Telemedicine, AI Diagnostics, Python, Medical Coding, Surgery",Low,Low,56.9,Growing
+2021-10-09,Healthcare,General Practitioner,Cần Thơ,92,34702.53,5.4,Senior,30,"EMR Systems, Pharmacology",Low,Low,67.2,Growing
+2021-10-12,Healthcare,Healthcare IT Specialist,Cần Thơ,84,10186.33,3.21,Fresher,28,"AI Diagnostics, Data Analysis, Pharmacology",Low,Low,56.1,Stable
+2021-10-13,Healthcare,Medical Data Analyst,Đồng Nai,93,37789.1,4.7,Senior,5,"EMR Systems, Surgery",High,Medium,74.1,Growing
+2021-10-16,Healthcare,Telemedicine Physician,TP.HCM,75,13457.96,11.57,Junior,34,"EMR Systems, AI Diagnostics, Surgery",High,Low,51.1,Growing
+2021-10-19,Healthcare,Telemedicine Physician,Bình Dương,62,15211.72,4.32,Junior,7,"AI Diagnostics, EMR Systems, SQL, Pharmacology",High,Low,69.1,Stable
+2021-10-20,Healthcare,Telemedicine Physician,Bình Dương,89,13341.11,5.17,Fresher,9,"SQL, Patient Care, Telemedicine, Data Analysis, HL7/FHIR",Low,Low,79.6,Stable
+2021-10-20,Healthcare,Radiologist,Hà Nội,87,21554.67,6.33,Junior,13,"Data Analysis, EMR Systems, HL7/FHIR, Telemedicine",Medium,Low,79.7,Growing
+2021-10-20,Healthcare,Hospital Administrator,Cần Thơ,83,8466.99,6.75,Fresher,40,"Telemedicine, EMR Systems, HIPAA Compliance, AI Diagnostics, Clinical Research",High,Low,82.5,Growing
+2021-10-22,Healthcare,Hospital Administrator,Đồng Nai,82,39258.23,7.84,Senior,2,"HIPAA Compliance, AI Diagnostics",Low,Medium,70.5,Growing
+2021-10-22,Healthcare,Hospital Administrator,Bình Dương,86,36181.35,6.45,Senior,20,"HIPAA Compliance, Surgery, AI Diagnostics, Pharmacology",High,Medium,64.0,Growing
+2021-10-24,Healthcare,Radiologist,Bình Dương,80,10028.96,7.1,Fresher,28,"EMR Systems, Patient Care, Radiology, AI Diagnostics, Medical Coding",Medium,Low,57.1,Stable
+2021-10-25,Healthcare,Radiologist,Hà Nội,84,40592.2,7.71,Senior,40,"Python, SQL, Telemedicine, Pharmacology",High,Medium,56.2,Stable
+2021-10-25,Healthcare,Physical Therapist,Bình Dương,68,19636.46,3.73,Junior,17,"SQL, Python",High,Medium,73.9,Growing
+2021-10-28,Healthcare,Medical Data Analyst,Hà Nội,79,4089.4,8.0,Fresher,6,"Pharmacology, Data Analysis, EMR Systems, SQL, Clinical Research",Medium,Medium,69.5,Stable
+2021-10-29,Healthcare,Medical Data Analyst,Đồng Nai,96,38199.05,11.7,Senior,24,"Python, Pharmacology, Patient Care, AI Diagnostics",Medium,Low,68.5,Growing
+2021-11-02,Healthcare,Pharmacist,Cần Thơ,81,23160.31,8.84,Junior,20,"AI Diagnostics, Python",Medium,Low,47.1,Growing
+2021-11-03,Healthcare,General Practitioner,Bình Dương,86,34712.68,8.71,Senior,39,"Medical Coding, Surgery, HL7/FHIR, AI Diagnostics",Medium,Medium,52.6,Stable
+2021-11-08,Healthcare,Biomedical Engineer,Đồng Nai,84,29683.93,5.81,Senior,14,"AI Diagnostics, Clinical Research, HL7/FHIR, SQL",Medium,Low,58.0,Growing
+2021-11-10,Healthcare,Hospital Administrator,Đà Nẵng,93,22271.52,5.73,Junior,21,"Clinical Research, HL7/FHIR",Medium,Low,61.9,Growing
+2021-11-13,Healthcare,Clinical Researcher,Cần Thơ,82,5234.6,11.82,Fresher,5,"SQL, Pharmacology",High,Medium,55.1,Stable
+2021-11-13,Healthcare,Telemedicine Physician,Hà Nội,94,40091.61,7.67,Senior,10,"Radiology, EMR Systems, Patient Care",High,Low,48.9,Stable
+2021-11-14,Healthcare,Hospital Administrator,Đà Nẵng,87,17783.55,8.36,Junior,4,"Patient Care, Radiology, Telemedicine, Pharmacology",Medium,Medium,76.3,Growing
+2021-11-15,Healthcare,Healthcare IT Specialist,Cần Thơ,81,20358.33,8.52,Junior,9,"Patient Care, Surgery, SQL",Medium,Low,54.1,Growing
+2021-11-18,Healthcare,Clinical Researcher,TP.HCM,80,15776.94,9.59,Fresher,19,"Radiology, Data Analysis, HL7/FHIR, Patient Care",Medium,High,49.2,Stable
+2021-11-18,Healthcare,Medical Data Analyst,Bình Dương,93,32167.9,8.46,Senior,9,"Surgery, Radiology, AI Diagnostics, Medical Coding, EMR Systems",Medium,Low,59.8,Growing
+2021-11-20,Healthcare,Surgeon,TP.HCM,77,39559.2,6.01,Senior,11,"HL7/FHIR, Clinical Research",Medium,High,51.1,Growing
+2021-11-20,Healthcare,Physical Therapist,Hà Nội,90,12960.62,6.56,Fresher,34,"Patient Care, Radiology, Telemedicine",Medium,Low,46.6,Declining
+2021-11-21,Healthcare,Radiologist,Bình Dương,88,13488.48,8.13,Fresher,23,"EMR Systems, SQL, Pharmacology, Medical Coding, AI Diagnostics",High,Medium,70.3,Growing
+2021-11-23,Healthcare,Physical Therapist,Bình Dương,82,4105.0,5.17,Fresher,10,"Surgery, Radiology, Python, HIPAA Compliance",High,Medium,75.9,Growing
+2021-11-24,Healthcare,Telemedicine Physician,Cần Thơ,88,38637.74,11.17,Senior,5,"Telemedicine, Python, Data Analysis, Medical Coding, Radiology",Medium,Low,48.8,Growing
+2021-11-29,Healthcare,Nurse Practitioner,TP.HCM,89,18522.73,5.37,Junior,36,"AI Diagnostics, EMR Systems, Telemedicine",Low,Low,49.9,Stable
+2021-11-29,Healthcare,Medical Data Analyst,Bình Dương,100,22839.72,7.93,Junior,28,"EMR Systems, Radiology, HL7/FHIR, HIPAA Compliance",Medium,Medium,67.3,Stable
+2021-12-05,Healthcare,Clinical Researcher,Đồng Nai,99,36008.36,7.19,Senior,15,"SQL, Telemedicine, Radiology",Low,High,45.4,Growing
+2021-12-05,Healthcare,Medical Data Analyst,Đà Nẵng,94,8640.72,5.46,Fresher,11,"Medical Coding, Radiology, EMR Systems, Clinical Research, Telemedicine",Medium,Low,65.0,Declining
+2021-12-06,Healthcare,Radiologist,Đà Nẵng,100,33704.47,8.93,Senior,28,"Telemedicine, Radiology",Low,Low,45.8,Stable
+2021-12-07,Healthcare,Telemedicine Physician,Hà Nội,87,16344.73,10.18,Junior,25,"EMR Systems, Surgery, HIPAA Compliance, AI Diagnostics, Telemedicine",High,Low,80.5,Stable
+2021-12-08,Healthcare,Nurse Practitioner,Hà Nội,93,32822.39,11.01,Senior,16,"EMR Systems, Data Analysis, HL7/FHIR, Python, AI Diagnostics",Low,Medium,68.8,Growing
+2021-12-08,Healthcare,Radiologist,Đà Nẵng,56,22940.82,9.54,Junior,31,"HL7/FHIR, AI Diagnostics, Radiology, Telemedicine",High,High,53.4,Growing
+2021-12-10,Healthcare,Physical Therapist,Hà Nội,85,38533.53,10.19,Senior,18,"SQL, Pharmacology",Medium,Low,80.4,Growing
+2021-12-11,Healthcare,Pharmacist,Hải Phòng,79,22626.97,6.49,Junior,17,"Surgery, Data Analysis, EMR Systems, Python, Patient Care",Medium,High,59.5,Growing
+2021-12-11,Healthcare,Radiologist,Đà Nẵng,63,11021.88,8.13,Fresher,11,"Patient Care, Surgery",Medium,Medium,77.3,Stable
+2021-12-15,Healthcare,Pharmacist,Bình Dương,92,41250.02,9.77,Senior,17,"Clinical Research, Radiology",Low,Medium,72.9,Stable
+2021-12-17,Healthcare,Nurse Practitioner,Hà Nội,94,16856.48,3.76,Junior,4,"HIPAA Compliance, AI Diagnostics, HL7/FHIR, Patient Care",Medium,Low,61.6,Growing
+2021-12-18,Healthcare,Healthcare IT Specialist,Hải Phòng,91,24476.05,7.09,Junior,12,"HIPAA Compliance, Medical Coding",Medium,High,56.5,Declining
+2021-12-28,Healthcare,Physical Therapist,Đồng Nai,103,19225.6,3.12,Junior,7,"Clinical Research, Surgery",High,Medium,52.3,Growing
+2021-12-29,Healthcare,Pharmacist,Hà Nội,91,45078.94,7.59,Senior,35,"Telemedicine, AI Diagnostics, Patient Care, EMR Systems",High,Low,65.4,Growing
+2021-12-29,Healthcare,Nurse Practitioner,Hải Phòng,81,32656.98,3.77,Senior,39,"Clinical Research, HIPAA Compliance, Surgery, Patient Care",High,Low,52.6,Growing
+2021-12-31,Healthcare,Physical Therapist,Cần Thơ,96,12853.43,5.57,Fresher,0,"SQL, EMR Systems, HIPAA Compliance, HL7/FHIR",Medium,Medium,58.5,Growing
+2022-01-03,Healthcare,General Practitioner,Đồng Nai,99,38492.71,8.02,Senior,19,"Surgery, Pharmacology, Python",High,Low,74.0,Growing
+2022-01-03,Healthcare,Clinical Researcher,Cần Thơ,99,5598.88,9.08,Fresher,17,"Python, Clinical Research, EMR Systems, AI Diagnostics",Low,Low,63.7,Growing
+2022-01-04,Healthcare,Hospital Administrator,Đà Nẵng,89,24640.22,11.46,Junior,38,"Data Analysis, Clinical Research",Medium,Low,70.1,Growing
+2022-01-07,Healthcare,General Practitioner,Hải Phòng,92,23441.19,5.3,Junior,20,"Python, HL7/FHIR, Data Analysis, SQL",High,Low,73.9,Growing
+2022-01-09,Healthcare,Surgeon,Đà Nẵng,93,4133.2,3.15,Fresher,38,"HIPAA Compliance, Python",Medium,Medium,56.0,Growing
+2022-01-10,Healthcare,Medical Data Analyst,Đồng Nai,94,18916.36,5.13,Junior,38,"EMR Systems, SQL, Surgery, HIPAA Compliance, Clinical Research",Medium,Low,56.3,Growing
+2022-01-10,Healthcare,Radiologist,Bình Dương,91,36101.27,4.6,Senior,0,"SQL, HIPAA Compliance, EMR Systems, Python",High,Medium,49.0,Growing
+2022-01-11,Healthcare,Healthcare IT Specialist,Bình Dương,81,39379.53,8.17,Senior,26,"Pharmacology, Python",Medium,Low,72.9,Stable
+2022-01-11,Healthcare,Pharmacist,Đồng Nai,110,29526.27,4.65,Senior,9,"Python, EMR Systems, SQL",Low,Low,62.8,Stable
+2022-01-18,Healthcare,Biomedical Engineer,Bình Dương,84,35645.08,10.48,Senior,7,"Clinical Research, EMR Systems, Pharmacology, AI Diagnostics, Medical Coding",Medium,Medium,59.9,Growing
+2022-01-22,Healthcare,Biomedical Engineer,TP.HCM,98,19964.65,10.88,Junior,36,"Surgery, Pharmacology, Data Analysis",High,Medium,69.1,Stable
+2022-01-23,Healthcare,Physical Therapist,Hải Phòng,87,9148.82,6.09,Fresher,21,"Pharmacology, Medical Coding",High,Low,59.6,Stable
+2022-01-24,Healthcare,Nurse Practitioner,Đồng Nai,80,9398.38,8.13,Fresher,39,"Clinical Research, Telemedicine, Radiology",High,Low,62.7,Stable
+2022-01-26,Healthcare,Hospital Administrator,Cần Thơ,78,29180.68,8.51,Senior,39,"HL7/FHIR, Data Analysis",High,High,55.6,Growing
+2022-01-27,Healthcare,Healthcare IT Specialist,Đà Nẵng,85,11670.74,7.64,Junior,32,"HIPAA Compliance, Telemedicine",High,High,81.2,Stable
+2022-01-29,Healthcare,General Practitioner,Đà Nẵng,96,43161.27,4.88,Senior,1,"Radiology, Medical Coding",Low,High,46.8,Growing
+2022-01-30,Healthcare,General Practitioner,Bình Dương,96,18352.32,7.28,Junior,9,"Clinical Research, Medical Coding, Patient Care, Python",High,High,68.6,Growing
+2022-02-04,Healthcare,Pharmacist,Bình Dương,89,19356.91,4.67,Junior,26,"HIPAA Compliance, Pharmacology, AI Diagnostics, HL7/FHIR, EMR Systems",Medium,High,50.9,Growing
+2022-02-04,Healthcare,Surgeon,Đà Nẵng,81,35002.27,4.45,Senior,8,"Patient Care, AI Diagnostics, Data Analysis, Clinical Research",Medium,Low,57.3,Stable
+2022-02-05,Healthcare,Physical Therapist,Cần Thơ,80,4149.4,7.69,Fresher,28,"Surgery, Telemedicine, HIPAA Compliance, Pharmacology, Data Analysis",Low,Low,51.5,Growing
+2022-02-09,Healthcare,Nurse Practitioner,Cần Thơ,98,11982.88,9.32,Fresher,1,"Data Analysis, Patient Care, EMR Systems, Medical Coding, Telemedicine",Medium,Low,61.1,Growing
+2022-02-11,Healthcare,Physical Therapist,Bình Dương,80,15364.79,5.23,Fresher,30,"HL7/FHIR, Patient Care",High,Medium,66.0,Stable
+2022-02-17,Healthcare,Hospital Administrator,Đồng Nai,91,36078.5,11.18,Senior,24,"Data Analysis, SQL",Medium,Medium,59.3,Declining
+2022-02-18,Healthcare,Clinical Researcher,TP.HCM,102,21705.51,6.28,Junior,7,"Patient Care, HL7/FHIR, Medical Coding, Data Analysis, Python",High,High,78.9,Growing
+2022-02-18,Healthcare,Radiologist,Đà Nẵng,107,13704.76,3.3,Junior,16,"EMR Systems, Python, Medical Coding, Radiology, Patient Care",Medium,High,68.0,Stable
+2022-02-19,Healthcare,Healthcare IT Specialist,Bình Dương,85,16055.4,7.04,Fresher,1,"AI Diagnostics, Medical Coding, Clinical Research, Patient Care, Radiology",Medium,Medium,46.8,Stable
+2022-02-21,Healthcare,Medical Data Analyst,Hà Nội,79,10195.7,7.33,Fresher,7,"HL7/FHIR, SQL",Medium,Low,55.4,Declining
+2022-02-26,Healthcare,Biomedical Engineer,Bình Dương,86,22108.06,7.08,Junior,15,"Data Analysis, Patient Care",Low,Low,79.3,Growing
+2022-02-28,Healthcare,Hospital Administrator,Cần Thơ,72,6225.58,3.85,Fresher,12,"SQL, Clinical Research, HL7/FHIR, Patient Care",Medium,Low,48.9,Growing
+2022-03-01,Healthcare,Healthcare IT Specialist,Cần Thơ,98,11229.67,11.27,Fresher,23,"HIPAA Compliance, SQL, Patient Care",High,Medium,74.3,Stable
+2022-03-03,Healthcare,Radiologist,Bình Dương,97,38923.84,8.34,Senior,25,"Patient Care, Clinical Research, Radiology, Telemedicine",Low,Medium,84.6,Growing
+2022-03-03,Healthcare,Physical Therapist,Bình Dương,86,13320.2,9.48,Fresher,25,"Radiology, Pharmacology, SQL",High,Low,68.3,Declining
+2022-03-05,Healthcare,Healthcare IT Specialist,Hải Phòng,61,38575.46,6.15,Senior,23,"Clinical Research, Medical Coding, Surgery",High,Medium,59.6,Declining
+2022-03-06,Healthcare,Physical Therapist,Hà Nội,89,19577.98,8.93,Junior,38,"Data Analysis, Pharmacology, HIPAA Compliance, HL7/FHIR, Python",High,Medium,67.8,Growing
+2022-03-07,Healthcare,General Practitioner,Bình Dương,83,25685.78,3.23,Junior,36,"EMR Systems, SQL, AI Diagnostics, Clinical Research, Pharmacology",Low,Medium,58.1,Growing
+2022-03-08,Healthcare,Clinical Researcher,Hải Phòng,91,32667.34,5.58,Senior,28,"Medical Coding, Python, HL7/FHIR",High,Low,75.3,Growing
+2022-03-08,Healthcare,Telemedicine Physician,TP.HCM,91,9400.33,10.45,Fresher,13,"Medical Coding, HL7/FHIR, Patient Care, AI Diagnostics",Medium,Low,58.5,Stable
+2022-03-08,Healthcare,Surgeon,Đà Nẵng,79,36907.87,9.28,Senior,4,"Radiology, Data Analysis, Surgery",Low,Low,53.9,Stable
+2022-03-09,Healthcare,General Practitioner,Đồng Nai,97,40310.29,5.8,Senior,8,"Surgery, Medical Coding, Patient Care",Low,Low,53.9,Growing
+2022-03-10,Healthcare,Radiologist,Hà Nội,99,20048.78,8.68,Junior,37,"Telemedicine, HIPAA Compliance, EMR Systems, Data Analysis",High,Medium,51.1,Stable
+2022-03-10,Healthcare,General Practitioner,TP.HCM,84,17622.5,10.11,Fresher,28,"Telemedicine, Data Analysis",Medium,Low,65.5,Growing
+2022-03-10,Healthcare,Clinical Researcher,Bình Dương,89,16390.1,9.89,Junior,32,"SQL, Telemedicine",Medium,High,74.7,Growing
+2022-03-11,Healthcare,Healthcare IT Specialist,Hà Nội,82,8641.5,4.82,Fresher,37,"Radiology, Telemedicine, Python",High,Low,47.2,Growing
+2022-03-12,Healthcare,Telemedicine Physician,TP.HCM,86,16881.56,4.52,Fresher,4,"Surgery, Medical Coding, Patient Care",Low,Low,77.8,Stable
+2022-03-12,Healthcare,Telemedicine Physician,Đồng Nai,99,38017.18,10.93,Senior,7,"HL7/FHIR, Radiology, AI Diagnostics",Medium,Medium,70.4,Growing
+2022-03-14,Healthcare,Radiologist,TP.HCM,76,13439.43,4.96,Fresher,33,"Medical Coding, SQL, Surgery",Low,Low,47.5,Stable
+2022-03-14,Healthcare,Radiologist,Đà Nẵng,95,18575.35,8.25,Fresher,31,"Patient Care, HIPAA Compliance, Surgery, SQL",Medium,Medium,84.7,Growing
+2022-03-19,Healthcare,Pharmacist,Cần Thơ,74,15324.63,7.19,Fresher,26,"Patient Care, Clinical Research, Python, Pharmacology",High,High,83.2,Declining
+2022-03-21,Healthcare,Physical Therapist,Đà Nẵng,90,15650.59,7.59,Junior,6,"Data Analysis, Pharmacology",High,Low,73.5,Growing
+2022-03-26,Healthcare,Telemedicine Physician,TP.HCM,114,23024.83,3.38,Junior,36,"Radiology, SQL, Telemedicine, Python",Medium,Medium,55.4,Stable
+2022-03-26,Healthcare,General Practitioner,TP.HCM,91,35387.8,10.69,Senior,4,"Telemedicine, HL7/FHIR, Radiology, Pharmacology",Low,Low,76.3,Growing
+2022-03-26,Healthcare,Nurse Practitioner,TP.HCM,97,18711.42,10.47,Junior,26,"Radiology, Medical Coding, SQL, Surgery",Medium,Low,53.2,Declining
+2022-03-26,Healthcare,Biomedical Engineer,Hà Nội,96,38466.99,4.63,Senior,21,"Telemedicine, SQL, Pharmacology",High,High,60.7,Growing
+2022-03-28,Healthcare,General Practitioner,TP.HCM,78,8997.86,7.61,Fresher,36,"Radiology, Pharmacology, Python, HIPAA Compliance, Telemedicine",High,Medium,63.9,Declining
+2022-03-29,Healthcare,General Practitioner,Bình Dương,94,15207.59,9.51,Junior,0,"Pharmacology, SQL, Medical Coding, Clinical Research",Medium,Low,52.8,Stable
+2022-04-04,Healthcare,Biomedical Engineer,Hà Nội,92,40165.54,10.61,Senior,12,"HL7/FHIR, Surgery, Clinical Research",Medium,High,46.4,Growing
+2022-04-05,Healthcare,Nurse Practitioner,TP.HCM,94,25097.7,5.6,Junior,15,"Data Analysis, EMR Systems, SQL",Medium,Medium,53.1,Stable
+2022-04-06,Healthcare,Surgeon,Đồng Nai,84,22409.63,7.17,Junior,7,"Python, Radiology, Data Analysis, SQL, HL7/FHIR",Medium,Low,78.8,Stable
+2022-04-06,Healthcare,Medical Data Analyst,Cần Thơ,77,12071.12,7.76,Fresher,13,"Python, SQL",High,Medium,59.2,Stable
+2022-04-10,Healthcare,Clinical Researcher,TP.HCM,101,42371.49,7.0,Senior,14,"Data Analysis, Radiology, Patient Care, Surgery",Medium,Low,68.6,Growing
+2022-04-10,Healthcare,Biomedical Engineer,Đà Nẵng,97,9569.72,9.68,Fresher,0,"Medical Coding, Clinical Research",Medium,Low,54.5,Stable
+2022-04-14,Healthcare,Pharmacist,Đồng Nai,83,7301.48,4.41,Fresher,25,"EMR Systems, Clinical Research, Telemedicine",Medium,Low,76.1,Stable
+2022-04-16,Healthcare,Biomedical Engineer,Hải Phòng,95,17194.01,6.99,Junior,1,"Medical Coding, Radiology, Pharmacology, EMR Systems",Medium,Medium,71.3,Growing
+2022-04-18,Healthcare,Physical Therapist,Bình Dương,73,26057.54,5.05,Junior,15,"Clinical Research, HIPAA Compliance, Data Analysis, Radiology",Medium,Medium,78.7,Growing
+2022-04-18,Healthcare,Hospital Administrator,TP.HCM,91,7966.61,3.18,Fresher,16,"Medical Coding, Radiology, Clinical Research, Pharmacology",Medium,Low,47.1,Stable
+2022-04-20,Healthcare,Biomedical Engineer,TP.HCM,96,13265.22,8.47,Fresher,29,"EMR Systems, Python, Medical Coding",Medium,Low,83.4,Growing
+2022-04-21,Healthcare,Biomedical Engineer,Hà Nội,94,23986.79,9.13,Junior,35,"Radiology, HIPAA Compliance, Patient Care, Data Analysis",Medium,High,65.3,Growing
+2022-04-21,Healthcare,Radiologist,Đồng Nai,85,22323.59,8.88,Junior,36,"Pharmacology, HL7/FHIR, Telemedicine, AI Diagnostics",Medium,Low,65.4,Declining
+2022-04-24,Healthcare,Radiologist,Hà Nội,88,15340.45,4.69,Fresher,31,"Patient Care, Medical Coding, Data Analysis, EMR Systems, Python",Medium,Medium,64.2,Stable
+2022-04-24,Healthcare,Hospital Administrator,TP.HCM,85,21570.02,9.37,Junior,29,"Pharmacology, Surgery, SQL, Clinical Research, Data Analysis",Medium,Low,67.0,Stable
+2022-04-27,Healthcare,Healthcare IT Specialist,Đồng Nai,86,27506.54,7.99,Junior,11,"Patient Care, SQL, AI Diagnostics",Low,Low,69.5,Stable
+2022-04-27,Healthcare,Surgeon,Đà Nẵng,97,39869.55,5.37,Senior,39,"Radiology, Telemedicine",High,Medium,58.2,Growing
+2022-04-27,Healthcare,Physical Therapist,Cần Thơ,97,17287.96,3.09,Junior,37,"HL7/FHIR, SQL",Low,Low,69.3,Declining
+2022-04-29,Healthcare,Hospital Administrator,Đồng Nai,92,22712.22,11.03,Junior,29,"Clinical Research, Telemedicine, SQL, Data Analysis, Python",High,Medium,77.7,Stable
+2022-04-29,Healthcare,Clinical Researcher,Hà Nội,106,22823.68,10.93,Junior,38,"HL7/FHIR, SQL",Low,Medium,71.0,Growing
+2022-05-01,Healthcare,Clinical Researcher,Bình Dương,106,19792.2,10.49,Junior,27,"Surgery, EMR Systems, HL7/FHIR, Radiology, HIPAA Compliance",Low,Medium,69.6,Growing
+2022-05-01,Healthcare,Radiologist,Đồng Nai,87,36137.95,8.2,Senior,20,"AI Diagnostics, Medical Coding, Surgery, HL7/FHIR, HIPAA Compliance",High,Medium,77.2,Declining
+2022-05-02,Healthcare,Biomedical Engineer,Hải Phòng,91,28904.65,11.58,Junior,10,"Radiology, Surgery, HIPAA Compliance, Medical Coding, Pharmacology",Low,Low,84.8,Growing
+2022-05-05,Healthcare,General Practitioner,Hải Phòng,88,17059.83,5.29,Fresher,29,"EMR Systems, HL7/FHIR, Python",Medium,Low,51.8,Stable
+2022-05-08,Healthcare,Clinical Researcher,Bình Dương,100,17935.07,3.09,Fresher,16,"HIPAA Compliance, SQL, Patient Care, Clinical Research",Low,Low,70.0,Growing
+2022-05-15,Healthcare,Physical Therapist,Đồng Nai,101,9947.26,9.58,Fresher,33,"AI Diagnostics, Medical Coding, SQL, Radiology",Medium,Medium,77.2,Growing
+2022-05-16,Healthcare,Clinical Researcher,Đồng Nai,96,32844.14,9.66,Senior,10,"Telemedicine, AI Diagnostics, Pharmacology",High,Low,75.0,Stable
+2022-05-17,Healthcare,Clinical Researcher,Hải Phòng,73,40730.3,8.77,Senior,11,"AI Diagnostics, EMR Systems, Pharmacology",Low,Low,66.8,Growing
+2022-05-22,Healthcare,Biomedical Engineer,Bình Dương,114,39155.05,10.06,Senior,8,"Telemedicine, AI Diagnostics, Radiology, HIPAA Compliance, Data Analysis",High,Low,78.1,Growing
+2022-05-22,Healthcare,Nurse Practitioner,Hà Nội,100,11321.17,4.69,Junior,31,"Radiology, Python, Clinical Research",Medium,Low,79.3,Stable
+2022-05-23,Healthcare,Telemedicine Physician,Cần Thơ,86,37266.77,7.83,Senior,40,"SQL, Patient Care, Python, Data Analysis",High,Medium,78.1,Growing
+2022-05-23,Healthcare,Biomedical Engineer,Hà Nội,96,18696.42,7.06,Junior,33,"Medical Coding, SQL, Pharmacology, Surgery",Medium,Low,59.8,Stable
+2022-05-24,Healthcare,Hospital Administrator,Cần Thơ,98,20354.09,3.98,Junior,34,"SQL, Data Analysis, HL7/FHIR",High,Medium,69.9,Stable
+2022-05-27,Healthcare,Physical Therapist,Hà Nội,88,24553.48,10.91,Junior,31,"Radiology, EMR Systems, Patient Care",High,Medium,73.4,Declining
+2022-05-29,Healthcare,Hospital Administrator,Cần Thơ,96,27548.8,7.19,Junior,26,"Patient Care, Surgery, Telemedicine, Data Analysis, EMR Systems",High,Medium,53.3,Growing
+2022-05-30,Healthcare,Medical Data Analyst,Đồng Nai,103,14559.34,5.17,Junior,4,"Telemedicine, Python, Medical Coding, Pharmacology, EMR Systems",Medium,Medium,58.9,Stable
+2022-05-31,Healthcare,Hospital Administrator,Hải Phòng,95,32048.77,9.23,Senior,9,"HL7/FHIR, Radiology, Telemedicine, HIPAA Compliance",High,Low,45.7,Stable
+2022-06-06,Healthcare,Clinical Researcher,Hải Phòng,98,39468.25,8.34,Senior,4,"SQL, HL7/FHIR, Radiology, AI Diagnostics",High,Low,78.0,Growing
+2022-06-08,Healthcare,Surgeon,Bình Dương,105,38890.41,9.99,Senior,33,"Radiology, HIPAA Compliance, Clinical Research, HL7/FHIR, SQL",Medium,Low,49.7,Stable
+2022-06-08,Healthcare,Healthcare IT Specialist,Bình Dương,99,21236.38,9.42,Junior,26,"HL7/FHIR, Patient Care, Clinical Research",Low,Low,84.9,Stable
+2022-06-11,Healthcare,Physical Therapist,Đà Nẵng,104,39126.42,7.4,Senior,23,"Python, Data Analysis",Medium,Low,48.0,Stable
+2022-06-12,Healthcare,Medical Data Analyst,Cần Thơ,98,36382.54,8.48,Senior,24,"Radiology, Data Analysis",High,Low,62.4,Growing
+2022-06-12,Healthcare,Clinical Researcher,TP.HCM,90,13593.43,4.01,Fresher,27,"EMR Systems, Medical Coding, Data Analysis, Python",Low,Medium,53.7,Stable
+2022-06-13,Healthcare,Medical Data Analyst,TP.HCM,86,10700.69,10.2,Fresher,37,"EMR Systems, HIPAA Compliance",Low,Low,81.6,Stable
+2022-06-14,Healthcare,Biomedical Engineer,Đà Nẵng,81,25632.8,9.87,Junior,18,"Surgery, Medical Coding",Low,Low,47.6,Growing
+2022-06-16,Healthcare,Physical Therapist,Đà Nẵng,84,37839.02,9.71,Senior,30,"Pharmacology, HL7/FHIR, SQL, Clinical Research, Python",Medium,Medium,57.5,Growing
+2022-06-16,Healthcare,General Practitioner,TP.HCM,95,19629.16,10.69,Junior,9,"HIPAA Compliance, Python, Medical Coding",High,Low,68.0,Stable
+2022-06-19,Healthcare,Medical Data Analyst,Cần Thơ,83,16336.68,9.45,Fresher,39,"Python, HIPAA Compliance, AI Diagnostics, Patient Care, Radiology",High,Low,64.1,Growing
+2022-06-19,Healthcare,Hospital Administrator,TP.HCM,104,7591.18,9.72,Fresher,22,"Radiology, Surgery",High,Medium,61.7,Declining
+2022-06-20,Healthcare,Clinical Researcher,Hà Nội,98,10312.57,6.34,Fresher,15,"SQL, HL7/FHIR, Clinical Research, Medical Coding, AI Diagnostics",Medium,Medium,53.1,Stable
+2022-06-21,Healthcare,Telemedicine Physician,Đồng Nai,88,21515.79,8.32,Junior,0,"Medical Coding, Pharmacology, Clinical Research, Telemedicine",Low,Medium,81.4,Stable
+2022-06-23,Healthcare,General Practitioner,Đà Nẵng,80,32170.28,5.14,Senior,21,"Patient Care, Radiology",High,Low,45.6,Stable
+2022-06-23,Healthcare,Clinical Researcher,TP.HCM,96,29032.21,10.5,Junior,33,"Clinical Research, Radiology, Data Analysis, Patient Care, EMR Systems",Medium,Low,46.1,Growing
+2022-06-24,Healthcare,Healthcare IT Specialist,Hà Nội,107,9789.94,4.59,Fresher,21,"Telemedicine, Surgery, EMR Systems",Medium,Low,67.3,Growing
+2022-06-24,Healthcare,Medical Data Analyst,TP.HCM,93,34483.22,7.27,Senior,17,"HIPAA Compliance, HL7/FHIR, Data Analysis",Medium,Low,66.3,Stable
+2022-06-26,Healthcare,Pharmacist,Cần Thơ,89,41512.19,4.11,Senior,23,"Data Analysis, AI Diagnostics",High,High,73.9,Growing
+2022-06-28,Healthcare,Nurse Practitioner,TP.HCM,109,41320.75,3.52,Senior,0,"SQL, HIPAA Compliance, Medical Coding, Pharmacology",Medium,Medium,69.6,Stable
+2022-06-28,Healthcare,Physical Therapist,Đồng Nai,94,17639.55,3.99,Junior,37,"AI Diagnostics, SQL, HIPAA Compliance, Python",High,Low,84.2,Growing
+2022-07-02,Healthcare,Clinical Researcher,Hải Phòng,110,19210.48,8.95,Junior,12,"Telemedicine, Pharmacology, SQL, Radiology, HIPAA Compliance",High,Low,84.6,Stable
+2022-07-02,Healthcare,Clinical Researcher,Cần Thơ,108,38426.28,7.74,Senior,1,"Radiology, Patient Care, Python, Data Analysis",Medium,Low,83.0,Stable
+2022-07-02,Healthcare,Hospital Administrator,Hà Nội,85,41799.3,6.79,Senior,16,"Clinical Research, Telemedicine, Data Analysis, Python, Surgery",High,Low,45.6,Growing
+2022-07-04,Healthcare,Healthcare IT Specialist,Đồng Nai,95,7562.08,10.26,Fresher,34,"Radiology, HIPAA Compliance, Clinical Research, Medical Coding, Patient Care",High,Medium,49.2,Stable
+2022-07-04,Healthcare,Nurse Practitioner,Hà Nội,104,12465.01,9.81,Fresher,1,"Clinical Research, HL7/FHIR, Surgery",Low,Medium,84.9,Growing
+2022-07-06,Healthcare,Hospital Administrator,Đồng Nai,89,8996.87,6.69,Fresher,1,"EMR Systems, Radiology, Python, Telemedicine, Pharmacology",High,Low,57.7,Growing
+2022-07-08,Healthcare,Physical Therapist,Đồng Nai,113,8356.15,7.53,Fresher,37,"Clinical Research, AI Diagnostics, Pharmacology, Radiology",Medium,Low,81.9,Stable
+2022-07-08,Healthcare,Physical Therapist,Cần Thơ,100,9292.64,7.31,Fresher,8,"SQL, Clinical Research, Data Analysis, HL7/FHIR, Surgery",Low,Low,66.0,Stable
+2022-07-11,Healthcare,Radiologist,Hà Nội,100,12014.13,6.73,Fresher,36,"Clinical Research, Telemedicine, SQL, Data Analysis",Medium,Low,69.2,Growing
+2022-07-11,Healthcare,Clinical Researcher,Cần Thơ,96,7756.96,9.72,Fresher,19,"HL7/FHIR, Pharmacology, HIPAA Compliance, Surgery",High,Low,60.2,Stable
+2022-07-15,Healthcare,Surgeon,Bình Dương,102,50020.92,5.99,Senior,28,"AI Diagnostics, EMR Systems, Telemedicine, Clinical Research, Medical Coding",High,Medium,78.1,Stable
+2022-07-16,Healthcare,General Practitioner,TP.HCM,102,20444.05,8.06,Junior,32,"Data Analysis, Telemedicine",High,High,60.7,Growing
+2022-07-16,Healthcare,Medical Data Analyst,TP.HCM,96,38113.85,4.65,Senior,11,"Clinical Research, HIPAA Compliance",Low,Medium,47.7,Stable
+2022-07-17,Healthcare,Clinical Researcher,Đà Nẵng,91,7492.93,7.62,Fresher,13,"Data Analysis, Telemedicine, Radiology, SQL, Python",High,Low,48.3,Growing
+2022-07-17,Healthcare,Telemedicine Physician,Bình Dương,93,6707.77,3.28,Fresher,37,"Pharmacology, Radiology, Clinical Research",High,Medium,78.8,Growing
+2022-07-18,Healthcare,Telemedicine Physician,Hải Phòng,103,8167.11,5.46,Fresher,8,"HIPAA Compliance, EMR Systems",Medium,Low,63.7,Stable
+2022-07-20,Healthcare,Biomedical Engineer,Hà Nội,83,24119.38,6.54,Junior,14,"Radiology, Pharmacology, Clinical Research, AI Diagnostics",Medium,Low,85.0,Stable
+2022-07-22,Healthcare,Healthcare IT Specialist,TP.HCM,107,36559.91,5.4,Senior,22,"Surgery, Pharmacology, Radiology, Medical Coding",Medium,High,77.3,Declining
+2022-07-23,Healthcare,Surgeon,Hà Nội,92,39657.41,3.27,Senior,32,"Patient Care, HIPAA Compliance, Data Analysis",Medium,Medium,84.6,Growing
+2022-07-24,Healthcare,Nurse Practitioner,Cần Thơ,94,11486.23,10.8,Fresher,36,"Pharmacology, AI Diagnostics, Data Analysis",High,Medium,58.8,Stable
+2022-07-25,Healthcare,Clinical Researcher,Bình Dương,91,11227.2,9.45,Fresher,0,"Medical Coding, Surgery, HL7/FHIR, EMR Systems",Medium,Medium,83.0,Stable
+2022-07-28,Healthcare,Nurse Practitioner,Cần Thơ,106,19680.63,5.94,Junior,25,"Surgery, Data Analysis",Medium,Low,73.6,Growing
+2022-07-30,Healthcare,Medical Data Analyst,Đồng Nai,94,43321.37,11.58,Senior,1,"Telemedicine, SQL, HL7/FHIR",Medium,Low,45.8,Growing
+2022-08-01,Healthcare,Pharmacist,Cần Thơ,90,11725.23,10.74,Fresher,4,"Medical Coding, SQL",Low,Medium,55.0,Stable
+2022-08-01,Healthcare,Medical Data Analyst,Bình Dương,84,39854.54,5.84,Senior,27,"Clinical Research, HL7/FHIR, Telemedicine",High,Low,50.2,Growing
+2022-08-07,Healthcare,Surgeon,Đà Nẵng,96,13874.73,3.06,Fresher,16,"Python, Clinical Research, Data Analysis, Radiology, EMR Systems",High,Medium,81.3,Declining
+2022-08-08,Healthcare,Healthcare IT Specialist,Đồng Nai,98,23898.9,10.45,Junior,8,"EMR Systems, Data Analysis, Patient Care",Medium,Low,79.0,Growing
+2022-08-09,Healthcare,Telemedicine Physician,Cần Thơ,99,20568.44,10.42,Junior,38,"Clinical Research, AI Diagnostics, Python, Pharmacology",Medium,Low,61.8,Stable
+2022-08-11,Healthcare,Hospital Administrator,Hải Phòng,94,39575.99,3.78,Senior,8,"Medical Coding, EMR Systems, SQL, AI Diagnostics, Radiology",High,Low,70.4,Growing
+2022-08-12,Healthcare,Pharmacist,Hà Nội,107,37443.4,4.97,Senior,6,"Radiology, Clinical Research, Patient Care, EMR Systems",High,Medium,57.9,Stable
+2022-08-14,Healthcare,Healthcare IT Specialist,TP.HCM,95,7421.97,5.48,Fresher,4,"Python, HL7/FHIR, AI Diagnostics",Low,Low,71.2,Growing
+2022-08-16,Healthcare,General Practitioner,Bình Dương,93,31633.92,4.12,Senior,19,"Surgery, AI Diagnostics",Medium,Low,58.3,Stable
+2022-08-16,Healthcare,Healthcare IT Specialist,Hà Nội,90,40266.82,8.26,Senior,28,"HL7/FHIR, EMR Systems, Patient Care, Python",Medium,High,65.8,Growing
+2022-08-18,Healthcare,Hospital Administrator,Hà Nội,94,9748.15,10.32,Fresher,24,"Telemedicine, EMR Systems, Medical Coding, HIPAA Compliance, Surgery",Low,Medium,80.2,Growing
+2022-08-19,Healthcare,Medical Data Analyst,Hà Nội,95,33273.87,10.54,Senior,31,"HIPAA Compliance, Surgery, Python, Data Analysis, Patient Care",Medium,Medium,67.6,Stable
+2022-08-20,Healthcare,Hospital Administrator,Đà Nẵng,102,10359.13,4.78,Fresher,2,"Telemedicine, Radiology",Medium,Low,78.0,Stable
+2022-08-20,Healthcare,General Practitioner,TP.HCM,101,39883.33,11.15,Senior,20,"AI Diagnostics, Medical Coding, Pharmacology, Telemedicine, Radiology",High,Medium,65.4,Stable
+2022-08-24,Healthcare,Hospital Administrator,TP.HCM,93,39829.49,4.68,Senior,8,"SQL, Data Analysis, Patient Care, HL7/FHIR",High,Medium,66.2,Growing
+2022-08-27,Healthcare,Physical Therapist,Bình Dương,98,17459.4,6.22,Junior,1,"HL7/FHIR, EMR Systems, SQL",Medium,Low,56.0,Stable
+2022-09-01,Healthcare,Hospital Administrator,Hải Phòng,121,25276.08,10.44,Junior,6,"HL7/FHIR, Clinical Research, Python, EMR Systems",Low,Low,59.1,Stable
+2022-09-01,Healthcare,Healthcare IT Specialist,Bình Dương,101,20392.5,9.29,Junior,11,"Medical Coding, EMR Systems, Surgery, Clinical Research",High,Low,66.3,Growing
+2022-09-05,Healthcare,Clinical Researcher,Cần Thơ,103,16048.12,4.99,Fresher,40,"Patient Care, Pharmacology",High,Low,53.0,Stable
+2022-09-06,Healthcare,Physical Therapist,Cần Thơ,118,16382.07,3.24,Fresher,6,"Python, Clinical Research",Medium,Medium,77.8,Growing
+2022-09-09,Healthcare,Pharmacist,Cần Thơ,87,20358.69,9.58,Junior,34,"Pharmacology, Clinical Research, Medical Coding, Python",High,High,71.0,Growing
+2022-09-09,Healthcare,Telemedicine Physician,Đồng Nai,97,34714.2,6.58,Senior,16,"SQL, Pharmacology, Data Analysis, Clinical Research",Medium,Low,61.5,Growing
+2022-09-10,Healthcare,Radiologist,Bình Dương,95,23635.94,8.25,Junior,38,"Medical Coding, Clinical Research, HIPAA Compliance, AI Diagnostics, HL7/FHIR",High,Low,63.6,Stable
+2022-09-14,Healthcare,Nurse Practitioner,Hà Nội,92,38104.6,3.63,Senior,9,"Medical Coding, Clinical Research, EMR Systems, SQL",Medium,Low,58.5,Stable
+2022-09-16,Healthcare,Healthcare IT Specialist,Bình Dương,92,22849.47,4.86,Junior,25,"Data Analysis, Patient Care, AI Diagnostics",Medium,Medium,57.5,Growing
+2022-09-18,Healthcare,Hospital Administrator,Đà Nẵng,107,21038.22,7.27,Junior,24,"EMR Systems, HL7/FHIR, Clinical Research, Radiology, Pharmacology",Low,Low,79.6,Growing
+2022-09-21,Healthcare,Surgeon,Đồng Nai,106,22895.25,11.89,Junior,10,"HL7/FHIR, Surgery",High,High,59.8,Growing
+2022-09-22,Healthcare,Medical Data Analyst,TP.HCM,100,23806.22,5.85,Junior,31,"HL7/FHIR, Data Analysis, EMR Systems, HIPAA Compliance, Medical Coding",High,Low,64.1,Growing
+2022-09-26,Healthcare,Pharmacist,TP.HCM,88,23793.58,3.55,Junior,1,"Clinical Research, Medical Coding",Low,Medium,62.2,Growing
+2022-09-27,Healthcare,Pharmacist,Đà Nẵng,115,29909.56,8.42,Senior,23,"HL7/FHIR, SQL, Python",Medium,Low,82.9,Growing
+2022-09-28,Healthcare,Radiologist,Đồng Nai,105,16557.77,4.43,Junior,40,"Data Analysis, Telemedicine, EMR Systems, Medical Coding, Python",Medium,Low,64.5,Growing
+2022-10-02,Healthcare,Nurse Practitioner,Hải Phòng,111,24622.57,11.93,Junior,3,"AI Diagnostics, Python, EMR Systems, Pharmacology",Medium,Low,54.9,Growing
+2022-10-02,Healthcare,Pharmacist,Hà Nội,107,39809.16,5.6,Senior,9,"Clinical Research, EMR Systems, Pharmacology, AI Diagnostics",Low,Medium,66.3,Growing
+2022-10-03,Healthcare,Surgeon,Hà Nội,90,16180.23,8.15,Junior,29,"Patient Care, Data Analysis",High,Low,48.3,Stable
+2022-10-06,Healthcare,Healthcare IT Specialist,TP.HCM,98,14235.83,3.04,Junior,40,"Radiology, Pharmacology, Telemedicine, HIPAA Compliance, Medical Coding",Medium,Low,82.3,Growing
+2022-10-08,Healthcare,Nurse Practitioner,Đà Nẵng,89,4296.4,6.82,Fresher,18,"HL7/FHIR, Surgery",High,Low,56.0,Stable
+2022-10-12,Healthcare,Surgeon,Hà Nội,81,5934.64,10.41,Fresher,32,"Patient Care, HIPAA Compliance, Data Analysis, Telemedicine",High,Medium,74.8,Growing
+2022-10-13,Healthcare,Physical Therapist,Hà Nội,104,21482.39,9.15,Junior,40,"Patient Care, SQL, Radiology, Clinical Research, Pharmacology",Low,Low,75.4,Growing
+2022-10-14,Healthcare,Clinical Researcher,Hải Phòng,100,41284.66,10.45,Senior,14,"HIPAA Compliance, Telemedicine",High,Low,75.8,Stable
+2022-10-15,Healthcare,Radiologist,Hà Nội,99,36241.01,8.17,Senior,9,"HIPAA Compliance, Radiology, Surgery, Telemedicine, Pharmacology",Low,Low,74.9,Growing
+2022-10-18,Healthcare,Surgeon,Đồng Nai,90,37356.51,4.49,Senior,14,"EMR Systems, HIPAA Compliance, SQL, Data Analysis, Surgery",Medium,Medium,71.3,Stable
+2022-10-23,Healthcare,Clinical Researcher,Bình Dương,107,21359.08,11.52,Junior,3,"Pharmacology, EMR Systems",Medium,Medium,66.4,Declining
+2022-10-23,Healthcare,Radiologist,Hải Phòng,94,10858.67,7.27,Fresher,27,"Pharmacology, SQL, EMR Systems, Telemedicine",High,Low,58.7,Growing
+2022-10-23,Healthcare,Clinical Researcher,Bình Dương,99,40852.65,9.29,Senior,34,"Data Analysis, Patient Care",Medium,High,59.3,Stable
+2022-10-23,Healthcare,Hospital Administrator,Cần Thơ,87,23469.54,8.87,Junior,11,"HIPAA Compliance, Patient Care",Medium,High,60.9,Stable
+2022-10-26,Healthcare,Nurse Practitioner,Đồng Nai,97,41021.69,5.44,Senior,38,"Telemedicine, Clinical Research, Pharmacology, Radiology",High,Low,67.7,Stable
+2022-10-26,Healthcare,Telemedicine Physician,Đà Nẵng,97,38524.52,7.67,Senior,31,"Data Analysis, Telemedicine, SQL, HL7/FHIR, AI Diagnostics",Medium,Medium,66.8,Stable
+2022-10-27,Healthcare,General Practitioner,Hải Phòng,100,39485.45,3.48,Senior,25,"Python, Medical Coding, AI Diagnostics",Low,Low,48.2,Stable
+2022-10-28,Healthcare,Physical Therapist,Đà Nẵng,96,6206.57,8.96,Fresher,2,"Python, Radiology, Data Analysis, Patient Care",High,Medium,80.2,Growing
+2022-10-30,Healthcare,Biomedical Engineer,Cần Thơ,102,22440.37,8.84,Junior,10,"Pharmacology, Surgery, Patient Care, Radiology",Low,Medium,76.1,Stable
+2022-11-01,Healthcare,Nurse Practitioner,Hải Phòng,108,23007.33,11.72,Junior,11,"Medical Coding, SQL, HIPAA Compliance, Data Analysis, Surgery",Medium,Low,83.6,Stable
+2022-11-02,Healthcare,Surgeon,Đà Nẵng,92,43314.42,8.03,Senior,8,"HIPAA Compliance, Telemedicine, HL7/FHIR, AI Diagnostics",Medium,Low,49.8,Growing
+2022-11-02,Healthcare,Biomedical Engineer,Bình Dương,116,11914.44,5.8,Fresher,29,"Clinical Research, SQL, Pharmacology, AI Diagnostics",Medium,Medium,61.0,Growing
+2022-11-06,Healthcare,Radiologist,Đà Nẵng,105,7818.9,6.2,Fresher,7,"SQL, Pharmacology, Python, Data Analysis",Low,Medium,69.6,Stable
+2022-11-06,Healthcare,Pharmacist,Cần Thơ,97,35713.55,5.24,Senior,9,"AI Diagnostics, Data Analysis, Telemedicine, Patient Care",High,Low,45.8,Growing
+2022-11-08,Healthcare,Medical Data Analyst,TP.HCM,111,13836.27,3.62,Fresher,29,"Patient Care, EMR Systems, Surgery, Python",Medium,Low,62.7,Growing
+2022-11-09,Healthcare,Clinical Researcher,Đà Nẵng,110,19325.07,5.38,Junior,16,"HL7/FHIR, Medical Coding, Python",Medium,Low,47.3,Growing
+2022-11-10,Healthcare,Clinical Researcher,TP.HCM,112,14849.55,7.85,Junior,0,"Patient Care, Python, HL7/FHIR, Telemedicine",High,Medium,52.4,Stable
+2022-11-11,Healthcare,Telemedicine Physician,TP.HCM,103,43370.61,3.62,Senior,0,"EMR Systems, Radiology, Surgery, HIPAA Compliance, Pharmacology",High,Low,73.9,Stable
+2022-11-20,Healthcare,Pharmacist,Bình Dương,93,20226.39,4.15,Junior,35,"Data Analysis, Patient Care, Medical Coding, EMR Systems, Telemedicine",High,Medium,53.4,Stable
+2022-11-26,Healthcare,Nurse Practitioner,Bình Dương,105,21840.88,3.13,Junior,19,"HIPAA Compliance, Python, Clinical Research",Medium,Low,51.2,Growing
+2022-11-27,Healthcare,Surgeon,Đồng Nai,100,13953.17,3.19,Fresher,5,"HIPAA Compliance, Python, Pharmacology, EMR Systems, Data Analysis",High,Low,84.8,Stable
+2022-11-27,Healthcare,Clinical Researcher,Hải Phòng,102,10220.46,11.66,Fresher,26,"HL7/FHIR, Python",Low,High,73.3,Stable
+2022-11-28,Healthcare,Hospital Administrator,Bình Dương,109,22002.94,4.82,Junior,11,"Data Analysis, HIPAA Compliance",Medium,High,59.0,Growing
+2022-11-28,Healthcare,Biomedical Engineer,TP.HCM,104,38000.12,8.62,Senior,35,"SQL, Medical Coding, Telemedicine, Pharmacology, EMR Systems",Medium,Low,62.7,Growing
+2022-11-29,Healthcare,General Practitioner,Đà Nẵng,110,36263.82,6.68,Senior,1,"Radiology, EMR Systems",High,Low,68.8,Growing
+2022-12-01,Healthcare,Biomedical Engineer,TP.HCM,101,36856.17,9.11,Senior,25,"AI Diagnostics, Radiology, Medical Coding, Telemedicine, Clinical Research",High,Low,73.7,Growing
+2022-12-03,Healthcare,Hospital Administrator,Đà Nẵng,99,23521.29,10.34,Junior,7,"Clinical Research, SQL, EMR Systems, HL7/FHIR, Data Analysis",High,Medium,79.4,Stable
+2022-12-04,Healthcare,Medical Data Analyst,Hải Phòng,91,24959.17,11.31,Junior,21,"SQL, EMR Systems",Medium,High,52.0,Stable
+2022-12-05,Healthcare,Telemedicine Physician,Đồng Nai,109,8239.28,3.77,Fresher,3,"HIPAA Compliance, Radiology, Pharmacology, Data Analysis",Medium,Medium,69.4,Growing
+2022-12-06,Healthcare,Nurse Practitioner,Đà Nẵng,106,20796.89,4.39,Junior,20,"Python, Pharmacology, AI Diagnostics",Medium,Low,61.1,Growing
+2022-12-08,Healthcare,Clinical Researcher,Đà Nẵng,101,11664.48,10.9,Fresher,3,"Patient Care, Medical Coding",Medium,Low,72.6,Stable
+2022-12-10,Healthcare,Biomedical Engineer,Bình Dương,102,10262.21,9.38,Fresher,0,"Medical Coding, Patient Care, Surgery",High,Low,76.8,Stable
+2022-12-12,Healthcare,Healthcare IT Specialist,TP.HCM,92,13148.31,6.75,Fresher,33,"Pharmacology, Telemedicine, HIPAA Compliance, Radiology, Surgery",Medium,Medium,47.1,Stable
+2022-12-16,Healthcare,Medical Data Analyst,TP.HCM,100,33967.76,6.85,Senior,22,"Radiology, Data Analysis, Surgery, EMR Systems",High,High,62.0,Growing
+2022-12-18,Healthcare,Radiologist,Đồng Nai,107,38029.61,6.0,Senior,10,"HL7/FHIR, SQL, Pharmacology, Clinical Research, Radiology",High,High,71.1,Growing
+2022-12-18,Healthcare,Healthcare IT Specialist,TP.HCM,102,15506.42,6.55,Junior,20,"Surgery, Patient Care, Python, Data Analysis, HL7/FHIR",Medium,Low,66.9,Stable
+2022-12-19,Healthcare,Telemedicine Physician,Hải Phòng,96,40261.66,8.35,Senior,5,"Radiology, HIPAA Compliance",Medium,Low,76.9,Stable
+2022-12-22,Healthcare,Radiologist,Đà Nẵng,96,10757.41,7.07,Fresher,31,"Python, Medical Coding, Pharmacology, SQL, Clinical Research",Medium,Low,65.2,Stable
+2022-12-23,Healthcare,Pharmacist,Hải Phòng,95,20598.23,10.64,Fresher,20,"EMR Systems, Python",Low,Low,51.4,Growing
+2022-12-27,Healthcare,Radiologist,Hà Nội,97,42084.96,5.39,Senior,37,"HL7/FHIR, Python, SQL",High,Medium,55.9,Growing
+2022-12-28,Healthcare,Radiologist,Hải Phòng,108,36341.32,10.16,Senior,13,"Data Analysis, EMR Systems, Pharmacology, SQL, AI Diagnostics",Medium,Low,56.3,Growing
+2022-12-29,Healthcare,Surgeon,Hà Nội,104,37963.29,8.95,Senior,34,"Surgery, Pharmacology, SQL, Telemedicine",Low,Low,52.9,Stable
+2022-12-29,Healthcare,Biomedical Engineer,Hà Nội,95,19976.45,6.1,Junior,25,"Data Analysis, HL7/FHIR",Medium,Low,51.4,Growing
+2022-12-29,Healthcare,Telemedicine Physician,Hải Phòng,95,37092.59,7.72,Senior,33,"AI Diagnostics, Surgery, Python, Pharmacology, Medical Coding",Medium,Low,52.8,Growing
+2023-01-01,Healthcare,Nurse Practitioner,Hà Nội,97,17890.77,8.52,Junior,5,"SQL, EMR Systems, Clinical Research",Medium,Medium,62.1,Growing
+2023-01-03,Healthcare,Physical Therapist,Đồng Nai,107,5647.01,5.9,Fresher,24,"AI Diagnostics, HL7/FHIR",High,High,79.3,Growing
+2023-01-04,Healthcare,Hospital Administrator,Cần Thơ,107,18248.82,11.46,Junior,36,"SQL, EMR Systems",Medium,Medium,83.5,Growing
+2023-01-05,Healthcare,General Practitioner,Hải Phòng,95,36500.39,9.94,Senior,30,"Patient Care, HL7/FHIR",Low,Low,57.7,Declining
+2023-01-05,Healthcare,Nurse Practitioner,TP.HCM,103,21482.52,8.79,Junior,24,"Python, EMR Systems, HL7/FHIR, Radiology, Telemedicine",Medium,High,80.3,Growing
+2023-01-08,Healthcare,Pharmacist,Đồng Nai,96,19117.6,9.46,Junior,20,"HIPAA Compliance, SQL, Patient Care, Medical Coding, AI Diagnostics",Medium,Low,83.0,Growing
+2023-01-09,Healthcare,Surgeon,Hà Nội,102,15471.41,8.12,Fresher,28,"HL7/FHIR, HIPAA Compliance, Surgery",High,Low,51.3,Stable
+2023-01-11,Healthcare,Telemedicine Physician,Hà Nội,111,7953.71,5.99,Fresher,4,"Clinical Research, HL7/FHIR, Pharmacology",Low,Medium,80.3,Stable
+2023-01-11,Healthcare,Telemedicine Physician,Đà Nẵng,88,17625.79,10.64,Junior,23,"Data Analysis, HL7/FHIR, AI Diagnostics, Pharmacology",Medium,Low,59.0,Declining
+2023-01-12,Healthcare,Clinical Researcher,TP.HCM,94,20304.86,10.29,Junior,17,"EMR Systems, HL7/FHIR, Data Analysis, SQL, Clinical Research",Medium,Low,73.2,Stable
+2023-01-14,Healthcare,Pharmacist,Hà Nội,103,40324.92,6.08,Senior,7,"Python, SQL",High,Low,71.0,Stable
+2023-01-16,Healthcare,Telemedicine Physician,Đà Nẵng,109,12567.92,7.86,Fresher,29,"HIPAA Compliance, Clinical Research, Radiology",High,Low,81.9,Growing
+2023-01-27,Healthcare,Nurse Practitioner,TP.HCM,96,23281.38,10.79,Junior,1,"Surgery, Python, Patient Care, HL7/FHIR, Radiology",High,Low,49.4,Stable
+2023-01-28,Healthcare,Nurse Practitioner,Bình Dương,101,9700.09,8.32,Fresher,13,"Clinical Research, Medical Coding, HIPAA Compliance, EMR Systems",Low,Low,49.0,Stable
+2023-01-28,Healthcare,Hospital Administrator,TP.HCM,105,13437.17,6.39,Fresher,32,"EMR Systems, Clinical Research",High,Low,69.0,Stable
+2023-01-29,Healthcare,General Practitioner,Đồng Nai,91,24827.42,11.67,Junior,24,"Pharmacology, Medical Coding, HIPAA Compliance, SQL, Data Analysis",Low,Low,81.3,Growing
+2023-01-30,Healthcare,General Practitioner,Đồng Nai,112,10307.42,7.14,Fresher,26,"Clinical Research, Radiology, Telemedicine",High,Medium,84.6,Declining
+2023-02-03,Healthcare,Surgeon,TP.HCM,100,44290.04,6.08,Senior,10,"Patient Care, HL7/FHIR",High,Low,47.7,Declining
+2023-02-06,Healthcare,Surgeon,Bình Dương,115,21203.89,9.44,Junior,18,"Data Analysis, Medical Coding, HL7/FHIR",High,Low,77.2,Stable
+2023-02-10,Healthcare,Radiologist,Bình Dương,121,26041.97,10.68,Junior,17,"HIPAA Compliance, Data Analysis, EMR Systems",High,Low,60.9,Stable
+2023-02-12,Healthcare,Surgeon,Bình Dương,106,33582.33,7.99,Senior,1,"Radiology, SQL, Patient Care, Medical Coding, Data Analysis",High,Medium,55.1,Growing
+2023-02-13,Healthcare,Clinical Researcher,Bình Dương,107,20963.04,6.88,Junior,1,"Patient Care, Data Analysis, AI Diagnostics, Clinical Research, SQL",High,Low,67.2,Growing
+2023-02-14,Healthcare,Nurse Practitioner,Bình Dương,94,41895.73,11.62,Senior,2,"SQL, HL7/FHIR",High,High,57.1,Stable
+2023-02-14,Healthcare,Telemedicine Physician,Cần Thơ,114,22881.76,7.67,Junior,11,"HL7/FHIR, AI Diagnostics, Radiology, Surgery, Medical Coding",Medium,Low,49.7,Declining
+2023-02-18,Healthcare,Hospital Administrator,Bình Dương,99,20865.48,11.79,Junior,35,"AI Diagnostics, Radiology, EMR Systems, Python, Surgery",Low,Low,53.1,Growing
+2023-02-19,Healthcare,Clinical Researcher,Hải Phòng,109,25974.58,11.22,Junior,15,"Radiology, Surgery, Python, Clinical Research",High,Medium,75.1,Stable
+2023-02-19,Healthcare,Surgeon,Cần Thơ,117,11819.7,5.56,Fresher,10,"Pharmacology, HIPAA Compliance, Clinical Research",High,Low,70.5,Declining
+2023-02-21,Healthcare,Nurse Practitioner,Đà Nẵng,101,18244.4,8.69,Junior,18,"EMR Systems, Medical Coding, AI Diagnostics",Medium,Low,84.9,Growing
+2023-02-23,Healthcare,Pharmacist,Cần Thơ,106,21298.5,10.6,Junior,11,"Surgery, Clinical Research, SQL",High,Medium,78.4,Growing
+2023-02-23,Healthcare,General Practitioner,Đà Nẵng,95,16934.34,10.81,Junior,0,"HL7/FHIR, Medical Coding, Telemedicine, EMR Systems, Patient Care",Medium,Medium,66.5,Growing
+2023-02-26,Healthcare,Pharmacist,Hải Phòng,96,17841.37,9.32,Junior,13,"EMR Systems, Python, Clinical Research, HIPAA Compliance",Medium,Low,80.2,Growing
+2023-03-06,Healthcare,Surgeon,TP.HCM,108,23252.57,3.64,Junior,24,"EMR Systems, Clinical Research, Surgery, Radiology, HL7/FHIR",Medium,Medium,57.7,Growing
+2023-03-06,Healthcare,Clinical Researcher,Hà Nội,117,12443.18,7.07,Fresher,4,"Patient Care, Telemedicine",High,Medium,59.1,Growing
+2023-03-09,Healthcare,Hospital Administrator,Cần Thơ,107,11219.19,9.96,Fresher,21,"HIPAA Compliance, Radiology, Patient Care",Medium,Low,59.5,Stable
+2023-03-09,Healthcare,Biomedical Engineer,Bình Dương,99,42403.79,6.52,Senior,8,"Clinical Research, Python, SQL, HL7/FHIR",High,Medium,69.2,Growing
+2023-03-11,Healthcare,Healthcare IT Specialist,Cần Thơ,123,7186.27,7.25,Fresher,6,"Patient Care, HIPAA Compliance, Telemedicine, Surgery",Low,Low,58.9,Growing
+2023-03-13,Healthcare,Physical Therapist,TP.HCM,112,42419.45,8.61,Senior,9,"Telemedicine, Pharmacology, Medical Coding, Patient Care, Data Analysis",Medium,High,69.4,Declining
+2023-03-14,Healthcare,Physical Therapist,TP.HCM,111,9517.64,9.49,Fresher,8,"HIPAA Compliance, Telemedicine",High,High,52.0,Growing
+2023-03-19,Healthcare,Healthcare IT Specialist,Hải Phòng,104,12371.83,5.13,Fresher,6,"Pharmacology, Patient Care",High,Low,65.0,Declining
+2023-03-27,Healthcare,Nurse Practitioner,TP.HCM,104,17332.69,4.25,Fresher,36,"Surgery, SQL, EMR Systems, Telemedicine, Patient Care",Medium,Medium,56.7,Stable
+2023-03-28,Healthcare,Physical Therapist,Đồng Nai,101,16832.87,4.89,Fresher,27,"AI Diagnostics, Pharmacology, SQL, Patient Care, Medical Coding",Medium,Medium,51.2,Growing
+2023-03-30,Healthcare,Healthcare IT Specialist,Cần Thơ,88,12169.96,4.0,Fresher,30,"EMR Systems, Data Analysis",High,Low,49.2,Stable
+2023-04-01,Healthcare,Surgeon,Đà Nẵng,119,6985.32,11.05,Fresher,20,"Patient Care, HL7/FHIR",High,Medium,56.1,Stable
+2023-04-04,Healthcare,Medical Data Analyst,Đà Nẵng,105,12558.04,6.23,Fresher,29,"EMR Systems, Pharmacology, AI Diagnostics, Patient Care",High,Low,69.7,Stable
+2023-04-06,Healthcare,Nurse Practitioner,Bình Dương,122,41162.54,8.09,Senior,24,"HIPAA Compliance, Pharmacology, SQL, Clinical Research",High,Medium,66.9,Stable
+2023-04-07,Healthcare,Healthcare IT Specialist,Cần Thơ,107,37908.84,11.03,Senior,35,"HL7/FHIR, Python, Medical Coding, Pharmacology, Data Analysis",Low,Low,54.9,Stable
+2023-04-07,Healthcare,Healthcare IT Specialist,Hải Phòng,99,14032.81,3.09,Fresher,2,"Telemedicine, HIPAA Compliance, Patient Care",High,Low,73.6,Growing
+2023-04-09,Healthcare,Hospital Administrator,Đà Nẵng,101,34912.62,6.98,Senior,16,"Surgery, EMR Systems",Medium,Low,70.4,Growing
+2023-04-11,Healthcare,Hospital Administrator,Hà Nội,114,41017.19,11.28,Senior,17,"Clinical Research, Data Analysis",High,Medium,61.3,Growing
+2023-04-13,Healthcare,Pharmacist,Bình Dương,87,19604.46,4.54,Junior,33,"Pharmacology, Telemedicine, SQL",Low,Low,49.9,Stable
+2023-04-13,Healthcare,Pharmacist,Hà Nội,99,35482.33,10.73,Senior,17,"SQL, Pharmacology, Data Analysis",Medium,Low,54.7,Growing
+2023-04-14,Healthcare,Healthcare IT Specialist,Hà Nội,107,17809.42,5.03,Junior,0,"SQL, AI Diagnostics",Medium,Medium,59.1,Growing
+2023-04-15,Healthcare,Medical Data Analyst,Hải Phòng,84,36389.18,10.9,Senior,18,"EMR Systems, Medical Coding, Radiology, Python",Medium,Low,81.5,Declining
+2023-04-15,Healthcare,General Practitioner,Cần Thơ,115,22317.8,8.8,Junior,14,"Pharmacology, Telemedicine, Radiology",Medium,Low,56.2,Growing
+2023-04-16,Healthcare,Hospital Administrator,Đồng Nai,111,19886.95,11.35,Junior,40,"HIPAA Compliance, HL7/FHIR, Surgery, Radiology, Medical Coding",Low,Low,68.8,Stable
+2023-04-16,Healthcare,Hospital Administrator,Bình Dương,108,21786.68,4.89,Junior,15,"Data Analysis, Clinical Research",Medium,High,72.8,Growing
+2023-04-18,Healthcare,Hospital Administrator,Cần Thơ,111,42673.42,11.42,Senior,29,"EMR Systems, Surgery",Medium,Medium,76.9,Growing
+2023-04-19,Healthcare,Clinical Researcher,Đà Nẵng,105,12119.55,9.17,Fresher,9,"HL7/FHIR, Clinical Research, Pharmacology, Patient Care, Surgery",Low,Medium,78.6,Stable
+2023-04-22,Healthcare,General Practitioner,TP.HCM,116,22485.97,10.38,Junior,39,"HIPAA Compliance, HL7/FHIR, Telemedicine",Medium,High,72.6,Growing
+2023-04-28,Healthcare,Nurse Practitioner,TP.HCM,110,42200.58,7.23,Senior,6,"SQL, Clinical Research, Patient Care",Medium,Low,56.6,Growing
+2023-04-29,Healthcare,Healthcare IT Specialist,Đồng Nai,103,43033.12,9.42,Senior,0,"SQL, AI Diagnostics",Medium,Low,79.9,Declining
+2023-04-30,Healthcare,Biomedical Engineer,Đồng Nai,99,41434.55,10.07,Senior,33,"Telemedicine, Data Analysis, EMR Systems, AI Diagnostics, Medical Coding",High,Low,84.8,Stable
+2023-04-30,Healthcare,Physical Therapist,Bình Dương,115,13028.92,11.83,Fresher,3,"SQL, Surgery, Patient Care",Low,Low,71.9,Growing
+2023-05-03,Healthcare,General Practitioner,Cần Thơ,110,18588.76,3.86,Junior,2,"AI Diagnostics, EMR Systems, Radiology, Medical Coding, Surgery",Low,Low,67.6,Stable
+2023-05-04,Healthcare,Nurse Practitioner,Bình Dương,99,41959.23,11.03,Senior,25,"Clinical Research, HL7/FHIR",Low,Low,66.8,Stable
+2023-05-06,Healthcare,Telemedicine Physician,Đà Nẵng,110,8367.95,10.81,Fresher,13,"HIPAA Compliance, AI Diagnostics, HL7/FHIR, Pharmacology, Surgery",Low,Low,57.8,Growing
+2023-05-07,Healthcare,Biomedical Engineer,Bình Dương,95,40335.88,4.4,Senior,18,"EMR Systems, AI Diagnostics",High,Low,72.4,Growing
+2023-05-11,Healthcare,Hospital Administrator,Bình Dương,95,9086.89,7.31,Fresher,26,"EMR Systems, HL7/FHIR, Surgery, SQL",Low,Low,47.5,Growing
+2023-05-12,Healthcare,Radiologist,Cần Thơ,101,14901.97,11.59,Fresher,39,"Radiology, SQL, Clinical Research, Telemedicine",Medium,Low,79.6,Declining
+2023-05-16,Healthcare,Hospital Administrator,TP.HCM,115,38343.61,8.66,Senior,28,"Telemedicine, Clinical Research, Patient Care, Medical Coding",Medium,Low,68.9,Stable
+2023-05-16,Healthcare,Physical Therapist,Cần Thơ,110,15437.04,3.21,Fresher,16,"Patient Care, HL7/FHIR",Medium,Low,69.6,Stable
+2023-05-19,Healthcare,Medical Data Analyst,Cần Thơ,117,40909.81,7.42,Senior,39,"Data Analysis, Pharmacology, Clinical Research",High,Medium,73.2,Growing
+2023-05-19,Healthcare,Surgeon,Hải Phòng,121,39759.61,11.19,Senior,11,"Telemedicine, HIPAA Compliance, Python",Medium,Low,53.7,Growing
+2023-05-20,Healthcare,Surgeon,TP.HCM,98,7040.62,6.18,Fresher,35,"Clinical Research, Pharmacology, Python, SQL, Telemedicine",Medium,Low,69.6,Declining
+2023-05-21,Healthcare,Healthcare IT Specialist,Bình Dương,102,17227.29,8.64,Junior,18,"HL7/FHIR, SQL, Surgery",Medium,Medium,54.1,Growing
+2023-05-21,Healthcare,Radiologist,Đà Nẵng,101,4431.4,5.51,Fresher,0,"Telemedicine, Patient Care, HL7/FHIR",Medium,High,70.9,Declining
+2023-05-21,Healthcare,Healthcare IT Specialist,Hà Nội,98,9160.79,9.78,Fresher,26,"Surgery, Radiology",High,Low,82.4,Growing
+2023-05-25,Healthcare,Biomedical Engineer,Hải Phòng,120,33196.14,5.17,Senior,4,"Python, Clinical Research, HL7/FHIR",Medium,Medium,51.0,Growing
+2023-05-28,Healthcare,Telemedicine Physician,Cần Thơ,107,18033.74,8.48,Junior,12,"Patient Care, Python, Medical Coding, Pharmacology",Medium,Low,70.1,Growing
+2023-05-31,Healthcare,Biomedical Engineer,Hải Phòng,103,23428.74,7.94,Junior,13,"Clinical Research, Patient Care, EMR Systems, Data Analysis",Medium,Medium,62.9,Growing
+2023-06-02,Healthcare,Telemedicine Physician,Hải Phòng,96,25460.14,4.67,Junior,22,"SQL, Python, Surgery",High,Low,72.2,Growing
+2023-06-04,Healthcare,General Practitioner,TP.HCM,108,40006.81,9.49,Senior,31,"Medical Coding, Python",High,High,53.9,Growing
+2023-06-06,Healthcare,General Practitioner,Đà Nẵng,112,43921.02,10.5,Senior,28,"HIPAA Compliance, Surgery, Patient Care, Data Analysis, Python",High,Low,53.2,Stable
+2023-06-08,Healthcare,Telemedicine Physician,Đà Nẵng,108,16700.09,8.28,Fresher,23,"Clinical Research, EMR Systems",High,Low,81.6,Growing
+2023-06-09,Healthcare,Telemedicine Physician,Hà Nội,122,40379.39,3.61,Senior,27,"AI Diagnostics, Pharmacology",Medium,High,52.3,Stable
+2023-06-10,Healthcare,Healthcare IT Specialist,Cần Thơ,97,4443.4,8.73,Fresher,21,"Pharmacology, AI Diagnostics, Radiology",Low,Low,56.6,Stable
+2023-06-13,Healthcare,Telemedicine Physician,Đồng Nai,107,20624.32,6.82,Junior,8,"HIPAA Compliance, Radiology, EMR Systems, Patient Care",Medium,Low,60.6,Growing
+2023-06-13,Healthcare,Radiologist,Hải Phòng,91,22743.64,10.56,Junior,9,"Clinical Research, Pharmacology",Medium,Medium,81.8,Stable
+2023-06-16,Healthcare,Physical Therapist,Đồng Nai,116,45935.13,10.88,Senior,29,"Python, HIPAA Compliance, HL7/FHIR, Surgery, Data Analysis",Medium,Medium,54.7,Growing
+2023-06-16,Healthcare,Healthcare IT Specialist,Đồng Nai,98,23037.41,10.31,Junior,34,"Radiology, Pharmacology",Medium,Low,77.7,Stable
+2023-06-17,Healthcare,Healthcare IT Specialist,Hà Nội,115,14446.2,9.2,Fresher,6,"HIPAA Compliance, SQL, Python, Data Analysis, AI Diagnostics",Medium,Low,75.9,Stable
+2023-06-21,Healthcare,Physical Therapist,Cần Thơ,123,37261.22,11.57,Senior,2,"HL7/FHIR, Telemedicine",Low,Medium,69.5,Stable
+2023-06-22,Healthcare,Nurse Practitioner,TP.HCM,104,18286.56,5.42,Fresher,32,"SQL, Medical Coding, Telemedicine, Pharmacology, Clinical Research",Medium,Low,72.7,Growing
+2023-06-23,Healthcare,Surgeon,Đà Nẵng,109,9028.47,11.47,Junior,31,"HL7/FHIR, Radiology, Patient Care, Telemedicine",Medium,Low,58.0,Stable
+2023-06-24,Healthcare,Pharmacist,Đồng Nai,108,10140.72,3.26,Fresher,31,"Medical Coding, Python, Clinical Research, Patient Care, Surgery",Medium,Low,61.3,Growing
+2023-06-27,Healthcare,Clinical Researcher,Đà Nẵng,125,11234.05,4.98,Fresher,4,"Python, HIPAA Compliance, HL7/FHIR",Medium,Medium,62.0,Stable
+2023-06-27,Healthcare,Radiologist,Hải Phòng,106,14883.46,6.4,Fresher,32,"Telemedicine, Medical Coding, EMR Systems, SQL, Pharmacology",Low,Medium,83.0,Declining
+2023-06-28,Healthcare,Clinical Researcher,Bình Dương,118,11075.2,7.58,Fresher,21,"EMR Systems, HL7/FHIR, SQL, AI Diagnostics, Surgery",High,Low,58.4,Stable
+2023-06-29,Healthcare,Medical Data Analyst,Đồng Nai,107,12907.39,4.01,Junior,30,"SQL, Clinical Research, Telemedicine",High,High,76.4,Declining
+2023-06-29,Healthcare,Pharmacist,Hà Nội,127,17986.25,4.6,Junior,20,"Telemedicine, Patient Care, Medical Coding, Pharmacology, Surgery",High,Low,70.8,Growing
+2023-06-30,Healthcare,Physical Therapist,Bình Dương,107,42471.95,8.64,Senior,22,"Data Analysis, HIPAA Compliance, Patient Care",Medium,Low,52.4,Stable
+2023-06-30,Healthcare,Nurse Practitioner,Đà Nẵng,108,28022.7,5.98,Junior,29,"Surgery, Clinical Research",High,Low,60.9,Growing
+2023-07-03,Healthcare,Radiologist,TP.HCM,110,36780.9,8.41,Senior,32,"Radiology, Telemedicine, Medical Coding",Medium,Low,62.5,Stable
+2023-07-04,Healthcare,Pharmacist,Hà Nội,106,4457.8,3.9,Fresher,5,"Data Analysis, AI Diagnostics",High,Low,47.9,Stable
+2023-07-05,Healthcare,Radiologist,Bình Dương,104,44821.67,11.65,Senior,12,"Python, Patient Care, Data Analysis, Telemedicine",Low,Low,49.2,Growing
+2023-07-10,Healthcare,Biomedical Engineer,Hải Phòng,109,20454.84,3.81,Junior,12,"AI Diagnostics, Data Analysis, SQL, HL7/FHIR",High,Medium,71.6,Growing
+2023-07-11,Healthcare,Physical Therapist,Hà Nội,105,36974.92,4.98,Senior,0,"Telemedicine, Patient Care, EMR Systems",Low,Low,64.1,Growing
+2023-07-12,Healthcare,Telemedicine Physician,Hà Nội,112,9983.83,5.44,Fresher,32,"Radiology, Clinical Research",High,Medium,73.3,Growing
+2023-07-14,Healthcare,Pharmacist,Cần Thơ,119,11444.33,9.74,Fresher,30,"Radiology, Clinical Research, Patient Care, HIPAA Compliance, HL7/FHIR",High,Medium,52.1,Growing
+2023-07-14,Healthcare,Medical Data Analyst,Đồng Nai,111,15741.18,6.44,Junior,13,"Telemedicine, Pharmacology",Low,Low,76.0,Growing
+2023-07-14,Healthcare,Nurse Practitioner,Bình Dương,108,21839.97,4.23,Junior,28,"SQL, Python",Low,Medium,62.4,Declining
+2023-07-14,Healthcare,Biomedical Engineer,Cần Thơ,106,19087.75,8.8,Junior,20,"Python, Data Analysis, EMR Systems",Low,High,48.1,Stable
+2023-07-15,Healthcare,Nurse Practitioner,Cần Thơ,111,8457.47,6.22,Fresher,38,"SQL, HL7/FHIR, Data Analysis, Pharmacology",Low,Low,47.7,Stable
+2023-07-18,Healthcare,Healthcare IT Specialist,Đà Nẵng,129,44738.62,7.27,Senior,28,"Data Analysis, EMR Systems",Medium,Low,78.6,Declining
+2023-07-18,Healthcare,Telemedicine Physician,Bình Dương,101,39814.76,8.73,Senior,19,"HIPAA Compliance, Medical Coding, HL7/FHIR",Medium,Medium,84.3,Growing
+2023-07-22,Healthcare,Healthcare IT Specialist,Hải Phòng,107,16740.01,10.97,Junior,12,"HIPAA Compliance, Clinical Research, Patient Care",High,Low,67.3,Stable
+2023-07-22,Healthcare,Medical Data Analyst,Hà Nội,114,39842.68,6.11,Senior,23,"Python, Patient Care, Surgery, Clinical Research, EMR Systems",Medium,Low,72.9,Growing
+2023-07-22,Healthcare,General Practitioner,TP.HCM,126,37392.95,10.88,Senior,15,"Medical Coding, Clinical Research",High,Medium,51.5,Stable
+2023-07-24,Healthcare,Nurse Practitioner,TP.HCM,99,23440.17,6.75,Junior,29,"HL7/FHIR, Clinical Research, Surgery, HIPAA Compliance, AI Diagnostics",Medium,Low,79.8,Stable
+2023-07-24,Healthcare,Hospital Administrator,Bình Dương,98,10066.32,6.22,Fresher,8,"Radiology, Data Analysis, SQL, HL7/FHIR",Medium,Medium,64.2,Growing
+2023-07-26,Healthcare,Radiologist,Bình Dương,113,9823.27,3.41,Fresher,20,"HIPAA Compliance, Patient Care",High,Low,76.6,Declining
+2023-07-27,Healthcare,Healthcare IT Specialist,Đà Nẵng,113,36412.44,8.13,Senior,11,"HL7/FHIR, AI Diagnostics, Radiology, Surgery",Medium,Low,80.7,Stable
+2023-07-28,Healthcare,Pharmacist,Hải Phòng,105,36257.33,9.15,Senior,33,"Radiology, AI Diagnostics, Clinical Research, HL7/FHIR",Medium,Medium,45.1,Declining
+2023-07-29,Healthcare,Radiologist,TP.HCM,114,19668.29,7.45,Junior,7,"Data Analysis, AI Diagnostics",Low,High,69.7,Growing
+2023-08-02,Healthcare,Telemedicine Physician,Cần Thơ,107,25860.95,7.67,Junior,22,"Telemedicine, Surgery, HL7/FHIR, AI Diagnostics",Low,Medium,58.9,Growing
+2023-08-02,Healthcare,Physical Therapist,Cần Thơ,110,11157.75,5.46,Fresher,13,"Pharmacology, Telemedicine, Python, HIPAA Compliance",High,Low,84.8,Growing
+2023-08-06,Healthcare,Radiologist,Hải Phòng,115,41906.18,9.23,Senior,40,"Patient Care, Medical Coding, Data Analysis, HIPAA Compliance, AI Diagnostics",Medium,Low,68.8,Stable
+2023-08-08,Healthcare,Medical Data Analyst,Bình Dương,113,28682.91,4.34,Junior,3,"EMR Systems, Clinical Research, Python, Patient Care",Medium,Medium,62.9,Growing
+2023-08-09,Healthcare,Healthcare IT Specialist,Đà Nẵng,128,42263.11,6.49,Senior,35,"Python, Patient Care",Medium,Low,84.1,Growing
+2023-08-11,Healthcare,Telemedicine Physician,Đồng Nai,103,44618.98,7.54,Senior,3,"Surgery, Data Analysis",High,High,66.1,Growing
+2023-08-11,Healthcare,Physical Therapist,Hà Nội,117,45108.3,11.77,Senior,7,"HIPAA Compliance, Python, HL7/FHIR, Medical Coding",High,Low,62.7,Growing
+2023-08-19,Healthcare,Hospital Administrator,Hải Phòng,107,39317.91,9.68,Senior,33,"Medical Coding, Pharmacology, Telemedicine, SQL",Medium,Low,54.7,Growing
+2023-08-19,Healthcare,Pharmacist,Hải Phòng,112,13566.7,4.15,Fresher,17,"Medical Coding, Patient Care, HIPAA Compliance",Low,High,50.0,Growing
+2023-08-20,Healthcare,Nurse Practitioner,TP.HCM,106,17941.5,5.46,Junior,34,"Clinical Research, SQL, Medical Coding, Python",High,Medium,71.7,Growing
+2023-08-23,Healthcare,Pharmacist,Hà Nội,118,13360.57,5.55,Fresher,9,"Telemedicine, AI Diagnostics",Medium,Low,61.9,Growing
+2023-08-24,Healthcare,Healthcare IT Specialist,Đà Nẵng,110,19200.99,8.86,Junior,7,"Data Analysis, Telemedicine",Medium,Low,68.4,Growing
+2023-08-27,Healthcare,General Practitioner,Đồng Nai,111,4490.2,7.4,Fresher,9,"HL7/FHIR, Clinical Research, Data Analysis",Medium,Medium,67.2,Declining
+2023-08-30,Healthcare,Pharmacist,Cần Thơ,96,5314.09,6.43,Fresher,20,"Pharmacology, SQL, Clinical Research, Radiology, HL7/FHIR",Medium,Medium,79.2,Stable
+2023-09-05,Healthcare,Nurse Practitioner,Hải Phòng,117,24739.47,9.53,Junior,22,"Surgery, Medical Coding, HIPAA Compliance, EMR Systems",High,Low,50.1,Declining
+2023-09-06,Healthcare,Radiologist,Hà Nội,103,43218.44,5.72,Senior,11,"AI Diagnostics, Data Analysis, EMR Systems, Patient Care, HIPAA Compliance",Medium,Low,50.8,Stable
+2023-09-07,Healthcare,Biomedical Engineer,Hải Phòng,109,22592.29,11.32,Junior,25,"Medical Coding, Clinical Research, Pharmacology",High,Medium,66.8,Growing
+2023-09-09,Healthcare,Clinical Researcher,Bình Dương,116,39006.9,3.28,Senior,6,"SQL, Medical Coding, Radiology, Patient Care, HIPAA Compliance",Low,Medium,73.9,Stable
+2023-09-10,Healthcare,Medical Data Analyst,Bình Dương,127,23046.96,5.69,Junior,10,"HIPAA Compliance, Radiology, EMR Systems",Low,Medium,72.3,Stable
+2023-09-10,Healthcare,Biomedical Engineer,Hải Phòng,128,13737.53,9.48,Fresher,5,"Python, SQL, Medical Coding, Data Analysis",Medium,Low,70.6,Stable
+2023-09-13,Healthcare,Nurse Practitioner,Hải Phòng,117,12662.56,7.75,Fresher,27,"Clinical Research, EMR Systems, HL7/FHIR, Telemedicine",Low,Low,58.4,Growing
+2023-09-13,Healthcare,Hospital Administrator,Bình Dương,105,16961.87,11.55,Junior,34,"Clinical Research, Radiology",High,Low,75.6,Stable
+2023-09-15,Healthcare,Telemedicine Physician,Hải Phòng,112,41942.62,9.54,Senior,20,"Clinical Research, HIPAA Compliance, Data Analysis, Pharmacology",Medium,Low,79.2,Stable
+2023-09-18,Healthcare,Radiologist,TP.HCM,119,31852.66,6.34,Senior,14,"Pharmacology, SQL",High,Low,62.2,Stable
+2023-09-19,Healthcare,Telemedicine Physician,Đồng Nai,117,37643.02,4.0,Senior,25,"HL7/FHIR, AI Diagnostics",Medium,Low,50.3,Stable
+2023-09-21,Healthcare,Radiologist,Cần Thơ,116,8473.91,9.95,Fresher,10,"AI Diagnostics, Medical Coding",Medium,Low,52.6,Stable
+2023-09-22,Healthcare,Biomedical Engineer,Bình Dương,114,36674.36,10.05,Senior,32,"Surgery, HL7/FHIR, Python",High,High,48.2,Growing
+2023-09-25,Healthcare,Radiologist,Bình Dương,113,38057.68,9.36,Senior,22,"Radiology, Medical Coding, HIPAA Compliance",High,Low,64.5,Growing
+2023-09-28,Healthcare,Clinical Researcher,Đồng Nai,115,41646.73,9.38,Senior,10,"Telemedicine, HIPAA Compliance",Medium,Low,46.9,Growing
+2023-09-28,Healthcare,Biomedical Engineer,Hải Phòng,105,17936.71,6.64,Junior,0,"Radiology, Medical Coding, AI Diagnostics, Telemedicine, EMR Systems",High,Low,79.3,Growing
+2023-10-04,Healthcare,Surgeon,Hải Phòng,126,6073.81,9.14,Fresher,10,"AI Diagnostics, EMR Systems, Telemedicine",Medium,Medium,53.7,Growing
+2023-10-05,Healthcare,Healthcare IT Specialist,Đồng Nai,90,6828.5,7.15,Fresher,19,"SQL, EMR Systems",Medium,Low,53.9,Growing
+2023-10-10,Healthcare,Telemedicine Physician,Cần Thơ,102,11072.26,5.7,Fresher,30,"Python, Telemedicine, Data Analysis, SQL",Low,Medium,62.2,Stable
+2023-10-14,Healthcare,Medical Data Analyst,Hải Phòng,110,36485.02,9.48,Senior,36,"HL7/FHIR, Pharmacology",Medium,Low,82.1,Stable
+2023-10-15,Healthcare,Surgeon,TP.HCM,108,8825.35,5.66,Fresher,28,"HIPAA Compliance, Patient Care",High,Medium,80.0,Stable
+2023-10-17,Healthcare,Medical Data Analyst,Đồng Nai,115,45352.31,9.54,Senior,39,"Telemedicine, Python, HIPAA Compliance, EMR Systems, Data Analysis",Low,Low,52.9,Growing
+2023-10-21,Healthcare,Radiologist,TP.HCM,110,24617.79,5.46,Junior,29,"EMR Systems, Pharmacology, Radiology, Telemedicine, HL7/FHIR",High,High,51.3,Growing
+2023-10-21,Healthcare,Pharmacist,TP.HCM,108,42831.37,7.95,Senior,6,"Radiology, Python",Medium,Medium,69.1,Declining
+2023-10-25,Healthcare,Telemedicine Physician,Hà Nội,112,15786.64,4.24,Fresher,4,"Patient Care, Pharmacology, Telemedicine, Python, AI Diagnostics",Medium,Low,71.2,Growing
+2023-10-25,Healthcare,Physical Therapist,Bình Dương,113,11522.34,10.64,Fresher,20,"Python, Telemedicine, Pharmacology, HIPAA Compliance, HL7/FHIR",High,Medium,54.0,Stable
+2023-10-28,Healthcare,Medical Data Analyst,Đồng Nai,112,14598.36,11.99,Fresher,19,"EMR Systems, Python, Radiology, Data Analysis, SQL",Medium,Low,54.2,Stable
+2023-10-31,Healthcare,Telemedicine Physician,Cần Thơ,116,43904.89,5.47,Senior,14,"EMR Systems, Pharmacology, SQL",High,Low,71.6,Declining
+2023-11-02,Healthcare,Clinical Researcher,Đà Nẵng,120,41351.85,10.55,Senior,25,"AI Diagnostics, Clinical Research, Radiology, EMR Systems",Medium,Medium,48.0,Stable
+2023-11-02,Healthcare,Medical Data Analyst,TP.HCM,129,32228.56,10.32,Senior,17,"SQL, Patient Care, Data Analysis, Telemedicine, Python",Medium,High,54.0,Stable
+2023-11-04,Healthcare,Medical Data Analyst,TP.HCM,107,17227.29,4.31,Junior,33,"EMR Systems, SQL",Medium,Medium,65.4,Growing
+2023-11-06,Healthcare,Nurse Practitioner,Bình Dương,110,39260.69,7.24,Senior,24,"Telemedicine, Python, AI Diagnostics, HIPAA Compliance",Medium,Medium,78.7,Growing
+2023-11-08,Healthcare,Hospital Administrator,Đồng Nai,115,30520.05,7.07,Senior,27,"Patient Care, Python, EMR Systems, Medical Coding, AI Diagnostics",High,Medium,62.3,Growing
+2023-11-09,Healthcare,Nurse Practitioner,TP.HCM,123,46593.52,3.21,Senior,37,"Python, HL7/FHIR, Telemedicine, EMR Systems, HIPAA Compliance",Low,Medium,77.7,Growing
+2023-11-09,Healthcare,Medical Data Analyst,Cần Thơ,131,13272.31,11.89,Fresher,30,"HIPAA Compliance, Telemedicine, Medical Coding",Medium,Low,58.1,Stable
+2023-11-13,Healthcare,Hospital Administrator,Đồng Nai,118,37377.73,11.27,Senior,3,"Patient Care, Medical Coding",High,Medium,49.1,Growing
+2023-11-14,Healthcare,Physical Therapist,TP.HCM,108,15454.73,6.33,Junior,12,"Clinical Research, Data Analysis, Surgery, Pharmacology",Medium,Low,57.7,Stable
+2023-11-19,Healthcare,Surgeon,Hải Phòng,112,10852.44,5.52,Fresher,2,"HIPAA Compliance, Patient Care",Medium,Low,68.8,Declining
+2023-11-19,Healthcare,Biomedical Engineer,Đồng Nai,118,9875.97,5.99,Fresher,9,"EMR Systems, Surgery, Radiology, SQL",Medium,High,68.9,Declining
+2023-11-19,Healthcare,Healthcare IT Specialist,Đà Nẵng,117,42270.86,4.76,Senior,2,"Telemedicine, Medical Coding, EMR Systems, Python, Radiology",Medium,Low,62.5,Stable
+2023-11-20,Healthcare,Pharmacist,Cần Thơ,129,13216.08,3.45,Fresher,0,"EMR Systems, Data Analysis, Medical Coding",High,Medium,58.1,Growing
+2023-11-20,Healthcare,Medical Data Analyst,Bình Dương,106,12032.23,4.85,Fresher,5,"Data Analysis, AI Diagnostics, HL7/FHIR, EMR Systems",Medium,Low,77.2,Growing
+2023-11-25,Healthcare,Physical Therapist,Đà Nẵng,108,16201.97,10.88,Junior,26,"EMR Systems, Python",Medium,Medium,56.8,Stable
+2023-11-27,Healthcare,Clinical Researcher,Cần Thơ,111,28099.08,3.66,Junior,7,"HIPAA Compliance, Radiology, Python",Medium,Low,45.4,Stable
+2023-11-28,Healthcare,Surgeon,Đà Nẵng,122,15310.51,6.58,Fresher,37,"Medical Coding, HIPAA Compliance, Python, Surgery, HL7/FHIR",Medium,Low,45.2,Stable
+2023-11-29,Healthcare,Radiologist,Hải Phòng,122,20911.35,8.41,Junior,1,"Patient Care, Pharmacology, Clinical Research, HL7/FHIR",Low,High,48.2,Growing
+2023-11-30,Healthcare,Biomedical Engineer,TP.HCM,110,45867.02,6.55,Senior,23,"Pharmacology, Surgery, Medical Coding, AI Diagnostics",High,Low,45.7,Growing
+2023-12-02,Healthcare,Medical Data Analyst,Đồng Nai,119,17428.86,3.42,Junior,37,"AI Diagnostics, Patient Care, HL7/FHIR",High,Medium,52.0,Stable
+2023-12-03,Healthcare,Pharmacist,Bình Dương,102,50045.91,11.39,Senior,11,"EMR Systems, Data Analysis, Telemedicine",Low,Medium,54.9,Growing
+2023-12-03,Healthcare,Hospital Administrator,Đà Nẵng,105,24698.77,7.37,Junior,8,"Patient Care, EMR Systems, Medical Coding, Surgery",High,Low,46.8,Stable
+2023-12-03,Healthcare,Hospital Administrator,Bình Dương,109,18898.32,11.7,Fresher,36,"HL7/FHIR, EMR Systems, Telemedicine, AI Diagnostics",Low,Medium,79.6,Stable
+2023-12-05,Healthcare,Nurse Practitioner,Cần Thơ,111,18605.32,10.17,Junior,34,"Pharmacology, Telemedicine, Clinical Research",High,Medium,82.9,Growing
+2023-12-06,Healthcare,Medical Data Analyst,TP.HCM,112,6025.66,5.92,Fresher,27,"HIPAA Compliance, EMR Systems, Patient Care",Low,Low,67.6,Growing
+2023-12-09,Healthcare,Pharmacist,Hà Nội,108,18238.76,11.0,Junior,30,"HL7/FHIR, Patient Care, Clinical Research, Medical Coding, EMR Systems",Low,Medium,76.7,Growing
+2023-12-10,Healthcare,Medical Data Analyst,Đà Nẵng,118,40598.33,9.54,Senior,23,"Python, Telemedicine",High,Medium,73.2,Growing
+2023-12-10,Healthcare,Surgeon,TP.HCM,102,22297.32,4.67,Fresher,27,"Telemedicine, Data Analysis, Medical Coding",High,Low,52.6,Stable
+2023-12-11,Healthcare,Hospital Administrator,Bình Dương,114,20021.58,11.58,Junior,39,"Telemedicine, Python",Low,Low,50.8,Growing
+2023-12-14,Healthcare,Biomedical Engineer,Cần Thơ,117,21276.77,11.87,Junior,2,"SQL, Data Analysis, HL7/FHIR, Telemedicine",High,Medium,50.0,Stable
+2023-12-15,Healthcare,Telemedicine Physician,Đà Nẵng,117,42934.16,5.93,Senior,33,"Python, Data Analysis",Medium,Medium,50.1,Growing
+2023-12-18,Healthcare,Surgeon,Đà Nẵng,103,31578.27,9.83,Junior,30,"Telemedicine, Surgery, HL7/FHIR, EMR Systems",High,High,66.5,Stable
+2023-12-18,Healthcare,Pharmacist,TP.HCM,113,19453.7,11.18,Junior,19,"Clinical Research, Python",Medium,Medium,74.8,Growing
+2023-12-19,Healthcare,Telemedicine Physician,Đồng Nai,125,40403.0,8.01,Senior,37,"Telemedicine, Surgery",Low,Medium,77.5,Declining
+2023-12-20,Healthcare,Pharmacist,Bình Dương,102,43898.51,11.4,Senior,36,"Data Analysis, SQL",High,Low,54.0,Stable
+2023-12-26,Healthcare,Nurse Practitioner,Đồng Nai,110,12225.21,6.91,Fresher,12,"Medical Coding, SQL, EMR Systems, HL7/FHIR",Medium,Medium,77.1,Growing
+2023-12-27,Healthcare,Radiologist,Đồng Nai,123,39166.41,11.77,Senior,14,"Surgery, HL7/FHIR, Clinical Research, Radiology, Patient Care",Low,Low,46.6,Declining
+2023-12-28,Healthcare,Biomedical Engineer,Đà Nẵng,128,16471.41,9.81,Junior,8,"SQL, Surgery, Pharmacology, Medical Coding, EMR Systems",Medium,Medium,68.1,Growing
+2023-12-31,Healthcare,Healthcare IT Specialist,Cần Thơ,110,13612.84,9.82,Fresher,12,"Data Analysis, Telemedicine",Low,Low,63.6,Growing
+2024-01-01,Healthcare,Clinical Researcher,Bình Dương,121,47012.9,4.12,Senior,31,"AI Diagnostics, SQL",Medium,Low,60.7,Stable
+2024-01-02,Healthcare,General Practitioner,Hải Phòng,119,18757.96,5.13,Fresher,9,"Data Analysis, Surgery, HL7/FHIR",Medium,Medium,56.9,Growing
+2024-01-03,Healthcare,Nurse Practitioner,Bình Dương,127,43918.15,10.39,Senior,21,"SQL, Telemedicine, AI Diagnostics, Data Analysis, Surgery",High,Low,62.7,Growing
+2024-01-04,Healthcare,General Practitioner,Hải Phòng,116,4952.16,4.62,Fresher,7,"SQL, AI Diagnostics, Pharmacology, HL7/FHIR",Medium,Medium,73.6,Stable
+2024-01-04,Healthcare,Pharmacist,Hà Nội,105,9784.65,8.4,Fresher,31,"Medical Coding, Data Analysis, Python",Medium,Medium,48.4,Stable
+2024-01-06,Healthcare,Pharmacist,TP.HCM,121,13753.45,7.08,Fresher,6,"SQL, Pharmacology, EMR Systems",High,High,73.8,Growing
+2024-01-07,Healthcare,Medical Data Analyst,Đà Nẵng,105,11728.07,10.87,Fresher,27,"HL7/FHIR, HIPAA Compliance, Data Analysis, Medical Coding",Medium,Medium,59.5,Growing
+2024-01-08,Healthcare,Healthcare IT Specialist,TP.HCM,112,8735.1,11.42,Fresher,12,"Patient Care, Data Analysis",Low,Low,70.0,Stable
+2024-01-11,Healthcare,Nurse Practitioner,Cần Thơ,117,23152.62,8.21,Junior,39,"Python, Radiology",Medium,Medium,61.3,Stable
+2024-01-11,Healthcare,Pharmacist,Hà Nội,120,20561.31,8.11,Junior,7,"SQL, Pharmacology",Medium,Medium,62.5,Stable
+2024-01-11,Healthcare,Surgeon,Đà Nẵng,108,37148.65,9.98,Senior,12,"Python, Telemedicine",Low,Low,72.8,Growing
+2024-01-12,Healthcare,Hospital Administrator,Đồng Nai,121,19566.16,6.47,Junior,19,"Clinical Research, Medical Coding, HL7/FHIR, SQL",High,Low,46.9,Growing
+2024-01-15,Healthcare,Healthcare IT Specialist,Hà Nội,130,18271.48,5.04,Fresher,8,"EMR Systems, Data Analysis, Patient Care, Radiology, Pharmacology",Medium,Low,56.6,Growing
+2024-01-16,Healthcare,Clinical Researcher,Cần Thơ,120,43669.8,4.34,Senior,18,"Radiology, SQL, Pharmacology, Python, Telemedicine",Medium,Low,52.2,Declining
+2024-01-17,Healthcare,Radiologist,Cần Thơ,120,36416.95,11.36,Senior,22,"Radiology, SQL, Medical Coding",High,Medium,58.2,Growing
+2024-01-17,Healthcare,Hospital Administrator,Cần Thơ,115,39623.22,9.07,Senior,36,"Clinical Research, Data Analysis, Radiology, Pharmacology",Low,Low,47.2,Stable
+2024-01-18,Healthcare,Physical Therapist,Đồng Nai,109,23281.81,6.83,Junior,6,"Python, Medical Coding, Clinical Research",Low,Low,55.0,Stable
+2024-01-22,Healthcare,Clinical Researcher,TP.HCM,128,9246.15,6.06,Fresher,16,"Clinical Research, Radiology, Telemedicine, AI Diagnostics, Medical Coding",Low,Medium,46.7,Growing
+2024-01-22,Healthcare,General Practitioner,Bình Dương,124,24665.92,10.77,Junior,13,"HIPAA Compliance, Python, Clinical Research, Medical Coding, Telemedicine",High,Medium,54.6,Stable
+2024-01-22,Healthcare,Radiologist,Cần Thơ,139,23821.64,10.2,Junior,29,"HIPAA Compliance, Medical Coding, Clinical Research",High,Medium,83.7,Stable
+2024-01-23,Healthcare,Biomedical Engineer,Cần Thơ,142,47432.2,8.84,Senior,27,"EMR Systems, Radiology, Patient Care, AI Diagnostics, Telemedicine",Medium,Low,53.5,Growing
+2024-01-25,Healthcare,Radiologist,Hà Nội,110,10226.33,11.81,Fresher,1,"Radiology, Clinical Research, Medical Coding, HL7/FHIR, Pharmacology",Low,Low,49.9,Growing
+2024-01-28,Healthcare,General Practitioner,Cần Thơ,115,23589.92,3.86,Junior,36,"Patient Care, HIPAA Compliance, Data Analysis, Telemedicine",Low,Low,55.6,Growing
+2024-01-28,Healthcare,Hospital Administrator,Hải Phòng,112,7340.87,3.81,Fresher,13,"Pharmacology, Patient Care, SQL",Low,Medium,64.9,Growing
+2024-01-29,Healthcare,Radiologist,Bình Dương,105,11664.75,7.2,Fresher,20,"SQL, Pharmacology",Medium,Medium,50.5,Stable
+2024-01-30,Healthcare,Nurse Practitioner,TP.HCM,131,17856.94,8.48,Junior,34,"HL7/FHIR, HIPAA Compliance, Data Analysis, Patient Care",Medium,Low,72.3,Stable
+2024-01-30,Healthcare,Telemedicine Physician,TP.HCM,125,17664.61,8.3,Fresher,25,"Pharmacology, Data Analysis",Low,Medium,65.6,Stable
+2024-01-31,Healthcare,Clinical Researcher,Hà Nội,131,40839.26,9.98,Senior,9,"EMR Systems, SQL, Telemedicine, Pharmacology, Patient Care",High,Low,71.5,Growing
+2024-02-02,Healthcare,Physical Therapist,Hà Nội,109,12341.99,10.13,Fresher,7,"HL7/FHIR, HIPAA Compliance, Python",High,Medium,51.7,Stable
+2024-02-04,Healthcare,Clinical Researcher,Hải Phòng,119,11692.33,3.79,Fresher,2,"Pharmacology, Surgery",High,Low,62.6,Stable
+2024-02-04,Healthcare,Medical Data Analyst,TP.HCM,119,36579.66,7.78,Senior,12,"HIPAA Compliance, SQL, Radiology, Data Analysis, Python",High,Low,69.2,Declining
+2024-02-09,Healthcare,Radiologist,Đồng Nai,122,21294.57,4.2,Junior,25,"HL7/FHIR, Patient Care",High,High,69.0,Stable
+2024-02-11,Healthcare,Hospital Administrator,Bình Dương,120,13487.93,4.78,Fresher,29,"Patient Care, Clinical Research, HL7/FHIR, Surgery",High,Low,80.8,Growing
+2024-02-11,Healthcare,Hospital Administrator,Cần Thơ,111,16924.42,3.65,Junior,21,"HL7/FHIR, Telemedicine, Python, AI Diagnostics, SQL",High,High,53.8,Stable
+2024-02-12,Healthcare,General Practitioner,Hà Nội,119,41907.63,10.82,Senior,20,"Medical Coding, Patient Care, HIPAA Compliance, SQL, HL7/FHIR",High,High,59.4,Growing
+2024-02-14,Healthcare,Medical Data Analyst,Cần Thơ,118,21311.65,10.96,Fresher,3,"Radiology, SQL, Python, Medical Coding",High,Low,50.5,Stable
+2024-02-14,Healthcare,Clinical Researcher,Hải Phòng,130,20003.36,3.88,Junior,14,"Telemedicine, Pharmacology, Radiology",Medium,High,84.1,Growing
+2024-02-16,Healthcare,Clinical Researcher,Cần Thơ,130,4594.0,9.64,Fresher,35,"EMR Systems, Pharmacology, SQL, Surgery",Medium,Low,80.2,Growing
+2024-02-17,Healthcare,Medical Data Analyst,Đà Nẵng,110,50315.79,6.31,Senior,10,"Patient Care, EMR Systems",Medium,High,57.8,Growing
+2024-02-19,Healthcare,Medical Data Analyst,Đồng Nai,104,5292.34,4.64,Fresher,9,"Radiology, Data Analysis, Clinical Research, Telemedicine",Low,Low,80.3,Stable
+2024-02-19,Healthcare,Clinical Researcher,Bình Dương,122,12588.61,11.15,Fresher,25,"Patient Care, EMR Systems, Pharmacology",Medium,Low,56.8,Stable
+2024-02-22,Healthcare,Surgeon,Bình Dương,106,21144.56,8.63,Junior,31,"Data Analysis, Surgery, Clinical Research",Medium,High,65.8,Growing
+2024-02-25,Healthcare,Healthcare IT Specialist,Cần Thơ,99,24225.14,8.75,Junior,39,"Clinical Research, Surgery",High,High,53.4,Growing
+2024-02-26,Healthcare,Hospital Administrator,Hà Nội,116,7430.59,6.12,Fresher,20,"Radiology, Clinical Research, AI Diagnostics, EMR Systems, Data Analysis",High,Low,63.2,Stable

@@ -219,3 +219,48 @@ _EXTRA = {
     "drive_updating":     {"vi":"Đang cập nhật...","en":"Refreshing...","zh":"正在刷新...","ko":"새로고침 중..."},
 }
 TRANSLATIONS.update(_EXTRA)
+
+# ── Font mapping per language ─────────────────────────────────────────────────
+# Each language gets fonts optimized for its script + readable body text
+FONT_CONFIG: dict[str, dict[str, str]] = {
+    "vi": {
+        # Be Vietnam Pro — designed specifically for Vietnamese diacritics
+        # Syne for headings (Latin/Vietnamese), JetBrains Mono for code/numbers
+        "import": "https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&family=Syne:wght@600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap",
+        "body":    "'Be Vietnam Pro', sans-serif",
+        "heading": "'Syne', 'Be Vietnam Pro', sans-serif",
+        "mono":    "'JetBrains Mono', monospace",
+        "note":    "Be Vietnam Pro — tối ưu cho tiếng Việt có dấu",
+    },
+    "en": {
+        # Inter — world's most readable UI font for English
+        # Clash Display for bold headings, JetBrains Mono for numbers
+        "import": "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Syne:wght@600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap",
+        "body":    "'Inter', sans-serif",
+        "heading": "'Syne', 'Inter', sans-serif",
+        "mono":    "'JetBrains Mono', monospace",
+        "note":    "Inter — crisp and legible for English UI",
+    },
+    "zh": {
+        # Noto Sans SC — Google's CJK font, excellent for Simplified Chinese
+        # ZCOOL XiaoWei for headings (artistic Chinese), Source Code Pro for mono
+        "import": "https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700;900&family=ZCOOL+XiaoWei&family=Source+Code+Pro:wght@400;600&display=swap",
+        "body":    "'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif",
+        "heading": "'ZCOOL XiaoWei', 'Noto Sans SC', sans-serif",
+        "mono":    "'Source Code Pro', 'Noto Sans SC', monospace",
+        "note":    "Noto Sans SC — Google官方简体中文字体",
+    },
+    "ko": {
+        # Noto Sans KR — optimized for Korean Hangul
+        # Black Han Sans for headings (bold Korean display font)
+        "import": "https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&family=Black+Han+Sans&family=Source+Code+Pro:wght@400;600&display=swap",
+        "body":    "'Noto Sans KR', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif",
+        "heading": "'Black Han Sans', 'Noto Sans KR', sans-serif",
+        "mono":    "'Source Code Pro', 'D2Coding', monospace",
+        "note":    "Noto Sans KR — 한국어에 최적화된 구글 공식 폰트",
+    },
+}
+
+def get_font(lang: str = "vi") -> dict[str, str]:
+    """Return font config dict for given language."""
+    return FONT_CONFIG.get(lang, FONT_CONFIG["vi"])

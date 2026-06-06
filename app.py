@@ -13,7 +13,7 @@ from sklearn.preprocessing import PolynomialFeatures
 import warnings
 warnings.filterwarnings("ignore")
 
-from i18n import LANGUAGES, TRANSLATIONS, t, tmap
+from i18n import LANGUAGES, TRANSLATIONS, t, tmap, get_font
 
 # ─── ENV / SECRETS LOADING ────────────────────────────────────────────────────
 def _load_env_file(path=".env"):
@@ -142,59 +142,275 @@ if "analysis" not in st.session_state:
 if "published" not in st.session_state:
     st.session_state.published = False
 
-T   = THEMES[st.session_state.theme_name]
-LNG = st.session_state.lang
+T    = THEMES[st.session_state.theme_name]
+LNG  = st.session_state.lang
+FONT = get_font(LNG)
 
 # ─── CSS ──────────────────────────────────────────────────────────────────────
-def inject_css(t_):
+def inject_css(t_, font):
     st.markdown(f"""
     <style>
-    @import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&family=Outfit:wght@300;400;500;600;700&display=swap');
-    html,body,[class*="css"]{{font-family:'Outfit',sans-serif!important;color:{t_['text']}!important;}}
-    .stApp{{background:{t_['bg']}!important;}}
-    #MainMenu,footer,header{{visibility:hidden;}}
-    .block-container{{padding-top:1.5rem!important;padding-bottom:3rem!important;max-width:1400px!important;}}
-    [data-testid="stSidebar"]{{background:{t_['surface']}!important;border-right:1px solid {t_['border']}!important;}}
-    [data-testid="stSidebar"] *{{color:{t_['text']}!important;}}
-    [data-testid="stSidebarContent"]{{padding:1.5rem 1rem!important;}}
-    .stSelectbox>div>div,.stTextInput>div>div>input,.stTextArea textarea{{background:{t_['surface2']}!important;border:1px solid {t_['border']}!important;color:{t_['text']}!important;border-radius:10px!important;}}
-    .stSelectbox [data-baseweb="select"]>div{{background:{t_['surface2']}!important;border-color:{t_['border']}!important;border-radius:10px!important;}}
-    [data-testid="stFileUploader"]{{background:{t_['surface']}!important;border:2px dashed {t_['border']}!important;border-radius:16px!important;padding:1rem!important;}}
-    [data-testid="stFileUploader"]:hover{{border-color:{t_['accent']}!important;}}
-    .stButton>button{{background:{t_['accent']}!important;color:#fff!important;border:none!important;border-radius:10px!important;font-family:'Outfit',sans-serif!important;font-weight:600!important;font-size:.9rem!important;padding:.6rem 1.6rem!important;transition:all .2s!important;box-shadow:0 4px 15px {t_['accent']}44!important;}}
-    .stButton>button:hover{{opacity:.88!important;transform:translateY(-1px)!important;}}
-    .stTabs [data-baseweb="tab-list"]{{background:{t_['surface']}!important;border-radius:12px!important;padding:.3rem!important;gap:.3rem!important;border:1px solid {t_['border']}!important;}}
-    .stTabs [data-baseweb="tab"]{{background:transparent!important;border-radius:8px!important;color:{t_['muted']}!important;font-family:'Outfit',sans-serif!important;font-weight:600!important;padding:.5rem 1.2rem!important;border:none!important;}}
-    .stTabs [aria-selected="true"]{{background:{t_['accent']}!important;color:#fff!important;}}
-    .stTabs [data-baseweb="tab-panel"]{{background:transparent!important;padding-top:1.5rem!important;}}
-    [data-testid="stMetric"]{{background:{t_['surface']}!important;border:1px solid {t_['border']}!important;border-radius:14px!important;padding:1.2rem 1.4rem!important;border-top:3px solid {t_['accent']}!important;}}
-    [data-testid="stMetricLabel"]{{color:{t_['muted']}!important;font-family:'JetBrains Mono',monospace!important;font-size:.72rem!important;text-transform:uppercase!important;letter-spacing:.06em!important;}}
-    [data-testid="stMetricValue"]{{color:{t_['text']}!important;font-family:'JetBrains Mono',monospace!important;font-size:1.7rem!important;font-weight:700!important;}}
-    .streamlit-expanderHeader{{background:{t_['surface']}!important;border:1px solid {t_['border']}!important;border-radius:10px!important;color:{t_['text']}!important;font-weight:600!important;}}
-    .streamlit-expanderContent{{background:{t_['surface2']}!important;border:1px solid {t_['border']}!important;border-top:none!important;border-radius:0 0 10px 10px!important;}}
-    ::-webkit-scrollbar{{width:6px;height:6px;}}
-    ::-webkit-scrollbar-track{{background:{t_['surface']};}}
-    ::-webkit-scrollbar-thumb{{background:{t_['border']};border-radius:3px;}}
-    ::-webkit-scrollbar-thumb:hover{{background:{t_['accent']};}}
-    hr{{border-color:{t_['border']}!important;margin:1.5rem 0!important;}}
-    .lens-card{{background:{t_['surface']};border:1px solid {t_['border']};border-radius:16px;padding:1.4rem 1.6rem;margin-bottom:1rem;}}
-    .lens-card-accent{{border-top:3px solid {t_['accent']};}}
-    .insight-success{{background:{t_['success']}18;border:1px solid {t_['success']}55;border-radius:12px;padding:1rem 1.2rem;margin-bottom:.7rem;}}
-    .insight-warning{{background:{t_['warning']}18;border:1px solid {t_['warning']}55;border-radius:12px;padding:1rem 1.2rem;margin-bottom:.7rem;}}
-    .insight-danger{{background:{t_['danger']}18;border:1px solid {t_['danger']}55;border-radius:12px;padding:1rem 1.2rem;margin-bottom:.7rem;}}
-    .insight-info{{background:{t_['accent']}18;border:1px solid {t_['accent']}55;border-radius:12px;padding:1rem 1.2rem;margin-bottom:.7rem;}}
-    .hero-title{{font-family:'Syne',sans-serif;font-weight:800;font-size:clamp(2rem,4vw,3.2rem);line-height:1.1;letter-spacing:-.03em;color:{t_['text']};margin-bottom:.5rem;}}
-    .hero-accent{{color:{t_['accent']};}}
-    .hero-sub{{font-family:'Outfit',sans-serif;color:{t_['muted']};font-size:1.05rem;line-height:1.7;margin-bottom:1.5rem;}}
-    .badge{{display:inline-block;background:{t_['accent']}22;color:{t_['accent']};border:1px solid {t_['accent']}55;border-radius:20px;padding:.25rem .9rem;font-size:.75rem;font-family:'JetBrains Mono',monospace;letter-spacing:.05em;margin-bottom:1rem;}}
-    .section-header{{font-family:'Syne',sans-serif;font-weight:700;font-size:1.25rem;color:{t_['text']};margin-bottom:1rem;padding-bottom:.5rem;border-bottom:2px solid {t_['border']};}}
-    .tag-pill{{display:inline-block;background:{t_['accent']}22;color:{t_['accent']};border-radius:20px;padding:.2rem .7rem;font-size:.75rem;font-weight:600;margin:.15rem;}}
-    .lang-flag{{font-size:1.1rem;cursor:pointer;padding:.2rem .5rem;border-radius:6px;transition:.15s;}}
-    .lang-flag:hover{{background:{t_['surface2']};}}
+    @import url('{font["import"]}');
+
+    /* ── Base typography ── */
+    html, body, [class*="css"] {{
+        font-family: {font["body"]} !important;
+        color: {t_['text']} !important;
+        -webkit-font-smoothing: antialiased;
+        text-rendering: optimizeLegibility;
+    }}
+    .stApp {{ background: {t_['bg']} !important; }}
+    #MainMenu, footer, header {{ visibility: hidden; }}
+    .block-container {{
+        padding-top: 1.5rem !important;
+        padding-bottom: 3rem !important;
+        max-width: 1400px !important;
+    }}
+
+    /* ── Sidebar ── */
+    [data-testid="stSidebar"] {{
+        background: {t_['surface']} !important;
+        border-right: 1px solid {t_['border']} !important;
+    }}
+    [data-testid="stSidebar"] * {{ color: {t_['text']} !important; }}
+    [data-testid="stSidebarContent"] {{ padding: 1.5rem 1rem !important; }}
+
+    /* ── Inputs ── */
+    .stSelectbox > div > div,
+    .stTextInput > div > div > input,
+    .stTextArea textarea {{
+        background: {t_['surface2']} !important;
+        border: 1px solid {t_['border']} !important;
+        color: {t_['text']} !important;
+        border-radius: 10px !important;
+        font-family: {font["body"]} !important;
+    }}
+    .stSelectbox [data-baseweb="select"] > div {{
+        background: {t_['surface2']} !important;
+        border-color: {t_['border']} !important;
+        border-radius: 10px !important;
+    }}
+
+    /* ── File uploader ── */
+    [data-testid="stFileUploader"] {{
+        background: {t_['surface']} !important;
+        border: 2px dashed {t_['border']} !important;
+        border-radius: 16px !important;
+        padding: 1rem !important;
+    }}
+    [data-testid="stFileUploader"]:hover {{
+        border-color: {t_['accent']} !important;
+    }}
+
+    /* ── Buttons ── */
+    .stButton > button {{
+        background: {t_['accent']} !important;
+        color: #fff !important;
+        border: none !important;
+        border-radius: 10px !important;
+        font-family: {font["body"]} !important;
+        font-weight: 600 !important;
+        font-size: .9rem !important;
+        padding: .6rem 1.6rem !important;
+        transition: all .2s !important;
+        box-shadow: 0 4px 15px {t_['accent']}44 !important;
+        letter-spacing: .01em !important;
+    }}
+    .stButton > button:hover {{
+        opacity: .88 !important;
+        transform: translateY(-1px) !important;
+    }}
+
+    /* ── Tabs ── */
+    .stTabs [data-baseweb="tab-list"] {{
+        background: {t_['surface']} !important;
+        border-radius: 12px !important;
+        padding: .3rem !important;
+        gap: .3rem !important;
+        border: 1px solid {t_['border']} !important;
+    }}
+    .stTabs [data-baseweb="tab"] {{
+        background: transparent !important;
+        border-radius: 8px !important;
+        color: {t_['muted']} !important;
+        font-family: {font["body"]} !important;
+        font-weight: 600 !important;
+        padding: .5rem 1.2rem !important;
+        border: none !important;
+        letter-spacing: .01em !important;
+    }}
+    .stTabs [aria-selected="true"] {{
+        background: {t_['accent']} !important;
+        color: #fff !important;
+    }}
+    .stTabs [data-baseweb="tab-panel"] {{
+        background: transparent !important;
+        padding-top: 1.5rem !important;
+    }}
+
+    /* ── Metrics ── */
+    [data-testid="stMetric"] {{
+        background: {t_['surface']} !important;
+        border: 1px solid {t_['border']} !important;
+        border-radius: 14px !important;
+        padding: 1.2rem 1.4rem !important;
+        border-top: 3px solid {t_['accent']} !important;
+    }}
+    [data-testid="stMetricLabel"] {{
+        color: {t_['muted']} !important;
+        font-family: {font["mono"]} !important;
+        font-size: .7rem !important;
+        text-transform: uppercase !important;
+        letter-spacing: .06em !important;
+    }}
+    [data-testid="stMetricValue"] {{
+        color: {t_['text']} !important;
+        font-family: {font["mono"]} !important;
+        font-size: 1.7rem !important;
+        font-weight: 700 !important;
+    }}
+
+    /* ── Expander ── */
+    .streamlit-expanderHeader {{
+        background: {t_['surface']} !important;
+        border: 1px solid {t_['border']} !important;
+        border-radius: 10px !important;
+        color: {t_['text']} !important;
+        font-weight: 600 !important;
+        font-family: {font["body"]} !important;
+    }}
+    .streamlit-expanderContent {{
+        background: {t_['surface2']} !important;
+        border: 1px solid {t_['border']} !important;
+        border-top: none !important;
+        border-radius: 0 0 10px 10px !important;
+    }}
+
+    /* ── Scrollbar ── */
+    ::-webkit-scrollbar {{ width: 6px; height: 6px; }}
+    ::-webkit-scrollbar-track {{ background: {t_['surface']}; }}
+    ::-webkit-scrollbar-thumb {{ background: {t_['border']}; border-radius: 3px; }}
+    ::-webkit-scrollbar-thumb:hover {{ background: {t_['accent']}; }}
+
+    /* ── Divider ── */
+    hr {{ border-color: {t_['border']} !important; margin: 1.5rem 0 !important; }}
+
+    /* ── Dataframe ── */
+    [data-testid="stDataFrame"] {{
+        border: 1px solid {t_['border']} !important;
+        border-radius: 12px !important;
+        overflow: hidden !important;
+    }}
+
+    /* ── Custom components ── */
+    .lens-card {{
+        background: {t_['surface']};
+        border: 1px solid {t_['border']};
+        border-radius: 16px;
+        padding: 1.4rem 1.6rem;
+        margin-bottom: 1rem;
+    }}
+    .lens-card-accent {{ border-top: 3px solid {t_['accent']}; }}
+
+    .insight-success {{
+        background: {t_['success']}18;
+        border: 1px solid {t_['success']}55;
+        border-radius: 12px; padding: 1rem 1.2rem; margin-bottom: .7rem;
+    }}
+    .insight-warning {{
+        background: {t_['warning']}18;
+        border: 1px solid {t_['warning']}55;
+        border-radius: 12px; padding: 1rem 1.2rem; margin-bottom: .7rem;
+    }}
+    .insight-danger {{
+        background: {t_['danger']}18;
+        border: 1px solid {t_['danger']}55;
+        border-radius: 12px; padding: 1rem 1.2rem; margin-bottom: .7rem;
+    }}
+    .insight-info {{
+        background: {t_['accent']}18;
+        border: 1px solid {t_['accent']}55;
+        border-radius: 12px; padding: 1rem 1.2rem; margin-bottom: .7rem;
+    }}
+
+    /* ── Hero typography — uses heading font ── */
+    .hero-title {{
+        font-family: {font["heading"]};
+        font-weight: 800;
+        font-size: clamp(2rem, 4vw, 3.2rem);
+        line-height: 1.15;
+        letter-spacing: -.02em;
+        color: {t_['text']};
+        margin-bottom: .5rem;
+    }}
+    .hero-accent {{ color: {t_['accent']}; }}
+    .hero-sub {{
+        font-family: {font["body"]};
+        color: {t_['muted']};
+        font-size: 1.05rem;
+        line-height: 1.8;
+        margin-bottom: 1.5rem;
+        font-weight: 400;
+    }}
+
+    /* ── Section headers — heading font ── */
+    .section-header {{
+        font-family: {font["heading"]};
+        font-weight: 700;
+        font-size: 1.2rem;
+        color: {t_['text']};
+        margin-bottom: 1rem;
+        padding-bottom: .5rem;
+        border-bottom: 2px solid {t_['border']};
+        letter-spacing: .005em;
+    }}
+
+    /* ── Badge / pill — mono font ── */
+    .badge {{
+        display: inline-block;
+        background: {t_['accent']}22;
+        color: {t_['accent']};
+        border: 1px solid {t_['accent']}55;
+        border-radius: 20px;
+        padding: .25rem .9rem;
+        font-size: .72rem;
+        font-family: {font["mono"]};
+        letter-spacing: .05em;
+        margin-bottom: 1rem;
+    }}
+    .tag-pill {{
+        display: inline-block;
+        background: {t_['accent']}22;
+        color: {t_['accent']};
+        border-radius: 20px;
+        padding: .2rem .7rem;
+        font-size: .75rem;
+        font-weight: 600;
+        font-family: {font["body"]};
+        margin: .15rem;
+    }}
+
+    /* ── Font info chip (shown in sidebar) ── */
+    .font-chip {{
+        display: inline-flex;
+        align-items: center;
+        gap: .4rem;
+        background: {t_['surface2']};
+        border: 1px solid {t_['border']};
+        border-radius: 8px;
+        padding: .35rem .75rem;
+        font-size: .72rem;
+        font-family: {font["mono"]};
+        color: {t_['muted']};
+        margin-top: .4rem;
+    }}
+
+    /* ── CJK-specific: slightly looser line-height ── */
+    .lang-cjk {{ line-height: 1.9 !important; }}
     </style>
     """, unsafe_allow_html=True)
 
-inject_css(T)
+inject_css(T, FONT)
 
 # ─── ANALYSIS ENGINE ───────────────────────────────────────────────────────────
 def safe_json(d):
@@ -352,16 +568,18 @@ def analyze(df: pd.DataFrame, lang: str = "vi") -> dict:
 
 # ─── PLOTLY HELPERS ────────────────────────────────────────────────────────────
 def pgo(title=""):
+    body_font = FONT["body"].split(",")[0].strip("'")
+    heading_font = FONT["heading"].split(",")[0].strip("'")
     return dict(
         template=T["plotly_template"],
         paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)",
-        font=dict(family="Outfit,sans-serif",color=T["text"],size=12),
-        title=dict(text=title,font=dict(family="Syne,sans-serif",size=15,color=T["text"]),x=0,pad=dict(l=0)),
-        margin=dict(l=10,r=10,t=40 if title else 10,b=10),
+        font=dict(family=f"{body_font},sans-serif", color=T["text"], size=12),
+        title=dict(text=title, font=dict(family=f"{heading_font},sans-serif", size=15, color=T["text"]), x=0, pad=dict(l=0)),
+        margin=dict(l=10, r=10, t=40 if title else 10, b=10),
         colorway=T["chart_colors"],
-        legend=dict(font=dict(color=T["muted"],size=11)),
-        xaxis=dict(gridcolor=T["border"],tickfont=dict(color=T["muted"]),linecolor=T["border"]),
-        yaxis=dict(gridcolor=T["border"],tickfont=dict(color=T["muted"]),linecolor=T["border"]),
+        legend=dict(font=dict(color=T["muted"], size=11, family=body_font)),
+        xaxis=dict(gridcolor=T["border"], tickfont=dict(color=T["muted"], family=body_font), linecolor=T["border"]),
+        yaxis=dict(gridcolor=T["border"], tickfont=dict(color=T["muted"], family=body_font), linecolor=T["border"]),
     )
 
 def fmt_num(n, pre=""):
@@ -507,6 +725,16 @@ with st.sidebar:
     if new_lang_code != LNG:
         st.session_state.lang = new_lang_code
         st.rerun()
+
+    # Font info chip
+    st.markdown(f"""
+    <div class="font-chip">
+        <span>🔤</span>
+        <span>{FONT['body'].split(',')[0].strip("'")}</span>
+        <span style="opacity:.5">·</span>
+        <span>{FONT['note']}</span>
+    </div>
+    """, unsafe_allow_html=True)
 
     st.markdown("<hr>", unsafe_allow_html=True)
 

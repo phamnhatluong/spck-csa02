@@ -1,0 +1,651 @@
+date,industry,job_title,region,job_openings,avg_salary,salary_growth_rate,experience_level,remote_ratio,required_skills,competition_level,automation_risk,growth_score,demand_forecast
+2021-01-01,Finance,Blockchain Developer,Hanoi,77,37371.06,7.65,Senior,61,"Python, Power BI, Blockchain",Medium,High,75.2,Growing
+2021-01-02,Finance,Portfolio Manager,Da Nang,67,24750.71,11.68,Junior,21,"Financial Modelling, AML, Tableau, Solidity, Excel, Machine Learning",High,Medium,69.5,Stable
+2021-01-03,Finance,Financial Analyst,Bangkok,75,9422.22,11.64,Fresher,18,"Bloomberg Terminal, Excel, Machine Learning",Low,High,51.8,Stable
+2021-01-03,Finance,Blockchain Developer,Ho Chi Minh City,70,13020.85,6.01,Fresher,43,"CFA, Excel, Machine Learning",Medium,High,56.0,Stable
+2021-01-04,Finance,Chief Financial Officer,Jakarta,62,14119.66,10.6,Fresher,16,"AML, Options Pricing, Python, Excel, CFA, Risk Modeling",High,High,40.9,Stable
+2021-01-04,Finance,Credit Analyst,Jakarta,72,50160.57,6.41,Senior,41,"Basel III, Options Pricing, Machine Learning, AML, Blockchain, Python",High,Medium,71.3,Growing
+2021-01-05,Finance,FinTech Developer,Bangkok,63,50078.64,11.2,Senior,21,"Bloomberg Terminal, AML, SQL, Financial Modelling, Blockchain, Machine Learning",High,Medium,58.5,Stable
+2021-01-06,Finance,Quantitative Analyst,Manila,81,28620.14,9.21,Junior,64,"AML, Python, FX Trading, Machine Learning",High,Medium,67.2,Growing
+2021-01-07,Finance,Quantitative Analyst,Jakarta,76,33391.95,7.84,Junior,41,"Bloomberg Terminal, SQL, Financial Modelling, Tableau, Machine Learning",High,Medium,69.7,Stable
+2021-01-07,Finance,RegTech Specialist,Da Nang,72,20883.32,8.16,Junior,44,"Options Pricing, CFA, FX Trading, Tableau, Python",Low,Medium,48.6,Stable
+2021-01-09,Finance,Risk Manager,Ho Chi Minh City,63,10621.89,13.37,Fresher,16,"Bloomberg Terminal, CFA, AML",Medium,Medium,53.6,Declining
+2021-01-11,Finance,Risk Manager,Hanoi,67,23880.39,4.43,Junior,17,"AML, Python, Solidity, Excel",Medium,Medium,50.2,Stable
+2021-01-15,Finance,Credit Analyst,Hanoi,57,55853.06,11.9,Senior,36,"Machine Learning, Excel, SQL, Python",High,High,73.4,Growing
+2021-01-16,Finance,Actuary,Da Nang,73,14083.98,9.18,Fresher,59,"Tableau, Financial Modelling, Basel III",Medium,Medium,50.6,Stable
+2021-01-17,Finance,Chief Financial Officer,Bangkok,63,5616.13,6.77,Fresher,39,"FX Trading, Blockchain, SQL, Excel, AML, Financial Modelling",High,Medium,64.6,Declining
+2021-01-18,Finance,RegTech Specialist,Jakarta,83,46329.28,15.36,Senior,57,"Risk Modeling, Bloomberg Terminal, Excel, Tableau",Medium,Medium,75.4,Stable
+2021-01-22,Finance,Chief Financial Officer,Manila,65,50194.15,11.25,Senior,25,"SQL, Excel, CFA",High,High,57.5,Stable
+2021-01-23,Finance,Quantitative Analyst,Ho Chi Minh City,68,26077.22,12.03,Junior,23,"Bloomberg Terminal, CFA, Options Pricing, Risk Modeling, Python",High,High,57.4,Stable
+2021-01-26,Finance,FinTech Developer,Jakarta,75,32860.67,4.71,Junior,60,"FX Trading, AML, SQL, Solidity, Machine Learning",High,Medium,67.9,Declining
+2021-01-27,Finance,Portfolio Manager,Hanoi,59,30225.39,13.85,Junior,41,"Power BI, Solidity, Machine Learning, SQL, Python, Bloomberg Terminal",Medium,Low,67.8,Stable
+2021-01-28,Finance,Investment Banker,Manila,76,29167.13,8.91,Junior,64,"Excel, Python, Solidity, Machine Learning",Medium,Medium,56.9,Growing
+2021-01-29,Finance,Credit Analyst,Singapore,71,53083.76,7.59,Senior,19,"Machine Learning, Options Pricing, Basel III, SQL, Financial Modelling, Python",High,Medium,79.5,Stable
+2021-02-01,Finance,RegTech Specialist,Jakarta,72,11743.49,4.13,Fresher,28,"Basel III, Options Pricing, Machine Learning, SQL, Excel, Bloomberg Terminal",Medium,Medium,75.9,Declining
+2021-02-02,Finance,Credit Analyst,Hanoi,71,20172.15,4.39,Fresher,47,"Python, SQL, Financial Modelling, Risk Modeling, Power BI",High,Low,57.9,Growing
+2021-02-02,Finance,FinTech Developer,Manila,71,20460.99,14.54,Junior,25,"Options Pricing, CFA, Financial Modelling, Risk Modeling, AML, Power BI",High,Medium,42.2,Stable
+2021-02-03,Finance,Risk Manager,Bangkok,87,21844.95,5.86,Junior,20,"AML, Options Pricing, Power BI, Financial Modelling, Bloomberg Terminal, SQL",Medium,Medium,42.9,Growing
+2021-02-03,Finance,Financial Analyst,Jakarta,79,10317.13,10.93,Fresher,57,"Excel, SQL, CFA",Medium,High,46.4,Stable
+2021-02-04,Finance,Quantitative Analyst,Manila,73,51684.47,8.45,Senior,55,"CFA, Power BI, SQL, Risk Modeling, AML, Basel III",High,Medium,55.9,Stable
+2021-02-07,Finance,Risk Manager,Singapore,75,12109.19,13.46,Fresher,58,"Risk Modeling, SQL, Machine Learning, Python",Medium,High,54.7,Declining
+2021-02-07,Finance,Financial Analyst,Bangkok,66,26026.02,13.22,Junior,41,"Financial Modelling, Power BI, Tableau",High,High,69.7,Growing
+2021-02-07,Finance,Investment Banker,Bangkok,75,14803.42,4.32,Fresher,38,"Bloomberg Terminal, Tableau, Blockchain, FX Trading, AML",Medium,Low,52.8,Stable
+2021-02-09,Finance,RegTech Specialist,Bangkok,84,6224.37,7.83,Fresher,31,"Financial Modelling, Excel, Machine Learning, Bloomberg Terminal, Options Pricing, AML",High,Medium,80.0,Stable
+2021-02-10,Finance,Financial Analyst,Jakarta,65,52953.14,6.54,Senior,27,"AML, FX Trading, Solidity, SQL",Medium,Medium,75.4,Declining
+2021-02-10,Finance,Credit Analyst,Jakarta,68,51434.44,10.97,Senior,58,"Basel III, Bloomberg Terminal, Excel",High,High,76.8,Stable
+2021-02-10,Finance,Chief Financial Officer,Singapore,73,51806.03,7.52,Senior,53,"FX Trading, Python, Power BI",Medium,Medium,60.0,Declining
+2021-02-12,Finance,Compliance Officer,Hanoi,68,13135.93,6.76,Fresher,50,"Risk Modeling, AML, SQL, Basel III, Power BI",Medium,Low,66.1,Stable
+2021-02-12,Finance,Blockchain Developer,Manila,77,16394.53,10.8,Fresher,17,"Risk Modeling, Basel III, CFA, Power BI, Options Pricing, Financial Modelling",High,High,66.9,Growing
+2021-02-14,Finance,Risk Manager,Ho Chi Minh City,80,21743.09,8.7,Junior,36,"Solidity, Basel III, Machine Learning, AML, Options Pricing, SQL",Low,Low,74.6,Stable
+2021-02-16,Finance,FinTech Developer,Da Nang,81,38706.86,6.53,Junior,51,"CFA, Options Pricing, Power BI",High,Medium,69.7,Stable
+2021-02-17,Finance,Portfolio Manager,Da Nang,80,17947.07,14.25,Fresher,44,"Excel, SQL, Solidity",High,High,53.0,Stable
+2021-02-18,Finance,Compliance Officer,Singapore,66,26822.86,9.23,Junior,27,"SQL, CFA, Basel III",High,Medium,77.8,Declining
+2021-02-18,Finance,FinTech Developer,Bangkok,57,50232.83,5.48,Senior,52,"Tableau, Risk Modeling, Machine Learning",Medium,Low,65.9,Declining
+2021-02-18,Finance,Portfolio Manager,Singapore,69,9267.54,4.85,Fresher,47,"Solidity, Basel III, CFA",High,Medium,63.8,Stable
+2021-02-19,Finance,Risk Manager,Manila,70,55182.91,11.68,Senior,24,"Blockchain, Python, SQL",High,High,43.2,Declining
+2021-02-20,Finance,Compliance Officer,Singapore,70,15831.74,14.77,Fresher,26,"Options Pricing, Power BI, Blockchain, AML, Basel III, CFA",High,High,72.9,Stable
+2021-02-20,Finance,Blockchain Developer,Bangkok,82,53149.38,11.15,Senior,28,"Risk Modeling, SQL, Excel, Options Pricing",Low,Medium,46.3,Declining
+2021-02-21,Finance,Blockchain Developer,Singapore,81,28228.96,10.04,Junior,57,"Bloomberg Terminal, Options Pricing, Risk Modeling, Excel, AML, Power BI",Medium,Medium,55.6,Stable
+2021-02-21,Finance,FinTech Developer,Singapore,75,33948.97,11.42,Junior,54,"Basel III, SQL, CFA, Blockchain, Python",Medium,Medium,49.8,Declining
+2021-02-21,Finance,Blockchain Developer,Bangkok,70,44140.94,4.29,Senior,19,"Python, CFA, Financial Modelling, FX Trading",Low,Medium,73.4,Stable
+2021-02-24,Finance,Chief Financial Officer,Manila,83,7354.16,8.2,Fresher,42,"CFA, SQL, Python, FX Trading",Medium,High,79.4,Stable
+2021-02-24,Finance,Actuary,Ho Chi Minh City,65,16115.27,13.31,Fresher,58,"Bloomberg Terminal, Blockchain, Solidity, Financial Modelling, SQL",High,High,68.1,Stable
+2021-02-25,Finance,Portfolio Manager,Ho Chi Minh City,70,6429.55,14.15,Fresher,54,"Risk Modeling, Power BI, FX Trading, Bloomberg Terminal, Python",High,Low,46.2,Growing
+2021-02-25,Finance,Credit Analyst,Jakarta,84,29515.95,11.37,Junior,26,"Options Pricing, Power BI, Blockchain, Machine Learning",Medium,High,75.5,Growing
+2021-02-27,Finance,Quantitative Analyst,Singapore,68,50085.26,6.05,Senior,22,"Bloomberg Terminal, Blockchain, Excel, Financial Modelling, Basel III, AML",Low,Medium,64.7,Declining
+2021-02-28,Finance,Compliance Officer,Manila,70,55589.68,14.64,Senior,40,"Machine Learning, Power BI, CFA, Blockchain",Low,High,72.7,Stable
+2021-02-28,Finance,Quantitative Analyst,Hanoi,82,54741.95,12.39,Senior,51,"Machine Learning, SQL, Bloomberg Terminal, Power BI, Tableau, Solidity",Low,High,62.7,Growing
+2021-03-03,Finance,Investment Banker,Da Nang,82,15972.6,15.97,Fresher,54,"Tableau, Blockchain, Bloomberg Terminal, FX Trading, AML",High,Medium,52.7,Growing
+2021-03-03,Finance,Compliance Officer,Bangkok,55,26776.08,13.43,Junior,42,"FX Trading, Solidity, Bloomberg Terminal",High,Medium,67.8,Stable
+2021-03-04,Finance,Risk Manager,Hanoi,63,53629.18,11.64,Senior,45,"Machine Learning, CFA, Risk Modeling",High,Medium,65.2,Growing
+2021-03-04,Finance,Portfolio Manager,Ho Chi Minh City,67,18883.52,5.27,Fresher,32,"Basel III, Financial Modelling, SQL, AML, Bloomberg Terminal",Low,High,43.8,Stable
+2021-03-05,Finance,Actuary,Singapore,76,10958.4,8.49,Fresher,49,"CFA, FX Trading, Solidity, AML, Blockchain, Bloomberg Terminal",High,Low,69.8,Stable
+2021-03-06,Finance,Actuary,Singapore,67,15873.18,12.33,Fresher,15,"Basel III, Excel, Financial Modelling, Python",High,High,50.2,Growing
+2021-03-06,Finance,Investment Banker,Ho Chi Minh City,56,56496.29,4.1,Senior,33,"Solidity, AML, Power BI, Financial Modelling, Tableau",High,High,79.2,Declining
+2021-03-07,Finance,RegTech Specialist,Manila,63,43522.44,4.92,Senior,44,"Machine Learning, Blockchain, Financial Modelling, Python, Tableau, Basel III",High,Medium,63.1,Stable
+2021-03-07,Finance,Compliance Officer,Ho Chi Minh City,73,8815.28,6.17,Fresher,54,"Blockchain, AML, SQL, Risk Modeling, Basel III",High,Medium,64.9,Declining
+2021-03-08,Finance,Actuary,Bangkok,80,9142.78,13.28,Fresher,43,"FX Trading, Blockchain, Tableau",High,Medium,73.5,Stable
+2021-03-08,Finance,Actuary,Da Nang,85,54276.54,7.86,Senior,34,"Options Pricing, Bloomberg Terminal, Basel III, Risk Modeling",High,High,74.2,Growing
+2021-03-11,Finance,Risk Manager,Jakarta,85,51674.45,14.71,Senior,29,"SQL, Basel III, Power BI",Medium,Medium,45.9,Growing
+2021-03-12,Finance,Risk Manager,Jakarta,66,9406.14,12.99,Fresher,22,"Solidity, SQL, AML",High,High,47.5,Growing
+2021-03-12,Finance,Financial Analyst,Singapore,77,30959.48,12.49,Junior,31,"Solidity, Blockchain, Excel, Python, Bloomberg Terminal",High,Medium,69.6,Stable
+2021-03-15,Finance,Compliance Officer,Ho Chi Minh City,76,60188.84,14.82,Senior,19,"Financial Modelling, Python, Power BI, AML, Basel III, Machine Learning",Low,Medium,65.7,Stable
+2021-03-16,Finance,Risk Manager,Ho Chi Minh City,94,43762.93,7.91,Senior,55,"Basel III, Bloomberg Terminal, FX Trading, Risk Modeling, Blockchain, Excel",High,Low,60.4,Growing
+2021-03-17,Finance,Credit Analyst,Manila,85,60625.14,12.67,Senior,43,"Financial Modelling, Excel, AML, Basel III, Bloomberg Terminal, Solidity",High,High,61.0,Growing
+2021-03-20,Finance,Investment Banker,Bangkok,88,5678.62,11.82,Fresher,59,"Power BI, Machine Learning, Bloomberg Terminal, CFA, Financial Modelling, Options Pricing",High,Medium,51.4,Growing
+2021-03-20,Finance,Blockchain Developer,Jakarta,66,13783.92,13.65,Fresher,47,"Power BI, Blockchain, SQL, Solidity, Financial Modelling, Options Pricing",High,High,54.2,Stable
+2021-03-25,Finance,Chief Financial Officer,Ho Chi Minh City,73,15012.47,9.13,Fresher,45,"Options Pricing, AML, Financial Modelling",High,Low,60.4,Stable
+2021-03-25,Finance,Blockchain Developer,Da Nang,84,46968.61,4.37,Senior,22,"Python, CFA, FX Trading, Machine Learning, Bloomberg Terminal, Tableau",High,High,52.3,Growing
+2021-03-28,Finance,FinTech Developer,Singapore,70,30628.05,6.73,Junior,55,"SQL, Basel III, Power BI, Solidity, Machine Learning, CFA",High,Medium,58.0,Stable
+2021-03-28,Finance,Blockchain Developer,Bangkok,94,46119.19,8.23,Senior,58,"Financial Modelling, Bloomberg Terminal, Options Pricing, Machine Learning, CFA, FX Trading",High,High,41.2,Declining
+2021-03-29,Finance,Compliance Officer,Hanoi,74,18792.64,6.25,Junior,18,"Blockchain, Machine Learning, Tableau, Basel III, Power BI, Python",High,High,45.4,Declining
+2021-03-29,Finance,Risk Manager,Bangkok,70,53604.01,7.28,Senior,57,"Tableau, Solidity, Financial Modelling, AML, SQL, Python",Medium,High,41.8,Stable
+2021-03-30,Finance,Investment Banker,Manila,65,16912.73,13.31,Fresher,62,"Blockchain, Options Pricing, Python, Tableau",High,High,62.6,Stable
+2021-03-31,Finance,Blockchain Developer,Hanoi,72,11744.91,12.09,Fresher,64,"Power BI, SQL, Financial Modelling, Options Pricing",High,High,68.4,Stable
+2021-04-02,Finance,Financial Analyst,Jakarta,62,24424.56,12.17,Junior,25,"Financial Modelling, SQL, FX Trading",High,High,51.2,Declining
+2021-04-04,Finance,RegTech Specialist,Hanoi,75,54008.88,6.36,Senior,25,"Financial Modelling, AML, Python, Tableau, Power BI, Blockchain",High,Medium,77.3,Stable
+2021-04-05,Finance,Chief Financial Officer,Bangkok,92,48932.2,6.48,Senior,40,"FX Trading, Risk Modeling, Python, Machine Learning",Medium,High,48.6,Growing
+2021-04-05,Finance,Chief Financial Officer,Bangkok,68,45943.32,9.24,Senior,18,"Python, Financial Modelling, Risk Modeling, Solidity, Machine Learning",Medium,High,67.6,Growing
+2021-04-06,Finance,Quantitative Analyst,Bangkok,70,13579.68,10.78,Fresher,39,"Machine Learning, Options Pricing, SQL",High,Medium,68.2,Growing
+2021-04-06,Finance,Financial Analyst,Manila,78,30104.43,11.11,Junior,30,"Power BI, Machine Learning, Bloomberg Terminal, Options Pricing, SQL",High,High,59.1,Stable
+2021-04-08,Finance,Financial Analyst,Singapore,75,55973.06,7.44,Senior,63,"CFA, Excel, Power BI, Financial Modelling, AML",Low,High,42.3,Growing
+2021-04-09,Finance,Chief Financial Officer,Ho Chi Minh City,66,14146.7,11.2,Fresher,42,"SQL, Bloomberg Terminal, FX Trading",High,Medium,44.3,Growing
+2021-04-13,Finance,Quantitative Analyst,Da Nang,83,11093.01,9.8,Fresher,36,"SQL, FX Trading, Blockchain, Financial Modelling, AML",Medium,Medium,50.5,Stable
+2021-04-15,Finance,Blockchain Developer,Ho Chi Minh City,91,11942.23,14.29,Fresher,15,"Bloomberg Terminal, Machine Learning, AML, Blockchain, Options Pricing, Financial Modelling",High,Medium,62.4,Stable
+2021-04-15,Finance,Investment Banker,Hanoi,68,14543.45,10.41,Fresher,21,"AML, SQL, Tableau, Power BI, Excel, Python",Medium,Medium,74.6,Declining
+2021-04-19,Finance,Compliance Officer,Jakarta,73,25869.58,4.1,Junior,61,"Blockchain, Risk Modeling, Bloomberg Terminal",High,High,42.2,Declining
+2021-04-20,Finance,Actuary,Manila,73,55535.12,6.36,Senior,21,"FX Trading, Excel, AML, Basel III, SQL, Power BI",High,High,75.8,Growing
+2021-04-20,Finance,Quantitative Analyst,Singapore,53,25342.18,15.54,Junior,24,"Bloomberg Terminal, FX Trading, CFA, Options Pricing",High,Medium,60.3,Stable
+2021-04-21,Finance,FinTech Developer,Ho Chi Minh City,73,18626.28,10.89,Junior,21,"CFA, Machine Learning, Tableau, Bloomberg Terminal",High,Medium,75.4,Declining
+2021-04-25,Finance,Financial Analyst,Ho Chi Minh City,86,26159.75,12.3,Junior,21,"Bloomberg Terminal, CFA, Financial Modelling",High,High,52.3,Growing
+2021-04-26,Finance,Actuary,Ho Chi Minh City,72,20377.98,15.58,Junior,33,"Power BI, Bloomberg Terminal, Blockchain, Basel III, Tableau, Financial Modelling",High,Low,63.8,Stable
+2021-04-27,Finance,Portfolio Manager,Jakarta,78,49075.37,6.17,Senior,63,"CFA, Blockchain, Solidity, SQL, Bloomberg Terminal, Options Pricing",High,High,60.7,Growing
+2021-04-27,Finance,RegTech Specialist,Singapore,59,17200.8,5.59,Fresher,36,"Machine Learning, Risk Modeling, Tableau, Financial Modelling, AML",High,High,77.3,Growing
+2021-04-28,Finance,Financial Analyst,Da Nang,75,60034.5,15.99,Senior,40,"Financial Modelling, SQL, FX Trading, Bloomberg Terminal, Excel, Solidity",High,Medium,47.0,Stable
+2021-05-02,Finance,Chief Financial Officer,Jakarta,71,6378.0,10.31,Fresher,30,"Python, Options Pricing, SQL, Financial Modelling, FX Trading, CFA",Low,Medium,49.0,Stable
+2021-05-03,Finance,Financial Analyst,Bangkok,75,19154.77,9.58,Junior,34,"Bloomberg Terminal, AML, Machine Learning, Options Pricing",Medium,High,73.8,Stable
+2021-05-09,Finance,Portfolio Manager,Bangkok,86,10108.51,12.33,Fresher,65,"Financial Modelling, Machine Learning, Blockchain, Options Pricing",High,Medium,71.8,Growing
+2021-05-11,Finance,Investment Banker,Ho Chi Minh City,75,54716.57,12.35,Senior,38,"SQL, Options Pricing, AML, FX Trading",Medium,Low,59.8,Growing
+2021-05-16,Finance,Financial Analyst,Da Nang,81,26275.96,12.69,Junior,18,"FX Trading, Options Pricing, Machine Learning, Risk Modeling, Power BI, Financial Modelling",High,High,43.9,Growing
+2021-05-18,Finance,Quantitative Analyst,Singapore,78,43168.59,5.8,Senior,46,"Options Pricing, Excel, FX Trading, Python",High,Medium,65.4,Stable
+2021-05-20,Finance,Risk Manager,Da Nang,77,10415.04,10.68,Fresher,40,"Blockchain, Bloomberg Terminal, Excel",Medium,Medium,49.8,Growing
+2021-05-20,Finance,Actuary,Bangkok,82,22054.54,11.84,Junior,50,"Bloomberg Terminal, Tableau, AML, Excel, Power BI",Medium,Medium,59.3,Declining
+2021-05-20,Finance,Investment Banker,Singapore,54,26768.32,13.9,Junior,32,"Excel, Power BI, Blockchain, AML",High,Medium,52.9,Growing
+2021-05-21,Finance,Investment Banker,Bangkok,62,12103.26,12.93,Fresher,15,"Machine Learning, Excel, Solidity",High,Medium,53.3,Growing
+2021-05-23,Finance,Actuary,Ho Chi Minh City,77,47811.04,5.48,Senior,44,"SQL, Blockchain, Excel, Financial Modelling, Basel III, CFA",Medium,High,68.1,Declining
+2021-05-25,Finance,FinTech Developer,Da Nang,79,34457.21,8.03,Junior,48,"Python, Risk Modeling, Solidity, FX Trading",High,High,58.7,Growing
+2021-05-25,Finance,Portfolio Manager,Singapore,80,54644.75,12.97,Senior,41,"FX Trading, CFA, Python, Tableau",Medium,High,40.3,Stable
+2021-05-28,Finance,Investment Banker,Bangkok,76,42151.27,12.93,Senior,59,"CFA, AML, Blockchain, Bloomberg Terminal, Options Pricing, Machine Learning",Medium,Medium,74.2,Stable
+2021-05-28,Finance,Credit Analyst,Ho Chi Minh City,69,18015.96,5.75,Fresher,39,"Financial Modelling, Tableau, Power BI, Blockchain, Bloomberg Terminal",High,High,75.8,Growing
+2021-05-29,Finance,Investment Banker,Hanoi,70,30191.47,13.31,Junior,45,"Blockchain, Bloomberg Terminal, CFA",Low,High,60.7,Stable
+2021-06-01,Finance,Actuary,Ho Chi Minh City,51,13965.1,15.44,Fresher,24,"Tableau, AML, CFA",High,Medium,63.0,Stable
+2021-06-02,Finance,Blockchain Developer,Ho Chi Minh City,75,55514.27,14.44,Senior,64,"Excel, SQL, Risk Modeling, Bloomberg Terminal, Solidity",Medium,High,52.2,Stable
+2021-06-04,Finance,FinTech Developer,Jakarta,74,19886.76,13.42,Fresher,55,"Financial Modelling, Tableau, Basel III, AML, CFA, Python",Medium,Medium,57.0,Growing
+2021-06-04,Finance,Credit Analyst,Singapore,69,52317.7,11.56,Senior,38,"AML, Machine Learning, Python, Tableau, CFA, Options Pricing",High,Low,42.2,Stable
+2021-06-07,Finance,FinTech Developer,Bangkok,65,14374.16,5.22,Fresher,51,"Machine Learning, Basel III, Excel, AML",High,Medium,53.6,Stable
+2021-06-08,Finance,Quantitative Analyst,Manila,81,17312.95,5.02,Fresher,53,"Financial Modelling, Solidity, Options Pricing, AML, SQL, Machine Learning",Medium,Medium,40.7,Growing
+2021-06-08,Finance,Investment Banker,Ho Chi Minh City,72,44335.38,5.45,Senior,59,"Tableau, Basel III, Python, Financial Modelling, Machine Learning, Power BI",High,High,41.1,Stable
+2021-06-12,Finance,Quantitative Analyst,Singapore,76,5763.3,15.3,Fresher,63,"Basel III, Machine Learning, Options Pricing, Financial Modelling",Medium,Low,50.2,Declining
+2021-06-12,Finance,Portfolio Manager,Jakarta,78,51966.72,10.02,Senior,30,"Power BI, Python, Options Pricing",High,Medium,69.3,Declining
+2021-06-13,Finance,Blockchain Developer,Ho Chi Minh City,89,20800.85,8.82,Junior,16,"Python, Options Pricing, Blockchain, CFA, Financial Modelling, SQL",Medium,Medium,44.4,Growing
+2021-06-14,Finance,Compliance Officer,Ho Chi Minh City,71,21063.09,10.33,Junior,57,"Python, AML, Basel III, Machine Learning, Bloomberg Terminal",High,Low,47.0,Stable
+2021-06-18,Finance,Financial Analyst,Singapore,68,30769.28,12.55,Junior,24,"Bloomberg Terminal, CFA, Options Pricing, Tableau",High,High,60.1,Growing
+2021-06-19,Finance,Investment Banker,Ho Chi Minh City,75,12540.7,11.33,Fresher,62,"SQL, Excel, Financial Modelling, Bloomberg Terminal, Power BI",High,Low,61.5,Stable
+2021-06-19,Finance,Investment Banker,Hanoi,86,50093.7,12.35,Senior,45,"Options Pricing, Financial Modelling, Basel III, Excel",High,High,66.4,Stable
+2021-06-20,Finance,Blockchain Developer,Hanoi,67,50390.65,11.14,Senior,15,"AML, Python, Power BI, Options Pricing",High,High,41.6,Growing
+2021-06-22,Finance,RegTech Specialist,Jakarta,84,15782.69,9.09,Fresher,53,"Python, CFA, Financial Modelling, AML",Medium,Medium,66.5,Stable
+2021-06-24,Finance,Quantitative Analyst,Bangkok,70,20340.42,8.95,Fresher,29,"Excel, Solidity, FX Trading, SQL, Python",Medium,High,44.3,Growing
+2021-06-25,Finance,Quantitative Analyst,Manila,67,17687.12,15.74,Fresher,37,"CFA, SQL, Blockchain, Power BI, AML",Medium,High,62.0,Stable
+2021-06-26,Finance,Risk Manager,Singapore,68,16577.14,11.74,Fresher,39,"Solidity, Bloomberg Terminal, Financial Modelling, Machine Learning, Python",Medium,Medium,41.0,Growing
+2021-06-27,Finance,FinTech Developer,Manila,70,27726.2,13.06,Fresher,33,"Basel III, Financial Modelling, Python",High,Medium,77.0,Stable
+2021-07-02,Finance,FinTech Developer,Manila,80,22529.75,7.54,Junior,23,"SQL, Power BI, Basel III, CFA, Excel, Risk Modeling",High,Low,60.2,Declining
+2021-07-03,Finance,Actuary,Da Nang,65,7682.81,15.15,Fresher,22,"Bloomberg Terminal, Solidity, Power BI, Tableau, Risk Modeling, SQL",Medium,Low,73.3,Growing
+2021-07-04,Finance,Blockchain Developer,Hanoi,71,32125.5,7.59,Junior,28,"FX Trading, Power BI, Options Pricing, CFA",Medium,Medium,40.1,Growing
+2021-07-06,Finance,Portfolio Manager,Jakarta,66,28689.08,7.69,Junior,48,"Options Pricing, Blockchain, Basel III, Machine Learning, Tableau",Medium,Low,52.9,Growing
+2021-07-07,Finance,Chief Financial Officer,Da Nang,82,15261.32,13.02,Fresher,60,"Solidity, SQL, Python, Blockchain, Options Pricing, AML",High,Medium,49.8,Declining
+2021-07-07,Finance,Actuary,Da Nang,67,19412.8,9.25,Fresher,28,"Options Pricing, Risk Modeling, Financial Modelling, AML, Bloomberg Terminal",Medium,High,77.3,Stable
+2021-07-08,Finance,FinTech Developer,Manila,60,24572.09,9.48,Junior,33,"Bloomberg Terminal, Blockchain, Power BI",Medium,Medium,67.6,Growing
+2021-07-11,Finance,FinTech Developer,Manila,71,42025.46,12.38,Senior,45,"Power BI, Blockchain, Python, Tableau",Medium,High,64.4,Growing
+2021-07-14,Finance,Financial Analyst,Da Nang,78,55947.58,10.0,Senior,45,"Solidity, Tableau, Options Pricing, Basel III, Machine Learning",Medium,High,46.1,Declining
+2021-07-14,Finance,Blockchain Developer,Bangkok,79,51551.57,10.36,Senior,26,"Tableau, CFA, FX Trading",High,High,60.8,Declining
+2021-07-18,Finance,Credit Analyst,Ho Chi Minh City,60,41743.07,14.59,Senior,21,"Power BI, Machine Learning, Excel",Medium,Low,41.5,Growing
+2021-07-19,Finance,Credit Analyst,Bangkok,86,27848.85,15.48,Junior,27,"Risk Modeling, Blockchain, Financial Modelling, Basel III, Tableau",High,Medium,47.1,Stable
+2021-07-20,Finance,Financial Analyst,Singapore,78,45189.36,4.3,Senior,43,"Solidity, Excel, Machine Learning",High,Medium,75.3,Declining
+2021-07-23,Finance,Financial Analyst,Singapore,73,11713.22,9.87,Fresher,27,"Basel III, Excel, Power BI",High,High,49.6,Stable
+2021-07-28,Finance,Compliance Officer,Ho Chi Minh City,84,50470.75,5.8,Senior,62,"Power BI, Bloomberg Terminal, Blockchain, CFA, Basel III, Tableau",High,High,54.3,Stable
+2021-07-28,Finance,Quantitative Analyst,Da Nang,88,20969.06,14.14,Junior,41,"Excel, Solidity, CFA, Blockchain, Tableau, Basel III",High,Medium,62.2,Declining
+2021-07-29,Finance,Credit Analyst,Hanoi,73,49855.76,9.25,Senior,29,"Machine Learning, Basel III, Blockchain, Excel",Medium,High,59.4,Growing
+2021-07-30,Finance,Actuary,Singapore,82,53390.67,10.7,Senior,65,"Power BI, Excel, Solidity, Financial Modelling, Tableau",Medium,Medium,69.4,Growing
+2021-08-01,Finance,Compliance Officer,Manila,70,17493.89,5.12,Fresher,59,"Solidity, FX Trading, Python, Options Pricing",High,Medium,69.4,Declining
+2021-08-03,Finance,Risk Manager,Bangkok,72,23454.64,7.5,Junior,53,"AML, Power BI, Machine Learning, Blockchain, Risk Modeling",High,Medium,53.9,Stable
+2021-08-04,Finance,Investment Banker,Ho Chi Minh City,73,14307.38,11.35,Fresher,17,"Machine Learning, AML, SQL, Bloomberg Terminal, Solidity",High,Low,69.6,Stable
+2021-08-06,Finance,RegTech Specialist,Da Nang,85,11602.75,7.0,Fresher,61,"AML, SQL, Tableau, Machine Learning, FX Trading, CFA",High,Low,48.1,Declining
+2021-08-06,Finance,Quantitative Analyst,Bangkok,81,20693.43,4.58,Fresher,55,"Python, Basel III, Bloomberg Terminal, Power BI, Solidity, Financial Modelling",High,Medium,66.2,Stable
+2021-08-08,Finance,Credit Analyst,Ho Chi Minh City,78,53392.45,5.0,Senior,21,"Power BI, Machine Learning, FX Trading, Tableau, SQL, Options Pricing",Medium,Medium,73.1,Growing
+2021-08-13,Finance,Compliance Officer,Singapore,66,66050.82,12.2,Senior,16,"Python, CFA, Bloomberg Terminal",Low,Medium,77.3,Stable
+2021-08-14,Finance,Financial Analyst,Da Nang,86,18012.13,8.73,Fresher,21,"Python, FX Trading, Excel, CFA, Bloomberg Terminal, Options Pricing",Medium,Medium,62.3,Growing
+2021-08-16,Finance,Investment Banker,Hanoi,69,15894.92,10.01,Fresher,21,"Options Pricing, Basel III, AML, SQL, Financial Modelling, Excel",High,Medium,47.1,Stable
+2021-08-16,Finance,Chief Financial Officer,Jakarta,81,61342.34,10.48,Senior,33,"Solidity, Excel, SQL",Low,Medium,61.9,Declining
+2021-08-20,Finance,Risk Manager,Hanoi,95,58399.32,8.48,Senior,22,"Basel III, Power BI, AML, FX Trading",Medium,High,41.2,Growing
+2021-08-22,Finance,Blockchain Developer,Ho Chi Minh City,67,48747.12,13.95,Senior,35,"Solidity, Options Pricing, Financial Modelling, Python, Power BI",High,High,60.4,Declining
+2021-08-24,Finance,Chief Financial Officer,Bangkok,76,27448.01,7.29,Junior,47,"Financial Modelling, Tableau, Bloomberg Terminal, CFA",High,High,61.5,Growing
+2021-08-25,Finance,Actuary,Da Nang,79,62113.17,7.75,Senior,18,"SQL, Solidity, Basel III, FX Trading",High,Medium,46.9,Declining
+2021-08-25,Finance,Financial Analyst,Ho Chi Minh City,79,25276.37,15.83,Junior,44,"Python, SQL, Power BI, Financial Modelling, Solidity, Machine Learning",Medium,Medium,71.1,Stable
+2021-08-27,Finance,Portfolio Manager,Hanoi,91,26897.98,4.88,Junior,20,"Power BI, Excel, FX Trading",Medium,High,72.2,Declining
+2021-08-27,Finance,Risk Manager,Hanoi,76,7178.6,10.67,Fresher,25,"Python, CFA, FX Trading",Low,Medium,51.2,Stable
+2021-08-29,Finance,RegTech Specialist,Da Nang,78,31207.91,9.72,Junior,28,"Options Pricing, Python, Basel III, Machine Learning",Low,Low,50.6,Declining
+2021-08-29,Finance,Compliance Officer,Jakarta,68,16772.54,9.09,Junior,28,"SQL, Risk Modeling, Basel III, Blockchain, FX Trading",High,Medium,50.6,Declining
+2021-08-30,Finance,Risk Manager,Jakarta,71,20959.83,5.82,Junior,32,"Power BI, CFA, Machine Learning, Excel",Medium,High,66.2,Stable
+2021-09-01,Finance,Investment Banker,Ho Chi Minh City,84,53252.48,6.16,Senior,22,"Excel, Blockchain, FX Trading, Python, Tableau, Bloomberg Terminal",High,Medium,57.9,Stable
+2021-09-02,Finance,Quantitative Analyst,Ho Chi Minh City,74,7823.69,12.32,Fresher,63,"Blockchain, FX Trading, Financial Modelling, Risk Modeling, Tableau",Medium,High,73.9,Stable
+2021-09-10,Finance,FinTech Developer,Bangkok,88,55786.37,7.41,Senior,35,"Power BI, Python, Options Pricing, Tableau, Machine Learning",Medium,High,50.9,Growing
+2021-09-12,Finance,Compliance Officer,Bangkok,67,53950.55,12.84,Senior,42,"Financial Modelling, Solidity, Machine Learning",Medium,Low,52.0,Growing
+2021-09-12,Finance,Risk Manager,Hanoi,82,21831.5,14.89,Junior,59,"FX Trading, Basel III, Blockchain, Machine Learning, Tableau",Medium,Low,65.7,Growing
+2021-09-15,Finance,Portfolio Manager,Bangkok,83,31965.49,5.89,Junior,27,"CFA, Machine Learning, AML, Bloomberg Terminal, Blockchain",High,High,51.8,Stable
+2021-09-15,Finance,Actuary,Jakarta,80,13639.63,12.73,Fresher,17,"Tableau, Power BI, Blockchain, Python, CFA, Basel III",High,High,55.1,Growing
+2021-09-16,Finance,Blockchain Developer,Bangkok,86,11916.28,13.56,Fresher,17,"Machine Learning, Risk Modeling, Power BI, CFA, Blockchain, Financial Modelling",High,Medium,67.7,Declining
+2021-09-18,Finance,Portfolio Manager,Bangkok,78,26730.88,14.46,Junior,21,"Power BI, AML, FX Trading, Basel III, Excel, Python",Medium,High,58.3,Stable
+2021-09-19,Finance,Credit Analyst,Ho Chi Minh City,78,15726.52,4.53,Fresher,33,"Options Pricing, Financial Modelling, Risk Modeling",Medium,Low,44.4,Growing
+2021-09-19,Finance,Risk Manager,Singapore,71,55402.61,7.95,Senior,63,"AML, FX Trading, Machine Learning, Power BI, Risk Modeling, Financial Modelling",High,High,68.3,Stable
+2021-09-19,Finance,Blockchain Developer,Singapore,74,50856.54,4.71,Senior,15,"AML, Tableau, Bloomberg Terminal",High,High,54.1,Stable
+2021-09-23,Finance,FinTech Developer,Singapore,77,45968.11,13.79,Senior,39,"Python, SQL, Bloomberg Terminal, Financial Modelling",High,Low,50.5,Growing
+2021-09-24,Finance,Quantitative Analyst,Manila,84,56946.23,10.61,Senior,64,"Blockchain, Machine Learning, Risk Modeling",Medium,Medium,56.9,Declining
+2021-09-24,Finance,Risk Manager,Ho Chi Minh City,77,26420.44,12.83,Junior,29,"SQL, Blockchain, CFA, Excel",High,Low,66.0,Declining
+2021-09-26,Finance,Chief Financial Officer,Ho Chi Minh City,85,19435.37,12.63,Junior,34,"Python, AML, Risk Modeling, Tableau, SQL",Medium,High,78.6,Stable
+2021-09-27,Finance,Investment Banker,Jakarta,78,13933.68,10.27,Junior,57,"FX Trading, SQL, Financial Modelling, Excel",Medium,Low,64.0,Growing
+2021-10-02,Finance,Compliance Officer,Bangkok,87,20251.18,6.5,Junior,47,"Power BI, Options Pricing, CFA, Bloomberg Terminal",High,Medium,65.3,Growing
+2021-10-02,Finance,RegTech Specialist,Da Nang,83,61043.47,13.91,Senior,27,"Solidity, Blockchain, CFA, Tableau, Machine Learning",High,Medium,79.9,Stable
+2021-10-03,Finance,Portfolio Manager,Hanoi,67,22447.95,12.46,Fresher,64,"Basel III, Machine Learning, Python, FX Trading, Financial Modelling, AML",Medium,Low,67.7,Declining
+2021-10-05,Finance,Portfolio Manager,Jakarta,68,31243.36,11.71,Junior,21,"Power BI, Tableau, Python, Blockchain",High,High,42.8,Stable
+2021-10-06,Finance,Blockchain Developer,Manila,78,27755.12,10.76,Junior,44,"Machine Learning, Excel, Basel III, Options Pricing, AML",Medium,High,77.9,Stable
+2021-10-07,Finance,Portfolio Manager,Jakarta,76,58886.98,6.64,Senior,29,"Python, FX Trading, Power BI, SQL",Medium,Low,42.6,Declining
+2021-10-07,Finance,Credit Analyst,Singapore,80,28349.65,7.72,Junior,24,"Bloomberg Terminal, Excel, Financial Modelling",Medium,High,68.7,Stable
+2021-10-08,Finance,Risk Manager,Ho Chi Minh City,76,19366.65,6.39,Junior,60,"CFA, SQL, Python",Medium,High,47.4,Stable
+2021-10-09,Finance,Actuary,Ho Chi Minh City,69,18651.47,12.66,Fresher,28,"Financial Modelling, FX Trading, Options Pricing, Solidity",High,Medium,77.5,Declining
+2021-10-09,Finance,RegTech Specialist,Ho Chi Minh City,67,16790.17,15.36,Junior,55,"Blockchain, Machine Learning, CFA, Bloomberg Terminal",High,High,55.3,Stable
+2021-10-10,Finance,Portfolio Manager,Manila,67,23621.65,6.13,Junior,23,"Power BI, Risk Modeling, Blockchain, Tableau",Medium,High,51.2,Growing
+2021-10-12,Finance,Actuary,Da Nang,81,33211.73,11.31,Junior,56,"Risk Modeling, Options Pricing, Basel III, Financial Modelling",High,Low,78.4,Declining
+2021-10-13,Finance,Compliance Officer,Bangkok,77,59570.1,15.81,Senior,42,"Options Pricing, Excel, Financial Modelling, Python, SQL",Medium,High,66.9,Stable
+2021-10-14,Finance,Financial Analyst,Singapore,87,22958.67,8.32,Junior,43,"Tableau, Blockchain, Python, Excel, Basel III, Solidity",High,High,50.3,Stable
+2021-10-15,Finance,Investment Banker,Hanoi,83,54569.71,11.3,Senior,38,"AML, Excel, Options Pricing, Machine Learning, Financial Modelling",Low,Medium,71.1,Stable
+2021-10-16,Finance,Risk Manager,Da Nang,81,35477.49,6.95,Junior,57,"Basel III, Financial Modelling, Bloomberg Terminal",Medium,Medium,69.8,Growing
+2021-10-19,Finance,FinTech Developer,Singapore,76,7387.19,14.81,Fresher,57,"Risk Modeling, Options Pricing, Basel III",High,Medium,79.2,Growing
+2021-10-21,Finance,Risk Manager,Hanoi,91,26958.67,8.47,Junior,52,"Basel III, CFA, Machine Learning, Blockchain",High,Low,62.1,Stable
+2021-10-22,Finance,RegTech Specialist,Da Nang,68,20967.45,15.75,Fresher,39,"Tableau, Machine Learning, AML, Power BI, Options Pricing",High,Medium,47.2,Stable
+2021-10-26,Finance,Quantitative Analyst,Ho Chi Minh City,77,51350.43,6.82,Senior,53,"CFA, Options Pricing, Power BI, AML, Solidity",Medium,Medium,40.4,Stable
+2021-10-27,Finance,Compliance Officer,Singapore,89,61894.06,5.16,Senior,25,"Blockchain, Basel III, Python, CFA, SQL, Risk Modeling",Medium,Medium,44.2,Stable
+2021-10-28,Finance,Investment Banker,Hanoi,98,20830.11,6.55,Fresher,34,"Financial Modelling, FX Trading, Blockchain, Python",Medium,High,47.2,Declining
+2021-10-31,Finance,Risk Manager,Hanoi,74,53094.43,15.92,Senior,54,"FX Trading, AML, Python, Machine Learning",Low,Medium,47.0,Growing
+2021-11-02,Finance,Risk Manager,Da Nang,81,20269.86,6.92,Fresher,15,"Blockchain, Python, Machine Learning, SQL, AML",High,Medium,48.8,Growing
+2021-11-03,Finance,Chief Financial Officer,Singapore,80,11331.02,7.74,Fresher,28,"Python, Options Pricing, CFA, Basel III, Financial Modelling, Solidity",Medium,High,72.0,Growing
+2021-11-04,Finance,Quantitative Analyst,Jakarta,82,17157.1,11.01,Fresher,22,"Basel III, Power BI, AML, Tableau",High,Low,54.5,Declining
+2021-11-05,Finance,Compliance Officer,Bangkok,62,13863.35,7.86,Fresher,52,"CFA, Excel, Risk Modeling, Blockchain, AML",High,Medium,55.2,Declining
+2021-11-06,Finance,FinTech Developer,Hanoi,66,15174.6,4.25,Fresher,24,"Basel III, Excel, Python, FX Trading",High,Medium,54.5,Growing
+2021-11-08,Finance,Financial Analyst,Jakarta,57,58691.78,10.0,Senior,48,"Blockchain, CFA, Risk Modeling, Bloomberg Terminal, Solidity, Power BI",High,High,69.9,Stable
+2021-11-09,Finance,RegTech Specialist,Bangkok,70,23557.45,9.03,Fresher,35,"Excel, Options Pricing, Power BI, SQL",Medium,Medium,59.6,Stable
+2021-11-09,Finance,Portfolio Manager,Singapore,67,31454.56,9.66,Junior,21,"Blockchain, Excel, Solidity, Options Pricing, Python, Financial Modelling",Medium,High,40.0,Growing
+2021-11-09,Finance,Investment Banker,Hanoi,83,56012.74,6.51,Senior,39,"Python, Financial Modelling, Bloomberg Terminal",Medium,Medium,77.0,Growing
+2021-11-10,Finance,Blockchain Developer,Hanoi,73,45605.92,7.4,Senior,58,"Bloomberg Terminal, Options Pricing, Solidity",High,Low,53.5,Growing
+2021-11-10,Finance,Portfolio Manager,Manila,74,21681.12,7.39,Junior,63,"Machine Learning, Blockchain, Risk Modeling, Tableau, Solidity, AML",High,Medium,61.7,Declining
+2021-11-12,Finance,Portfolio Manager,Bangkok,70,49756.57,4.06,Senior,51,"Power BI, CFA, Bloomberg Terminal, Tableau",Medium,Medium,56.0,Stable
+2021-11-13,Finance,Investment Banker,Bangkok,84,11302.92,9.96,Fresher,20,"Power BI, Risk Modeling, Bloomberg Terminal, Excel, Financial Modelling, Machine Learning",High,Medium,48.2,Growing
+2021-11-15,Finance,Chief Financial Officer,Bangkok,83,50740.85,12.46,Senior,42,"Solidity, Machine Learning, Python",Low,High,50.0,Declining
+2021-11-19,Finance,FinTech Developer,Singapore,75,32201.39,6.24,Junior,63,"Power BI, Financial Modelling, Excel, Tableau, Solidity, Risk Modeling",High,High,59.6,Growing
+2021-11-24,Finance,FinTech Developer,Ho Chi Minh City,110,18095.76,8.64,Fresher,61,"Basel III, AML, Power BI, FX Trading",High,Medium,75.3,Stable
+2021-11-28,Finance,Quantitative Analyst,Ho Chi Minh City,77,25131.25,8.86,Junior,44,"Bloomberg Terminal, Risk Modeling, Excel",High,Low,74.6,Stable
+2021-12-02,Finance,Credit Analyst,Singapore,82,47599.97,7.66,Senior,63,"Financial Modelling, Bloomberg Terminal, Blockchain",High,Medium,68.4,Stable
+2021-12-02,Finance,Credit Analyst,Manila,77,63252.64,13.66,Senior,40,"AML, Basel III, Risk Modeling, Machine Learning, Options Pricing",Medium,Medium,49.6,Growing
+2021-12-05,Finance,Investment Banker,Da Nang,81,56932.64,5.24,Senior,16,"Blockchain, Python, Bloomberg Terminal, SQL, Options Pricing",High,High,46.0,Growing
+2021-12-08,Finance,Investment Banker,Da Nang,65,23979.34,5.52,Junior,30,"Machine Learning, Options Pricing, Blockchain, Tableau, Bloomberg Terminal, FX Trading",Medium,Medium,55.8,Growing
+2021-12-09,Finance,Financial Analyst,Ho Chi Minh City,75,9171.6,10.43,Fresher,30,"Financial Modelling, Options Pricing, Bloomberg Terminal, Basel III, Python, Blockchain",Low,Low,72.9,Growing
+2021-12-11,Finance,Actuary,Jakarta,83,25153.96,7.59,Junior,30,"Machine Learning, Bloomberg Terminal, Blockchain, Financial Modelling, Excel",High,Low,68.1,Declining
+2021-12-11,Finance,Financial Analyst,Jakarta,80,54728.06,11.9,Senior,16,"Bloomberg Terminal, Solidity, Options Pricing, Tableau",Low,Medium,53.3,Stable
+2021-12-12,Finance,Investment Banker,Hanoi,85,21177.22,12.32,Junior,31,"Tableau, Python, Financial Modelling",High,High,64.1,Growing
+2021-12-12,Finance,FinTech Developer,Manila,89,9119.98,13.25,Fresher,18,"Solidity, FX Trading, Power BI, AML, Basel III, Machine Learning",High,Medium,75.5,Declining
+2021-12-16,Finance,Portfolio Manager,Bangkok,98,22684.96,12.49,Junior,35,"Machine Learning, Financial Modelling, Solidity, Blockchain, Basel III",High,Medium,66.6,Stable
+2021-12-16,Finance,Portfolio Manager,Hanoi,92,30326.81,10.27,Junior,64,"Solidity, Tableau, Machine Learning",High,Low,61.5,Declining
+2021-12-18,Finance,FinTech Developer,Da Nang,70,50551.11,15.49,Senior,15,"Machine Learning, AML, FX Trading",High,Medium,57.0,Growing
+2021-12-23,Finance,Compliance Officer,Singapore,89,23944.84,12.55,Junior,26,"Financial Modelling, Solidity, FX Trading, SQL",Medium,High,75.2,Stable
+2021-12-24,Finance,Actuary,Bangkok,69,34050.12,4.66,Junior,59,"Excel, Basel III, SQL, Power BI",High,High,77.9,Growing
+2021-12-25,Finance,Risk Manager,Bangkok,73,21806.67,11.45,Fresher,25,"FX Trading, Power BI, Bloomberg Terminal, Blockchain, Risk Modeling, Machine Learning",High,High,62.2,Stable
+2021-12-26,Finance,Risk Manager,Hanoi,80,14557.05,12.18,Fresher,56,"Basel III, Excel, Solidity, Machine Learning, Blockchain",Medium,Medium,64.6,Declining
+2021-12-27,Finance,Blockchain Developer,Bangkok,85,13688.08,8.33,Fresher,54,"Basel III, Python, Tableau, CFA, Machine Learning",High,High,78.0,Stable
+2022-01-02,Finance,Compliance Officer,Hanoi,71,21489.82,6.85,Junior,50,"Blockchain, FX Trading, Solidity, Financial Modelling, Power BI",High,High,44.9,Stable
+2022-01-06,Finance,Investment Banker,Singapore,88,49121.32,12.67,Senior,53,"Options Pricing, Basel III, AML, Financial Modelling",Low,High,56.6,Stable
+2022-01-06,Finance,Compliance Officer,Bangkok,72,20468.0,4.3,Fresher,33,"Tableau, Power BI, Excel, Solidity, Blockchain",Medium,Medium,46.4,Growing
+2022-01-07,Finance,Actuary,Hanoi,90,13169.26,6.82,Fresher,51,"Blockchain, Excel, Options Pricing, Solidity",Low,Medium,54.7,Growing
+2022-01-11,Finance,Chief Financial Officer,Manila,83,62127.04,13.74,Senior,25,"Tableau, Bloomberg Terminal, SQL, Financial Modelling, Options Pricing",High,Low,52.4,Stable
+2022-01-11,Finance,Actuary,Jakarta,72,26084.99,11.84,Junior,47,"Excel, Python, Power BI",Medium,High,63.8,Growing
+2022-01-11,Finance,Financial Analyst,Jakarta,75,61138.24,12.9,Senior,65,"Solidity, Machine Learning, Blockchain, FX Trading, AML",High,High,53.1,Stable
+2022-01-12,Finance,Blockchain Developer,Hanoi,83,66662.34,8.37,Senior,32,"AML, SQL, FX Trading, Risk Modeling",Low,High,65.0,Growing
+2022-01-13,Finance,Chief Financial Officer,Ho Chi Minh City,86,60496.19,8.87,Senior,24,"Bloomberg Terminal, SQL, CFA, AML, Blockchain",Medium,Low,62.9,Growing
+2022-01-15,Finance,Credit Analyst,Ho Chi Minh City,67,52847.04,12.77,Senior,38,"Python, Tableau, Solidity, Blockchain, Excel, Options Pricing",Medium,Low,47.0,Growing
+2022-01-20,Finance,Financial Analyst,Bangkok,77,50745.65,13.88,Senior,60,"Machine Learning, Excel, Blockchain",Medium,Medium,55.9,Declining
+2022-01-21,Finance,Compliance Officer,Manila,91,15076.96,4.73,Fresher,60,"Options Pricing, Bloomberg Terminal, Tableau, SQL, FX Trading, Excel",Low,Medium,66.6,Stable
+2022-01-23,Finance,Financial Analyst,Da Nang,85,18350.3,15.65,Junior,30,"CFA, Financial Modelling, SQL, Blockchain, Risk Modeling",Medium,High,45.6,Stable
+2022-01-27,Finance,FinTech Developer,Jakarta,79,52116.95,11.83,Senior,44,"AML, Power BI, Solidity, Excel, Blockchain",High,High,44.4,Growing
+2022-01-27,Finance,Risk Manager,Ho Chi Minh City,65,14022.74,12.51,Fresher,46,"SQL, Solidity, Options Pricing, Tableau, Risk Modeling",Medium,High,48.3,Stable
+2022-01-30,Finance,Financial Analyst,Ho Chi Minh City,78,9945.26,9.62,Fresher,25,"Blockchain, SQL, Tableau",High,High,50.2,Stable
+2022-01-30,Finance,Credit Analyst,Jakarta,87,8944.21,13.05,Fresher,22,"Tableau, Python, Risk Modeling",Medium,Medium,66.4,Growing
+2022-02-02,Finance,Financial Analyst,Hanoi,78,10985.7,13.79,Fresher,41,"Excel, Power BI, Machine Learning, Blockchain, Tableau, AML",High,High,52.1,Stable
+2022-02-04,Finance,Blockchain Developer,Hanoi,81,26296.64,6.58,Junior,63,"AML, Python, Power BI",High,Medium,68.1,Stable
+2022-02-05,Finance,Risk Manager,Singapore,82,29395.48,12.1,Junior,63,"CFA, Bloomberg Terminal, Options Pricing, Python, Financial Modelling",High,Medium,45.6,Growing
+2022-02-07,Finance,Investment Banker,Ho Chi Minh City,85,10954.0,8.05,Fresher,31,"Options Pricing, Machine Learning, Financial Modelling, Tableau, Risk Modeling, FX Trading",High,Medium,45.9,Growing
+2022-02-09,Finance,Quantitative Analyst,Manila,79,14287.56,5.5,Fresher,61,"AML, Solidity, Tableau, Bloomberg Terminal, Basel III",High,Medium,55.3,Declining
+2022-02-09,Finance,Blockchain Developer,Manila,80,53393.86,10.34,Senior,62,"SQL, Financial Modelling, Python, Options Pricing",High,High,50.6,Growing
+2022-02-10,Finance,Risk Manager,Hanoi,79,11939.53,9.78,Fresher,29,"Financial Modelling, Solidity, Blockchain, Options Pricing, Basel III, AML",Medium,Medium,73.9,Growing
+2022-02-10,Finance,Chief Financial Officer,Singapore,75,39503.95,13.37,Junior,50,"Blockchain, FX Trading, SQL, Python",High,High,50.3,Growing
+2022-02-13,Finance,Risk Manager,Manila,67,58373.94,9.43,Senior,55,"Basel III, Excel, Machine Learning, Risk Modeling",High,High,77.3,Declining
+2022-02-16,Finance,Financial Analyst,Hanoi,85,31414.23,8.85,Junior,63,"Power BI, Risk Modeling, Financial Modelling",High,Medium,74.4,Declining
+2022-02-17,Finance,Chief Financial Officer,Manila,87,20868.44,5.11,Fresher,38,"CFA, Risk Modeling, Bloomberg Terminal, Basel III, Excel",High,Medium,43.5,Growing
+2022-02-19,Finance,Compliance Officer,Jakarta,76,24272.89,14.74,Junior,64,"Basel III, FX Trading, SQL",High,High,71.6,Growing
+2022-02-19,Finance,Risk Manager,Jakarta,73,59501.71,14.08,Senior,65,"Basel III, AML, Excel",Medium,Low,58.3,Stable
+2022-02-21,Finance,Investment Banker,Jakarta,92,48961.49,6.22,Senior,28,"Machine Learning, AML, Blockchain",Low,High,57.6,Declining
+2022-02-21,Finance,RegTech Specialist,Hanoi,87,6019.33,15.83,Fresher,16,"Solidity, Power BI, Machine Learning, Basel III, Tableau",Medium,High,78.2,Stable
+2022-02-22,Finance,Quantitative Analyst,Ho Chi Minh City,84,8156.78,4.4,Fresher,56,"Bloomberg Terminal, Excel, SQL, Power BI, CFA",High,High,41.7,Stable
+2022-02-23,Finance,RegTech Specialist,Singapore,78,22942.04,13.43,Fresher,53,"Excel, Power BI, Python, Risk Modeling, CFA",High,Medium,41.9,Stable
+2022-02-24,Finance,RegTech Specialist,Ho Chi Minh City,74,23435.05,13.94,Junior,18,"Python, SQL, Options Pricing",Medium,Low,44.4,Declining
+2022-02-26,Finance,Risk Manager,Bangkok,99,57199.57,7.11,Senior,23,"Excel, Financial Modelling, AML, SQL, Basel III",High,High,67.6,Declining
+2022-02-28,Finance,Investment Banker,Bangkok,80,50256.52,12.98,Senior,65,"Machine Learning, Bloomberg Terminal, AML, Risk Modeling",High,Low,78.5,Declining
+2022-02-28,Finance,Compliance Officer,Ho Chi Minh City,81,58553.97,6.34,Senior,15,"Bloomberg Terminal, SQL, Blockchain, FX Trading",Medium,High,64.1,Stable
+2022-03-04,Finance,Portfolio Manager,Hanoi,76,15950.48,8.52,Fresher,60,"SQL, CFA, Risk Modeling, Blockchain",Medium,High,72.4,Declining
+2022-03-05,Finance,Financial Analyst,Da Nang,64,22519.48,10.34,Junior,42,"Python, SQL, Options Pricing, Risk Modeling, Power BI, CFA",High,Medium,42.9,Growing
+2022-03-06,Finance,Credit Analyst,Da Nang,75,15731.24,15.31,Fresher,42,"Financial Modelling, FX Trading, CFA",Low,Medium,50.0,Growing
+2022-03-07,Finance,Risk Manager,Singapore,78,24124.82,13.71,Junior,47,"Bloomberg Terminal, CFA, Solidity, Machine Learning, Financial Modelling, Options Pricing",Medium,High,47.7,Declining
+2022-03-08,Finance,Quantitative Analyst,Singapore,66,12180.65,7.61,Fresher,39,"Excel, Financial Modelling, Options Pricing",Medium,Medium,57.0,Growing
+2022-03-09,Finance,Portfolio Manager,Jakarta,99,26177.72,9.41,Fresher,21,"Financial Modelling, Power BI, Risk Modeling, Solidity, SQL",High,Medium,52.5,Stable
+2022-03-10,Finance,Risk Manager,Singapore,86,31158.16,12.9,Junior,17,"Solidity, Blockchain, Power BI, AML",High,High,45.1,Declining
+2022-03-12,Finance,Risk Manager,Da Nang,89,30437.81,8.82,Junior,31,"Basel III, Risk Modeling, Options Pricing, Blockchain, Excel",High,Medium,67.8,Stable
+2022-03-12,Finance,Blockchain Developer,Ho Chi Minh City,86,19545.49,15.55,Junior,29,"Python, Power BI, FX Trading, Options Pricing, CFA",High,Medium,68.2,Growing
+2022-03-13,Finance,Blockchain Developer,Hanoi,98,19654.65,15.52,Fresher,59,"Bloomberg Terminal, FX Trading, Financial Modelling, Basel III, SQL",Low,Medium,48.8,Declining
+2022-03-14,Finance,RegTech Specialist,Ho Chi Minh City,90,59719.14,14.02,Senior,25,"FX Trading, Bloomberg Terminal, Risk Modeling, Python, Solidity",High,Medium,43.0,Stable
+2022-03-14,Finance,Actuary,Bangkok,89,13374.97,10.66,Fresher,54,"Power BI, Bloomberg Terminal, Basel III, Excel, Python",Medium,Medium,45.8,Growing
+2022-03-14,Finance,Actuary,Bangkok,85,55388.31,10.38,Senior,21,"FX Trading, Blockchain, CFA, SQL, Python, Basel III",Medium,High,72.3,Declining
+2022-03-15,Finance,Chief Financial Officer,Manila,72,22395.29,13.33,Junior,45,"AML, Python, Machine Learning, CFA, Tableau",Low,Low,66.9,Growing
+2022-03-15,Finance,Investment Banker,Jakarta,82,25687.33,4.57,Junior,59,"SQL, Excel, Solidity, Python",Low,Medium,41.5,Declining
+2022-03-17,Finance,Credit Analyst,Jakarta,81,53073.78,14.97,Senior,59,"FX Trading, Risk Modeling, Solidity, Financial Modelling, Blockchain",High,High,73.5,Stable
+2022-03-17,Finance,Investment Banker,Jakarta,84,15779.99,7.86,Fresher,32,"Excel, Financial Modelling, FX Trading, Basel III, Power BI, Risk Modeling",High,High,60.6,Stable
+2022-03-18,Finance,FinTech Developer,Singapore,74,60055.9,5.77,Senior,55,"AML, Excel, Risk Modeling, SQL",High,Low,64.0,Declining
+2022-03-20,Finance,Financial Analyst,Manila,92,53689.46,4.27,Senior,64,"Risk Modeling, Options Pricing, FX Trading",Medium,High,62.5,Stable
+2022-03-22,Finance,Investment Banker,Manila,80,31130.61,5.7,Junior,57,"Blockchain, Options Pricing, Solidity, Power BI, Excel",Medium,Medium,51.0,Growing
+2022-03-23,Finance,Compliance Officer,Singapore,100,15055.02,8.8,Fresher,45,"Options Pricing, Tableau, Machine Learning, SQL",Medium,Medium,78.0,Growing
+2022-03-24,Finance,Quantitative Analyst,Manila,81,11611.05,11.26,Fresher,59,"Bloomberg Terminal, Tableau, Solidity, AML, Excel",Low,High,61.1,Growing
+2022-03-24,Finance,Credit Analyst,Jakarta,69,22598.79,15.69,Junior,24,"Basel III, Tableau, SQL",High,High,47.9,Stable
+2022-03-24,Finance,Chief Financial Officer,Hanoi,88,55319.07,8.14,Senior,30,"Risk Modeling, SQL, CFA, Excel, Basel III",Medium,Medium,68.7,Growing
+2022-03-25,Finance,FinTech Developer,Hanoi,96,19592.67,13.88,Fresher,59,"FX Trading, Blockchain, Power BI",Medium,Medium,79.7,Growing
+2022-03-27,Finance,Quantitative Analyst,Manila,89,13770.99,6.1,Fresher,37,"Solidity, Bloomberg Terminal, CFA, Options Pricing, Tableau, Excel",High,Medium,68.7,Stable
+2022-03-27,Finance,Compliance Officer,Singapore,71,7737.86,14.68,Fresher,34,"AML, Risk Modeling, Financial Modelling, Options Pricing, Power BI, CFA",Medium,Medium,50.1,Stable
+2022-03-27,Finance,RegTech Specialist,Singapore,65,16296.64,5.66,Fresher,26,"Options Pricing, Power BI, Bloomberg Terminal",Medium,High,69.2,Stable
+2022-03-29,Finance,Compliance Officer,Jakarta,90,28371.71,4.41,Junior,25,"Machine Learning, Basel III, CFA, Financial Modelling",Medium,High,56.0,Stable
+2022-03-29,Finance,Credit Analyst,Manila,81,11841.49,6.97,Fresher,55,"Power BI, Solidity, Python",High,High,63.4,Growing
+2022-04-02,Finance,Quantitative Analyst,Hanoi,70,16773.83,12.69,Fresher,20,"Options Pricing, Solidity, Python, Basel III, Blockchain, Tableau",High,Low,53.6,Stable
+2022-04-04,Finance,Portfolio Manager,Jakarta,84,31664.97,5.95,Junior,21,"CFA, AML, Risk Modeling",High,High,56.3,Stable
+2022-04-04,Finance,RegTech Specialist,Da Nang,80,11136.86,14.91,Fresher,40,"Python, Financial Modelling, Power BI, AML",High,Low,68.1,Stable
+2022-04-04,Finance,Actuary,Ho Chi Minh City,83,25654.34,6.91,Junior,49,"Excel, Options Pricing, Tableau, Solidity",Medium,High,79.1,Declining
+2022-04-08,Finance,Portfolio Manager,Bangkok,71,31274.19,8.39,Junior,62,"Options Pricing, Financial Modelling, CFA, Solidity",High,Medium,78.7,Growing
+2022-04-08,Finance,Actuary,Hanoi,74,20595.8,7.74,Fresher,36,"Financial Modelling, Options Pricing, CFA, AML, SQL",High,High,79.9,Growing
+2022-04-10,Finance,Risk Manager,Da Nang,84,12939.66,8.86,Fresher,27,"Basel III, Financial Modelling, CFA, Options Pricing, FX Trading, Blockchain",Medium,High,65.4,Growing
+2022-04-13,Finance,FinTech Developer,Singapore,88,21149.39,12.62,Junior,52,"Solidity, Python, AML",Low,Low,49.5,Growing
+2022-04-16,Finance,Portfolio Manager,Ho Chi Minh City,68,19610.81,5.08,Fresher,49,"Bloomberg Terminal, Solidity, Financial Modelling, Power BI, AML, Basel III",High,Medium,62.7,Stable
+2022-04-18,Finance,FinTech Developer,Jakarta,72,57167.82,10.59,Senior,55,"Basel III, Risk Modeling, Financial Modelling, Python",Medium,Low,48.4,Stable
+2022-04-20,Finance,Chief Financial Officer,Singapore,90,47200.45,8.46,Senior,29,"AML, Risk Modeling, Bloomberg Terminal, Excel",High,Medium,56.9,Growing
+2022-04-21,Finance,Risk Manager,Ho Chi Minh City,92,47431.19,9.98,Senior,18,"FX Trading, Blockchain, Excel, Machine Learning, SQL",Medium,Medium,79.5,Growing
+2022-04-24,Finance,Chief Financial Officer,Ho Chi Minh City,80,24796.97,5.58,Junior,27,"Bloomberg Terminal, Python, Machine Learning",Medium,High,71.5,Stable
+2022-04-25,Finance,Investment Banker,Manila,69,31148.66,5.44,Junior,59,"FX Trading, AML, Solidity",Medium,High,66.2,Stable
+2022-04-30,Finance,Financial Analyst,Bangkok,81,53336.24,12.28,Senior,61,"Machine Learning, Excel, Risk Modeling, CFA",Medium,High,63.7,Stable
+2022-05-01,Finance,Actuary,Bangkok,78,22788.66,6.59,Junior,51,"Power BI, FX Trading, Tableau, Bloomberg Terminal",High,Medium,69.5,Stable
+2022-05-02,Finance,Financial Analyst,Hanoi,88,12359.01,15.03,Fresher,32,"FX Trading, Blockchain, SQL, Risk Modeling, CFA, Power BI",High,High,66.2,Stable
+2022-05-03,Finance,FinTech Developer,Jakarta,99,59139.97,15.14,Senior,60,"Tableau, Blockchain, Basel III, AML, Bloomberg Terminal, FX Trading",High,High,41.3,Declining
+2022-05-04,Finance,Quantitative Analyst,Bangkok,70,49580.23,4.92,Senior,57,"Bloomberg Terminal, Machine Learning, Python, SQL, Excel",High,High,44.3,Stable
+2022-05-07,Finance,Actuary,Ho Chi Minh City,98,14121.8,5.44,Fresher,16,"Machine Learning, Blockchain, Bloomberg Terminal, Financial Modelling",High,High,57.6,Growing
+2022-05-08,Finance,Investment Banker,Jakarta,88,45905.76,9.73,Senior,35,"FX Trading, Blockchain, Machine Learning",Medium,Medium,61.3,Declining
+2022-05-08,Finance,Risk Manager,Hanoi,74,6095.94,10.65,Fresher,61,"FX Trading, Risk Modeling, Basel III, AML, Options Pricing",High,Medium,55.1,Stable
+2022-05-11,Finance,Investment Banker,Jakarta,82,9484.99,10.33,Fresher,53,"Risk Modeling, Solidity, Power BI, Blockchain",High,Low,79.0,Declining
+2022-05-17,Finance,Compliance Officer,Singapore,80,27030.91,4.66,Junior,18,"Excel, Blockchain, Solidity, Python, Machine Learning",High,High,44.5,Stable
+2022-05-22,Finance,Financial Analyst,Ho Chi Minh City,81,12279.69,6.72,Fresher,22,"AML, Tableau, CFA, FX Trading",High,Medium,62.4,Stable
+2022-05-23,Finance,Compliance Officer,Hanoi,92,22522.37,11.79,Fresher,54,"FX Trading, CFA, Power BI",Low,Medium,57.1,Growing
+2022-05-24,Finance,Portfolio Manager,Singapore,89,6112.06,13.02,Fresher,48,"Python, Machine Learning, Basel III",Medium,Low,69.0,Stable
+2022-05-26,Finance,Credit Analyst,Hanoi,79,61396.19,5.73,Senior,52,"Financial Modelling, SQL, FX Trading, Python, Machine Learning",Medium,High,65.8,Declining
+2022-05-27,Finance,Portfolio Manager,Ho Chi Minh City,91,49709.51,8.34,Senior,26,"Excel, FX Trading, Python",High,High,40.1,Declining
+2022-06-02,Finance,Compliance Officer,Da Nang,87,33950.74,14.27,Junior,58,"SQL, Machine Learning, Solidity, Bloomberg Terminal, Power BI, Python",High,High,41.9,Stable
+2022-06-03,Finance,Financial Analyst,Singapore,83,49471.16,7.34,Senior,23,"Basel III, Risk Modeling, AML, Blockchain",High,High,79.7,Declining
+2022-06-04,Finance,Chief Financial Officer,Ho Chi Minh City,102,53423.1,11.6,Senior,30,"Solidity, Power BI, Bloomberg Terminal, Machine Learning, Tableau, SQL",High,Low,49.4,Growing
+2022-06-04,Finance,Quantitative Analyst,Bangkok,89,31451.28,14.77,Junior,45,"Basel III, Financial Modelling, Bloomberg Terminal, Machine Learning, FX Trading, AML",Medium,High,41.8,Stable
+2022-06-05,Finance,Quantitative Analyst,Da Nang,78,55147.46,4.42,Senior,26,"Python, Financial Modelling, Solidity, CFA, Basel III, Excel",Medium,High,41.8,Stable
+2022-06-06,Finance,RegTech Specialist,Jakarta,74,19764.07,8.88,Junior,63,"Solidity, Tableau, Financial Modelling, Risk Modeling",High,Low,46.8,Stable
+2022-06-18,Finance,Risk Manager,Singapore,82,48554.9,6.16,Senior,17,"CFA, AML, Financial Modelling, SQL, Machine Learning, Python",High,Medium,61.3,Growing
+2022-06-20,Finance,Risk Manager,Da Nang,101,32363.0,5.92,Junior,28,"Solidity, Tableau, Python",Medium,High,70.9,Stable
+2022-06-20,Finance,Blockchain Developer,Jakarta,89,37186.09,11.24,Junior,61,"Machine Learning, Financial Modelling, Bloomberg Terminal, Excel",Medium,Medium,61.8,Stable
+2022-06-21,Finance,Quantitative Analyst,Manila,61,19451.24,11.07,Fresher,39,"Machine Learning, Power BI, Basel III, Solidity, Risk Modeling",High,High,68.1,Stable
+2022-06-21,Finance,Quantitative Analyst,Singapore,98,28942.05,7.58,Junior,22,"Risk Modeling, Machine Learning, Options Pricing, Python, Blockchain",High,Medium,48.8,Stable
+2022-06-22,Finance,Quantitative Analyst,Jakarta,78,6141.3,8.14,Fresher,42,"Power BI, Excel, Options Pricing, Tableau, Risk Modeling, Python",High,High,55.7,Growing
+2022-06-24,Finance,RegTech Specialist,Ho Chi Minh City,94,13331.09,14.73,Fresher,47,"Bloomberg Terminal, Basel III, Financial Modelling, Excel",Low,High,73.5,Stable
+2022-06-24,Finance,Chief Financial Officer,Hanoi,82,26973.36,12.91,Junior,28,"Power BI, Python, Tableau, Financial Modelling, AML, Bloomberg Terminal",Medium,Low,78.0,Stable
+2022-06-27,Finance,Portfolio Manager,Manila,81,28274.87,10.37,Fresher,15,"CFA, Options Pricing, Blockchain, AML, Tableau",Medium,High,50.0,Stable
+2022-06-28,Finance,Blockchain Developer,Da Nang,87,46577.91,6.57,Senior,43,"Blockchain, Solidity, Machine Learning, Python",High,High,70.5,Growing
+2022-06-29,Finance,RegTech Specialist,Manila,83,13758.46,12.65,Fresher,36,"Bloomberg Terminal, Basel III, SQL, Financial Modelling",High,High,68.4,Growing
+2022-07-01,Finance,Quantitative Analyst,Bangkok,97,49619.16,4.68,Senior,59,"Basel III, Power BI, Solidity, Python, Machine Learning",High,High,57.6,Declining
+2022-07-02,Finance,Financial Analyst,Jakarta,74,28949.62,12.01,Junior,63,"Blockchain, Excel, Risk Modeling",High,Medium,54.8,Stable
+2022-07-02,Finance,Risk Manager,Da Nang,99,16933.3,15.13,Fresher,63,"Risk Modeling, FX Trading, Solidity",High,Medium,46.1,Stable
+2022-07-02,Finance,Quantitative Analyst,Ho Chi Minh City,82,22137.03,9.41,Fresher,22,"FX Trading, SQL, Machine Learning, AML",Low,Medium,45.7,Declining
+2022-07-02,Finance,Actuary,Jakarta,82,24574.52,15.0,Fresher,55,"Excel, CFA, FX Trading, Blockchain, AML",Low,Medium,75.2,Stable
+2022-07-06,Finance,Credit Analyst,Jakarta,83,56751.65,11.15,Senior,54,"Risk Modeling, Options Pricing, AML, Basel III, Tableau, Excel",Medium,High,44.1,Stable
+2022-07-07,Finance,Quantitative Analyst,Da Nang,97,19507.92,9.14,Fresher,33,"Options Pricing, Machine Learning, FX Trading, Excel, Risk Modeling",High,Medium,60.0,Stable
+2022-07-09,Finance,FinTech Developer,Manila,83,51885.26,11.49,Senior,52,"Basel III, AML, FX Trading, CFA, Machine Learning, Tableau",Medium,Medium,72.1,Growing
+2022-07-09,Finance,Credit Analyst,Bangkok,78,56125.54,6.38,Senior,44,"AML, Machine Learning, Risk Modeling, Financial Modelling, Blockchain",Medium,High,61.0,Growing
+2022-07-10,Finance,Investment Banker,Bangkok,75,17621.58,6.68,Fresher,65,"Solidity, FX Trading, Excel, Risk Modeling, CFA, Power BI",Medium,Medium,61.2,Declining
+2022-07-12,Finance,Quantitative Analyst,Ho Chi Minh City,79,47547.9,12.46,Senior,65,"FX Trading, Machine Learning, SQL, Risk Modeling",High,High,71.1,Growing
+2022-07-14,Finance,Financial Analyst,Bangkok,84,59711.4,12.94,Senior,49,"AML, Solidity, FX Trading",High,Low,50.4,Growing
+2022-07-14,Finance,FinTech Developer,Singapore,73,50527.04,4.67,Senior,22,"Blockchain, Solidity, SQL, Power BI",High,Medium,53.6,Stable
+2022-07-15,Finance,Actuary,Ho Chi Minh City,94,31559.43,7.21,Junior,48,"AML, Basel III, Machine Learning, Bloomberg Terminal",High,Low,76.1,Growing
+2022-07-18,Finance,Portfolio Manager,Ho Chi Minh City,84,6167.5,8.57,Fresher,44,"Excel, FX Trading, Power BI, Blockchain",Medium,Medium,79.6,Stable
+2022-07-20,Finance,Quantitative Analyst,Ho Chi Minh City,96,38724.2,9.41,Junior,16,"Solidity, Python, AML, Blockchain, Bloomberg Terminal",High,Low,66.6,Growing
+2022-07-20,Finance,Chief Financial Officer,Bangkok,86,15620.07,9.38,Fresher,63,"Excel, CFA, Bloomberg Terminal, Power BI, Basel III",Low,High,72.1,Growing
+2022-07-21,Finance,FinTech Developer,Hanoi,98,21685.84,15.1,Junior,49,"Machine Learning, Blockchain, Financial Modelling, Basel III",Low,Medium,60.8,Stable
+2022-07-21,Finance,Credit Analyst,Jakarta,69,29292.41,4.01,Junior,30,"Risk Modeling, Options Pricing, Solidity",High,High,71.4,Growing
+2022-07-22,Finance,Investment Banker,Singapore,97,9891.28,5.12,Fresher,40,"Python, Solidity, Machine Learning, Blockchain, Financial Modelling",Low,Low,51.2,Growing
+2022-07-25,Finance,Credit Analyst,Jakarta,84,34084.78,5.5,Junior,40,"SQL, Blockchain, Bloomberg Terminal, Basel III, Options Pricing, Python",Low,Medium,46.5,Stable
+2022-07-26,Finance,Blockchain Developer,Da Nang,85,33511.49,9.29,Junior,65,"CFA, Python, SQL",Low,High,60.3,Declining
+2022-07-27,Finance,RegTech Specialist,Bangkok,92,33371.33,14.19,Junior,51,"AML, Risk Modeling, SQL, Financial Modelling, Bloomberg Terminal",High,High,40.3,Declining
+2022-07-29,Finance,Actuary,Da Nang,93,20294.55,4.53,Junior,55,"Risk Modeling, Financial Modelling, Basel III, SQL, Tableau",Low,Low,46.5,Stable
+2022-07-29,Finance,Investment Banker,Singapore,80,16176.64,6.96,Junior,24,"Basel III, Tableau, AML, Bloomberg Terminal",High,Medium,56.6,Stable
+2022-08-05,Finance,Investment Banker,Da Nang,80,17361.8,11.33,Fresher,22,"Excel, Machine Learning, Tableau, SQL, Blockchain, FX Trading",High,Medium,62.0,Declining
+2022-08-07,Finance,Portfolio Manager,Jakarta,83,16835.43,14.39,Fresher,45,"Bloomberg Terminal, Financial Modelling, Solidity",Medium,High,69.9,Stable
+2022-08-08,Finance,Blockchain Developer,Da Nang,85,55469.63,12.12,Senior,46,"Bloomberg Terminal, Machine Learning, FX Trading",Medium,Medium,45.4,Stable
+2022-08-09,Finance,FinTech Developer,Singapore,85,31631.05,6.36,Junior,16,"FX Trading, Basel III, Solidity, Blockchain, SQL, AML",Medium,Medium,61.4,Stable
+2022-08-12,Finance,Financial Analyst,Bangkok,94,24177.81,15.37,Junior,26,"Bloomberg Terminal, FX Trading, Power BI, SQL, CFA, Python",Medium,High,49.6,Growing
+2022-08-12,Finance,Financial Analyst,Manila,76,38688.26,9.36,Senior,17,"SQL, Financial Modelling, Tableau",High,Medium,52.4,Stable
+2022-08-13,Finance,Credit Analyst,Da Nang,82,23495.82,4.35,Junior,43,"Bloomberg Terminal, FX Trading, Machine Learning, Excel",High,High,50.1,Growing
+2022-08-17,Finance,FinTech Developer,Da Nang,86,38976.12,8.71,Junior,53,"AML, Solidity, Excel",Low,Medium,61.5,Stable
+2022-08-18,Finance,Portfolio Manager,Manila,89,11140.5,6.54,Fresher,50,"Bloomberg Terminal, FX Trading, Machine Learning, Blockchain, Financial Modelling",High,Low,70.6,Stable
+2022-08-18,Finance,Financial Analyst,Da Nang,86,23023.99,13.61,Junior,44,"CFA, Excel, FX Trading",Medium,High,46.5,Stable
+2022-08-20,Finance,Portfolio Manager,Ho Chi Minh City,101,55407.06,5.29,Senior,22,"Financial Modelling, Bloomberg Terminal, FX Trading",High,Medium,49.2,Growing
+2022-08-20,Finance,Quantitative Analyst,Hanoi,100,14256.67,15.0,Fresher,32,"Python, AML, Basel III, Financial Modelling, Tableau",High,Medium,62.0,Declining
+2022-08-21,Finance,Chief Financial Officer,Bangkok,74,25861.92,13.51,Junior,53,"Risk Modeling, Machine Learning, Financial Modelling",High,High,50.6,Declining
+2022-08-22,Finance,Blockchain Developer,Ho Chi Minh City,95,27715.81,13.95,Junior,37,"Bloomberg Terminal, SQL, Blockchain, Risk Modeling, Machine Learning",Medium,High,46.5,Growing
+2022-08-24,Finance,Chief Financial Officer,Singapore,86,46444.21,12.01,Senior,24,"Solidity, Blockchain, Machine Learning, Power BI, FX Trading, Risk Modeling",High,Low,64.3,Growing
+2022-08-24,Finance,Credit Analyst,Ho Chi Minh City,96,15270.75,13.65,Fresher,25,"Blockchain, Tableau, Options Pricing, Financial Modelling",Medium,Medium,47.4,Growing
+2022-08-24,Finance,Quantitative Analyst,Hanoi,91,57691.36,9.38,Senior,30,"Bloomberg Terminal, AML, CFA, FX Trading",Low,Low,48.1,Growing
+2022-08-25,Finance,Actuary,Hanoi,98,16285.98,4.81,Fresher,60,"Basel III, Risk Modeling, Python, SQL, Financial Modelling",Medium,Medium,58.9,Stable
+2022-08-26,Finance,FinTech Developer,Jakarta,104,24412.76,6.35,Junior,57,"Bloomberg Terminal, SQL, Tableau",Medium,Medium,67.2,Growing
+2022-08-27,Finance,Risk Manager,Hanoi,95,61389.65,7.97,Senior,55,"Financial Modelling, Machine Learning, Blockchain, Python",High,Medium,65.0,Declining
+2022-08-28,Finance,Investment Banker,Jakarta,88,34127.5,10.18,Junior,43,"Machine Learning, Excel, Financial Modelling, Options Pricing, FX Trading, Tableau",High,High,71.8,Stable
+2022-08-30,Finance,Blockchain Developer,Da Nang,92,18673.84,9.57,Fresher,43,"Basel III, AML, Python, Excel, Solidity, Options Pricing",High,Low,68.4,Growing
+2022-09-01,Finance,Portfolio Manager,Da Nang,93,15519.17,8.42,Fresher,64,"Bloomberg Terminal, Excel, Solidity, Power BI, Basel III",Medium,Low,46.7,Declining
+2022-09-02,Finance,Financial Analyst,Da Nang,87,65025.3,11.71,Senior,60,"Excel, Options Pricing, Bloomberg Terminal, Power BI, SQL",Low,High,74.9,Growing
+2022-09-03,Finance,Portfolio Manager,Jakarta,88,62553.06,4.06,Senior,40,"FX Trading, CFA, Bloomberg Terminal, Blockchain",High,High,65.5,Growing
+2022-09-05,Finance,Chief Financial Officer,Da Nang,78,61850.61,8.96,Senior,47,"Risk Modeling, Machine Learning, Tableau, CFA, Basel III",High,Medium,45.0,Growing
+2022-09-05,Finance,Credit Analyst,Manila,85,6434.26,8.15,Fresher,58,"Machine Learning, Risk Modeling, Blockchain",High,Low,54.0,Declining
+2022-09-06,Finance,Blockchain Developer,Ho Chi Minh City,83,51241.08,13.56,Senior,45,"Python, Basel III, Solidity, CFA, Financial Modelling",High,Medium,58.5,Growing
+2022-09-11,Finance,Investment Banker,Jakarta,87,21269.51,10.94,Fresher,48,"Bloomberg Terminal, Financial Modelling, Risk Modeling, Machine Learning, AML",Medium,Medium,52.7,Declining
+2022-09-18,Finance,Portfolio Manager,Hanoi,81,59778.07,9.39,Senior,52,"Machine Learning, Options Pricing, Blockchain, AML, Tableau",High,Medium,51.2,Growing
+2022-09-18,Finance,Chief Financial Officer,Jakarta,78,28932.99,11.18,Junior,32,"SQL, Machine Learning, Solidity",High,High,71.1,Stable
+2022-09-19,Finance,Financial Analyst,Hanoi,90,30633.28,15.19,Junior,19,"SQL, Tableau, Power BI, Risk Modeling, Machine Learning, AML",High,Low,56.6,Stable
+2022-09-22,Finance,Investment Banker,Jakarta,98,12770.07,15.1,Fresher,59,"Power BI, Excel, Python, Options Pricing, AML, Basel III",Medium,Medium,76.2,Stable
+2022-09-24,Finance,Portfolio Manager,Bangkok,91,61741.29,12.23,Senior,30,"Options Pricing, Risk Modeling, Financial Modelling, Blockchain, Tableau, Machine Learning",High,High,47.1,Growing
+2022-09-25,Finance,Financial Analyst,Singapore,78,32067.41,9.14,Junior,33,"Machine Learning, SQL, AML",Medium,Medium,77.3,Growing
+2022-09-27,Finance,Credit Analyst,Ho Chi Minh City,85,27311.48,12.14,Junior,24,"Blockchain, SQL, Machine Learning",High,Medium,63.1,Stable
+2022-09-30,Finance,Chief Financial Officer,Ho Chi Minh City,98,61640.3,11.52,Senior,17,"Blockchain, Machine Learning, Options Pricing, CFA, Bloomberg Terminal",High,High,45.6,Stable
+2022-10-03,Finance,Chief Financial Officer,Da Nang,91,19852.08,9.29,Fresher,46,"Financial Modelling, Bloomberg Terminal, CFA, Machine Learning",High,Low,42.2,Declining
+2022-10-05,Finance,Portfolio Manager,Hanoi,62,29070.82,8.4,Junior,24,"Power BI, AML, Basel III",High,Medium,50.3,Growing
+2022-10-06,Finance,Actuary,Hanoi,92,52723.63,10.13,Senior,50,"Python, Options Pricing, Tableau, FX Trading, Bloomberg Terminal, SQL",Medium,Medium,43.4,Growing
+2022-10-08,Finance,Credit Analyst,Da Nang,91,50476.93,10.84,Senior,36,"Risk Modeling, FX Trading, AML, Python, Excel, Bloomberg Terminal",Low,Medium,47.4,Stable
+2022-10-08,Finance,Actuary,Ho Chi Minh City,88,14677.74,12.83,Fresher,61,"CFA, Basel III, FX Trading, Power BI",High,High,78.6,Growing
+2022-10-09,Finance,Quantitative Analyst,Singapore,92,60428.01,6.92,Senior,28,"AML, Power BI, CFA, Bloomberg Terminal",Low,Medium,75.0,Growing
+2022-10-11,Finance,Portfolio Manager,Jakarta,93,64912.71,5.02,Senior,19,"Risk Modeling, FX Trading, Financial Modelling, Python",High,Low,49.3,Stable
+2022-10-15,Finance,Financial Analyst,Ho Chi Minh City,95,34587.61,10.73,Junior,49,"AML, Python, CFA, Risk Modeling",High,High,55.0,Declining
+2022-10-16,Finance,FinTech Developer,Jakarta,90,15132.34,15.93,Fresher,24,"Options Pricing, FX Trading, Financial Modelling, Basel III, AML",High,Medium,72.6,Declining
+2022-10-17,Finance,FinTech Developer,Hanoi,89,15271.57,15.59,Fresher,17,"Bloomberg Terminal, AML, Financial Modelling, Risk Modeling, FX Trading, Tableau",High,Medium,58.9,Growing
+2022-10-18,Finance,Actuary,Jakarta,85,10592.81,15.34,Fresher,41,"Options Pricing, Python, Basel III",Medium,Medium,66.5,Declining
+2022-10-19,Finance,Risk Manager,Da Nang,92,35024.31,13.59,Junior,55,"FX Trading, Basel III, Power BI",Medium,Medium,68.4,Stable
+2022-10-21,Finance,Financial Analyst,Bangkok,75,11134.04,7.22,Fresher,45,"Bloomberg Terminal, Power BI, Python, FX Trading, Risk Modeling",High,Medium,66.4,Stable
+2022-10-24,Finance,Portfolio Manager,Da Nang,95,52188.05,10.6,Senior,21,"Blockchain, Basel III, SQL, Bloomberg Terminal",High,High,55.3,Growing
+2022-10-28,Finance,Risk Manager,Bangkok,100,33219.71,7.28,Junior,59,"Solidity, CFA, Bloomberg Terminal, Excel, Basel III, Options Pricing",High,High,46.3,Growing
+2022-11-01,Finance,Blockchain Developer,Bangkok,102,34374.72,15.69,Junior,26,"Basel III, AML, Options Pricing, Bloomberg Terminal, CFA",High,Medium,73.8,Growing
+2022-11-02,Finance,Quantitative Analyst,Manila,78,27940.53,8.01,Fresher,57,"Risk Modeling, AML, Basel III, Tableau, Solidity",High,High,44.7,Growing
+2022-11-05,Finance,Portfolio Manager,Jakarta,91,33782.68,7.3,Junior,16,"Power BI, Basel III, Options Pricing",High,Medium,67.0,Growing
+2022-11-05,Finance,Investment Banker,Singapore,85,30740.99,7.17,Junior,63,"Tableau, Options Pricing, Blockchain",Low,Medium,40.8,Stable
+2022-11-08,Finance,FinTech Developer,Manila,78,6532.73,7.37,Fresher,29,"SQL, Machine Learning, Financial Modelling, Tableau, Options Pricing, CFA",Medium,Medium,40.5,Growing
+2022-11-12,Finance,Portfolio Manager,Ho Chi Minh City,98,31790.95,10.89,Junior,57,"Solidity, Bloomberg Terminal, FX Trading, Excel, Blockchain",High,Medium,47.5,Stable
+2022-11-18,Finance,Blockchain Developer,Ho Chi Minh City,93,51323.4,13.16,Senior,60,"CFA, Basel III, Machine Learning, Blockchain",Low,Medium,50.5,Declining
+2022-11-24,Finance,Actuary,Hanoi,86,61277.43,6.63,Senior,48,"Risk Modeling, Financial Modelling, AML, CFA, Tableau",Medium,High,68.2,Growing
+2022-11-25,Finance,Quantitative Analyst,Da Nang,90,65234.27,4.11,Senior,64,"Blockchain, Basel III, Tableau",Medium,Medium,68.2,Growing
+2022-11-27,Finance,Chief Financial Officer,Da Nang,105,55518.27,8.19,Senior,57,"SQL, Python, Risk Modeling",Medium,Low,78.7,Stable
+2022-11-28,Finance,Chief Financial Officer,Manila,86,60871.72,15.34,Senior,47,"AML, Options Pricing, Financial Modelling, Tableau, Machine Learning",High,Medium,42.5,Stable
+2022-11-30,Finance,Financial Analyst,Manila,99,30198.43,7.58,Junior,59,"CFA, Power BI, Excel, Blockchain",High,Medium,43.1,Growing
+2022-12-02,Finance,Investment Banker,Bangkok,89,24440.03,15.17,Junior,64,"Blockchain, AML, Power BI, Solidity, Options Pricing",Medium,High,55.8,Growing
+2022-12-02,Finance,Risk Manager,Ho Chi Minh City,88,28844.58,5.33,Junior,32,"Excel, Power BI, Bloomberg Terminal",High,High,43.5,Growing
+2022-12-09,Finance,Risk Manager,Ho Chi Minh City,95,18716.7,4.84,Fresher,60,"Bloomberg Terminal, AML, Tableau",Medium,High,51.2,Growing
+2022-12-10,Finance,Credit Analyst,Jakarta,82,61998.39,5.23,Senior,36,"Solidity, Options Pricing, Machine Learning, FX Trading",High,Medium,74.9,Stable
+2022-12-12,Finance,FinTech Developer,Bangkok,83,20085.72,6.83,Junior,24,"Risk Modeling, Excel, Bloomberg Terminal, Power BI, Machine Learning",High,High,47.7,Growing
+2022-12-13,Finance,FinTech Developer,Bangkok,95,11655.45,13.6,Fresher,53,"Bloomberg Terminal, Machine Learning, FX Trading, Financial Modelling, SQL",High,Medium,73.0,Stable
+2022-12-14,Finance,Portfolio Manager,Bangkok,83,54226.77,13.38,Senior,54,"FX Trading, CFA, Bloomberg Terminal, Power BI, Machine Learning, AML",High,High,45.5,Stable
+2022-12-17,Finance,Actuary,Ho Chi Minh City,95,20405.04,5.65,Fresher,17,"Financial Modelling, Tableau, Blockchain, Options Pricing, Python, Solidity",Medium,Low,48.2,Stable
+2022-12-19,Finance,Risk Manager,Jakarta,77,26178.15,8.71,Junior,43,"Excel, Options Pricing, CFA",Medium,Medium,44.1,Declining
+2022-12-20,Finance,Financial Analyst,Da Nang,94,29938.82,4.01,Junior,18,"Bloomberg Terminal, Financial Modelling, Power BI",Medium,Medium,49.2,Growing
+2022-12-21,Finance,Actuary,Hanoi,95,13821.56,9.06,Fresher,32,"Risk Modeling, Machine Learning, Blockchain, Bloomberg Terminal, Excel, SQL",High,High,71.9,Stable
+2022-12-26,Finance,RegTech Specialist,Da Nang,78,26567.4,13.4,Junior,63,"Excel, FX Trading, AML, Python",High,Medium,76.6,Stable
+2022-12-31,Finance,Investment Banker,Singapore,96,28920.37,6.75,Junior,22,"Machine Learning, CFA, Tableau, SQL, Solidity",Low,Medium,71.5,Growing
+2023-01-05,Finance,Quantitative Analyst,Jakarta,92,43758.33,12.17,Junior,55,"Options Pricing, Solidity, Python, Blockchain",High,Medium,60.0,Stable
+2023-01-07,Finance,FinTech Developer,Jakarta,100,23635.21,15.73,Junior,44,"Financial Modelling, Solidity, CFA, AML, Options Pricing, Blockchain",High,High,53.1,Stable
+2023-01-08,Finance,Investment Banker,Hanoi,94,27559.58,13.41,Junior,51,"Power BI, Blockchain, Risk Modeling, Excel, Tableau",High,Low,66.7,Stable
+2023-01-09,Finance,Portfolio Manager,Da Nang,104,28680.53,11.61,Junior,59,"Financial Modelling, FX Trading, Power BI",High,Medium,76.2,Stable
+2023-01-10,Finance,Chief Financial Officer,Hanoi,90,30070.86,6.08,Junior,64,"Blockchain, Python, Power BI, Machine Learning, Excel",High,Low,40.6,Stable
+2023-01-10,Finance,Compliance Officer,Ho Chi Minh City,87,53505.54,14.95,Senior,24,"Python, Tableau, Blockchain, Risk Modeling",Medium,Low,54.3,Growing
+2023-01-13,Finance,Financial Analyst,Da Nang,88,16187.3,7.38,Fresher,36,"Risk Modeling, CFA, AML",High,Medium,45.7,Growing
+2023-01-14,Finance,Blockchain Developer,Da Nang,91,15044.03,15.42,Fresher,18,"AML, Risk Modeling, Financial Modelling, Excel",High,Low,62.4,Growing
+2023-01-15,Finance,FinTech Developer,Singapore,88,50040.86,13.48,Senior,21,"Excel, FX Trading, Basel III, SQL",High,High,49.4,Stable
+2023-01-16,Finance,Portfolio Manager,Singapore,99,56026.88,4.79,Senior,19,"Blockchain, Options Pricing, Risk Modeling, Python, SQL, AML",Medium,Medium,71.7,Stable
+2023-01-18,Finance,FinTech Developer,Bangkok,93,56268.76,7.77,Senior,62,"Machine Learning, Python, Basel III, FX Trading, SQL, Blockchain",High,Low,60.8,Growing
+2023-01-19,Finance,Actuary,Bangkok,97,20730.05,5.81,Fresher,37,"Risk Modeling, Options Pricing, SQL, FX Trading",Medium,Medium,68.6,Growing
+2023-01-19,Finance,Actuary,Manila,100,23202.85,5.54,Fresher,52,"Options Pricing, Excel, Risk Modeling, CFA, Machine Learning",Medium,Medium,41.4,Stable
+2023-01-24,Finance,Actuary,Ho Chi Minh City,95,45122.48,4.59,Senior,62,"Financial Modelling, FX Trading, Tableau, Blockchain, Bloomberg Terminal, Python",Medium,Low,41.8,Stable
+2023-01-31,Finance,Financial Analyst,Manila,83,62319.7,15.4,Senior,19,"SQL, FX Trading, Options Pricing, Solidity, Risk Modeling, Excel",High,High,69.7,Stable
+2023-01-31,Finance,Financial Analyst,Da Nang,104,15333.26,5.51,Fresher,36,"Blockchain, AML, Bloomberg Terminal",Low,Low,52.2,Stable
+2023-01-31,Finance,Actuary,Ho Chi Minh City,92,21182.39,13.01,Fresher,16,"AML, Power BI, Python, SQL",High,Medium,60.3,Growing
+2023-02-05,Finance,Actuary,Da Nang,89,6371.12,5.62,Fresher,39,"Python, SQL, Financial Modelling, Power BI",High,High,63.9,Growing
+2023-02-07,Finance,Actuary,Jakarta,88,17757.16,6.68,Fresher,57,"Bloomberg Terminal, Tableau, Excel",High,Medium,67.9,Stable
+2023-02-08,Finance,Quantitative Analyst,Singapore,86,18889.5,8.49,Fresher,64,"Options Pricing, FX Trading, Tableau, AML",High,Low,64.2,Stable
+2023-02-08,Finance,RegTech Specialist,Hanoi,87,20084.34,14.15,Fresher,17,"CFA, Tableau, Financial Modelling, Solidity, AML, Power BI",High,Medium,40.3,Growing
+2023-02-09,Finance,Credit Analyst,Bangkok,89,49452.42,15.54,Senior,40,"Options Pricing, Blockchain, Excel, Tableau, Financial Modelling, Solidity",Medium,Low,74.4,Stable
+2023-02-09,Finance,Portfolio Manager,Da Nang,92,27371.57,5.54,Fresher,31,"Financial Modelling, Excel, Options Pricing, Power BI, Blockchain",Medium,High,41.6,Growing
+2023-02-10,Finance,Blockchain Developer,Manila,86,23521.32,15.39,Junior,45,"Financial Modelling, Excel, Tableau",Medium,High,44.5,Growing
+2023-02-11,Finance,Quantitative Analyst,Jakarta,99,48637.34,11.72,Senior,60,"Financial Modelling, Tableau, Solidity, Risk Modeling, Bloomberg Terminal",High,Medium,60.4,Stable
+2023-02-11,Finance,Financial Analyst,Ho Chi Minh City,94,52744.48,15.03,Senior,56,"Machine Learning, Solidity, Risk Modeling",Low,Medium,44.6,Declining
+2023-02-12,Finance,Investment Banker,Singapore,102,9037.44,12.29,Fresher,23,"Tableau, Solidity, Financial Modelling",High,High,68.6,Stable
+2023-02-13,Finance,Risk Manager,Manila,100,15588.11,7.3,Fresher,57,"Financial Modelling, Risk Modeling, Basel III",High,High,71.3,Stable
+2023-02-13,Finance,Credit Analyst,Manila,84,33575.54,12.71,Junior,54,"Options Pricing, Tableau, Excel, FX Trading, Power BI",Medium,Medium,68.0,Stable
+2023-02-15,Finance,Chief Financial Officer,Bangkok,114,55443.33,5.69,Senior,40,"FX Trading, Bloomberg Terminal, Solidity, Power BI",High,Low,40.2,Stable
+2023-02-16,Finance,FinTech Developer,Da Nang,90,18348.83,9.55,Fresher,15,"CFA, Power BI, Machine Learning, Excel",Low,Medium,51.6,Stable
+2023-02-16,Finance,Investment Banker,Hanoi,88,30054.99,6.27,Junior,18,"Financial Modelling, SQL, Tableau, Bloomberg Terminal, Python, Risk Modeling",Medium,High,48.8,Declining
+2023-02-20,Finance,Portfolio Manager,Jakarta,100,29319.3,8.16,Junior,31,"Machine Learning, Bloomberg Terminal, CFA, Solidity, Risk Modeling, Python",Medium,High,69.1,Declining
+2023-02-22,Finance,Chief Financial Officer,Da Nang,94,29872.03,8.63,Junior,23,"Options Pricing, Risk Modeling, Power BI",High,High,41.9,Stable
+2023-02-22,Finance,Quantitative Analyst,Hanoi,90,17972.18,12.4,Fresher,24,"Bloomberg Terminal, Blockchain, Machine Learning, Basel III, Python, Risk Modeling",High,High,72.8,Declining
+2023-02-23,Finance,FinTech Developer,Jakarta,103,27216.18,6.52,Junior,37,"Solidity, FX Trading, Options Pricing",High,Medium,69.4,Declining
+2023-02-24,Finance,Portfolio Manager,Da Nang,98,15829.39,10.69,Fresher,51,"Bloomberg Terminal, Risk Modeling, FX Trading, Machine Learning, Options Pricing",Medium,Low,42.8,Stable
+2023-02-24,Finance,Portfolio Manager,Jakarta,96,34731.92,10.53,Junior,16,"AML, Python, Options Pricing",Low,Low,41.6,Growing
+2023-02-25,Finance,Financial Analyst,Ho Chi Minh City,94,22647.66,8.31,Junior,40,"SQL, Financial Modelling, CFA, Options Pricing",High,Medium,73.1,Stable
+2023-02-26,Finance,Quantitative Analyst,Singapore,106,26159.78,4.23,Fresher,26,"Bloomberg Terminal, Blockchain, Tableau, Excel",High,Medium,59.2,Stable
+2023-02-28,Finance,Blockchain Developer,Jakarta,85,49159.4,10.38,Senior,62,"Python, Solidity, Options Pricing, AML, Blockchain, Bloomberg Terminal",Medium,Medium,41.6,Stable
+2023-02-28,Finance,Blockchain Developer,Ho Chi Minh City,74,19826.7,12.26,Fresher,44,"FX Trading, SQL, Solidity, Financial Modelling, Basel III, Options Pricing",Medium,Medium,69.3,Stable
+2023-02-28,Finance,Chief Financial Officer,Ho Chi Minh City,93,15512.75,4.43,Fresher,51,"Basel III, Excel, Risk Modeling, Power BI, Tableau, Blockchain",Medium,Medium,57.1,Declining
+2023-03-02,Finance,Financial Analyst,Singapore,81,31710.05,7.63,Junior,19,"Basel III, Financial Modelling, Power BI",High,High,52.8,Growing
+2023-03-02,Finance,Compliance Officer,Da Nang,102,58680.53,7.7,Senior,39,"Tableau, Power BI, Python",High,High,65.4,Stable
+2023-03-03,Finance,Investment Banker,Hanoi,93,61199.58,10.91,Senior,45,"Risk Modeling, FX Trading, AML, Blockchain, Tableau, Basel III",High,Medium,65.7,Stable
+2023-03-03,Finance,Quantitative Analyst,Singapore,98,34500.15,12.75,Junior,49,"Python, Financial Modelling, Blockchain, Tableau",High,Medium,48.1,Stable
+2023-03-03,Finance,Portfolio Manager,Da Nang,96,32898.87,6.58,Junior,55,"Excel, FX Trading, Python",High,Medium,49.2,Growing
+2023-03-07,Finance,Portfolio Manager,Hanoi,84,68731.59,6.52,Senior,31,"Power BI, Excel, AML, Tableau, Python",High,Medium,62.1,Stable
+2023-03-09,Finance,FinTech Developer,Jakarta,87,56133.44,11.21,Senior,38,"Financial Modelling, Python, Machine Learning, Blockchain, Solidity",High,Medium,64.1,Growing
+2023-03-09,Finance,Quantitative Analyst,Manila,105,22005.77,7.66,Fresher,44,"AML, FX Trading, CFA, Financial Modelling, Basel III",High,Medium,45.5,Stable
+2023-03-11,Finance,Credit Analyst,Singapore,97,16534.43,4.89,Fresher,51,"FX Trading, Tableau, Basel III",Low,Medium,78.3,Growing
+2023-03-15,Finance,RegTech Specialist,Bangkok,92,61537.12,9.85,Senior,43,"FX Trading, Machine Learning, Options Pricing, Bloomberg Terminal",High,Medium,55.5,Declining
+2023-03-16,Finance,Blockchain Developer,Bangkok,105,57757.55,9.91,Senior,61,"AML, Power BI, SQL, Solidity, Machine Learning, Excel",Medium,High,43.3,Growing
+2023-03-17,Finance,FinTech Developer,Da Nang,95,63590.77,12.16,Senior,51,"Tableau, Power BI, FX Trading",High,Low,43.1,Growing
+2023-03-18,Finance,Investment Banker,Hanoi,106,57037.55,13.75,Senior,30,"Machine Learning, Risk Modeling, Python, Power BI",High,Medium,42.8,Growing
+2023-03-19,Finance,Portfolio Manager,Jakarta,95,23910.72,14.17,Junior,47,"Python, Financial Modelling, Options Pricing, Risk Modeling",High,Medium,43.4,Growing
+2023-03-19,Finance,FinTech Developer,Singapore,103,19438.71,9.25,Fresher,45,"FX Trading, Solidity, Excel",Low,Low,47.8,Stable
+2023-03-20,Finance,RegTech Specialist,Singapore,98,51896.37,14.75,Senior,55,"Power BI, FX Trading, Excel, Tableau",High,High,46.4,Growing
+2023-03-21,Finance,Blockchain Developer,Singapore,85,15554.38,7.77,Fresher,22,"FX Trading, Excel, Solidity, Financial Modelling, Power BI",Medium,Medium,79.0,Stable
+2023-03-23,Finance,Compliance Officer,Bangkok,99,27859.34,6.41,Junior,51,"Solidity, Basel III, SQL",Medium,Medium,74.9,Stable
+2023-03-24,Finance,FinTech Developer,Jakarta,97,63265.43,11.16,Senior,18,"CFA, FX Trading, Blockchain",High,High,69.9,Growing
+2023-03-25,Finance,Financial Analyst,Bangkok,87,24273.14,5.52,Fresher,41,"FX Trading, Solidity, Blockchain",Medium,High,46.5,Declining
+2023-03-29,Finance,Actuary,Da Nang,93,55896.89,12.54,Senior,54,"Tableau, CFA, Excel, AML, Financial Modelling",High,High,42.0,Stable
+2023-03-30,Finance,Quantitative Analyst,Da Nang,104,17865.94,10.35,Fresher,58,"Risk Modeling, Options Pricing, SQL, FX Trading, Solidity, Excel",High,Medium,60.0,Stable
+2023-04-02,Finance,Compliance Officer,Ho Chi Minh City,96,70118.88,13.23,Senior,58,"Power BI, Bloomberg Terminal, AML, Solidity, Tableau",High,Low,67.0,Stable
+2023-04-04,Finance,FinTech Developer,Ho Chi Minh City,88,14979.09,11.42,Fresher,53,"AML, FX Trading, SQL, Options Pricing, Machine Learning",Low,High,52.5,Growing
+2023-04-04,Finance,Credit Analyst,Bangkok,92,14825.3,8.73,Fresher,63,"Risk Modeling, Blockchain, Power BI, Machine Learning, SQL",High,Medium,72.5,Stable
+2023-04-06,Finance,Portfolio Manager,Da Nang,99,13355.98,4.12,Fresher,61,"Python, SQL, Machine Learning",Medium,Low,57.4,Stable
+2023-04-08,Finance,Portfolio Manager,Bangkok,94,64386.85,10.61,Senior,29,"AML, CFA, SQL, Machine Learning, Solidity",High,High,69.7,Stable
+2023-04-10,Finance,Actuary,Bangkok,86,23175.29,14.8,Fresher,41,"Options Pricing, Bloomberg Terminal, SQL, Power BI",High,Low,55.7,Stable
+2023-04-10,Finance,Chief Financial Officer,Jakarta,124,14876.99,15.43,Fresher,49,"Risk Modeling, Options Pricing, Python",High,Medium,55.7,Stable
+2023-04-11,Finance,FinTech Developer,Ho Chi Minh City,83,25565.96,11.51,Fresher,45,"Blockchain, Power BI, Solidity, FX Trading",High,Low,44.1,Stable
+2023-04-11,Finance,Blockchain Developer,Manila,109,44827.5,9.67,Junior,61,"CFA, Options Pricing, Solidity",High,High,63.7,Stable
+2023-04-13,Finance,FinTech Developer,Bangkok,101,32009.4,9.05,Junior,32,"Tableau, Bloomberg Terminal, AML, Blockchain, Python, SQL",High,Low,71.9,Stable
+2023-04-14,Finance,Blockchain Developer,Hanoi,85,52075.32,6.76,Senior,57,"Risk Modeling, Basel III, Excel, Bloomberg Terminal",High,High,71.2,Stable
+2023-04-15,Finance,Chief Financial Officer,Ho Chi Minh City,92,24366.69,5.31,Fresher,19,"Basel III, FX Trading, Power BI",High,Medium,40.3,Stable
+2023-04-15,Finance,Compliance Officer,Ho Chi Minh City,101,54099.77,15.25,Senior,55,"Risk Modeling, Power BI, Financial Modelling, Basel III",High,Medium,63.3,Stable
+2023-04-16,Finance,Chief Financial Officer,Ho Chi Minh City,91,19638.32,7.22,Fresher,27,"Risk Modeling, Bloomberg Terminal, Tableau",Medium,High,45.5,Growing
+2023-04-18,Finance,Chief Financial Officer,Hanoi,109,33109.02,11.5,Junior,58,"Excel, Options Pricing, SQL, Power BI",Medium,Medium,61.3,Growing
+2023-04-22,Finance,FinTech Developer,Jakarta,89,64753.37,15.4,Senior,38,"Bloomberg Terminal, SQL, Machine Learning",High,Medium,57.5,Growing
+2023-04-23,Finance,Quantitative Analyst,Manila,95,13679.64,14.64,Fresher,17,"Blockchain, FX Trading, Bloomberg Terminal, Options Pricing",Medium,Medium,63.1,Stable
+2023-04-24,Finance,Quantitative Analyst,Bangkok,97,58580.33,14.0,Senior,58,"Python, FX Trading, Solidity, Power BI",High,Medium,67.9,Declining
+2023-04-25,Finance,Compliance Officer,Da Nang,100,55448.43,10.15,Senior,23,"FX Trading, Options Pricing, Tableau, Risk Modeling, AML, Bloomberg Terminal",High,High,74.8,Stable
+2023-04-26,Finance,Portfolio Manager,Manila,101,30950.31,6.17,Junior,41,"Financial Modelling, Tableau, Blockchain, Power BI, AML",Medium,Medium,53.1,Stable
+2023-04-27,Finance,Chief Financial Officer,Da Nang,106,68101.28,5.83,Senior,57,"SQL, Blockchain, Options Pricing, Machine Learning",Medium,Medium,57.9,Stable
+2023-04-28,Finance,Financial Analyst,Singapore,99,6453.78,8.42,Fresher,46,"Risk Modeling, AML, Options Pricing, Bloomberg Terminal",High,Low,41.3,Growing
+2023-04-28,Finance,Credit Analyst,Ho Chi Minh City,91,63667.86,5.33,Senior,35,"Power BI, Python, SQL",High,Medium,68.4,Growing
+2023-04-28,Finance,RegTech Specialist,Ho Chi Minh City,102,53315.4,12.88,Senior,30,"CFA, Python, Power BI, Basel III",High,Medium,51.3,Stable
+2023-04-29,Finance,FinTech Developer,Manila,90,46501.07,7.1,Senior,50,"Financial Modelling, Power BI, Python, SQL, Options Pricing",High,Medium,59.5,Declining
+2023-04-30,Finance,Credit Analyst,Hanoi,77,18498.48,14.03,Fresher,21,"Machine Learning, SQL, Python",Medium,Medium,48.0,Declining
+2023-04-30,Finance,Investment Banker,Ho Chi Minh City,91,41261.23,9.85,Junior,60,"Excel, Tableau, SQL",High,Medium,71.6,Stable
+2023-05-02,Finance,FinTech Developer,Ho Chi Minh City,98,21526.01,8.54,Fresher,23,"FX Trading, Blockchain, SQL, Financial Modelling",Medium,Low,64.5,Stable
+2023-05-04,Finance,FinTech Developer,Bangkok,97,49903.1,6.48,Senior,30,"SQL, Machine Learning, FX Trading, CFA, Bloomberg Terminal",Medium,Low,73.1,Growing
+2023-05-06,Finance,FinTech Developer,Singapore,93,14030.64,11.78,Fresher,64,"Excel, FX Trading, Tableau, Python",Medium,High,62.0,Stable
+2023-05-08,Finance,FinTech Developer,Jakarta,93,18881.97,15.47,Fresher,44,"Risk Modeling, FX Trading, SQL",High,Medium,61.5,Growing
+2023-05-15,Finance,Investment Banker,Da Nang,99,18898.29,12.94,Junior,52,"Options Pricing, Bloomberg Terminal, Risk Modeling, FX Trading, Tableau",Medium,Medium,45.4,Stable
+2023-05-16,Finance,Actuary,Da Nang,76,64161.05,14.87,Senior,30,"SQL, CFA, Machine Learning, FX Trading, Solidity, AML",Medium,High,56.4,Growing
+2023-05-18,Finance,Credit Analyst,Jakarta,88,26736.7,14.1,Junior,50,"Blockchain, Financial Modelling, FX Trading, Risk Modeling",Medium,High,69.6,Growing
+2023-05-19,Finance,Risk Manager,Bangkok,98,61469.19,10.78,Senior,58,"FX Trading, Excel, CFA, Bloomberg Terminal, Tableau",High,High,52.8,Growing
+2023-05-19,Finance,Credit Analyst,Hanoi,81,21027.46,9.24,Junior,24,"SQL, FX Trading, Excel, Python",High,High,50.0,Growing
+2023-05-21,Finance,Credit Analyst,Ho Chi Minh City,92,30812.39,9.7,Junior,49,"Power BI, CFA, Excel",High,Medium,54.9,Growing
+2023-05-23,Finance,Financial Analyst,Da Nang,91,51165.61,13.83,Senior,34,"Financial Modelling, Solidity, Options Pricing",Medium,Medium,49.6,Stable
+2023-05-23,Finance,Credit Analyst,Bangkok,99,50799.74,8.35,Senior,40,"Python, Excel, SQL, AML, Blockchain, Financial Modelling",Medium,Low,67.5,Growing
+2023-05-28,Finance,Credit Analyst,Ho Chi Minh City,99,33630.71,10.47,Junior,23,"FX Trading, Blockchain, Excel, CFA, Tableau",High,High,55.7,Stable
+2023-05-29,Finance,RegTech Specialist,Manila,104,62600.18,4.1,Senior,21,"AML, Solidity, Options Pricing",High,Medium,66.4,Growing
+2023-05-31,Finance,RegTech Specialist,Manila,85,54763.34,14.55,Senior,15,"CFA, Financial Modelling, Options Pricing, AML",High,High,44.3,Stable
+2023-06-02,Finance,FinTech Developer,Bangkok,99,57356.01,13.44,Senior,65,"Options Pricing, Bloomberg Terminal, Solidity, Python, Basel III",Low,Medium,66.3,Stable
+2023-06-02,Finance,Blockchain Developer,Singapore,89,52683.07,11.74,Senior,42,"FX Trading, Excel, CFA, AML, Blockchain, Risk Modeling",Medium,High,52.9,Declining
+2023-06-06,Finance,Compliance Officer,Jakarta,104,34727.71,10.5,Junior,48,"Excel, Risk Modeling, Power BI",High,High,65.8,Stable
+2023-06-07,Finance,Quantitative Analyst,Bangkok,93,6523.4,8.52,Fresher,51,"Power BI, Blockchain, Python",Medium,High,63.1,Declining
+2023-06-08,Finance,Risk Manager,Ho Chi Minh City,100,15956.08,10.53,Fresher,17,"SQL, Tableau, Basel III, FX Trading, Bloomberg Terminal",High,Medium,70.2,Declining
+2023-06-10,Finance,Actuary,Hanoi,98,39673.52,15.51,Junior,62,"Options Pricing, Basel III, Blockchain, Python, Tableau, FX Trading",High,Low,73.3,Growing
+2023-06-12,Finance,Risk Manager,Da Nang,100,54971.38,7.25,Senior,50,"FX Trading, Options Pricing, Python, Bloomberg Terminal, Excel, AML",High,Low,62.2,Stable
+2023-06-13,Finance,Investment Banker,Bangkok,107,18316.03,13.44,Junior,33,"Machine Learning, Excel, FX Trading, Solidity, SQL",Medium,Medium,64.0,Declining
+2023-06-15,Finance,Investment Banker,Jakarta,86,65627.67,13.26,Senior,59,"SQL, Bloomberg Terminal, Basel III, FX Trading",High,High,54.7,Stable
+2023-06-17,Finance,Compliance Officer,Jakarta,108,61115.37,6.4,Senior,48,"Risk Modeling, AML, Options Pricing",Medium,Low,61.0,Growing
+2023-06-24,Finance,RegTech Specialist,Ho Chi Minh City,111,31966.73,4.07,Junior,16,"Options Pricing, Excel, Financial Modelling, Solidity",High,Medium,40.7,Growing
+2023-06-27,Finance,Credit Analyst,Da Nang,79,25314.67,14.28,Fresher,55,"Python, CFA, Basel III, Financial Modelling, Risk Modeling",High,Medium,55.7,Stable
+2023-06-30,Finance,Portfolio Manager,Bangkok,98,11532.27,5.29,Fresher,39,"Blockchain, FX Trading, Solidity, Machine Learning",High,Low,44.7,Growing
+2023-07-01,Finance,RegTech Specialist,Ho Chi Minh City,106,15781.06,4.95,Fresher,51,"Tableau, Machine Learning, Basel III, CFA, Bloomberg Terminal",Low,Medium,53.5,Stable
+2023-07-01,Finance,Quantitative Analyst,Jakarta,97,20567.68,8.26,Fresher,41,"Risk Modeling, Excel, FX Trading, Bloomberg Terminal",Medium,Medium,74.3,Growing
+2023-07-03,Finance,Quantitative Analyst,Da Nang,102,6520.3,9.06,Fresher,21,"Solidity, Power BI, Risk Modeling",Medium,High,68.5,Declining
+2023-07-08,Finance,FinTech Developer,Manila,113,12621.69,12.77,Fresher,38,"Blockchain, CFA, Financial Modelling, Risk Modeling",Medium,Low,54.0,Stable
+2023-07-08,Finance,FinTech Developer,Ho Chi Minh City,99,60188.96,11.1,Senior,19,"Basel III, CFA, Financial Modelling, Options Pricing, SQL, Solidity",High,Medium,71.9,Growing
+2023-07-10,Finance,Credit Analyst,Bangkok,89,25699.33,11.04,Fresher,45,"Solidity, Power BI, Basel III",Low,High,58.0,Growing
+2023-07-10,Finance,Portfolio Manager,Da Nang,105,21505.58,15.81,Fresher,36,"SQL, Power BI, Machine Learning, Financial Modelling, Python",Medium,High,54.6,Growing
+2023-07-11,Finance,Actuary,Singapore,94,35419.23,15.5,Junior,35,"Basel III, Financial Modelling, Power BI, Risk Modeling, Solidity",Medium,Low,79.8,Stable
+2023-07-14,Finance,Risk Manager,Da Nang,103,6531.39,4.76,Fresher,24,"AML, Excel, Python",Medium,Medium,54.4,Stable
+2023-07-16,Finance,Credit Analyst,Da Nang,92,69328.22,13.51,Senior,34,"Python, Basel III, FX Trading",High,High,71.0,Declining
+2023-07-16,Finance,Actuary,Ho Chi Minh City,97,15456.66,12.91,Fresher,65,"Blockchain, Machine Learning, Risk Modeling, Python, Bloomberg Terminal",Medium,Medium,58.9,Growing
+2023-07-18,Finance,Financial Analyst,Bangkok,99,58541.54,15.29,Senior,56,"Machine Learning, AML, Bloomberg Terminal, CFA",Medium,Medium,75.5,Stable
+2023-07-19,Finance,Investment Banker,Hanoi,85,39583.45,4.29,Junior,37,"Solidity, Basel III, AML, Financial Modelling",Low,Medium,43.7,Stable
+2023-07-19,Finance,Portfolio Manager,Singapore,106,18662.41,10.58,Fresher,17,"AML, Tableau, Solidity, Machine Learning",High,High,63.1,Stable
+2023-07-20,Finance,Blockchain Developer,Da Nang,110,18747.74,7.66,Fresher,54,"Python, FX Trading, CFA, Machine Learning, Blockchain",High,Medium,54.4,Declining
+2023-07-22,Finance,RegTech Specialist,Da Nang,106,56031.53,6.86,Senior,30,"Risk Modeling, Financial Modelling, Solidity",High,Medium,50.8,Growing
+2023-07-24,Finance,Investment Banker,Hanoi,100,8994.84,14.02,Fresher,32,"Excel, Bloomberg Terminal, Risk Modeling",High,Medium,55.9,Growing
+2023-07-27,Finance,Quantitative Analyst,Singapore,82,6981.97,7.13,Fresher,34,"Python, Bloomberg Terminal, FX Trading, SQL",High,Medium,53.0,Stable
+2023-07-27,Finance,Investment Banker,Singapore,111,29713.58,8.78,Junior,49,"Options Pricing, Excel, Bloomberg Terminal",High,High,75.8,Growing
+2023-07-28,Finance,Blockchain Developer,Jakarta,102,62844.61,4.23,Senior,50,"AML, CFA, Risk Modeling, Blockchain, Power BI",Medium,Medium,43.3,Growing
+2023-07-29,Finance,RegTech Specialist,Manila,101,27139.92,9.82,Junior,59,"Power BI, FX Trading, Risk Modeling, Blockchain, SQL, Tableau",High,Medium,47.3,Declining
+2023-07-31,Finance,Actuary,Manila,94,60681.52,14.62,Senior,39,"Excel, Financial Modelling, SQL",High,Medium,74.2,Stable
+2023-08-03,Finance,Financial Analyst,Ho Chi Minh City,88,27958.41,10.12,Junior,51,"Financial Modelling, Excel, Blockchain",High,High,73.9,Growing
+2023-08-04,Finance,Blockchain Developer,Hanoi,96,19263.31,13.71,Fresher,20,"Solidity, Excel, Machine Learning, Basel III, Risk Modeling",High,High,51.8,Stable
+2023-08-06,Finance,Financial Analyst,Singapore,104,36221.79,10.35,Junior,38,"Options Pricing, Python, AML, Power BI",High,Low,47.8,Stable
+2023-08-07,Finance,RegTech Specialist,Bangkok,103,66395.68,13.2,Senior,26,"Power BI, Python, Options Pricing",Medium,High,50.0,Declining
+2023-08-07,Finance,Actuary,Singapore,102,53364.13,10.08,Senior,49,"Financial Modelling, AML, Tableau, Risk Modeling, Solidity, Basel III",High,High,40.9,Stable
+2023-08-09,Finance,Investment Banker,Hanoi,95,24492.26,4.32,Fresher,25,"CFA, Power BI, Bloomberg Terminal",High,High,62.1,Stable
+2023-08-12,Finance,Risk Manager,Ho Chi Minh City,95,20611.15,15.33,Fresher,35,"Power BI, Blockchain, Options Pricing",High,Medium,60.3,Growing
+2023-08-12,Finance,Compliance Officer,Singapore,107,17539.43,7.92,Fresher,23,"Financial Modelling, FX Trading, Python, Power BI, Blockchain, SQL",Medium,Low,40.5,Growing
+2023-08-12,Finance,Blockchain Developer,Bangkok,95,54061.05,9.76,Senior,21,"Bloomberg Terminal, SQL, Risk Modeling, AML, CFA",Medium,Low,51.0,Stable
+2023-08-13,Finance,Actuary,Bangkok,92,65181.79,4.75,Senior,36,"Financial Modelling, Tableau, SQL, Risk Modeling",Medium,Medium,50.8,Stable
+2023-08-13,Finance,Risk Manager,Ho Chi Minh City,103,48150.67,13.45,Junior,26,"Excel, CFA, Bloomberg Terminal",Medium,Medium,52.8,Stable
+2023-08-13,Finance,Compliance Officer,Da Nang,109,61793.88,13.08,Senior,25,"Basel III, FX Trading, Power BI, Risk Modeling",High,Low,76.9,Declining
+2023-08-15,Finance,Financial Analyst,Hanoi,85,14795.33,11.55,Fresher,53,"Solidity, Blockchain, AML, Options Pricing, Basel III",Medium,Medium,72.4,Growing
+2023-08-21,Finance,RegTech Specialist,Manila,102,38286.5,11.62,Junior,54,"Financial Modelling, SQL, Tableau",High,High,45.1,Stable
+2023-08-21,Finance,Actuary,Bangkok,103,69556.75,6.63,Senior,47,"Basel III, Power BI, Bloomberg Terminal, Machine Learning, AML, CFA",High,Medium,58.6,Growing
+2023-08-23,Finance,Quantitative Analyst,Manila,86,13092.26,12.56,Fresher,52,"Machine Learning, Python, Bloomberg Terminal, Excel, FX Trading",Medium,High,42.5,Stable
+2023-08-24,Finance,Credit Analyst,Singapore,103,59953.88,8.16,Senior,31,"Solidity, Excel, Options Pricing, FX Trading, Tableau, Basel III",High,High,60.4,Growing
+2023-08-28,Finance,Blockchain Developer,Hanoi,101,47568.4,14.68,Senior,43,"Basel III, AML, Machine Learning, Blockchain, Excel, Financial Modelling",High,Medium,58.2,Stable
+2023-08-28,Finance,Chief Financial Officer,Jakarta,96,58500.24,7.69,Senior,24,"Solidity, Risk Modeling, CFA, SQL",Low,High,42.6,Growing
+2023-09-01,Finance,Financial Analyst,Jakarta,92,20125.5,8.58,Fresher,37,"Options Pricing, Blockchain, Tableau, Financial Modelling",High,Low,66.9,Stable
+2023-09-02,Finance,Actuary,Bangkok,97,58708.76,4.53,Senior,31,"Power BI, Excel, Tableau, CFA, Solidity, Machine Learning",Medium,Medium,70.8,Growing
+2023-09-04,Finance,Quantitative Analyst,Singapore,113,21349.36,6.87,Fresher,51,"FX Trading, AML, Machine Learning, Python",Medium,Medium,68.4,Declining
+2023-09-06,Finance,Financial Analyst,Hanoi,99,65646.35,7.1,Senior,44,"Options Pricing, SQL, Bloomberg Terminal, AML",High,High,54.3,Growing
+2023-09-07,Finance,Blockchain Developer,Jakarta,99,32249.35,11.06,Junior,55,"Basel III, Blockchain, AML, Risk Modeling, Tableau, SQL",Medium,Medium,73.4,Stable
+2023-09-07,Finance,Blockchain Developer,Bangkok,95,22188.03,15.5,Junior,60,"Excel, Power BI, Python, Basel III",High,Low,50.3,Growing
+2023-09-09,Finance,Blockchain Developer,Hanoi,106,62374.74,9.86,Senior,15,"Options Pricing, Solidity, Tableau, CFA, Excel",Low,Medium,68.1,Growing
+2023-09-10,Finance,Quantitative Analyst,Ho Chi Minh City,94,20156.4,13.84,Fresher,55,"Tableau, CFA, Excel",Medium,High,58.6,Declining
+2023-09-11,Finance,Credit Analyst,Hanoi,100,59344.29,10.65,Senior,54,"AML, CFA, Tableau, Machine Learning",Medium,High,66.4,Growing
+2023-09-11,Finance,Blockchain Developer,Bangkok,97,60401.43,14.87,Senior,37,"AML, Solidity, Tableau",Medium,Medium,72.8,Growing
+2023-09-14,Finance,Chief Financial Officer,Da Nang,101,37817.44,5.23,Junior,26,"Risk Modeling, Options Pricing, Bloomberg Terminal, Financial Modelling, Power BI",Medium,Medium,78.7,Stable
+2023-09-15,Finance,RegTech Specialist,Bangkok,96,23704.65,15.14,Junior,16,"AML, Options Pricing, Risk Modeling",Medium,Low,46.5,Stable
+2023-09-19,Finance,Quantitative Analyst,Singapore,88,17955.9,14.88,Fresher,46,"Excel, Blockchain, AML, Basel III",High,High,60.7,Stable
+2023-09-19,Finance,Financial Analyst,Manila,98,61949.75,11.99,Senior,24,"Power BI, Blockchain, Machine Learning, SQL, Financial Modelling",High,High,57.4,Growing
+2023-09-21,Finance,Quantitative Analyst,Ho Chi Minh City,89,31540.92,4.17,Fresher,44,"Python, Options Pricing, Machine Learning, CFA",Medium,High,71.2,Growing
+2023-09-21,Finance,RegTech Specialist,Manila,93,24277.48,7.57,Junior,32,"Python, AML, SQL, FX Trading, Power BI",High,Medium,79.9,Growing
+2023-09-23,Finance,Risk Manager,Jakarta,97,20582.85,7.33,Fresher,38,"SQL, Financial Modelling, Bloomberg Terminal, Python, Excel, Basel III",Medium,Medium,40.1,Stable
+2023-09-24,Finance,Quantitative Analyst,Ho Chi Minh City,92,14062.69,11.66,Fresher,57,"Blockchain, Options Pricing, Bloomberg Terminal, Basel III",High,Low,48.6,Stable
+2023-09-26,Finance,Investment Banker,Hanoi,95,28500.32,7.57,Junior,27,"Risk Modeling, Solidity, Bloomberg Terminal",Low,Low,53.0,Stable
+2023-09-26,Finance,FinTech Developer,Hanoi,101,57115.42,13.77,Senior,46,"Tableau, Blockchain, Excel, FX Trading, Risk Modeling",Medium,High,54.1,Declining
+2023-09-26,Finance,Investment Banker,Da Nang,99,39143.05,5.59,Junior,55,"Options Pricing, Power BI, Bloomberg Terminal, SQL, Machine Learning",Medium,Medium,78.3,Stable
+2023-09-27,Finance,RegTech Specialist,Hanoi,99,6606.99,12.42,Fresher,19,"Bloomberg Terminal, Python, Basel III, Power BI, SQL, Options Pricing",Medium,High,65.8,Stable

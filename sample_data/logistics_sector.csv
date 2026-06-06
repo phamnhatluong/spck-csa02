@@ -1,0 +1,501 @@
+date,industry,job_title,region,job_openings,avg_salary,salary_growth_rate,experience_level,remote_ratio,required_skills,competition_level,automation_risk,growth_score,demand_forecast
+2022-03-02,Logistics,Last-Mile Delivery Specialist,Hải Phòng,83,17373.77,9.03,Junior,23,"SQL, Negotiation",High,Medium,54.0,Declining
+2022-03-02,Logistics,3PL Account Manager,Đà Nẵng,88,9529.36,6.68,Junior,11,"Supply Chain Management, Excel",Low,Medium,49.9,Growing
+2022-03-03,Logistics,Transportation Engineer,Cần Thơ,79,10472.43,7.16,Junior,13,"Customs, Last-Mile Logistics",Medium,High,63.4,Growing
+2022-03-05,Logistics,Freight Broker,Đà Nẵng,92,10494.89,5.4,Fresher,1,"Last-Mile Logistics, ERP Systems, Freight Forwarding, Route Optimization, Power BI",Medium,High,59.5,Declining
+2022-03-06,Logistics,Logistics Coordinator,TP.HCM,81,15556.47,9.51,Junior,26,"Python, SAP WMS, Excel, Route Optimization",High,High,43.3,Stable
+2022-03-08,Logistics,Transportation Engineer,Cần Thơ,81,24491.46,7.62,Senior,4,"IoT Tracking, Cold Chain",Medium,Medium,40.5,Declining
+2022-03-08,Logistics,Freight Broker,Hà Nội,92,10550.78,7.58,Junior,20,"Cold Chain, Customs, SAP WMS, Freight Forwarding",Medium,Medium,53.5,Growing
+2022-03-10,Logistics,Warehouse Manager,Cần Thơ,88,12724.85,2.27,Junior,6,"Last-Mile Logistics, Excel, Route Optimization, Negotiation",Low,Low,35.8,Stable
+2022-03-10,Logistics,Freight Broker,Bình Dương,95,22782.85,8.75,Senior,5,"SQL, ERP Systems, Power BI",Low,Medium,53.7,Growing
+2022-03-12,Logistics,Last-Mile Delivery Specialist,Đồng Nai,88,4433.88,8.42,Fresher,9,"SQL, Excel, Last-Mile Logistics, ERP Systems",Medium,High,35.0,Growing
+2022-03-13,Logistics,Cold Chain Manager,Bình Dương,86,23325.98,7.39,Senior,2,"Freight Forwarding, Cold Chain, Negotiation, Python, ERP Systems",High,Medium,63.8,Growing
+2022-03-14,Logistics,3PL Account Manager,TP.HCM,72,12250.73,7.26,Junior,0,"Python, Power BI, ERP Systems",High,High,64.3,Stable
+2022-03-16,Logistics,Last-Mile Delivery Specialist,TP.HCM,82,27109.23,4.68,Senior,14,"Excel, Power BI, Last-Mile Logistics",Low,High,62.3,Stable
+2022-03-16,Logistics,Logistics Coordinator,Đồng Nai,97,11129.04,8.46,Junior,18,"Python, Customs, Freight Forwarding",Low,High,57.7,Declining
+2022-03-17,Logistics,Fleet Operations Manager,Bình Dương,97,9964.23,5.16,Junior,18,"IoT Tracking, Cold Chain",Medium,Medium,59.2,Stable
+2022-03-17,Logistics,Freight Broker,Cần Thơ,104,7506.31,6.2,Fresher,21,"ERP Systems, Customs",Medium,High,59.7,Growing
+2022-03-19,Logistics,Warehouse Manager,Bình Dương,107,7305.12,4.34,Fresher,28,"Supply Chain Management, IoT Tracking, SAP WMS",Low,Medium,60.1,Declining
+2022-03-21,Logistics,Transportation Engineer,Hải Phòng,89,6181.85,8.63,Fresher,10,"Last-Mile Logistics, SQL",Medium,Low,53.0,Growing
+2022-03-22,Logistics,Fleet Operations Manager,Cần Thơ,64,24607.77,7.56,Senior,15,"Supply Chain Management, Last-Mile Logistics",Low,Low,69.1,Stable
+2022-03-23,Logistics,Transportation Engineer,Bình Dương,81,6179.42,2.1,Fresher,10,"Route Optimization, Last-Mile Logistics, ERP Systems, SQL, Supply Chain Management",Medium,High,41.4,Growing
+2022-03-23,Logistics,Cold Chain Manager,TP.HCM,80,9535.49,8.11,Fresher,30,"Freight Forwarding, Supply Chain Management, Cold Chain",Low,Medium,49.3,Stable
+2022-03-24,Logistics,Supply Chain Analyst,Hải Phòng,88,13872.39,7.36,Junior,27,"Power BI, SAP WMS, Last-Mile Logistics, Cold Chain, Supply Chain Management",Medium,High,41.3,Growing
+2022-03-26,Logistics,Logistics Coordinator,Hải Phòng,76,24813.85,6.67,Senior,11,"Supply Chain Management, SAP WMS",High,High,52.7,Declining
+2022-03-29,Logistics,Customs Officer,TP.HCM,81,12021.47,8.01,Junior,11,"Power BI, Supply Chain Management, IoT Tracking",Medium,High,57.3,Stable
+2022-03-30,Logistics,Fleet Operations Manager,Cần Thơ,87,12901.77,7.8,Junior,11,"Cold Chain, Power BI, ERP Systems",Medium,High,62.5,Growing
+2022-04-02,Logistics,Logistics Coordinator,Đồng Nai,85,15858.62,2.18,Junior,8,"ERP Systems, Freight Forwarding, SAP WMS, Power BI",High,High,38.6,Stable
+2022-04-02,Logistics,Freight Broker,Hà Nội,106,8092.76,3.97,Fresher,1,"Cold Chain, Freight Forwarding, Route Optimization, Excel",Medium,High,68.9,Stable
+2022-04-02,Logistics,Warehouse Manager,Cần Thơ,103,14697.52,5.32,Junior,22,"Power BI, Route Optimization, SQL",Low,Medium,38.6,Declining
+2022-04-03,Logistics,Logistics Coordinator,Cần Thơ,100,25485.39,6.04,Senior,17,"Power BI, IoT Tracking",Medium,Medium,48.6,Declining
+2022-04-03,Logistics,Fleet Operations Manager,Đồng Nai,103,24324.07,6.42,Senior,0,"Freight Forwarding, Route Optimization, Cold Chain",Low,High,43.3,Growing
+2022-04-04,Logistics,Fleet Operations Manager,TP.HCM,99,6749.56,8.13,Fresher,1,"Customs, Last-Mile Logistics, Supply Chain Management",High,High,42.3,Growing
+2022-04-06,Logistics,Freight Broker,TP.HCM,66,12905.06,3.65,Junior,18,"Last-Mile Logistics, IoT Tracking",Medium,Medium,48.0,Declining
+2022-04-08,Logistics,Procurement Specialist,Đồng Nai,93,20736.72,6.15,Senior,22,"SQL, SAP WMS, ERP Systems, Cold Chain",Low,High,53.2,Declining
+2022-04-08,Logistics,Procurement Specialist,Đà Nẵng,85,29620.53,6.15,Senior,19,"IoT Tracking, Last-Mile Logistics",Low,High,64.5,Growing
+2022-04-09,Logistics,Cold Chain Manager,Đồng Nai,107,12630.11,3.36,Junior,14,"Power BI, Freight Forwarding, Route Optimization, ERP Systems, Supply Chain Management",Medium,High,46.4,Stable
+2022-04-10,Logistics,Cold Chain Manager,TP.HCM,104,7153.57,4.17,Fresher,25,"IoT Tracking, Python, Last-Mile Logistics, Power BI",High,High,69.9,Growing
+2022-04-15,Logistics,Supply Chain Analyst,Bình Dương,96,25815.41,8.64,Senior,22,"Freight Forwarding, ERP Systems",Medium,Low,50.2,Stable
+2022-04-17,Logistics,Fleet Operations Manager,Hải Phòng,95,24813.57,8.14,Senior,5,"Route Optimization, Excel, Power BI",Low,Medium,52.1,Growing
+2022-04-18,Logistics,3PL Account Manager,Đồng Nai,83,6592.51,5.55,Fresher,1,"SAP WMS, Freight Forwarding, SQL, Excel",Low,High,56.3,Stable
+2022-04-18,Logistics,Transportation Engineer,Đồng Nai,92,9896.58,3.8,Junior,13,"ERP Systems, Last-Mile Logistics",Medium,Medium,62.2,Stable
+2022-04-20,Logistics,Freight Broker,Bình Dương,87,3774.44,8.45,Fresher,23,"Python, SAP WMS, Supply Chain Management, Route Optimization, Freight Forwarding",Low,High,59.2,Growing
+2022-04-20,Logistics,3PL Account Manager,Hải Phòng,93,21204.23,2.83,Senior,9,"ERP Systems, Last-Mile Logistics, Power BI, Customs",Low,High,42.1,Growing
+2022-04-21,Logistics,Supply Chain Analyst,Cần Thơ,118,16200.1,2.02,Junior,3,"Excel, Power BI, Customs, Supply Chain Management, SAP WMS",High,High,62.3,Declining
+2022-04-23,Logistics,Cold Chain Manager,Bình Dương,91,4552.52,7.91,Fresher,27,"Python, Freight Forwarding, SQL, IoT Tracking",Low,High,42.5,Stable
+2022-04-23,Logistics,3PL Account Manager,Bình Dương,95,13122.89,4.42,Junior,0,"Customs, Negotiation, Last-Mile Logistics, Freight Forwarding",Medium,Low,58.7,Stable
+2022-04-23,Logistics,Transportation Engineer,Hải Phòng,89,24640.97,7.31,Senior,7,"Customs, Cold Chain",Medium,High,43.1,Declining
+2022-04-25,Logistics,Transportation Engineer,Đà Nẵng,86,24524.14,9.26,Senior,7,"Python, Cold Chain, IoT Tracking, SQL, Negotiation",Medium,High,61.7,Growing
+2022-04-26,Logistics,Transportation Engineer,Cần Thơ,93,8612.34,7.83,Fresher,9,"Negotiation, SAP WMS, Customs, SQL",High,High,65.7,Declining
+2022-04-27,Logistics,Freight Broker,Đà Nẵng,99,24378.99,8.84,Senior,2,"Cold Chain, Last-Mile Logistics, SQL, Negotiation, SAP WMS",Medium,Medium,58.9,Growing
+2022-04-30,Logistics,Logistics Coordinator,Bình Dương,93,24266.05,3.6,Senior,0,"Supply Chain Management, ERP Systems, SAP WMS",Medium,Medium,38.8,Stable
+2022-05-01,Logistics,Procurement Specialist,Cần Thơ,94,8111.35,9.9,Fresher,29,"Freight Forwarding, Route Optimization, SAP WMS",Medium,Medium,42.6,Growing
+2022-05-02,Logistics,Fleet Operations Manager,Bình Dương,93,9299.07,6.98,Fresher,3,"Supply Chain Management, SQL",Low,Medium,44.1,Growing
+2022-05-05,Logistics,Last-Mile Delivery Specialist,Đồng Nai,94,27240.05,9.29,Senior,17,"Excel, SAP WMS, Supply Chain Management, Power BI, Freight Forwarding",Medium,High,53.1,Growing
+2022-05-07,Logistics,Fleet Operations Manager,Cần Thơ,92,13872.1,9.71,Junior,4,"Freight Forwarding, Last-Mile Logistics, Customs",Low,High,39.1,Growing
+2022-05-12,Logistics,Transportation Engineer,Đồng Nai,88,5519.25,3.82,Fresher,28,"Customs, SQL, Python",Medium,High,69.7,Stable
+2022-05-13,Logistics,3PL Account Manager,Hà Nội,95,13391.76,8.24,Junior,29,"Route Optimization, Cold Chain, SQL, Excel",High,Low,43.4,Stable
+2022-05-14,Logistics,Customs Officer,Đồng Nai,97,11988.1,8.42,Junior,10,"IoT Tracking, ERP Systems, Last-Mile Logistics, SAP WMS, Python",Medium,Medium,50.9,Stable
+2022-05-19,Logistics,Customs Officer,Hải Phòng,92,27917.28,2.64,Senior,21,"Negotiation, Cold Chain",Medium,Medium,51.2,Growing
+2022-05-24,Logistics,3PL Account Manager,Đà Nẵng,90,18294.49,8.37,Junior,3,"SAP WMS, Last-Mile Logistics, Customs",Medium,High,36.9,Declining
+2022-05-25,Logistics,Cold Chain Manager,Đồng Nai,110,4765.14,6.07,Fresher,16,"SQL, Cold Chain, Route Optimization",Low,Low,39.1,Declining
+2022-05-26,Logistics,3PL Account Manager,Bình Dương,95,6128.5,8.44,Fresher,27,"IoT Tracking, Freight Forwarding, Cold Chain",Medium,High,42.6,Growing
+2022-05-28,Logistics,3PL Account Manager,TP.HCM,88,28621.84,7.74,Senior,30,"ERP Systems, SQL",Medium,High,58.6,Declining
+2022-05-30,Logistics,Warehouse Manager,Đồng Nai,100,20525.3,5.78,Senior,8,"Freight Forwarding, SQL, SAP WMS",Medium,Medium,42.0,Growing
+2022-06-01,Logistics,Fleet Operations Manager,Hà Nội,104,13550.21,3.22,Junior,15,"ERP Systems, Freight Forwarding, Negotiation, SQL",Low,Low,40.5,Stable
+2022-06-05,Logistics,Logistics Coordinator,Bình Dương,102,16313.91,2.24,Junior,24,"Route Optimization, Freight Forwarding, IoT Tracking",Low,Medium,41.1,Declining
+2022-06-05,Logistics,Freight Broker,Bình Dương,100,6573.79,8.48,Fresher,27,"Negotiation, Last-Mile Logistics",High,Low,50.7,Stable
+2022-06-06,Logistics,Transportation Engineer,Hà Nội,97,13805.73,7.62,Junior,5,"Cold Chain, SQL, Customs, IoT Tracking",Low,Medium,38.6,Growing
+2022-06-08,Logistics,Supply Chain Analyst,Cần Thơ,91,7209.3,2.61,Fresher,15,"Excel, IoT Tracking, ERP Systems, Route Optimization, Cold Chain",High,Medium,51.8,Growing
+2022-06-09,Logistics,Last-Mile Delivery Specialist,Đà Nẵng,98,11038.35,5.39,Junior,4,"Negotiation, IoT Tracking, SAP WMS, Python, Freight Forwarding",Medium,Medium,49.0,Growing
+2022-06-10,Logistics,Warehouse Manager,Đồng Nai,93,27258.35,3.58,Senior,15,"Excel, ERP Systems",High,Low,54.0,Stable
+2022-06-11,Logistics,Freight Broker,TP.HCM,114,25384.43,2.77,Senior,4,"Route Optimization, Excel",Medium,High,69.6,Growing
+2022-06-11,Logistics,Freight Broker,Cần Thơ,87,6420.2,3.67,Fresher,13,"SAP WMS, Negotiation, Python, Last-Mile Logistics",Medium,Medium,49.8,Stable
+2022-06-11,Logistics,Logistics Coordinator,Đà Nẵng,83,7325.27,6.28,Fresher,25,"Negotiation, Python, Customs",High,Medium,67.1,Growing
+2022-06-12,Logistics,Logistics Coordinator,Bình Dương,115,5393.43,9.37,Fresher,5,"ERP Systems, Customs, Last-Mile Logistics, Route Optimization",High,Low,44.0,Stable
+2022-06-13,Logistics,Procurement Specialist,TP.HCM,104,5914.94,6.07,Fresher,1,"Route Optimization, Supply Chain Management, Last-Mile Logistics, Power BI, Cold Chain",Medium,High,51.4,Growing
+2022-06-14,Logistics,Fleet Operations Manager,Đà Nẵng,95,11899.47,5.42,Junior,17,"SAP WMS, Cold Chain, Negotiation, Power BI, Python",High,Low,65.5,Stable
+2022-06-15,Logistics,Transportation Engineer,Hà Nội,91,13729.07,7.58,Junior,6,"ERP Systems, SAP WMS, Negotiation",Medium,High,61.6,Declining
+2022-06-21,Logistics,Fleet Operations Manager,Bình Dương,89,23557.07,2.49,Senior,29,"Power BI, Python",Medium,Medium,54.3,Stable
+2022-06-22,Logistics,Customs Officer,Đồng Nai,93,13093.73,9.27,Junior,13,"Last-Mile Logistics, Supply Chain Management, Customs, Route Optimization",Medium,Medium,63.5,Growing
+2022-06-24,Logistics,Transportation Engineer,Cần Thơ,102,24299.84,9.99,Senior,27,"ERP Systems, Python",Medium,Medium,60.6,Growing
+2022-06-28,Logistics,Logistics Coordinator,Cần Thơ,89,23458.88,5.71,Senior,5,"Cold Chain, IoT Tracking, Last-Mile Logistics, Customs, Supply Chain Management",Medium,Medium,58.9,Declining
+2022-06-30,Logistics,Transportation Engineer,Cần Thơ,104,12327.09,7.39,Junior,11,"SQL, ERP Systems, Freight Forwarding, IoT Tracking, Python",Medium,Medium,56.4,Stable
+2022-07-01,Logistics,Customs Officer,Cần Thơ,108,11169.35,2.96,Fresher,27,"Supply Chain Management, ERP Systems, Cold Chain, Route Optimization",Medium,High,69.3,Declining
+2022-07-02,Logistics,Transportation Engineer,Hải Phòng,98,26467.03,6.56,Senior,20,"Route Optimization, Last-Mile Logistics, Supply Chain Management, Freight Forwarding, Python",Medium,Medium,53.1,Stable
+2022-07-02,Logistics,Warehouse Manager,Cần Thơ,86,5148.22,6.77,Fresher,19,"Power BI, Freight Forwarding, SAP WMS, SQL",Low,High,44.4,Growing
+2022-07-03,Logistics,Freight Broker,Hải Phòng,90,5466.22,8.62,Fresher,5,"Customs, Python",Low,High,55.6,Growing
+2022-07-10,Logistics,Cold Chain Manager,Cần Thơ,75,3626.47,7.53,Fresher,12,"Cold Chain, Freight Forwarding",Medium,Low,39.9,Declining
+2022-07-11,Logistics,Procurement Specialist,Đồng Nai,87,15677.64,3.57,Junior,17,"SAP WMS, Excel, Last-Mile Logistics, Customs, SQL",Low,High,59.4,Growing
+2022-07-11,Logistics,Last-Mile Delivery Specialist,Đồng Nai,101,26470.15,9.11,Senior,20,"SQL, Customs, Power BI, Route Optimization, Freight Forwarding",Medium,Medium,51.0,Stable
+2022-07-13,Logistics,Warehouse Manager,Hải Phòng,88,5066.59,9.52,Fresher,17,"SQL, Power BI, IoT Tracking",High,Medium,65.4,Declining
+2022-07-15,Logistics,Logistics Coordinator,Đồng Nai,91,12925.36,6.35,Junior,5,"Python, Cold Chain, Last-Mile Logistics, Freight Forwarding, IoT Tracking",Medium,Medium,64.3,Stable
+2022-07-15,Logistics,Last-Mile Delivery Specialist,Cần Thơ,113,25660.47,7.07,Senior,11,"Power BI, Last-Mile Logistics",High,Medium,49.4,Stable
+2022-07-17,Logistics,Supply Chain Analyst,Đà Nẵng,95,13817.52,7.29,Junior,19,"SAP WMS, Customs, ERP Systems",Low,High,55.7,Growing
+2022-07-19,Logistics,Warehouse Manager,Cần Thơ,96,25481.14,8.65,Senior,29,"Supply Chain Management, Python, Route Optimization, ERP Systems, Excel",Medium,High,46.4,Stable
+2022-07-20,Logistics,Customs Officer,Đà Nẵng,114,18274.36,4.58,Junior,3,"SAP WMS, IoT Tracking, ERP Systems, Python",Low,High,43.3,Growing
+2022-07-21,Logistics,Transportation Engineer,Đồng Nai,111,24233.95,7.03,Senior,25,"SAP WMS, Excel, Last-Mile Logistics, Freight Forwarding",Low,High,40.3,Growing
+2022-07-22,Logistics,Cold Chain Manager,TP.HCM,89,25734.35,7.62,Senior,0,"Route Optimization, ERP Systems",High,High,52.8,Growing
+2022-07-23,Logistics,Freight Broker,TP.HCM,98,22819.61,4.25,Senior,6,"IoT Tracking, Power BI, Cold Chain, Excel",High,High,60.8,Growing
+2022-07-24,Logistics,Last-Mile Delivery Specialist,Đà Nẵng,93,25166.44,7.5,Senior,20,"IoT Tracking, Negotiation, Python, SAP WMS",Low,High,46.2,Growing
+2022-07-25,Logistics,Warehouse Manager,Cần Thơ,106,13448.12,6.29,Junior,30,"SQL, SAP WMS, IoT Tracking",Medium,Medium,60.2,Growing
+2022-07-26,Logistics,3PL Account Manager,Cần Thơ,89,8226.9,3.6,Fresher,3,"Freight Forwarding, Customs, Negotiation, SAP WMS, ERP Systems",High,Medium,44.2,Stable
+2022-07-31,Logistics,Warehouse Manager,Hà Nội,97,13799.39,7.59,Junior,8,"Customs, Negotiation, Cold Chain, Freight Forwarding, Supply Chain Management",Low,Low,60.6,Stable
+2022-08-05,Logistics,Freight Broker,Cần Thơ,104,15197.16,5.37,Junior,24,"Python, Power BI, Last-Mile Logistics, Cold Chain",Medium,Low,44.2,Growing
+2022-08-05,Logistics,Freight Broker,Đồng Nai,98,7276.85,2.71,Fresher,9,"Route Optimization, Python, Customs, Freight Forwarding",Medium,High,64.7,Growing
+2022-08-06,Logistics,3PL Account Manager,Hà Nội,97,13939.89,9.92,Junior,12,"Cold Chain, SQL, Route Optimization",Medium,Low,51.2,Stable
+2022-08-07,Logistics,3PL Account Manager,Cần Thơ,84,11333.41,6.74,Fresher,12,"ERP Systems, Excel",Medium,High,45.8,Growing
+2022-08-08,Logistics,Transportation Engineer,Bình Dương,97,15586.5,8.65,Junior,19,"Route Optimization, SQL, Freight Forwarding, Excel",Medium,Medium,63.5,Stable
+2022-08-09,Logistics,Fleet Operations Manager,Hải Phòng,105,12229.81,8.62,Junior,27,"ERP Systems, Freight Forwarding",Low,Medium,65.6,Growing
+2022-08-11,Logistics,Warehouse Manager,Hải Phòng,112,9713.55,8.82,Junior,4,"SQL, Supply Chain Management, Excel, Negotiation, Cold Chain",Low,High,58.5,Declining
+2022-08-13,Logistics,Fleet Operations Manager,Bình Dương,89,14305.81,3.07,Junior,12,"Excel, Python, Cold Chain, Freight Forwarding",Low,High,61.6,Growing
+2022-08-13,Logistics,Fleet Operations Manager,Hải Phòng,93,10066.58,2.67,Fresher,17,"Negotiation, Last-Mile Logistics, Route Optimization, Python, Customs",High,High,65.5,Growing
+2022-08-13,Logistics,Logistics Coordinator,Cần Thơ,110,10376.8,6.24,Fresher,19,"Negotiation, Route Optimization, IoT Tracking",Medium,Medium,41.7,Declining
+2022-08-14,Logistics,Logistics Coordinator,Cần Thơ,96,14381.85,8.32,Junior,29,"Freight Forwarding, Last-Mile Logistics, ERP Systems",Low,Medium,36.0,Growing
+2022-08-15,Logistics,Logistics Coordinator,Đồng Nai,106,10561.13,4.78,Fresher,18,"Cold Chain, Power BI, ERP Systems, IoT Tracking",Low,Medium,44.7,Stable
+2022-08-15,Logistics,Fleet Operations Manager,Cần Thơ,112,13792.87,4.93,Junior,12,"Route Optimization, Cold Chain, SQL",Medium,High,57.1,Growing
+2022-08-18,Logistics,Procurement Specialist,Cần Thơ,101,11849.53,4.2,Junior,14,"Route Optimization, Python",Medium,Low,69.4,Growing
+2022-08-20,Logistics,Supply Chain Analyst,Bình Dương,98,15722.7,5.8,Junior,20,"SQL, Customs, Last-Mile Logistics, Freight Forwarding",Medium,Low,62.2,Stable
+2022-08-21,Logistics,Customs Officer,Bình Dương,101,6801.03,7.56,Fresher,19,"Cold Chain, Power BI",Medium,Medium,36.0,Growing
+2022-08-22,Logistics,Customs Officer,TP.HCM,118,10471.51,3.67,Fresher,8,"Route Optimization, Customs, Excel, SAP WMS, Negotiation",Medium,Medium,45.4,Stable
+2022-08-23,Logistics,Fleet Operations Manager,Hải Phòng,99,12059.19,9.03,Junior,20,"Supply Chain Management, Excel, Freight Forwarding, Cold Chain",Low,High,64.6,Stable
+2022-08-27,Logistics,Supply Chain Analyst,Đồng Nai,106,26824.67,8.39,Senior,0,"Last-Mile Logistics, ERP Systems, SQL, Cold Chain, SAP WMS",Low,Medium,52.7,Growing
+2022-08-29,Logistics,Fleet Operations Manager,Đà Nẵng,108,7993.29,3.66,Fresher,26,"Route Optimization, Negotiation, Freight Forwarding, Excel, Last-Mile Logistics",High,High,54.1,Stable
+2022-08-29,Logistics,Fleet Operations Manager,Đồng Nai,97,7244.67,6.84,Fresher,20,"SQL, Python, Customs, Excel, Negotiation",Medium,High,69.5,Declining
+2022-09-02,Logistics,Fleet Operations Manager,Đồng Nai,92,24543.86,7.11,Senior,30,"IoT Tracking, Negotiation",Low,High,54.7,Growing
+2022-09-04,Logistics,Freight Broker,Hải Phòng,99,28284.74,5.08,Senior,14,"Negotiation, SQL, SAP WMS, Excel, Freight Forwarding",Medium,High,53.2,Growing
+2022-09-04,Logistics,Last-Mile Delivery Specialist,Hà Nội,109,27298.98,4.5,Senior,22,"Customs, Supply Chain Management",Medium,Medium,35.8,Stable
+2022-09-06,Logistics,Procurement Specialist,TP.HCM,87,11290.13,8.36,Junior,8,"Last-Mile Logistics, Freight Forwarding, Excel, Route Optimization",High,Medium,45.2,Stable
+2022-09-06,Logistics,Warehouse Manager,Đà Nẵng,100,25024.11,8.62,Senior,6,"Excel, Route Optimization, ERP Systems, Cold Chain",Medium,High,44.7,Stable
+2022-09-13,Logistics,Warehouse Manager,Hà Nội,93,26762.39,6.08,Senior,11,"ERP Systems, Excel, Negotiation",Medium,Low,65.7,Stable
+2022-09-14,Logistics,Logistics Coordinator,TP.HCM,91,6610.12,2.28,Fresher,0,"Excel, Supply Chain Management, Route Optimization",Low,High,40.9,Declining
+2022-09-16,Logistics,Logistics Coordinator,Đà Nẵng,104,4234.76,7.58,Fresher,8,"Cold Chain, IoT Tracking, Last-Mile Logistics",High,High,38.6,Growing
+2022-09-21,Logistics,Cold Chain Manager,Bình Dương,102,23721.5,3.9,Senior,2,"Freight Forwarding, Cold Chain, Last-Mile Logistics, Power BI",Medium,Medium,37.2,Stable
+2022-09-21,Logistics,Procurement Specialist,Đà Nẵng,106,10643.75,2.62,Fresher,12,"Negotiation, ERP Systems",High,High,55.9,Declining
+2022-09-21,Logistics,Freight Broker,Hải Phòng,113,22504.97,5.53,Senior,20,"Last-Mile Logistics, Power BI, Cold Chain, Freight Forwarding",Medium,High,41.6,Declining
+2022-09-23,Logistics,Customs Officer,Cần Thơ,92,7224.45,7.11,Fresher,29,"SAP WMS, Customs, Excel, Supply Chain Management, Cold Chain",High,High,48.8,Stable
+2022-09-28,Logistics,Procurement Specialist,Hà Nội,105,13923.17,3.45,Junior,19,"Route Optimization, Power BI, Freight Forwarding",Medium,High,38.3,Declining
+2022-10-10,Logistics,Last-Mile Delivery Specialist,Bình Dương,109,25512.04,2.94,Senior,19,"Last-Mile Logistics, Cold Chain",Medium,High,70.0,Growing
+2022-10-11,Logistics,Last-Mile Delivery Specialist,Cần Thơ,106,14690.84,7.22,Junior,24,"Python, Excel, Customs, Last-Mile Logistics",Medium,Medium,67.6,Stable
+2022-10-12,Logistics,Warehouse Manager,Hà Nội,107,13820.13,9.98,Junior,9,"Freight Forwarding, Power BI, Excel",Low,Low,50.7,Stable
+2022-10-13,Logistics,Supply Chain Analyst,Hà Nội,92,7771.53,8.39,Fresher,22,"Python, Power BI, Excel, SQL, ERP Systems",Low,High,64.6,Declining
+2022-10-15,Logistics,Cold Chain Manager,TP.HCM,89,10269.16,3.36,Fresher,24,"Cold Chain, Customs, IoT Tracking, SAP WMS",Medium,Medium,36.6,Stable
+2022-10-15,Logistics,Warehouse Manager,TP.HCM,115,23336.77,8.89,Senior,27,"Python, Last-Mile Logistics, Route Optimization",Low,High,66.3,Stable
+2022-10-19,Logistics,Freight Broker,Đồng Nai,98,7957.4,5.05,Fresher,24,"SQL, Python, Excel, ERP Systems",Medium,Low,41.6,Growing
+2022-10-19,Logistics,Last-Mile Delivery Specialist,Đồng Nai,99,26558.11,2.36,Senior,1,"Last-Mile Logistics, Customs, Cold Chain",Low,High,53.6,Growing
+2022-10-20,Logistics,Supply Chain Analyst,Hà Nội,114,15445.34,5.42,Junior,22,"ERP Systems, IoT Tracking",Medium,High,64.6,Declining
+2022-10-24,Logistics,Warehouse Manager,Hà Nội,108,25053.06,7.4,Senior,23,"Freight Forwarding, Excel",Low,High,52.3,Stable
+2022-10-26,Logistics,Freight Broker,Đà Nẵng,120,9548.6,9.88,Fresher,8,"SQL, Negotiation, Python, Route Optimization, Supply Chain Management",Medium,Medium,63.6,Declining
+2022-10-28,Logistics,Supply Chain Analyst,Đồng Nai,103,9389.64,7.77,Fresher,17,"IoT Tracking, SQL, Route Optimization",High,High,68.7,Stable
+2022-10-29,Logistics,Cold Chain Manager,Cần Thơ,111,7743.43,5.4,Fresher,7,"Negotiation, SAP WMS, Supply Chain Management, Python, ERP Systems",Medium,High,68.8,Growing
+2022-10-29,Logistics,Fleet Operations Manager,TP.HCM,100,26694.18,8.0,Senior,23,"IoT Tracking, ERP Systems, SAP WMS, Python",Low,Medium,35.7,Stable
+2022-11-01,Logistics,Cold Chain Manager,Hải Phòng,102,23510.32,7.31,Senior,18,"Supply Chain Management, Negotiation",Medium,High,53.6,Declining
+2022-11-03,Logistics,Last-Mile Delivery Specialist,Cần Thơ,100,8266.82,6.05,Fresher,12,"Route Optimization, IoT Tracking, Excel, Supply Chain Management",Low,High,67.8,Growing
+2022-11-04,Logistics,Cold Chain Manager,TP.HCM,135,13265.87,3.0,Junior,17,"Customs, Python",High,Low,65.5,Growing
+2022-11-05,Logistics,3PL Account Manager,TP.HCM,100,29355.69,4.81,Senior,14,"Route Optimization, SAP WMS, Supply Chain Management",Low,Medium,39.2,Growing
+2022-11-06,Logistics,Supply Chain Analyst,Đồng Nai,85,13697.17,5.01,Junior,23,"Freight Forwarding, Power BI",High,Medium,42.8,Stable
+2022-11-07,Logistics,Logistics Coordinator,Hà Nội,106,11830.61,8.22,Junior,28,"Python, Power BI, ERP Systems, Excel",Medium,Medium,65.0,Growing
+2022-11-08,Logistics,3PL Account Manager,Hà Nội,110,13969.3,6.1,Junior,26,"Excel, Supply Chain Management, Cold Chain, ERP Systems",Low,High,63.8,Stable
+2022-11-08,Logistics,Customs Officer,Hà Nội,100,29054.68,7.25,Senior,19,"Last-Mile Logistics, Power BI, Route Optimization, Python, Cold Chain",High,Medium,56.5,Growing
+2022-11-09,Logistics,Freight Broker,Cần Thơ,102,15715.98,9.09,Junior,18,"Excel, SAP WMS, Last-Mile Logistics",Medium,Medium,66.9,Growing
+2022-11-11,Logistics,Fleet Operations Manager,Hà Nội,106,25120.67,4.66,Senior,11,"SAP WMS, Route Optimization, SQL, Excel",Low,Medium,50.4,Growing
+2022-11-12,Logistics,Fleet Operations Manager,Bình Dương,108,12901.69,3.45,Junior,27,"Python, Excel",High,Medium,55.4,Stable
+2022-11-13,Logistics,Supply Chain Analyst,Hà Nội,103,28316.0,4.32,Senior,13,"Excel, Python, ERP Systems",Medium,Medium,65.6,Growing
+2022-11-13,Logistics,Supply Chain Analyst,Đà Nẵng,120,23405.72,7.82,Senior,18,"ERP Systems, IoT Tracking",High,Low,37.7,Stable
+2022-11-14,Logistics,Procurement Specialist,Đà Nẵng,94,24686.33,3.99,Senior,18,"Freight Forwarding, Negotiation, SAP WMS, Supply Chain Management, ERP Systems",High,Low,60.8,Stable
+2022-11-16,Logistics,Cold Chain Manager,Bình Dương,101,10654.71,8.44,Junior,9,"ERP Systems, Excel, Power BI, Negotiation",Medium,Medium,37.1,Declining
+2022-11-19,Logistics,Freight Broker,Đồng Nai,109,28541.9,8.48,Senior,4,"ERP Systems, Freight Forwarding",Low,Medium,55.5,Stable
+2022-11-21,Logistics,Transportation Engineer,Cần Thơ,94,28758.32,3.08,Senior,11,"Cold Chain, Python, SQL",Medium,High,48.1,Stable
+2022-11-22,Logistics,Customs Officer,Cần Thơ,117,5192.67,2.56,Fresher,24,"SAP WMS, Negotiation",High,High,50.0,Stable
+2022-11-22,Logistics,Transportation Engineer,Cần Thơ,86,14209.82,6.49,Junior,21,"Excel, Freight Forwarding, IoT Tracking, Route Optimization",High,Low,58.9,Stable
+2022-11-26,Logistics,3PL Account Manager,Hải Phòng,95,22732.29,9.09,Senior,14,"Customs, SAP WMS, Supply Chain Management, IoT Tracking, Cold Chain",Low,Medium,39.6,Growing
+2022-11-30,Logistics,Logistics Coordinator,Đồng Nai,115,24376.07,6.94,Senior,9,"IoT Tracking, Supply Chain Management, Negotiation",Medium,Medium,59.9,Growing
+2022-12-01,Logistics,Logistics Coordinator,Đà Nẵng,101,6143.7,7.42,Fresher,12,"Customs, SAP WMS, Power BI, Supply Chain Management",High,Medium,53.0,Growing
+2022-12-05,Logistics,Procurement Specialist,Hà Nội,94,11334.06,5.63,Junior,2,"Supply Chain Management, ERP Systems, Cold Chain, Last-Mile Logistics, Route Optimization",High,Medium,65.7,Stable
+2022-12-06,Logistics,Last-Mile Delivery Specialist,TP.HCM,115,13985.36,4.42,Junior,21,"Power BI, Last-Mile Logistics, Route Optimization, ERP Systems, SAP WMS",High,Medium,49.8,Stable
+2022-12-11,Logistics,Supply Chain Analyst,TP.HCM,102,28364.64,3.78,Senior,27,"Negotiation, SQL, Power BI, Customs, IoT Tracking",Low,Medium,38.0,Stable
+2022-12-15,Logistics,Warehouse Manager,Cần Thơ,108,22928.42,5.02,Senior,9,"Excel, SQL, Route Optimization",Medium,Medium,37.1,Declining
+2022-12-16,Logistics,Customs Officer,Đà Nẵng,107,10380.11,3.38,Fresher,15,"Negotiation, ERP Systems, Customs, Excel",Medium,High,37.6,Stable
+2022-12-17,Logistics,Transportation Engineer,Hà Nội,110,27919.94,2.14,Senior,6,"Route Optimization, SAP WMS, Excel, Customs",High,Medium,56.7,Growing
+2022-12-18,Logistics,Logistics Coordinator,Hải Phòng,103,12483.35,6.45,Junior,24,"Python, Negotiation, Cold Chain, Last-Mile Logistics",Low,High,69.8,Declining
+2022-12-18,Logistics,Logistics Coordinator,Hải Phòng,121,12286.14,6.78,Junior,2,"Customs, SAP WMS",Medium,Low,45.1,Stable
+2022-12-20,Logistics,3PL Account Manager,TP.HCM,105,25643.81,5.67,Senior,17,"ERP Systems, Route Optimization",Medium,High,42.1,Declining
+2022-12-21,Logistics,Freight Broker,Hải Phòng,117,22099.67,6.85,Senior,12,"ERP Systems, Negotiation, Customs, SQL, Excel",Medium,Medium,66.3,Stable
+2022-12-21,Logistics,Cold Chain Manager,Hà Nội,81,25742.89,5.29,Senior,9,"Python, Last-Mile Logistics, Negotiation, ERP Systems",Medium,Medium,60.1,Growing
+2022-12-22,Logistics,Transportation Engineer,Đà Nẵng,97,7262.65,5.14,Fresher,9,"Cold Chain, Negotiation, IoT Tracking",Medium,Low,61.2,Growing
+2022-12-23,Logistics,Procurement Specialist,Hà Nội,102,11601.28,8.24,Fresher,28,"Supply Chain Management, Cold Chain, Customs, Freight Forwarding, Excel",Medium,High,62.2,Growing
+2022-12-25,Logistics,Cold Chain Manager,Cần Thơ,118,7485.29,7.65,Fresher,27,"Negotiation, Supply Chain Management, Route Optimization",High,Medium,53.5,Declining
+2022-12-28,Logistics,Logistics Coordinator,Hà Nội,106,25980.63,2.42,Senior,19,"Customs, SQL, Last-Mile Logistics, Excel, Python",Low,Low,37.3,Growing
+2022-12-29,Logistics,Warehouse Manager,Hà Nội,115,22778.29,4.73,Senior,25,"Last-Mile Logistics, Python, Route Optimization, IoT Tracking, Power BI",Low,High,63.0,Growing
+2022-12-30,Logistics,3PL Account Manager,Hà Nội,106,15974.87,8.53,Junior,19,"Freight Forwarding, SAP WMS, IoT Tracking",Medium,High,61.5,Declining
+2022-12-31,Logistics,3PL Account Manager,Đà Nẵng,111,5730.07,3.38,Fresher,6,"Freight Forwarding, SAP WMS, Negotiation, Route Optimization, ERP Systems",High,Medium,63.0,Growing
+2023-01-01,Logistics,Customs Officer,Hà Nội,113,23657.91,4.56,Senior,4,"Excel, IoT Tracking, SAP WMS, Customs",Low,Medium,64.2,Growing
+2023-01-01,Logistics,Last-Mile Delivery Specialist,Đồng Nai,103,23798.43,4.52,Senior,30,"IoT Tracking, SAP WMS",Medium,Medium,37.9,Stable
+2023-01-02,Logistics,3PL Account Manager,Cần Thơ,112,13933.2,5.62,Junior,12,"SQL, Freight Forwarding",Low,High,51.9,Stable
+2023-01-04,Logistics,Last-Mile Delivery Specialist,Hà Nội,109,24566.3,6.97,Senior,5,"SAP WMS, Last-Mile Logistics, Route Optimization",Medium,Low,69.6,Stable
+2023-01-04,Logistics,Freight Broker,TP.HCM,107,26460.37,8.61,Senior,1,"Supply Chain Management, Excel, Route Optimization",Medium,High,61.8,Stable
+2023-01-11,Logistics,Customs Officer,Cần Thơ,116,6333.44,4.41,Fresher,23,"IoT Tracking, Customs, SQL, ERP Systems",Low,Medium,48.6,Stable
+2023-01-12,Logistics,Procurement Specialist,Đà Nẵng,97,9437.38,2.63,Junior,17,"Python, Power BI",Medium,Low,52.5,Stable
+2023-01-12,Logistics,Supply Chain Analyst,TP.HCM,109,26902.87,4.07,Senior,16,"Supply Chain Management, SQL, Power BI",Low,Medium,53.3,Declining
+2023-01-14,Logistics,Transportation Engineer,Hà Nội,122,7311.24,9.17,Fresher,10,"Route Optimization, Power BI",Low,Medium,70.0,Stable
+2023-01-15,Logistics,Customs Officer,Hải Phòng,120,15460.9,9.58,Junior,12,"SAP WMS, Excel, Last-Mile Logistics, Customs, IoT Tracking",High,Medium,53.8,Growing
+2023-01-15,Logistics,Cold Chain Manager,TP.HCM,105,34574.56,4.81,Senior,8,"Python, SAP WMS, ERP Systems",High,High,62.5,Growing
+2023-01-18,Logistics,Logistics Coordinator,Đồng Nai,101,13747.78,8.37,Junior,29,"Cold Chain, Supply Chain Management, IoT Tracking",Medium,High,39.7,Growing
+2023-01-21,Logistics,Last-Mile Delivery Specialist,Bình Dương,114,7755.66,3.38,Fresher,1,"Customs, Power BI, Last-Mile Logistics",Medium,High,66.6,Growing
+2023-01-23,Logistics,Fleet Operations Manager,TP.HCM,90,5716.84,7.29,Fresher,14,"Customs, Supply Chain Management",Low,Low,40.1,Stable
+2023-01-23,Logistics,Procurement Specialist,Đồng Nai,122,25490.74,4.12,Senior,12,"SQL, Cold Chain, Python, Freight Forwarding, ERP Systems",Medium,High,41.6,Growing
+2023-01-23,Logistics,Cold Chain Manager,Bình Dương,95,23611.74,5.44,Senior,25,"ERP Systems, Last-Mile Logistics, Negotiation, SAP WMS, Customs",Low,Medium,44.9,Stable
+2023-01-24,Logistics,Logistics Coordinator,Bình Dương,110,11092.49,7.63,Junior,14,"Python, Cold Chain, Route Optimization, SAP WMS, Supply Chain Management",Low,Medium,62.5,Stable
+2023-01-25,Logistics,3PL Account Manager,Cần Thơ,113,9482.25,5.12,Fresher,23,"Route Optimization, SAP WMS, ERP Systems, IoT Tracking",Medium,Medium,35.4,Declining
+2023-01-29,Logistics,Warehouse Manager,Đồng Nai,88,14630.3,4.17,Junior,20,"Power BI, Last-Mile Logistics, IoT Tracking, Freight Forwarding",Medium,Medium,39.5,Stable
+2023-01-30,Logistics,Transportation Engineer,Hải Phòng,123,7385.15,8.3,Fresher,23,"Python, Freight Forwarding, Route Optimization",Low,Low,37.5,Growing
+2023-01-31,Logistics,Warehouse Manager,Hà Nội,116,8339.73,5.56,Fresher,2,"SQL, ERP Systems, Last-Mile Logistics, SAP WMS, IoT Tracking",Medium,Low,37.4,Growing
+2023-01-31,Logistics,Last-Mile Delivery Specialist,TP.HCM,105,14380.68,2.65,Junior,28,"SAP WMS, Cold Chain, Supply Chain Management, Last-Mile Logistics, Freight Forwarding",Medium,High,36.9,Growing
+2023-01-31,Logistics,Logistics Coordinator,Cần Thơ,128,7290.29,5.32,Fresher,24,"Route Optimization, Cold Chain",Low,High,55.2,Growing
+2023-02-01,Logistics,Customs Officer,Đồng Nai,108,28168.34,9.69,Senior,9,"Last-Mile Logistics, Customs",Low,High,60.2,Declining
+2023-02-02,Logistics,Freight Broker,Cần Thơ,133,29554.69,7.19,Senior,13,"Freight Forwarding, Excel, SAP WMS, Python, SQL",Low,Medium,48.7,Growing
+2023-02-03,Logistics,Cold Chain Manager,Hà Nội,111,15114.79,6.37,Junior,15,"Python, Customs, SQL, IoT Tracking",Low,High,50.1,Growing
+2023-02-03,Logistics,Supply Chain Analyst,Hà Nội,113,11015.3,9.17,Junior,19,"Supply Chain Management, Power BI, Negotiation",High,High,53.2,Growing
+2023-02-10,Logistics,Warehouse Manager,Hải Phòng,108,13338.33,4.25,Junior,5,"Last-Mile Logistics, Cold Chain, Route Optimization, Excel, Python",Medium,High,56.9,Growing
+2023-02-11,Logistics,Procurement Specialist,TP.HCM,101,6467.87,5.39,Fresher,27,"Customs, Route Optimization, Last-Mile Logistics",Low,High,48.6,Stable
+2023-02-11,Logistics,Fleet Operations Manager,Bình Dương,102,26570.42,7.26,Senior,20,"IoT Tracking, Power BI, Route Optimization, SQL, Last-Mile Logistics",Medium,Medium,59.0,Stable
+2023-02-12,Logistics,Customs Officer,Hải Phòng,105,7903.48,5.82,Fresher,14,"Route Optimization, Cold Chain",Medium,High,43.6,Growing
+2023-02-14,Logistics,Transportation Engineer,Đà Nẵng,109,8162.1,7.8,Fresher,13,"ERP Systems, Route Optimization, Cold Chain",High,High,66.4,Growing
+2023-02-16,Logistics,3PL Account Manager,Bình Dương,96,25968.27,6.36,Senior,16,"Last-Mile Logistics, Freight Forwarding, Excel, ERP Systems, Cold Chain",Medium,Medium,49.5,Growing
+2023-02-19,Logistics,Freight Broker,Đà Nẵng,110,4081.46,3.83,Fresher,12,"Power BI, SAP WMS, Freight Forwarding",High,High,47.4,Growing
+2023-02-20,Logistics,3PL Account Manager,Hà Nội,97,16134.69,4.94,Junior,17,"Excel, Python, Last-Mile Logistics",Medium,Low,51.6,Growing
+2023-02-22,Logistics,Procurement Specialist,Đà Nẵng,106,8619.87,9.82,Fresher,27,"Supply Chain Management, Last-Mile Logistics, Power BI, ERP Systems, Python",High,Low,38.8,Growing
+2023-02-24,Logistics,Last-Mile Delivery Specialist,Đồng Nai,115,14112.67,5.96,Junior,2,"Route Optimization, IoT Tracking, Negotiation, Power BI, Customs",Medium,Low,35.1,Stable
+2023-03-02,Logistics,3PL Account Manager,TP.HCM,128,13052.25,3.64,Junior,22,"SQL, SAP WMS, Last-Mile Logistics, ERP Systems, Cold Chain",Low,High,68.2,Stable
+2023-03-09,Logistics,Procurement Specialist,Hà Nội,95,27024.74,6.54,Senior,29,"Excel, ERP Systems, IoT Tracking, Last-Mile Logistics",Medium,High,54.8,Growing
+2023-03-11,Logistics,Procurement Specialist,Đồng Nai,122,16373.27,4.28,Junior,5,"Route Optimization, Last-Mile Logistics, Freight Forwarding, Power BI, SQL",Medium,Medium,57.0,Stable
+2023-03-12,Logistics,Supply Chain Analyst,Đà Nẵng,106,7804.85,3.98,Fresher,13,"Supply Chain Management, SAP WMS, Last-Mile Logistics",Medium,High,42.5,Stable
+2023-03-16,Logistics,Fleet Operations Manager,TP.HCM,102,6814.23,9.04,Fresher,25,"Power BI, Cold Chain, Python",Medium,High,42.5,Declining
+2023-03-16,Logistics,Logistics Coordinator,Hải Phòng,102,19209.99,4.37,Junior,1,"Power BI, Customs, Freight Forwarding, SAP WMS",Medium,Low,52.8,Growing
+2023-03-17,Logistics,Transportation Engineer,Đà Nẵng,135,25892.48,7.03,Senior,22,"Customs, Python",Low,High,42.1,Stable
+2023-03-19,Logistics,Fleet Operations Manager,Đồng Nai,114,12293.42,7.94,Junior,13,"Route Optimization, ERP Systems, Last-Mile Logistics, SAP WMS",Medium,Medium,69.7,Stable
+2023-03-21,Logistics,Freight Broker,Bình Dương,109,27754.67,3.07,Senior,7,"Supply Chain Management, IoT Tracking",Medium,High,47.8,Stable
+2023-03-22,Logistics,Transportation Engineer,Hải Phòng,105,26464.62,3.6,Senior,21,"Freight Forwarding, SQL, Negotiation",High,High,36.2,Growing
+2023-03-23,Logistics,Last-Mile Delivery Specialist,Hải Phòng,103,6844.81,4.91,Fresher,10,"Freight Forwarding, Customs, Power BI",Low,Medium,35.6,Stable
+2023-03-23,Logistics,Fleet Operations Manager,Đà Nẵng,115,8031.33,7.12,Fresher,5,"Cold Chain, SAP WMS, Excel, SQL",Low,Low,59.2,Stable
+2023-03-23,Logistics,Warehouse Manager,Đà Nẵng,105,7722.36,6.69,Fresher,17,"Customs, Supply Chain Management, Negotiation, SAP WMS",Medium,High,54.6,Growing
+2023-03-23,Logistics,Fleet Operations Manager,Hải Phòng,104,13218.62,4.96,Junior,19,"Route Optimization, SQL",Low,High,37.2,Stable
+2023-03-26,Logistics,Last-Mile Delivery Specialist,Hải Phòng,124,15896.55,4.15,Junior,9,"Freight Forwarding, Customs, Negotiation, SAP WMS, Last-Mile Logistics",High,Medium,55.9,Stable
+2023-03-27,Logistics,Cold Chain Manager,Bình Dương,105,12706.93,4.89,Junior,19,"Negotiation, Excel, SQL",Low,High,40.7,Growing
+2023-03-28,Logistics,Last-Mile Delivery Specialist,Đồng Nai,104,22171.74,2.26,Senior,3,"Negotiation, IoT Tracking, SAP WMS",High,High,55.9,Stable
+2023-03-29,Logistics,Customs Officer,Cần Thơ,105,8102.92,9.84,Fresher,20,"Negotiation, Power BI, IoT Tracking, Excel, ERP Systems",Low,Medium,46.1,Declining
+2023-04-01,Logistics,Supply Chain Analyst,Đà Nẵng,116,12706.15,9.57,Fresher,0,"Freight Forwarding, Last-Mile Logistics, Python",Low,High,38.6,Stable
+2023-04-02,Logistics,Transportation Engineer,TP.HCM,114,13642.45,6.62,Junior,9,"Supply Chain Management, Cold Chain",Low,High,37.4,Declining
+2023-04-03,Logistics,3PL Account Manager,Đà Nẵng,103,14335.28,6.27,Junior,16,"Power BI, Negotiation, Supply Chain Management",Medium,Medium,46.7,Declining
+2023-04-03,Logistics,Warehouse Manager,Đà Nẵng,107,8269.63,3.45,Fresher,23,"Customs, Power BI, IoT Tracking, Route Optimization",High,Medium,43.6,Stable
+2023-04-03,Logistics,Customs Officer,Cần Thơ,129,13369.28,4.0,Junior,3,"Freight Forwarding, Negotiation",Medium,High,56.3,Stable
+2023-04-05,Logistics,3PL Account Manager,Đà Nẵng,112,6772.84,7.87,Fresher,16,"IoT Tracking, Cold Chain, Freight Forwarding, Power BI, SQL",Medium,Medium,50.5,Declining
+2023-04-06,Logistics,Fleet Operations Manager,Bình Dương,125,24844.87,3.03,Senior,1,"Python, Excel",Medium,Low,39.1,Growing
+2023-04-08,Logistics,Customs Officer,Cần Thơ,113,22634.09,9.18,Senior,4,"ERP Systems, Customs, Python, Power BI, SAP WMS",Medium,Medium,60.6,Growing
+2023-04-10,Logistics,Warehouse Manager,Bình Dương,118,9629.25,3.99,Junior,7,"Cold Chain, Supply Chain Management",Low,Medium,50.0,Declining
+2023-04-12,Logistics,Freight Broker,Bình Dương,106,13166.96,2.83,Junior,15,"Python, Cold Chain",Low,High,35.9,Growing
+2023-04-15,Logistics,Supply Chain Analyst,Đồng Nai,120,27672.5,3.47,Senior,26,"Supply Chain Management, IoT Tracking, Cold Chain, Customs, Freight Forwarding",Medium,High,61.3,Stable
+2023-04-15,Logistics,Cold Chain Manager,Bình Dương,122,9901.06,3.56,Junior,4,"Freight Forwarding, ERP Systems, Excel, Customs",Medium,Medium,65.8,Stable
+2023-04-16,Logistics,Procurement Specialist,Hải Phòng,110,13086.58,5.94,Junior,7,"Supply Chain Management, Negotiation",Medium,Medium,61.6,Growing
+2023-04-16,Logistics,Procurement Specialist,Hà Nội,129,25855.8,2.33,Senior,13,"Excel, ERP Systems, SAP WMS, Route Optimization, Last-Mile Logistics",Medium,High,65.8,Declining
+2023-04-16,Logistics,Logistics Coordinator,TP.HCM,109,15037.46,3.92,Junior,27,"ERP Systems, Negotiation, Python",Low,Low,37.6,Growing
+2023-04-17,Logistics,Last-Mile Delivery Specialist,Cần Thơ,109,25763.25,9.52,Senior,9,"Route Optimization, Cold Chain, Python, Customs, Power BI",Low,High,47.3,Stable
+2023-04-18,Logistics,Procurement Specialist,Hà Nội,120,9906.49,6.15,Junior,3,"Route Optimization, Power BI, Supply Chain Management, Freight Forwarding",Medium,Low,46.6,Declining
+2023-04-19,Logistics,Warehouse Manager,Hải Phòng,117,14805.73,5.61,Junior,29,"ERP Systems, SQL, Negotiation",Medium,High,42.7,Stable
+2023-04-19,Logistics,Customs Officer,Đồng Nai,107,24602.45,4.89,Senior,17,"SQL, Python, Excel, Freight Forwarding",Low,High,48.7,Growing
+2023-04-20,Logistics,Fleet Operations Manager,TP.HCM,125,6566.2,3.19,Fresher,11,"Supply Chain Management, Customs",Medium,Low,69.2,Declining
+2023-04-21,Logistics,Supply Chain Analyst,Hải Phòng,108,11202.61,9.16,Junior,19,"Customs, Excel, Python, Power BI, IoT Tracking",Low,High,39.7,Growing
+2023-04-25,Logistics,3PL Account Manager,Cần Thơ,110,25713.47,4.43,Senior,30,"Last-Mile Logistics, Route Optimization, Negotiation",Medium,High,63.3,Growing
+2023-04-26,Logistics,Customs Officer,TP.HCM,115,26935.07,5.1,Senior,6,"Excel, Freight Forwarding, Route Optimization, SAP WMS",Low,Medium,39.1,Growing
+2023-04-28,Logistics,Logistics Coordinator,TP.HCM,139,27196.21,4.4,Senior,10,"SQL, Cold Chain, SAP WMS, Python",Medium,High,55.3,Stable
+2023-04-29,Logistics,Fleet Operations Manager,Đà Nẵng,129,29957.37,5.33,Senior,21,"Supply Chain Management, Route Optimization",Medium,Medium,44.6,Growing
+2023-05-01,Logistics,Logistics Coordinator,Cần Thơ,103,16207.42,9.46,Junior,12,"Customs, Supply Chain Management, Excel, ERP Systems",Low,High,57.1,Stable
+2023-05-02,Logistics,Cold Chain Manager,Cần Thơ,106,4998.23,6.44,Fresher,4,"Route Optimization, Last-Mile Logistics",Low,High,52.3,Stable
+2023-05-02,Logistics,Procurement Specialist,TP.HCM,119,27561.35,9.73,Senior,19,"SQL, Supply Chain Management, Negotiation",Low,Medium,51.5,Stable
+2023-05-03,Logistics,Procurement Specialist,Cần Thơ,103,10526.06,4.09,Fresher,27,"Last-Mile Logistics, Power BI, Excel",Medium,High,69.8,Growing
+2023-05-04,Logistics,Cold Chain Manager,Hải Phòng,110,23386.5,7.73,Senior,20,"SQL, Power BI",Medium,Low,42.7,Stable
+2023-05-05,Logistics,Logistics Coordinator,Cần Thơ,120,24815.25,8.63,Senior,19,"Python, SAP WMS, Route Optimization",High,Low,43.3,Growing
+2023-05-06,Logistics,Last-Mile Delivery Specialist,Hải Phòng,115,13753.45,8.34,Junior,23,"Route Optimization, Cold Chain",High,High,36.4,Growing
+2023-05-06,Logistics,3PL Account Manager,Đà Nẵng,111,6814.92,8.53,Fresher,8,"Excel, Supply Chain Management, Freight Forwarding, Last-Mile Logistics",Medium,Medium,36.8,Growing
+2023-05-13,Logistics,3PL Account Manager,TP.HCM,114,25659.74,5.55,Senior,7,"Supply Chain Management, Power BI",Low,High,37.9,Growing
+2023-05-13,Logistics,Fleet Operations Manager,Hà Nội,113,10085.42,4.44,Junior,1,"Supply Chain Management, ERP Systems",Low,High,68.0,Growing
+2023-05-19,Logistics,Transportation Engineer,TP.HCM,113,13203.24,2.57,Junior,1,"Power BI, Customs",Low,Medium,47.0,Declining
+2023-05-21,Logistics,Logistics Coordinator,TP.HCM,118,16311.79,2.48,Junior,4,"Freight Forwarding, Power BI, Last-Mile Logistics",Low,Low,60.5,Stable
+2023-05-22,Logistics,Freight Broker,Hải Phòng,103,26912.76,6.54,Senior,28,"SAP WMS, Excel, SQL, Supply Chain Management, Negotiation",Medium,Medium,58.4,Stable
+2023-05-25,Logistics,Fleet Operations Manager,Hải Phòng,98,22746.94,6.03,Senior,11,"Supply Chain Management, Excel, Python",Medium,High,62.0,Stable
+2023-05-27,Logistics,Freight Broker,Hà Nội,100,25369.55,6.44,Senior,22,"Power BI, SQL, Python, Supply Chain Management, Excel",Low,High,68.1,Stable
+2023-05-27,Logistics,Cold Chain Manager,Bình Dương,132,6742.21,7.1,Fresher,26,"IoT Tracking, Last-Mile Logistics, Excel, Supply Chain Management, SQL",Low,Medium,41.2,Stable
+2023-05-29,Logistics,Logistics Coordinator,Hải Phòng,138,14142.35,5.88,Junior,0,"Freight Forwarding, SAP WMS, SQL",Medium,High,61.3,Growing
+2023-05-29,Logistics,Customs Officer,Hà Nội,104,28880.92,4.61,Senior,18,"Cold Chain, IoT Tracking, Last-Mile Logistics",Low,Medium,56.1,Declining
+2023-05-31,Logistics,Cold Chain Manager,Bình Dương,130,26157.4,5.45,Senior,6,"Cold Chain, Route Optimization, SQL",Low,Medium,39.2,Stable
+2023-06-02,Logistics,Last-Mile Delivery Specialist,Hải Phòng,104,15337.22,4.83,Junior,15,"Route Optimization, Customs, Excel",High,High,69.5,Stable
+2023-06-04,Logistics,Supply Chain Analyst,Bình Dương,117,13317.97,2.47,Junior,4,"Customs, Last-Mile Logistics, Power BI",Medium,High,39.4,Declining
+2023-06-06,Logistics,Transportation Engineer,Cần Thơ,118,25505.87,3.92,Senior,0,"SQL, Customs, Freight Forwarding",Medium,High,58.3,Stable
+2023-06-06,Logistics,Logistics Coordinator,Hải Phòng,109,12816.02,3.45,Junior,11,"SQL, Last-Mile Logistics, Python, ERP Systems",High,High,69.1,Growing
+2023-06-07,Logistics,3PL Account Manager,Đồng Nai,101,22545.98,9.09,Senior,30,"Python, Excel, Negotiation",Medium,High,55.2,Growing
+2023-06-08,Logistics,Logistics Coordinator,Hải Phòng,128,14168.64,9.79,Junior,24,"Negotiation, Excel, SQL",Medium,Medium,60.0,Growing
+2023-06-09,Logistics,Customs Officer,Cần Thơ,118,25247.78,6.11,Senior,0,"Excel, Supply Chain Management, Last-Mile Logistics, SQL",Low,High,68.0,Growing
+2023-06-12,Logistics,Freight Broker,TP.HCM,114,4812.08,8.4,Fresher,29,"Freight Forwarding, SAP WMS, SQL",Medium,Medium,41.3,Stable
+2023-06-17,Logistics,Procurement Specialist,Đồng Nai,133,9891.49,3.26,Fresher,12,"Freight Forwarding, Customs, IoT Tracking, Excel, Power BI",Low,High,42.1,Declining
+2023-06-19,Logistics,3PL Account Manager,Cần Thơ,122,14724.71,5.98,Junior,13,"Cold Chain, Route Optimization",Medium,Low,63.6,Growing
+2023-06-21,Logistics,Transportation Engineer,Đà Nẵng,115,10079.72,3.65,Junior,22,"Route Optimization, IoT Tracking, Cold Chain, Last-Mile Logistics",Medium,Medium,52.6,Stable
+2023-06-22,Logistics,Logistics Coordinator,Hải Phòng,122,5679.57,4.95,Fresher,13,"Route Optimization, IoT Tracking, SAP WMS, SQL",Medium,Medium,45.3,Declining
+2023-06-22,Logistics,Supply Chain Analyst,Đà Nẵng,118,23043.02,9.54,Senior,23,"Route Optimization, Freight Forwarding, SQL, Negotiation, Customs",Medium,Medium,60.3,Stable
+2023-06-24,Logistics,Freight Broker,Hải Phòng,114,15800.6,2.63,Junior,14,"Freight Forwarding, Last-Mile Logistics, ERP Systems, SQL",Low,High,64.5,Growing
+2023-06-25,Logistics,Supply Chain Analyst,Cần Thơ,110,28012.17,4.68,Senior,15,"Supply Chain Management, SQL, Power BI, Python",Medium,High,52.9,Stable
+2023-06-28,Logistics,Freight Broker,Hà Nội,109,25556.13,7.9,Senior,29,"Negotiation, Python, Last-Mile Logistics",Medium,Medium,52.1,Growing
+2023-06-28,Logistics,Supply Chain Analyst,Đà Nẵng,109,6382.85,4.56,Fresher,0,"Negotiation, Python, SAP WMS",Medium,Medium,68.5,Growing
+2023-06-28,Logistics,Customs Officer,TP.HCM,122,11855.53,4.41,Junior,13,"Last-Mile Logistics, ERP Systems, Supply Chain Management, Freight Forwarding, SAP WMS",High,Medium,52.0,Growing
+2023-06-29,Logistics,Cold Chain Manager,Hà Nội,125,10132.87,4.6,Fresher,15,"Python, Negotiation, SAP WMS",High,Medium,50.3,Stable
+2023-07-01,Logistics,Fleet Operations Manager,Hải Phòng,104,25791.56,8.03,Senior,11,"Supply Chain Management, Customs, Negotiation, Python",Low,High,44.9,Declining
+2023-07-01,Logistics,Last-Mile Delivery Specialist,Cần Thơ,123,25752.8,7.75,Senior,12,"Negotiation, Last-Mile Logistics, Excel, Freight Forwarding",Low,High,37.5,Declining
+2023-07-06,Logistics,Customs Officer,TP.HCM,110,13794.12,9.56,Junior,3,"Excel, SQL, SAP WMS, Last-Mile Logistics, IoT Tracking",Low,High,52.7,Stable
+2023-07-07,Logistics,Supply Chain Analyst,Hải Phòng,145,27130.04,7.19,Senior,28,"Last-Mile Logistics, SQL, Power BI",Medium,Low,59.7,Declining
+2023-07-10,Logistics,Cold Chain Manager,Hải Phòng,122,14136.6,3.4,Junior,30,"Freight Forwarding, Power BI",Medium,High,40.8,Growing
+2023-07-10,Logistics,Transportation Engineer,Đồng Nai,111,28868.81,5.24,Senior,17,"Negotiation, Freight Forwarding, Route Optimization, Power BI",Medium,High,36.9,Stable
+2023-07-11,Logistics,Procurement Specialist,Bình Dương,116,12001.88,9.29,Junior,27,"Customs, Cold Chain",Medium,High,39.6,Growing
+2023-07-13,Logistics,Customs Officer,Bình Dương,123,4742.68,9.9,Fresher,30,"SAP WMS, Freight Forwarding, ERP Systems, Negotiation, Route Optimization",Medium,High,68.6,Stable
+2023-07-14,Logistics,Cold Chain Manager,Cần Thơ,129,5006.32,7.71,Fresher,22,"Negotiation, Route Optimization",Low,High,55.3,Growing
+2023-07-15,Logistics,Cold Chain Manager,TP.HCM,109,8246.72,8.39,Fresher,2,"SQL, IoT Tracking, Last-Mile Logistics, Freight Forwarding",Medium,Medium,36.2,Stable
+2023-07-16,Logistics,Customs Officer,TP.HCM,124,24915.52,3.81,Senior,25,"Last-Mile Logistics, Supply Chain Management, Freight Forwarding, Route Optimization, Python",High,High,51.8,Growing
+2023-07-18,Logistics,Customs Officer,Bình Dương,128,6537.5,8.27,Fresher,11,"Freight Forwarding, Power BI, SAP WMS, Cold Chain",Medium,High,49.8,Declining
+2023-07-19,Logistics,Logistics Coordinator,Đồng Nai,116,13981.46,9.67,Junior,21,"Route Optimization, Last-Mile Logistics, Excel",High,High,51.2,Stable
+2023-07-20,Logistics,Fleet Operations Manager,Đồng Nai,108,24853.34,5.71,Senior,21,"Last-Mile Logistics, Supply Chain Management, ERP Systems, Customs, SQL",Low,Medium,61.1,Growing
+2023-07-21,Logistics,Supply Chain Analyst,Bình Dương,114,14841.89,9.97,Junior,12,"Python, Excel, Supply Chain Management, IoT Tracking, Power BI",Low,Medium,54.8,Growing
+2023-07-22,Logistics,Logistics Coordinator,Hà Nội,124,15498.3,8.72,Junior,15,"Power BI, Freight Forwarding, Supply Chain Management, Negotiation, ERP Systems",Low,Low,52.0,Growing
+2023-07-26,Logistics,Cold Chain Manager,TP.HCM,117,23548.84,7.63,Senior,21,"Last-Mile Logistics, Python",Low,High,52.7,Growing
+2023-07-28,Logistics,Warehouse Manager,Bình Dương,113,15186.71,9.74,Junior,9,"SAP WMS, ERP Systems, Supply Chain Management",Medium,Medium,64.6,Growing
+2023-07-30,Logistics,Procurement Specialist,Hà Nội,108,25678.09,6.61,Senior,27,"ERP Systems, Excel, Cold Chain",Medium,High,38.9,Stable
+2023-08-04,Logistics,Logistics Coordinator,Hà Nội,121,26469.95,7.19,Senior,2,"Route Optimization, Power BI, Cold Chain, SAP WMS",Medium,High,42.9,Stable
+2023-08-10,Logistics,Logistics Coordinator,Cần Thơ,105,27233.64,6.85,Senior,9,"Supply Chain Management, Negotiation, Customs, SAP WMS, Excel",Low,High,44.0,Growing
+2023-08-12,Logistics,Procurement Specialist,Hải Phòng,131,14518.7,9.75,Junior,14,"Power BI, Cold Chain, Freight Forwarding",High,Medium,40.1,Stable
+2023-08-15,Logistics,3PL Account Manager,Hà Nội,120,16720.85,3.85,Junior,14,"Excel, Negotiation",Medium,Medium,42.6,Growing
+2023-08-15,Logistics,3PL Account Manager,Hải Phòng,128,15723.23,4.12,Junior,25,"SQL, Customs, Python, Excel",High,Medium,47.4,Declining
+2023-08-17,Logistics,Procurement Specialist,Hà Nội,111,25054.83,8.87,Senior,2,"SAP WMS, SQL, Python",Low,High,38.3,Stable
+2023-08-19,Logistics,Customs Officer,Hải Phòng,133,26400.18,2.65,Senior,20,"Power BI, Negotiation",Medium,Low,48.7,Growing
+2023-08-20,Logistics,Cold Chain Manager,Đà Nẵng,112,11171.67,3.14,Junior,4,"Python, Cold Chain, SAP WMS, Last-Mile Logistics",Medium,High,50.1,Growing
+2023-08-20,Logistics,Freight Broker,Đồng Nai,123,14349.41,3.4,Junior,1,"SQL, ERP Systems, Excel",Medium,High,62.4,Stable
+2023-08-22,Logistics,Transportation Engineer,Hà Nội,127,12897.94,6.1,Junior,11,"ERP Systems, Power BI, Python",Low,Medium,41.6,Growing
+2023-08-26,Logistics,Logistics Coordinator,Cần Thơ,131,24678.58,4.38,Senior,29,"Last-Mile Logistics, Customs, Python",High,High,48.4,Growing
+2023-08-27,Logistics,3PL Account Manager,Đồng Nai,111,32960.2,7.54,Senior,4,"Route Optimization, Cold Chain, Negotiation",Low,High,36.5,Declining
+2023-08-29,Logistics,Freight Broker,Hải Phòng,122,15463.61,3.09,Junior,8,"Last-Mile Logistics, Freight Forwarding, Power BI",Low,Medium,59.0,Stable
+2023-08-30,Logistics,Fleet Operations Manager,Đồng Nai,132,13646.05,3.89,Junior,7,"Route Optimization, SAP WMS, SQL, Cold Chain",Medium,Low,52.2,Stable
+2023-08-31,Logistics,Fleet Operations Manager,Đà Nẵng,101,8311.28,2.12,Fresher,10,"Cold Chain, Negotiation, ERP Systems, Last-Mile Logistics, Supply Chain Management",High,High,51.4,Growing
+2023-08-31,Logistics,3PL Account Manager,TP.HCM,130,23775.97,7.73,Senior,28,"IoT Tracking, Python",Low,Medium,35.7,Stable
+2023-09-02,Logistics,Fleet Operations Manager,TP.HCM,131,5517.23,7.73,Fresher,20,"Python, Negotiation, IoT Tracking, Power BI",Medium,Medium,56.9,Growing
+2023-09-02,Logistics,Transportation Engineer,Cần Thơ,132,5820.23,8.28,Fresher,25,"SAP WMS, Cold Chain, Excel, Power BI, IoT Tracking",High,High,57.9,Stable
+2023-09-04,Logistics,Transportation Engineer,TP.HCM,117,13115.38,2.09,Junior,2,"Last-Mile Logistics, IoT Tracking, Customs",Medium,High,43.3,Growing
+2023-09-04,Logistics,3PL Account Manager,Cần Thơ,135,24008.79,9.71,Senior,27,"Customs, Python",Low,High,39.1,Stable
+2023-09-04,Logistics,Supply Chain Analyst,Đồng Nai,104,12224.23,3.08,Junior,7,"ERP Systems, Route Optimization, Customs",Low,Medium,39.4,Growing
+2023-09-05,Logistics,Warehouse Manager,Hà Nội,107,8758.4,8.08,Fresher,28,"Route Optimization, Freight Forwarding, Power BI, Supply Chain Management",Low,Low,35.9,Growing
+2023-09-06,Logistics,Procurement Specialist,Bình Dương,113,7555.79,5.08,Fresher,19,"Last-Mile Logistics, SQL, Excel",Medium,Low,67.6,Growing
+2023-09-06,Logistics,Supply Chain Analyst,Đồng Nai,118,10242.55,8.45,Fresher,19,"ERP Systems, Excel, Last-Mile Logistics, Route Optimization, SAP WMS",High,Low,37.4,Declining
+2023-09-06,Logistics,Supply Chain Analyst,Bình Dương,129,24517.06,7.68,Senior,8,"Cold Chain, ERP Systems",Medium,Low,60.3,Stable
+2023-09-07,Logistics,3PL Account Manager,Đồng Nai,122,10965.32,9.68,Junior,11,"Power BI, Last-Mile Logistics, Cold Chain, ERP Systems, Python",Medium,Medium,68.6,Declining
+2023-09-08,Logistics,Supply Chain Analyst,Cần Thơ,127,14099.59,10.0,Junior,2,"Last-Mile Logistics, Supply Chain Management",Medium,Medium,36.4,Stable
+2023-09-12,Logistics,Supply Chain Analyst,TP.HCM,122,16297.11,4.23,Junior,23,"Supply Chain Management, Route Optimization, SQL, Excel",High,High,60.0,Growing
+2023-09-14,Logistics,Warehouse Manager,Đà Nẵng,122,8934.24,7.61,Fresher,5,"Power BI, Cold Chain, Route Optimization, SAP WMS, Last-Mile Logistics",Medium,High,69.7,Stable
+2023-09-23,Logistics,Cold Chain Manager,Cần Thơ,125,9076.2,6.26,Fresher,14,"Route Optimization, Freight Forwarding, SQL, Last-Mile Logistics, IoT Tracking",Medium,High,68.3,Growing
+2023-09-24,Logistics,Logistics Coordinator,Bình Dương,115,26847.36,9.71,Senior,1,"Freight Forwarding, Route Optimization, Supply Chain Management",Medium,High,51.3,Stable
+2023-09-26,Logistics,Last-Mile Delivery Specialist,Bình Dương,142,13937.5,2.82,Junior,14,"IoT Tracking, Excel",Medium,High,40.1,Stable
+2023-09-26,Logistics,Freight Broker,Bình Dương,125,24092.8,9.72,Senior,25,"Python, SAP WMS, SQL",Low,High,46.5,Stable
+2023-09-29,Logistics,Procurement Specialist,Bình Dương,126,23746.44,6.8,Senior,14,"Power BI, Customs, Last-Mile Logistics, Cold Chain, Supply Chain Management",Medium,High,46.7,Growing
+2023-09-29,Logistics,Fleet Operations Manager,Hà Nội,116,4266.29,8.79,Fresher,19,"Last-Mile Logistics, Cold Chain, Excel, SQL",Low,High,46.2,Stable
+2023-10-01,Logistics,Transportation Engineer,Bình Dương,109,13603.54,9.38,Junior,7,"Last-Mile Logistics, Route Optimization",Medium,Medium,54.5,Declining
+2023-10-04,Logistics,Supply Chain Analyst,Bình Dương,131,30862.61,7.35,Senior,27,"Last-Mile Logistics, Customs, ERP Systems, SAP WMS",Low,High,41.2,Growing
+2023-10-06,Logistics,Fleet Operations Manager,Đồng Nai,136,7726.12,4.8,Fresher,3,"SAP WMS, Power BI, IoT Tracking, Customs, Last-Mile Logistics",Medium,High,61.7,Stable
+2023-10-07,Logistics,Logistics Coordinator,Bình Dương,123,28202.82,4.19,Senior,8,"Supply Chain Management, Freight Forwarding, Cold Chain, Customs, Excel",Low,Medium,67.3,Stable
+2023-10-08,Logistics,Supply Chain Analyst,Bình Dương,136,8442.94,6.25,Fresher,26,"Supply Chain Management, Power BI, SQL, Customs, Cold Chain",Low,High,63.7,Growing
+2023-10-08,Logistics,Logistics Coordinator,Hải Phòng,148,12045.29,5.32,Junior,8,"Python, Cold Chain, Last-Mile Logistics, SQL, ERP Systems",High,Low,38.7,Growing
+2023-10-10,Logistics,Freight Broker,Đồng Nai,127,27562.91,4.18,Senior,2,"Python, Customs",Medium,High,40.3,Stable
+2023-10-14,Logistics,Transportation Engineer,Bình Dương,131,26086.32,9.58,Senior,21,"Python, SAP WMS",Low,Medium,69.9,Declining
+2023-10-15,Logistics,Procurement Specialist,Đồng Nai,114,8477.88,4.12,Fresher,10,"Supply Chain Management, Freight Forwarding, Python, SQL, ERP Systems",High,Low,58.8,Growing
+2023-10-15,Logistics,Customs Officer,TP.HCM,123,27493.33,4.23,Senior,21,"ERP Systems, Last-Mile Logistics, Route Optimization",Medium,Low,51.4,Growing
+2023-10-17,Logistics,Last-Mile Delivery Specialist,TP.HCM,124,27318.4,6.09,Senior,9,"Python, Power BI, Last-Mile Logistics, SQL, Supply Chain Management",Medium,Medium,41.8,Stable
+2023-10-19,Logistics,Last-Mile Delivery Specialist,Cần Thơ,128,8418.07,2.76,Fresher,19,"Customs, Freight Forwarding",Low,Medium,47.3,Stable
+2023-10-20,Logistics,Freight Broker,TP.HCM,127,4723.11,2.63,Fresher,21,"Freight Forwarding, Excel, Cold Chain, Last-Mile Logistics, Supply Chain Management",Medium,High,64.8,Growing
+2023-10-21,Logistics,Customs Officer,Đồng Nai,117,23288.08,3.31,Senior,20,"IoT Tracking, Route Optimization",Low,Medium,62.6,Declining
+2023-10-21,Logistics,Fleet Operations Manager,Hải Phòng,101,13764.39,7.48,Junior,5,"ERP Systems, Supply Chain Management, SAP WMS",Medium,Medium,46.5,Growing
+2023-10-22,Logistics,Supply Chain Analyst,TP.HCM,130,26877.43,9.75,Senior,26,"ERP Systems, Negotiation, Cold Chain, Excel",High,High,66.2,Growing
+2023-10-23,Logistics,Fleet Operations Manager,Bình Dương,119,8838.71,6.14,Fresher,5,"Supply Chain Management, Last-Mile Logistics",Low,Low,43.2,Declining
+2023-10-25,Logistics,Transportation Engineer,Đà Nẵng,135,22942.48,7.79,Senior,26,"SAP WMS, Power BI, Freight Forwarding, IoT Tracking",Low,High,62.0,Stable
+2023-10-28,Logistics,Procurement Specialist,Bình Dương,114,6502.96,4.41,Fresher,4,"SAP WMS, Negotiation, Python, IoT Tracking",Medium,Low,55.1,Growing
+2023-11-02,Logistics,Warehouse Manager,Hải Phòng,133,30862.39,5.51,Senior,6,"Excel, Negotiation, Cold Chain, SAP WMS, Python",Low,Medium,61.5,Growing
+2023-11-02,Logistics,Last-Mile Delivery Specialist,TP.HCM,114,26852.63,3.35,Senior,3,"Freight Forwarding, Cold Chain, SAP WMS, Supply Chain Management, Last-Mile Logistics",Medium,Medium,45.2,Declining
+2023-11-03,Logistics,Supply Chain Analyst,Hà Nội,123,4048.87,3.17,Fresher,11,"Freight Forwarding, IoT Tracking",Medium,Medium,40.1,Stable
+2023-11-03,Logistics,Freight Broker,Hà Nội,130,4498.89,4.76,Fresher,1,"SAP WMS, Last-Mile Logistics, SQL, IoT Tracking",Low,Low,53.0,Stable
+2023-11-04,Logistics,Supply Chain Analyst,Hải Phòng,128,6163.15,5.77,Fresher,11,"Power BI, Freight Forwarding, SQL, SAP WMS, Route Optimization",High,Low,45.8,Stable
+2023-11-05,Logistics,Last-Mile Delivery Specialist,Hải Phòng,123,3113.03,6.7,Fresher,10,"Cold Chain, Power BI, Freight Forwarding, SAP WMS",Medium,High,40.0,Stable
+2023-11-09,Logistics,Procurement Specialist,TP.HCM,120,26298.92,4.25,Senior,25,"Excel, Freight Forwarding, Last-Mile Logistics",Low,Low,35.9,Declining
+2023-11-15,Logistics,Cold Chain Manager,Hà Nội,114,6570.3,6.64,Fresher,14,"Supply Chain Management, SAP WMS",High,High,50.4,Growing
+2023-11-15,Logistics,Cold Chain Manager,Đồng Nai,137,12743.22,6.14,Junior,0,"Power BI, Freight Forwarding, Customs",Medium,Medium,47.4,Growing
+2023-11-19,Logistics,3PL Account Manager,Hải Phòng,123,8415.23,5.99,Fresher,27,"Power BI, Negotiation, Python, Cold Chain, IoT Tracking",High,Low,41.6,Declining
+2023-11-22,Logistics,Last-Mile Delivery Specialist,Hà Nội,119,26215.92,5.56,Senior,9,"Negotiation, Customs, Last-Mile Logistics, Freight Forwarding",Medium,Low,63.6,Growing
+2023-11-26,Logistics,Supply Chain Analyst,TP.HCM,118,27378.22,8.41,Senior,9,"Route Optimization, Python, Excel",Low,High,65.5,Declining
+2023-11-29,Logistics,Customs Officer,Cần Thơ,118,28053.64,7.05,Senior,1,"Negotiation, Cold Chain, Supply Chain Management",High,High,63.5,Declining
+2023-12-01,Logistics,Transportation Engineer,TP.HCM,128,9333.73,4.27,Fresher,10,"Route Optimization, Cold Chain",Medium,High,57.2,Growing
+2023-12-01,Logistics,Procurement Specialist,Bình Dương,130,13151.96,9.17,Junior,30,"ERP Systems, Route Optimization, Last-Mile Logistics, Power BI",Low,High,47.6,Stable
+2023-12-03,Logistics,Procurement Specialist,Đồng Nai,135,12501.98,4.85,Junior,17,"Power BI, Supply Chain Management",Medium,Medium,53.2,Growing
+2023-12-04,Logistics,Logistics Coordinator,Hà Nội,138,13624.99,2.27,Junior,16,"IoT Tracking, Power BI, Excel",Medium,High,37.4,Growing
+2023-12-06,Logistics,Supply Chain Analyst,Cần Thơ,122,11465.85,4.76,Junior,28,"Excel, SAP WMS",Medium,Medium,66.4,Stable
+2023-12-07,Logistics,Supply Chain Analyst,Cần Thơ,134,4659.13,5.64,Fresher,25,"Customs, Cold Chain",Low,High,43.4,Stable
+2023-12-07,Logistics,Transportation Engineer,Hà Nội,107,26310.7,7.54,Senior,20,"SQL, Route Optimization, Customs, Negotiation",Low,High,59.5,Stable
+2023-12-09,Logistics,Freight Broker,Đồng Nai,126,13188.09,3.17,Junior,0,"SAP WMS, Excel",Medium,High,51.2,Declining
+2023-12-10,Logistics,Transportation Engineer,TP.HCM,122,15845.89,3.83,Junior,30,"Excel, Python, ERP Systems",Medium,High,67.7,Stable
+2023-12-11,Logistics,Freight Broker,Đồng Nai,132,12842.99,8.65,Junior,12,"Power BI, Negotiation",Low,Low,55.7,Growing
+2023-12-11,Logistics,Warehouse Manager,Đà Nẵng,125,18395.24,7.28,Junior,7,"Customs, Negotiation, Power BI, SQL, Excel",Medium,Medium,67.5,Growing
+2023-12-11,Logistics,Procurement Specialist,TP.HCM,111,30619.56,9.52,Senior,1,"IoT Tracking, Supply Chain Management, Negotiation, Last-Mile Logistics, Power BI",Low,High,52.6,Declining
+2023-12-11,Logistics,Customs Officer,Hà Nội,127,15396.83,9.48,Junior,11,"Python, Cold Chain, SQL, Power BI",Medium,High,38.5,Declining
+2023-12-15,Logistics,Procurement Specialist,Bình Dương,122,7600.06,9.61,Fresher,14,"Negotiation, Power BI, Route Optimization, Python, Freight Forwarding",Low,Medium,38.5,Declining
+2023-12-16,Logistics,Supply Chain Analyst,Hà Nội,129,28218.98,5.02,Senior,9,"Python, Freight Forwarding, Negotiation, Last-Mile Logistics",Medium,High,44.2,Stable
+2023-12-18,Logistics,Warehouse Manager,Đà Nẵng,126,23271.55,8.94,Senior,2,"Cold Chain, Customs",Medium,Medium,68.7,Growing
+2023-12-18,Logistics,Logistics Coordinator,TP.HCM,135,9611.52,3.9,Fresher,5,"Route Optimization, Last-Mile Logistics, SQL, Supply Chain Management",Low,Medium,36.6,Stable
+2023-12-19,Logistics,Logistics Coordinator,Đà Nẵng,146,7861.18,6.34,Fresher,19,"Cold Chain, Freight Forwarding, Negotiation",Low,Low,43.2,Growing
+2023-12-20,Logistics,Customs Officer,Cần Thơ,131,9194.46,2.09,Fresher,19,"Customs, Power BI, SQL",High,Medium,42.8,Growing
+2023-12-22,Logistics,Warehouse Manager,Đồng Nai,133,6766.32,8.44,Fresher,30,"Python, ERP Systems, Excel",High,Low,42.5,Stable
+2023-12-25,Logistics,Freight Broker,TP.HCM,121,14326.89,6.91,Junior,27,"Freight Forwarding, SQL, Supply Chain Management, Customs, SAP WMS",Medium,High,65.9,Stable
+2023-12-31,Logistics,Cold Chain Manager,TP.HCM,125,15014.19,8.11,Junior,0,"Last-Mile Logistics, Freight Forwarding",Low,High,47.2,Stable
+2024-01-03,Logistics,Warehouse Manager,Đà Nẵng,129,8544.04,3.19,Fresher,10,"IoT Tracking, SAP WMS, Negotiation, Supply Chain Management",Medium,High,67.7,Growing
+2024-01-03,Logistics,Warehouse Manager,Hải Phòng,116,7825.49,4.79,Fresher,20,"SAP WMS, Power BI, Cold Chain, IoT Tracking, ERP Systems",Low,Medium,35.5,Stable
+2024-01-04,Logistics,3PL Account Manager,Cần Thơ,128,12631.3,7.33,Junior,15,"Python, Freight Forwarding",High,High,35.3,Declining
+2024-01-07,Logistics,Freight Broker,Đồng Nai,128,16892.88,9.68,Junior,8,"SAP WMS, Supply Chain Management, Power BI",Medium,High,37.2,Growing
+2024-01-07,Logistics,Customs Officer,Bình Dương,153,24003.44,9.15,Senior,20,"ERP Systems, Freight Forwarding, Cold Chain, Excel",Medium,High,37.1,Growing
+2024-01-08,Logistics,Transportation Engineer,Hà Nội,132,8089.65,8.25,Fresher,4,"Excel, Route Optimization, IoT Tracking",Low,Medium,67.0,Stable
+2024-01-09,Logistics,Cold Chain Manager,TP.HCM,126,30188.94,2.98,Senior,24,"Cold Chain, ERP Systems, Customs, Last-Mile Logistics",Low,High,60.4,Declining
+2024-01-09,Logistics,Logistics Coordinator,Đà Nẵng,131,14410.23,8.82,Junior,11,"ERP Systems, Negotiation, Cold Chain, IoT Tracking",Medium,Medium,61.3,Growing
+2024-01-10,Logistics,Supply Chain Analyst,TP.HCM,135,28723.14,9.78,Senior,3,"Supply Chain Management, Power BI, Excel, Customs, SAP WMS",Medium,High,39.9,Growing
+2024-01-10,Logistics,Cold Chain Manager,Hải Phòng,142,6961.78,9.38,Fresher,17,"IoT Tracking, Power BI",High,Low,57.2,Stable
+2024-01-12,Logistics,Fleet Operations Manager,Bình Dương,136,9003.57,3.14,Fresher,1,"ERP Systems, Freight Forwarding, Customs, Last-Mile Logistics",Low,High,58.9,Stable
+2024-01-13,Logistics,Fleet Operations Manager,Bình Dương,133,4220.15,3.9,Fresher,13,"SQL, Power BI, Freight Forwarding, Cold Chain, Route Optimization",Medium,Medium,45.2,Stable
+2024-01-17,Logistics,Cold Chain Manager,Hà Nội,152,6805.97,9.63,Fresher,24,"Supply Chain Management, Cold Chain",High,High,46.4,Growing
+2024-01-17,Logistics,Procurement Specialist,Đồng Nai,135,7739.45,3.21,Fresher,30,"Excel, Customs",Medium,Low,48.6,Stable
+2024-01-21,Logistics,Freight Broker,Đà Nẵng,115,29056.63,2.74,Senior,5,"Negotiation, Route Optimization, Supply Chain Management",Medium,High,53.0,Growing
+2024-01-23,Logistics,Last-Mile Delivery Specialist,Đà Nẵng,125,14434.27,9.42,Junior,10,"Power BI, IoT Tracking",Medium,High,40.4,Stable
+2024-01-26,Logistics,Customs Officer,Bình Dương,145,7126.74,7.72,Fresher,19,"Last-Mile Logistics, SAP WMS, SQL, Supply Chain Management, IoT Tracking",High,High,54.6,Stable
+2024-01-27,Logistics,Warehouse Manager,Cần Thơ,133,8361.05,3.38,Fresher,7,"Last-Mile Logistics, Cold Chain",High,Medium,56.5,Growing
+2024-01-30,Logistics,Cold Chain Manager,Đà Nẵng,127,27341.26,8.93,Senior,10,"IoT Tracking, Customs, Last-Mile Logistics, Supply Chain Management, Negotiation",Medium,Medium,69.0,Stable
+2024-01-30,Logistics,Logistics Coordinator,Đồng Nai,135,2996.0,4.16,Fresher,15,"Excel, Route Optimization, SQL, Python",Low,Medium,55.5,Growing
+2024-02-01,Logistics,Customs Officer,Đồng Nai,130,13154.61,3.34,Junior,3,"SAP WMS, Freight Forwarding, Customs, Power BI",Low,Low,57.1,Growing
+2024-02-03,Logistics,Cold Chain Manager,Cần Thơ,148,7318.18,3.74,Fresher,11,"Freight Forwarding, Route Optimization, Power BI, Cold Chain",Medium,Medium,44.7,Growing
+2024-02-09,Logistics,Supply Chain Analyst,Hải Phòng,127,13511.63,4.29,Junior,19,"SAP WMS, Freight Forwarding, Power BI",Medium,Medium,43.4,Stable
+2024-02-11,Logistics,3PL Account Manager,Đà Nẵng,122,9504.96,3.97,Fresher,29,"ERP Systems, Power BI, SQL",Low,Medium,43.9,Growing
+2024-02-13,Logistics,Logistics Coordinator,Bình Dương,149,16328.52,2.97,Junior,20,"Supply Chain Management, Power BI, Excel",High,Medium,59.6,Stable
+2024-02-13,Logistics,Supply Chain Analyst,TP.HCM,137,9281.2,8.48,Fresher,9,"Cold Chain, Power BI, Python",Medium,Low,67.5,Stable
+2024-02-13,Logistics,Cold Chain Manager,Hà Nội,138,6444.28,7.25,Fresher,27,"IoT Tracking, Negotiation, Power BI, Freight Forwarding",High,High,40.7,Declining
+2024-02-14,Logistics,Freight Broker,Hải Phòng,123,9633.16,6.87,Fresher,18,"Route Optimization, Excel",Medium,High,59.1,Stable
+2024-02-14,Logistics,Last-Mile Delivery Specialist,Hải Phòng,142,28117.52,6.77,Senior,1,"Route Optimization, SQL",Medium,Medium,39.9,Growing
+2024-02-14,Logistics,Cold Chain Manager,TP.HCM,140,26986.56,4.55,Senior,24,"SQL, Excel, ERP Systems, Power BI",Low,High,65.4,Stable
+2024-02-15,Logistics,Warehouse Manager,Bình Dương,134,11953.7,8.33,Fresher,14,"Last-Mile Logistics, Negotiation, SQL, Python, Supply Chain Management",Low,Low,57.8,Stable
+2024-02-15,Logistics,Supply Chain Analyst,Đà Nẵng,125,27003.19,8.57,Senior,29,"Cold Chain, SQL, Freight Forwarding, Negotiation",High,Low,57.5,Growing
+2024-02-17,Logistics,Logistics Coordinator,Bình Dương,143,13544.01,5.07,Junior,12,"Cold Chain, SQL",Medium,High,44.9,Stable
+2024-02-23,Logistics,Transportation Engineer,Hải Phòng,121,15495.57,7.23,Junior,19,"Customs, Negotiation, Supply Chain Management, Last-Mile Logistics",Medium,Medium,39.8,Stable
+2024-02-26,Logistics,Last-Mile Delivery Specialist,TP.HCM,118,6133.49,5.01,Fresher,30,"IoT Tracking, Excel",Medium,High,53.3,Declining
+2024-02-26,Logistics,Fleet Operations Manager,Đà Nẵng,137,7543.45,4.51,Fresher,4,"Power BI, Last-Mile Logistics, Route Optimization, Excel",Low,Medium,64.7,Declining
+2024-02-28,Logistics,Transportation Engineer,Đồng Nai,126,12905.28,4.1,Junior,18,"Negotiation, ERP Systems, IoT Tracking",Medium,Medium,64.5,Growing
+2024-02-28,Logistics,Cold Chain Manager,TP.HCM,145,28930.67,7.75,Senior,12,"Customs, Power BI, Negotiation",Medium,Medium,55.2,Stable
+2024-03-05,Logistics,Warehouse Manager,Đồng Nai,146,10784.58,9.95,Fresher,27,"SAP WMS, Supply Chain Management",Medium,High,46.0,Stable
+2024-03-10,Logistics,3PL Account Manager,Đà Nẵng,142,29122.17,4.08,Senior,27,"Route Optimization, Negotiation, Excel",Medium,High,65.6,Declining
+2024-03-11,Logistics,Cold Chain Manager,TP.HCM,137,26283.11,9.82,Senior,13,"Excel, Customs",Medium,High,37.6,Growing
+2024-03-11,Logistics,Freight Broker,Cần Thơ,152,6879.41,3.44,Fresher,20,"Customs, Negotiation, IoT Tracking, Last-Mile Logistics, Supply Chain Management",High,Medium,53.7,Stable
+2024-03-12,Logistics,Fleet Operations Manager,Cần Thơ,137,4223.63,7.59,Fresher,14,"Cold Chain, Excel, Python, Route Optimization, Last-Mile Logistics",High,Medium,44.8,Declining
+2024-03-16,Logistics,Fleet Operations Manager,Hà Nội,128,8717.22,8.67,Fresher,22,"ERP Systems, IoT Tracking, Negotiation",Medium,Low,62.5,Growing
+2024-03-16,Logistics,Cold Chain Manager,Đồng Nai,144,25650.75,5.42,Senior,25,"Cold Chain, Last-Mile Logistics, ERP Systems",Medium,Medium,60.2,Stable
+2024-03-18,Logistics,Procurement Specialist,TP.HCM,143,29073.09,9.1,Senior,26,"ERP Systems, Route Optimization, Freight Forwarding",Medium,Medium,47.4,Declining
+2024-03-20,Logistics,3PL Account Manager,Hải Phòng,143,15788.03,6.67,Junior,29,"Excel, SAP WMS, Freight Forwarding, Python, IoT Tracking",Medium,Low,67.9,Growing
+2024-03-25,Logistics,Cold Chain Manager,Cần Thơ,138,18508.26,4.38,Junior,1,"Customs, Freight Forwarding, Cold Chain, SQL, Supply Chain Management",Medium,Low,69.6,Declining
+2024-03-26,Logistics,Supply Chain Analyst,Đồng Nai,126,30591.71,4.41,Senior,2,"Python, Excel",Low,Medium,38.8,Growing
+2024-03-28,Logistics,Procurement Specialist,Bình Dương,129,3012.24,8.44,Fresher,17,"Last-Mile Logistics, Cold Chain",Medium,High,66.0,Growing
+2024-03-29,Logistics,Supply Chain Analyst,Đồng Nai,131,4667.05,9.06,Fresher,19,"Cold Chain, Excel, Freight Forwarding, Negotiation, SQL",Medium,High,41.0,Growing
+2024-03-31,Logistics,Cold Chain Manager,Hải Phòng,139,16318.36,2.62,Junior,6,"Supply Chain Management, Last-Mile Logistics, Route Optimization, Customs, Excel",Low,Medium,59.3,Stable
+2024-03-31,Logistics,3PL Account Manager,Cần Thơ,147,5655.04,9.69,Fresher,17,"ERP Systems, Last-Mile Logistics",Low,High,67.6,Growing
+2024-04-01,Logistics,3PL Account Manager,Đà Nẵng,127,14668.23,7.52,Junior,28,"ERP Systems, Freight Forwarding",Low,Medium,50.7,Stable
+2024-04-02,Logistics,Procurement Specialist,Đồng Nai,141,26460.48,6.12,Senior,15,"Customs, Power BI",Low,Low,53.9,Stable
+2024-04-03,Logistics,Customs Officer,Bình Dương,143,26050.97,5.97,Senior,7,"ERP Systems, Python",Low,Medium,64.2,Growing
+2024-04-05,Logistics,3PL Account Manager,TP.HCM,132,28802.72,9.01,Senior,12,"Supply Chain Management, Python, Last-Mile Logistics, Excel",High,Medium,46.3,Growing
+2024-04-10,Logistics,Transportation Engineer,Đà Nẵng,128,8525.12,8.94,Fresher,25,"Supply Chain Management, Power BI, Negotiation, Last-Mile Logistics",Medium,Low,52.2,Growing
+2024-04-11,Logistics,Logistics Coordinator,Cần Thơ,134,11525.55,5.99,Junior,10,"Negotiation, Python, SQL",Low,Medium,40.8,Growing
+2024-04-12,Logistics,Customs Officer,Hải Phòng,143,28604.44,3.05,Senior,13,"Negotiation, Last-Mile Logistics, Excel",Medium,Medium,65.2,Growing
+2024-04-13,Logistics,Transportation Engineer,Bình Dương,133,5258.82,4.36,Fresher,1,"SAP WMS, Power BI, SQL",Low,Medium,38.3,Stable
+2024-04-16,Logistics,Warehouse Manager,TP.HCM,154,14945.33,6.22,Junior,0,"Customs, Route Optimization, SQL",Medium,Medium,42.2,Growing
+2024-04-16,Logistics,Customs Officer,Đồng Nai,151,8268.97,2.03,Fresher,29,"IoT Tracking, Power BI",Low,High,45.9,Stable
+2024-04-16,Logistics,Logistics Coordinator,Đồng Nai,128,6840.35,4.36,Fresher,2,"Excel, Cold Chain, SAP WMS, Supply Chain Management, SQL",High,Medium,36.1,Growing
+2024-04-16,Logistics,Cold Chain Manager,Hà Nội,128,27818.84,6.06,Senior,11,"SAP WMS, ERP Systems, SQL",Medium,High,42.6,Growing
+2024-04-20,Logistics,Last-Mile Delivery Specialist,Hải Phòng,131,10776.14,5.38,Fresher,8,"Cold Chain, Excel",High,Low,53.5,Growing
+2024-04-20,Logistics,Transportation Engineer,TP.HCM,130,10202.98,8.83,Fresher,11,"Negotiation, IoT Tracking",High,High,58.2,Growing
+2024-04-21,Logistics,3PL Account Manager,Đồng Nai,139,27329.78,4.5,Senior,9,"Power BI, Excel",High,Medium,37.8,Growing
+2024-04-21,Logistics,Freight Broker,Hải Phòng,134,11883.65,9.21,Junior,24,"SQL, Customs",High,High,54.3,Stable
+2024-04-23,Logistics,Supply Chain Analyst,Hà Nội,126,8994.09,9.08,Fresher,18,"IoT Tracking, SQL, Customs",High,Medium,51.7,Growing
+2024-04-24,Logistics,Last-Mile Delivery Specialist,Hải Phòng,136,17606.48,4.45,Junior,14,"Excel, Route Optimization, Freight Forwarding, IoT Tracking",High,High,57.0,Growing
+2024-04-26,Logistics,Warehouse Manager,Đà Nẵng,129,8742.19,6.03,Fresher,21,"Freight Forwarding, ERP Systems, Last-Mile Logistics",Medium,Medium,51.2,Declining
+2024-04-26,Logistics,Supply Chain Analyst,TP.HCM,131,7173.13,6.83,Fresher,16,"Negotiation, Customs, Python, Last-Mile Logistics",Medium,Medium,52.6,Declining
+2024-04-27,Logistics,Procurement Specialist,Đà Nẵng,125,11162.5,6.09,Junior,16,"Freight Forwarding, Supply Chain Management",Medium,High,62.1,Growing
+2024-04-28,Logistics,Fleet Operations Manager,Cần Thơ,133,7542.97,3.91,Fresher,30,"SQL, SAP WMS, Freight Forwarding, IoT Tracking",Medium,High,46.2,Growing
+2024-04-30,Logistics,3PL Account Manager,TP.HCM,149,8213.1,4.23,Fresher,3,"Negotiation, IoT Tracking, Freight Forwarding",Medium,High,39.8,Growing
+2024-04-30,Logistics,Supply Chain Analyst,Hà Nội,140,30491.62,5.39,Senior,12,"Freight Forwarding, Negotiation, Power BI",Medium,Low,49.6,Stable
+2024-05-01,Logistics,Supply Chain Analyst,Bình Dương,141,9495.0,2.39,Fresher,19,"Power BI, Negotiation, Freight Forwarding",Medium,Low,54.5,Declining
+2024-05-02,Logistics,3PL Account Manager,Hà Nội,151,13175.68,7.49,Junior,18,"Cold Chain, Supply Chain Management, Freight Forwarding",High,Low,42.5,Growing
+2024-05-04,Logistics,Transportation Engineer,Hà Nội,143,30030.45,2.07,Senior,23,"Freight Forwarding, IoT Tracking",Medium,High,57.1,Stable
+2024-05-06,Logistics,Last-Mile Delivery Specialist,Đà Nẵng,142,7863.73,6.89,Fresher,29,"Negotiation, Python, IoT Tracking",High,High,50.2,Growing
+2024-05-07,Logistics,Logistics Coordinator,Đà Nẵng,145,11401.6,5.53,Junior,0,"Python, SAP WMS, IoT Tracking, Customs",High,High,66.8,Growing
+2024-05-07,Logistics,Transportation Engineer,Hải Phòng,135,6559.39,4.31,Fresher,4,"Customs, Freight Forwarding, Excel, SQL, Power BI",High,Medium,40.3,Declining
+2024-05-09,Logistics,Last-Mile Delivery Specialist,Bình Dương,137,6237.38,5.07,Fresher,9,"Customs, Supply Chain Management",High,High,67.8,Stable

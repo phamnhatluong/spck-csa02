@@ -1,0 +1,451 @@
+date,industry,job_title,region,job_openings,avg_salary,salary_growth_rate,experience_level,remote_ratio,required_skills,competition_level,automation_risk,growth_score,demand_forecast
+2021-09-03,Education,Learning Experience Designer,Hà Nội,42,6060.16,4.29,Fresher,56,"Instructional Design, Data Analysis",Medium,Low,60.1,Declining
+2021-09-05,Education,E-Learning Developer,Đà Nẵng,50,21887.19,8.63,Senior,50,"Video Production, Curriculum Development",Medium,Low,46.7,Declining
+2021-09-05,Education,School Principal,TP.HCM,62,14357.45,3.88,Junior,49,"Research, Articulate 360, STEM Teaching, Learning Analytics, Gamification",Low,Low,66.5,Growing
+2021-09-07,Education,Education Data Analyst,Cần Thơ,54,24752.41,8.12,Senior,41,"STEM Teaching, Research",High,Medium,33.6,Growing
+2021-09-09,Education,Education Data Analyst,Hải Phòng,58,8213.56,8.13,Fresher,63,"Data Analysis, Video Production, Research",Medium,Medium,64.2,Stable
+2021-09-12,Education,Curriculum Designer,Hà Nội,50,12781.95,4.81,Junior,78,"LMS Administration, Python, Data Analysis",Low,High,36.0,Declining
+2021-09-15,Education,E-Learning Developer,Hải Phòng,67,19951.23,6.4,Senior,33,"Instructional Design, Curriculum Development, Data Analysis, LMS Administration, STEM Teaching",Low,Low,59.4,Stable
+2021-09-15,Education,Learning Experience Designer,TP.HCM,52,8984.62,7.17,Fresher,50,"AI Tools, Instructional Design, Data Analysis, Learning Analytics, Python",Medium,Low,39.6,Growing
+2021-09-27,Education,Corporate Trainer,Bình Dương,67,9412.92,8.82,Junior,71,"Python, Curriculum Development, Instructional Design, Research",Medium,High,41.7,Stable
+2021-10-02,Education,Education Data Analyst,Hà Nội,69,21315.97,8.27,Senior,47,"SCORM, Learning Analytics, AI Tools, LMS Administration, Curriculum Development",Low,Medium,40.5,Stable
+2021-10-02,Education,Curriculum Designer,Hà Nội,56,18622.08,4.67,Senior,73,"Gamification, SCORM, Curriculum Development, LMS Administration",Medium,Medium,33.8,Stable
+2021-10-03,Education,Learning Experience Designer,TP.HCM,64,7099.42,5.79,Fresher,42,"Research, SCORM, Curriculum Development, Python",High,Medium,38.1,Stable
+2021-10-03,Education,EdTech Developer,Cần Thơ,52,20721.89,8.72,Senior,79,"Learning Analytics, AI Tools, Instructional Design",High,Low,69.2,Stable
+2021-10-06,Education,School Principal,Hải Phòng,62,21641.66,7.15,Senior,34,"Data Analysis, LMS Administration, Curriculum Development, Video Production",Low,Medium,62.6,Growing
+2021-10-09,Education,Academic Researcher,Hải Phòng,74,5272.22,8.13,Fresher,72,"Video Production, Python, Gamification, Instructional Design, Articulate 360",High,Medium,66.7,Declining
+2021-10-11,Education,Student Success Manager,Hải Phòng,62,12165.15,2.36,Junior,42,"SCORM, LMS Administration, Research, STEM Teaching, AI Tools",Low,Medium,66.4,Declining
+2021-10-12,Education,EdTech Developer,Cần Thơ,68,10762.14,3.05,Junior,63,"AI Tools, Research, Learning Analytics",Medium,Medium,69.1,Stable
+2021-10-12,Education,E-Learning Developer,Hải Phòng,56,21290.58,3.15,Senior,34,"Instructional Design, AI Tools, SCORM, Articulate 360, Curriculum Development",Medium,Medium,73.8,Growing
+2021-10-16,Education,Online Course Instructor,Hải Phòng,53,20194.88,6.56,Senior,64,"Data Analysis, SCORM, Research, STEM Teaching, LMS Administration",Medium,Low,52.1,Stable
+2021-10-17,Education,Student Success Manager,Hải Phòng,59,12062.2,4.39,Junior,35,"AI Tools, Python, SCORM, Data Analysis, Curriculum Development",High,Medium,72.6,Growing
+2021-10-20,Education,E-Learning Developer,Cần Thơ,62,11164.56,5.19,Junior,40,"AI Tools, Gamification, Research, Learning Analytics, STEM Teaching",High,Medium,71.8,Growing
+2021-10-21,Education,Education Data Analyst,Đà Nẵng,70,13382.17,4.11,Junior,30,"Gamification, Python, Articulate 360",Medium,High,52.8,Stable
+2021-10-21,Education,EdTech Developer,Hải Phòng,65,18174.79,7.26,Senior,71,"Instructional Design, Learning Analytics, STEM Teaching",Low,Medium,44.2,Declining
+2021-10-25,Education,Academic Researcher,TP.HCM,64,6642.05,8.34,Fresher,72,"Research, Gamification",Low,Medium,71.9,Stable
+2021-10-28,Education,Corporate Trainer,Cần Thơ,74,4439.37,3.18,Fresher,42,"Data Analysis, Instructional Design, LMS Administration",Low,High,59.9,Growing
+2021-10-28,Education,Student Success Manager,Hải Phòng,62,14797.92,6.49,Junior,31,"Learning Analytics, Data Analysis, Research, LMS Administration",High,Medium,35.6,Stable
+2021-10-29,Education,E-Learning Developer,Đồng Nai,70,8579.4,3.48,Junior,54,"Articulate 360, Data Analysis, SCORM, Curriculum Development, STEM Teaching",Low,High,53.9,Stable
+2021-11-03,Education,Education Data Analyst,Đồng Nai,71,21276.52,8.33,Senior,51,"Curriculum Development, Data Analysis, Research, Gamification",Medium,High,59.8,Stable
+2021-11-04,Education,Online Course Instructor,Hà Nội,63,9498.69,3.02,Junior,53,"SCORM, Articulate 360",Low,Medium,34.3,Stable
+2021-11-06,Education,Student Success Manager,Hải Phòng,55,12716.55,6.92,Junior,67,"Curriculum Development, Articulate 360, STEM Teaching",High,Medium,66.1,Stable
+2021-11-07,Education,STEM Teacher,Bình Dương,72,23947.93,2.47,Senior,75,"STEM Teaching, LMS Administration, Gamification, AI Tools",Low,Medium,43.8,Stable
+2021-11-10,Education,Curriculum Designer,Đà Nẵng,66,22325.73,8.44,Senior,75,"Research, AI Tools, Instructional Design, SCORM",Low,Medium,62.3,Growing
+2021-11-12,Education,E-Learning Developer,Hà Nội,63,2413.82,4.81,Fresher,81,"Curriculum Development, SCORM, LMS Administration, AI Tools",Medium,Low,33.2,Growing
+2021-11-13,Education,Education Data Analyst,Hà Nội,57,2414.02,4.24,Fresher,61,"Curriculum Development, LMS Administration, AI Tools, SCORM",Low,High,64.4,Stable
+2021-11-14,Education,Learning Experience Designer,Hà Nội,66,5034.88,2.02,Fresher,31,"STEM Teaching, Learning Analytics, Research, Curriculum Development",Low,Medium,39.4,Growing
+2021-11-14,Education,Learning Experience Designer,Đồng Nai,62,5439.91,6.81,Fresher,82,"Learning Analytics, AI Tools, Python, LMS Administration, Data Analysis",Medium,Medium,65.7,Growing
+2021-11-16,Education,Academic Researcher,Hải Phòng,64,10009.65,7.66,Junior,30,"Instructional Design, Gamification",Medium,Medium,70.5,Declining
+2021-11-16,Education,Learning Experience Designer,Cần Thơ,55,12150.69,3.35,Junior,65,"Articulate 360, Instructional Design, Learning Analytics, SCORM",Low,Medium,66.7,Stable
+2021-11-18,Education,EdTech Developer,Bình Dương,72,25457.88,3.0,Senior,80,"Gamification, AI Tools, Learning Analytics, Articulate 360",High,Low,32.3,Declining
+2021-11-18,Education,Learning Experience Designer,Hà Nội,50,10586.62,7.62,Junior,62,"Articulate 360, Instructional Design, Gamification, AI Tools",Low,Low,58.1,Growing
+2021-11-21,Education,Corporate Trainer,Đồng Nai,75,8721.99,3.16,Junior,51,"AI Tools, Articulate 360, Data Analysis",High,Medium,74.9,Growing
+2021-11-21,Education,School Principal,Hải Phòng,72,12122.44,3.12,Junior,32,"Instructional Design, Research, LMS Administration",Medium,High,53.3,Declining
+2021-11-21,Education,Academic Researcher,Hải Phòng,60,7782.27,6.87,Junior,48,"SCORM, Instructional Design, STEM Teaching",Medium,High,72.5,Stable
+2021-11-25,Education,Learning Experience Designer,Bình Dương,67,10970.81,4.69,Junior,48,"Data Analysis, Video Production, Gamification",High,High,73.6,Declining
+2021-11-27,Education,Education Data Analyst,Đồng Nai,66,21998.13,8.73,Senior,82,"SCORM, Python, STEM Teaching, AI Tools",Medium,Low,74.6,Stable
+2021-11-27,Education,Academic Researcher,Đà Nẵng,66,5686.49,2.06,Fresher,88,"Gamification, Python, LMS Administration, Data Analysis",High,Medium,58.0,Growing
+2021-11-28,Education,Academic Researcher,Hà Nội,50,6589.88,4.75,Fresher,59,"LMS Administration, Learning Analytics, Research, Articulate 360, Python",Medium,High,43.3,Growing
+2021-11-30,Education,Academic Researcher,TP.HCM,55,5990.62,7.22,Fresher,41,"SCORM, LMS Administration, Data Analysis",Low,Medium,63.3,Stable
+2021-11-30,Education,EdTech Developer,Bình Dương,69,4836.34,5.92,Fresher,47,"Python, Video Production, Data Analysis, AI Tools",Low,Low,71.7,Growing
+2021-12-01,Education,STEM Teacher,TP.HCM,58,14922.63,8.49,Junior,63,"Video Production, STEM Teaching",Medium,Medium,52.4,Stable
+2021-12-05,Education,School Principal,Hà Nội,65,21564.21,6.08,Senior,31,"Articulate 360, Python, LMS Administration, Research",Low,Low,34.6,Declining
+2021-12-09,Education,Corporate Trainer,Cần Thơ,47,4050.01,3.11,Fresher,57,"SCORM, Learning Analytics",Low,Low,64.5,Stable
+2021-12-11,Education,Learning Experience Designer,TP.HCM,47,13192.06,6.19,Junior,85,"Instructional Design, AI Tools, Data Analysis, Curriculum Development, LMS Administration",Medium,Medium,71.3,Declining
+2021-12-17,Education,Curriculum Designer,Hải Phòng,67,13064.17,3.04,Junior,40,"Articulate 360, Learning Analytics, Python, Research, AI Tools",Medium,Low,74.9,Growing
+2021-12-19,Education,School Principal,Cần Thơ,66,11461.59,5.98,Junior,34,"Research, Instructional Design, Curriculum Development, SCORM, Video Production",Low,High,46.9,Stable
+2021-12-25,Education,Academic Researcher,Đà Nẵng,78,5379.18,5.57,Fresher,68,"Python, LMS Administration",Medium,Medium,58.6,Stable
+2021-12-26,Education,Student Success Manager,Hà Nội,48,9598.43,4.41,Junior,87,"Instructional Design, Articulate 360, STEM Teaching, Gamification, Research",High,High,36.2,Declining
+2021-12-26,Education,Learning Experience Designer,TP.HCM,58,8925.34,5.64,Fresher,37,"Learning Analytics, AI Tools, Instructional Design, Gamification, SCORM",High,High,42.2,Growing
+2021-12-30,Education,School Principal,Đà Nẵng,69,6574.76,3.92,Fresher,67,"SCORM, Instructional Design, Articulate 360",Medium,Medium,61.0,Growing
+2022-01-02,Education,EdTech Developer,Hà Nội,59,23081.22,6.73,Senior,36,"SCORM, Gamification, Video Production, STEM Teaching",Medium,Medium,45.1,Stable
+2022-01-03,Education,Online Course Instructor,Đà Nẵng,64,22961.09,3.91,Senior,78,"Data Analysis, LMS Administration, AI Tools, Articulate 360, STEM Teaching",Medium,High,73.8,Stable
+2022-01-04,Education,Online Course Instructor,Bình Dương,52,7734.28,5.75,Fresher,74,"Data Analysis, Gamification",Low,Medium,58.1,Declining
+2022-01-05,Education,School Principal,Bình Dương,55,9053.48,8.36,Fresher,46,"Curriculum Development, Gamification, Articulate 360, Learning Analytics, Python",Medium,Low,52.8,Declining
+2022-01-06,Education,School Principal,TP.HCM,63,4459.34,3.4,Fresher,79,"LMS Administration, Curriculum Development",Low,Medium,52.7,Declining
+2022-01-09,Education,School Principal,Cần Thơ,58,13307.39,2.71,Junior,90,"SCORM, AI Tools, Data Analysis",Medium,Low,30.6,Stable
+2022-01-16,Education,EdTech Developer,Cần Thơ,55,5512.74,4.32,Fresher,71,"Articulate 360, Data Analysis, Instructional Design, Learning Analytics",Low,Low,42.6,Growing
+2022-01-16,Education,Corporate Trainer,TP.HCM,84,21633.49,4.84,Senior,68,"Video Production, LMS Administration, Gamification, AI Tools, Curriculum Development",Low,High,38.6,Growing
+2022-01-17,Education,EdTech Developer,Hải Phòng,58,19212.02,5.07,Senior,44,"Research, Gamification, LMS Administration, Articulate 360",Low,High,70.2,Stable
+2022-01-19,Education,E-Learning Developer,Đồng Nai,60,10445.1,5.47,Junior,53,"STEM Teaching, Curriculum Development",Medium,Medium,73.1,Stable
+2022-01-22,Education,School Principal,Đà Nẵng,54,7040.93,4.89,Fresher,82,"Curriculum Development, Python, Gamification, AI Tools",Low,Low,31.6,Stable
+2022-01-24,Education,Education Data Analyst,TP.HCM,59,20794.44,2.57,Senior,51,"Video Production, Instructional Design, Gamification, Curriculum Development, Research",Medium,High,58.7,Declining
+2022-01-24,Education,Learning Experience Designer,Đà Nẵng,65,3451.74,6.52,Fresher,38,"Gamification, STEM Teaching, Research, AI Tools, Instructional Design",High,Low,59.2,Declining
+2022-01-30,Education,EdTech Developer,TP.HCM,62,21599.81,7.35,Senior,35,"LMS Administration, AI Tools, Video Production",Medium,Medium,68.2,Growing
+2022-02-01,Education,Curriculum Designer,Hải Phòng,76,20409.17,7.92,Senior,71,"LMS Administration, AI Tools",Low,Medium,66.1,Declining
+2022-02-04,Education,Curriculum Designer,Cần Thơ,73,8601.38,2.33,Fresher,65,"Data Analysis, SCORM, Python, STEM Teaching, LMS Administration",Low,Medium,55.2,Declining
+2022-02-04,Education,STEM Teacher,Cần Thơ,60,8807.63,4.88,Fresher,49,"LMS Administration, STEM Teaching, Gamification, Instructional Design",Low,Low,63.0,Growing
+2022-02-06,Education,Education Data Analyst,TP.HCM,60,5072.83,8.75,Fresher,35,"STEM Teaching, Data Analysis, Python",Medium,Low,36.6,Stable
+2022-02-08,Education,Education Data Analyst,Đồng Nai,66,11750.53,2.47,Junior,52,"Curriculum Development, Video Production, Instructional Design",Low,Medium,44.4,Stable
+2022-02-09,Education,Online Course Instructor,Đà Nẵng,68,4920.08,2.79,Fresher,45,"Articulate 360, Python, Research, Video Production",Medium,Low,65.2,Stable
+2022-02-12,Education,Academic Researcher,Đồng Nai,58,22727.41,5.81,Senior,80,"Curriculum Development, LMS Administration, Data Analysis, Articulate 360, AI Tools",Medium,High,39.2,Stable
+2022-02-17,Education,Academic Researcher,Hải Phòng,65,19841.29,3.95,Senior,56,"Learning Analytics, Articulate 360, LMS Administration",High,Low,60.3,Growing
+2022-02-17,Education,Education Data Analyst,TP.HCM,58,8733.54,4.04,Fresher,87,"Gamification, Research, Video Production, Curriculum Development",Medium,Medium,62.7,Stable
+2022-02-18,Education,Academic Researcher,Đồng Nai,71,11027.97,3.87,Junior,57,"Python, STEM Teaching, Curriculum Development, SCORM, Research",Low,Medium,36.3,Stable
+2022-02-19,Education,EdTech Developer,TP.HCM,78,9042.31,6.82,Junior,45,"Research, Curriculum Development",High,Medium,47.3,Growing
+2022-02-28,Education,Student Success Manager,Đà Nẵng,76,9922.9,5.42,Junior,56,"Learning Analytics, AI Tools, SCORM, LMS Administration",Medium,Low,42.9,Growing
+2022-03-02,Education,E-Learning Developer,Hà Nội,66,8022.54,4.05,Fresher,84,"STEM Teaching, Gamification, Curriculum Development, Python, Articulate 360",High,Medium,43.3,Stable
+2022-03-03,Education,E-Learning Developer,TP.HCM,67,22865.23,5.05,Senior,37,"Curriculum Development, Python",Low,High,45.9,Growing
+2022-03-04,Education,STEM Teacher,TP.HCM,74,19926.07,7.08,Senior,89,"Instructional Design, LMS Administration, Articulate 360",High,Medium,59.1,Growing
+2022-03-05,Education,E-Learning Developer,Hải Phòng,66,6338.48,6.19,Fresher,65,"LMS Administration, Research, STEM Teaching",Low,Medium,43.1,Stable
+2022-03-06,Education,Academic Researcher,Đồng Nai,67,3590.1,8.84,Fresher,80,"Python, Learning Analytics, Gamification",Medium,High,72.3,Growing
+2022-03-06,Education,Learning Experience Designer,Đà Nẵng,66,5667.1,2.07,Fresher,59,"Data Analysis, AI Tools",Low,Medium,56.4,Stable
+2022-03-14,Education,Student Success Manager,Bình Dương,76,20262.57,7.5,Senior,45,"Curriculum Development, Video Production, Python",Medium,Low,37.0,Declining
+2022-03-15,Education,STEM Teacher,Cần Thơ,77,9599.1,7.21,Junior,67,"AI Tools, Articulate 360",Medium,High,49.1,Growing
+2022-03-17,Education,Curriculum Designer,Bình Dương,67,12824.97,2.66,Junior,49,"Instructional Design, Articulate 360, Learning Analytics, STEM Teaching",Medium,High,33.2,Stable
+2022-03-18,Education,Education Data Analyst,Đồng Nai,55,5270.23,8.39,Fresher,30,"STEM Teaching, Gamification, SCORM, LMS Administration, Python",Low,Low,41.9,Stable
+2022-03-20,Education,Education Data Analyst,Hà Nội,54,21177.05,5.71,Senior,90,"Learning Analytics, Video Production, Curriculum Development",Medium,High,57.6,Declining
+2022-03-21,Education,Academic Researcher,Cần Thơ,64,22328.76,4.53,Senior,46,"SCORM, Curriculum Development",Low,Low,52.3,Declining
+2022-03-22,Education,Online Course Instructor,Đà Nẵng,67,21821.86,8.43,Senior,86,"AI Tools, Learning Analytics, STEM Teaching, Data Analysis, Instructional Design",High,High,45.8,Stable
+2022-03-22,Education,Education Data Analyst,Bình Dương,63,8350.43,4.65,Fresher,79,"Learning Analytics, Curriculum Development, Video Production, Gamification",Low,High,65.2,Declining
+2022-03-23,Education,E-Learning Developer,Đà Nẵng,63,21139.49,2.83,Senior,89,"Curriculum Development, Python, Articulate 360, AI Tools, LMS Administration",Low,Medium,59.7,Growing
+2022-03-29,Education,Corporate Trainer,TP.HCM,69,11737.89,3.85,Junior,84,"AI Tools, Data Analysis, Research, Curriculum Development, Articulate 360",Low,Low,43.7,Growing
+2022-03-30,Education,E-Learning Developer,Đồng Nai,72,13997.92,7.68,Junior,76,"Curriculum Development, Research, LMS Administration, Learning Analytics",High,Medium,67.1,Declining
+2022-04-04,Education,Learning Experience Designer,Bình Dương,60,10968.04,7.0,Junior,32,"Learning Analytics, LMS Administration, Python",Medium,Medium,42.9,Growing
+2022-04-11,Education,Learning Experience Designer,Hải Phòng,61,22330.84,8.78,Senior,43,"Instructional Design, Research, Articulate 360, Data Analysis",Low,Low,62.2,Growing
+2022-04-11,Education,School Principal,Cần Thơ,75,9808.79,5.44,Fresher,83,"Python, Data Analysis, Articulate 360",Medium,High,41.0,Declining
+2022-04-11,Education,Academic Researcher,Hải Phòng,72,12291.7,5.65,Junior,85,"Research, LMS Administration",Medium,High,71.5,Declining
+2022-04-12,Education,STEM Teacher,Hà Nội,54,19323.4,7.79,Senior,53,"SCORM, Data Analysis",Medium,Medium,32.7,Stable
+2022-04-12,Education,E-Learning Developer,Cần Thơ,65,11114.06,2.88,Junior,49,"STEM Teaching, Gamification, AI Tools, Data Analysis, Instructional Design",Medium,Low,42.7,Growing
+2022-04-13,Education,Academic Researcher,Đồng Nai,76,22064.32,2.66,Senior,81,"LMS Administration, SCORM, Curriculum Development",Medium,Low,71.7,Stable
+2022-04-15,Education,STEM Teacher,Bình Dương,55,2443.39,7.74,Fresher,59,"SCORM, Instructional Design, Python, Curriculum Development, Data Analysis",Medium,High,44.3,Stable
+2022-04-18,Education,Student Success Manager,Đồng Nai,61,5593.09,4.94,Fresher,66,"LMS Administration, STEM Teaching, Learning Analytics, Research, SCORM",Low,Low,31.9,Growing
+2022-04-20,Education,E-Learning Developer,Đà Nẵng,64,21974.18,2.58,Senior,78,"Instructional Design, Learning Analytics, Data Analysis, Video Production",Low,Medium,73.5,Growing
+2022-04-22,Education,Learning Experience Designer,Đồng Nai,68,11466.86,7.45,Junior,35,"Gamification, LMS Administration, Research",Low,High,63.6,Growing
+2022-04-22,Education,Curriculum Designer,Đồng Nai,66,20932.01,3.86,Senior,59,"Curriculum Development, AI Tools, Research, Gamification, Articulate 360",Low,High,61.9,Growing
+2022-04-24,Education,E-Learning Developer,TP.HCM,63,19388.02,2.6,Senior,62,"Articulate 360, Instructional Design, Data Analysis, STEM Teaching, Video Production",Medium,Medium,50.7,Growing
+2022-04-25,Education,STEM Teacher,TP.HCM,67,9681.09,5.35,Junior,32,"LMS Administration, Instructional Design, Articulate 360, Python, STEM Teaching",Low,Medium,40.3,Stable
+2022-05-02,Education,School Principal,Đà Nẵng,71,8165.44,5.5,Fresher,63,"Gamification, STEM Teaching, Python, Research",Low,High,41.4,Stable
+2022-05-05,Education,Corporate Trainer,Bình Dương,65,6101.44,6.74,Fresher,79,"AI Tools, Curriculum Development, Data Analysis, Instructional Design",Low,High,64.0,Stable
+2022-05-05,Education,E-Learning Developer,Hà Nội,74,20557.12,7.26,Senior,47,"Python, Instructional Design",Medium,Medium,71.8,Declining
+2022-05-10,Education,Student Success Manager,Bình Dương,57,22077.8,8.74,Senior,50,"AI Tools, Instructional Design, Articulate 360, Python, Curriculum Development",Low,Medium,39.6,Stable
+2022-05-10,Education,Curriculum Designer,Đà Nẵng,65,5713.77,3.61,Fresher,45,"Python, LMS Administration",Medium,Low,54.2,Stable
+2022-05-11,Education,Academic Researcher,Đồng Nai,76,11733.48,2.92,Junior,42,"Python, Video Production",Low,Medium,62.8,Growing
+2022-05-12,Education,Student Success Manager,Hà Nội,55,20687.34,8.45,Senior,61,"Video Production, Data Analysis, Learning Analytics",Medium,Medium,59.6,Stable
+2022-05-15,Education,Academic Researcher,Hải Phòng,80,10689.27,2.0,Fresher,62,"Articulate 360, Video Production, Python, Data Analysis, AI Tools",Low,Low,54.4,Growing
+2022-05-16,Education,Corporate Trainer,TP.HCM,61,4612.93,4.45,Fresher,63,"Video Production, STEM Teaching, Instructional Design, Articulate 360",High,High,60.0,Declining
+2022-05-18,Education,Education Data Analyst,Cần Thơ,71,23121.46,8.75,Senior,56,"LMS Administration, Instructional Design, SCORM, AI Tools, Data Analysis",Medium,High,49.1,Growing
+2022-05-19,Education,Student Success Manager,TP.HCM,71,9375.51,2.99,Fresher,66,"Video Production, Articulate 360",Medium,High,70.4,Stable
+2022-05-20,Education,STEM Teacher,Cần Thơ,60,6160.66,8.33,Fresher,88,"Research, Articulate 360, STEM Teaching",High,Medium,37.6,Growing
+2022-05-22,Education,Education Data Analyst,Hà Nội,69,24185.2,8.12,Senior,54,"Gamification, AI Tools, Learning Analytics, Data Analysis",High,High,32.2,Declining
+2022-05-22,Education,EdTech Developer,Bình Dương,74,11945.34,5.15,Junior,60,"STEM Teaching, Articulate 360, Python",Medium,Medium,31.8,Stable
+2022-05-22,Education,Academic Researcher,TP.HCM,88,13967.97,3.02,Junior,80,"Python, LMS Administration, SCORM, Learning Analytics",High,Medium,36.9,Stable
+2022-05-23,Education,Student Success Manager,Hà Nội,65,7676.94,3.56,Fresher,37,"Learning Analytics, Articulate 360",Low,Low,67.9,Growing
+2022-05-23,Education,EdTech Developer,TP.HCM,56,11559.15,2.76,Junior,58,"Data Analysis, Research, Instructional Design, STEM Teaching",Medium,Medium,73.2,Stable
+2022-05-23,Education,E-Learning Developer,Cần Thơ,69,18403.36,3.87,Senior,60,"LMS Administration, Instructional Design",High,Medium,32.6,Stable
+2022-05-29,Education,Corporate Trainer,Bình Dương,76,23201.53,7.17,Senior,46,"AI Tools, Data Analysis, Curriculum Development, SCORM",Medium,Medium,37.7,Stable
+2022-05-30,Education,Curriculum Designer,Cần Thơ,80,20827.49,5.87,Senior,57,"Python, Learning Analytics, Curriculum Development",Low,Medium,62.1,Declining
+2022-05-30,Education,Curriculum Designer,Hải Phòng,63,22246.71,7.47,Senior,44,"Learning Analytics, Gamification, SCORM",Low,Medium,51.8,Growing
+2022-06-04,Education,Corporate Trainer,Bình Dương,77,9583.41,3.0,Fresher,75,"Python, Research",Medium,High,37.4,Stable
+2022-06-04,Education,EdTech Developer,Hà Nội,70,10869.3,7.13,Junior,82,"SCORM, Gamification, Curriculum Development",Low,High,32.9,Declining
+2022-06-09,Education,School Principal,Hà Nội,73,5292.64,6.82,Fresher,76,"Python, Articulate 360, Data Analysis, Instructional Design, SCORM",Low,High,59.9,Declining
+2022-06-14,Education,Learning Experience Designer,Hà Nội,82,6242.53,7.13,Fresher,33,"Research, Learning Analytics, AI Tools, Video Production, STEM Teaching",Medium,Medium,41.4,Stable
+2022-06-16,Education,Curriculum Designer,Bình Dương,69,22458.94,6.13,Senior,84,"Gamification, Instructional Design, Research, Curriculum Development",Low,Low,61.3,Stable
+2022-06-21,Education,Online Course Instructor,Hải Phòng,63,10879.91,7.34,Junior,80,"Data Analysis, SCORM, STEM Teaching, AI Tools, Curriculum Development",High,Low,51.5,Stable
+2022-06-21,Education,Online Course Instructor,Cần Thơ,64,22798.91,8.05,Senior,41,"SCORM, AI Tools, Data Analysis, Video Production",High,Low,71.7,Growing
+2022-06-23,Education,Online Course Instructor,TP.HCM,66,7697.75,8.25,Fresher,35,"SCORM, Gamification, Video Production, AI Tools",Low,High,57.2,Growing
+2022-06-25,Education,Learning Experience Designer,Đà Nẵng,69,4226.25,5.01,Fresher,31,"Video Production, Curriculum Development, SCORM, Learning Analytics, Gamification",Medium,High,52.1,Declining
+2022-06-26,Education,Academic Researcher,TP.HCM,54,11603.04,6.58,Junior,60,"Research, Instructional Design, Curriculum Development",Low,Low,46.7,Stable
+2022-06-27,Education,Education Data Analyst,TP.HCM,73,14554.62,4.61,Junior,76,"Data Analysis, AI Tools, Instructional Design, Gamification, STEM Teaching",Medium,Low,49.8,Stable
+2022-06-28,Education,School Principal,Cần Thơ,67,19761.92,5.03,Senior,71,"Articulate 360, LMS Administration, Learning Analytics, Research",Medium,Low,40.1,Declining
+2022-06-29,Education,EdTech Developer,Hà Nội,57,12179.22,8.16,Junior,30,"LMS Administration, Python, AI Tools, Gamification",Low,Medium,57.7,Stable
+2022-06-29,Education,Academic Researcher,Hải Phòng,74,16011.16,5.37,Junior,61,"Gamification, AI Tools, Research, SCORM",High,High,62.0,Stable
+2022-07-01,Education,STEM Teacher,TP.HCM,65,18225.0,8.5,Senior,87,"Video Production, AI Tools, Curriculum Development",Low,Medium,71.8,Stable
+2022-07-02,Education,Curriculum Designer,Bình Dương,77,20939.13,2.33,Senior,64,"STEM Teaching, Articulate 360, Curriculum Development",Low,Medium,63.3,Stable
+2022-07-02,Education,Corporate Trainer,TP.HCM,66,19925.61,3.92,Senior,77,"SCORM, AI Tools, Python, STEM Teaching, Curriculum Development",Medium,High,54.8,Declining
+2022-07-05,Education,STEM Teacher,Hải Phòng,69,4246.42,8.09,Fresher,70,"Articulate 360, Data Analysis, Python, Instructional Design, LMS Administration",High,Medium,57.0,Growing
+2022-07-07,Education,STEM Teacher,Bình Dương,92,3542.04,6.55,Fresher,85,"Instructional Design, Curriculum Development",High,High,68.7,Growing
+2022-07-09,Education,Education Data Analyst,Hà Nội,70,5208.53,8.63,Fresher,64,"STEM Teaching, Instructional Design",Low,Low,38.0,Stable
+2022-07-13,Education,Student Success Manager,Cần Thơ,65,13307.8,5.6,Junior,79,"Learning Analytics, Data Analysis, Curriculum Development, Instructional Design, Python",Medium,Low,59.9,Stable
+2022-07-13,Education,EdTech Developer,Đà Nẵng,69,19640.7,2.63,Senior,48,"Gamification, Python, Video Production",High,Medium,33.4,Growing
+2022-07-14,Education,Curriculum Designer,Đồng Nai,60,24836.21,6.48,Senior,39,"Research, STEM Teaching",Medium,High,72.2,Growing
+2022-07-14,Education,Student Success Manager,Hà Nội,74,11121.35,3.85,Junior,45,"Data Analysis, Video Production, Learning Analytics, Python",Low,High,34.6,Declining
+2022-07-15,Education,Curriculum Designer,Hà Nội,86,15625.93,8.21,Junior,80,"Data Analysis, Video Production, LMS Administration",Medium,Medium,37.3,Stable
+2022-07-18,Education,Curriculum Designer,Bình Dương,81,7470.24,8.87,Fresher,83,"Gamification, Video Production, Research",Low,Low,33.2,Growing
+2022-07-21,Education,Curriculum Designer,Hà Nội,74,14812.05,6.9,Junior,83,"LMS Administration, Learning Analytics, SCORM, Curriculum Development, Data Analysis",Low,Low,43.7,Stable
+2022-07-24,Education,Corporate Trainer,Đồng Nai,65,22281.05,5.01,Senior,73,"Articulate 360, Gamification, Python, Curriculum Development",Low,High,40.5,Stable
+2022-07-25,Education,E-Learning Developer,Hà Nội,70,4044.81,2.88,Fresher,70,"Python, Articulate 360, Gamification, Curriculum Development",Medium,High,38.6,Declining
+2022-07-26,Education,Corporate Trainer,Hải Phòng,70,23035.73,7.56,Senior,38,"SCORM, Python, Gamification, AI Tools, Curriculum Development",Low,Medium,38.3,Growing
+2022-07-30,Education,Student Success Manager,Hải Phòng,68,8555.1,5.51,Junior,51,"Curriculum Development, SCORM",Medium,Low,47.7,Growing
+2022-08-01,Education,Curriculum Designer,Cần Thơ,61,7350.92,2.35,Fresher,63,"Research, Instructional Design, SCORM",Low,Low,45.7,Growing
+2022-08-04,Education,Online Course Instructor,Hà Nội,67,12053.07,5.17,Junior,61,"Instructional Design, Data Analysis, Curriculum Development, Learning Analytics",Medium,Medium,66.4,Growing
+2022-08-04,Education,STEM Teacher,Đồng Nai,73,12933.3,6.61,Junior,83,"Learning Analytics, STEM Teaching, Gamification, Data Analysis, SCORM",Medium,Low,46.3,Growing
+2022-08-05,Education,Corporate Trainer,TP.HCM,75,6851.04,7.42,Fresher,50,"Learning Analytics, AI Tools",Low,Low,73.5,Declining
+2022-08-08,Education,E-Learning Developer,TP.HCM,80,14579.99,2.96,Junior,56,"Gamification, Python",Low,High,66.0,Growing
+2022-08-09,Education,STEM Teacher,Hà Nội,71,15443.45,8.38,Junior,60,"Learning Analytics, Gamification",Medium,High,35.0,Declining
+2022-08-09,Education,E-Learning Developer,Đồng Nai,88,20913.72,5.57,Senior,30,"Curriculum Development, LMS Administration, Instructional Design, Video Production, SCORM",Low,Low,62.6,Stable
+2022-08-12,Education,Curriculum Designer,Đà Nẵng,79,8796.93,7.81,Fresher,70,"Gamification, Articulate 360",Low,Low,71.5,Growing
+2022-08-13,Education,Corporate Trainer,Hà Nội,82,4899.77,2.58,Fresher,84,"STEM Teaching, LMS Administration, SCORM, Curriculum Development",Low,Low,62.4,Growing
+2022-08-14,Education,Learning Experience Designer,Đà Nẵng,63,21875.05,7.32,Senior,50,"LMS Administration, STEM Teaching",High,Medium,62.1,Stable
+2022-08-14,Education,E-Learning Developer,TP.HCM,72,11087.26,5.77,Junior,46,"Gamification, Python, LMS Administration, Instructional Design",Medium,Low,59.9,Growing
+2022-08-15,Education,School Principal,Đồng Nai,74,6786.18,6.27,Fresher,77,"Instructional Design, AI Tools, Research, SCORM, Learning Analytics",High,Medium,36.4,Growing
+2022-08-24,Education,Corporate Trainer,Hải Phòng,75,15145.25,4.23,Junior,57,"Learning Analytics, Python, Research",Medium,Medium,52.9,Stable
+2022-08-26,Education,EdTech Developer,TP.HCM,76,12209.96,7.57,Junior,44,"Video Production, LMS Administration, AI Tools",High,Medium,36.3,Growing
+2022-08-26,Education,Academic Researcher,Cần Thơ,67,22901.15,2.25,Senior,36,"AI Tools, Data Analysis",Low,High,32.1,Stable
+2022-08-26,Education,STEM Teacher,Đồng Nai,84,11134.18,8.93,Junior,60,"SCORM, Learning Analytics",Low,High,30.9,Stable
+2022-08-28,Education,Curriculum Designer,Đồng Nai,81,12232.27,8.86,Junior,77,"Video Production, Learning Analytics, STEM Teaching",Medium,Low,36.7,Growing
+2022-08-28,Education,EdTech Developer,TP.HCM,71,14777.89,5.47,Junior,31,"Curriculum Development, Learning Analytics, AI Tools, LMS Administration, SCORM",Low,High,47.6,Growing
+2022-08-29,Education,Student Success Manager,Cần Thơ,86,20721.88,7.44,Senior,84,"AI Tools, LMS Administration, SCORM, Data Analysis",Medium,High,50.8,Growing
+2022-08-30,Education,Education Data Analyst,Đồng Nai,72,4271.34,2.76,Fresher,46,"Instructional Design, AI Tools, Data Analysis",Low,High,50.9,Stable
+2022-08-30,Education,E-Learning Developer,Đà Nẵng,70,5081.57,6.73,Fresher,41,"SCORM, Learning Analytics, STEM Teaching, Video Production",Medium,High,49.6,Stable
+2022-09-03,Education,Online Course Instructor,TP.HCM,73,11090.43,2.18,Junior,87,"Curriculum Development, SCORM, Gamification, LMS Administration",Low,High,54.5,Growing
+2022-09-06,Education,STEM Teacher,Hải Phòng,68,22387.99,5.56,Senior,42,"AI Tools, STEM Teaching, Gamification",Low,Low,74.0,Growing
+2022-09-06,Education,STEM Teacher,Hải Phòng,75,8423.02,8.39,Fresher,43,"STEM Teaching, AI Tools, Python",Low,Low,70.8,Stable
+2022-09-08,Education,Student Success Manager,Hải Phòng,68,21989.84,6.27,Senior,63,"Learning Analytics, LMS Administration, Python, AI Tools",Medium,High,46.0,Stable
+2022-09-12,Education,Curriculum Designer,Đồng Nai,65,23422.12,7.61,Senior,60,"Instructional Design, Python",Low,High,42.6,Stable
+2022-09-13,Education,Learning Experience Designer,Cần Thơ,65,18885.13,3.72,Senior,71,"Python, STEM Teaching, Video Production",Medium,Low,42.5,Growing
+2022-09-13,Education,E-Learning Developer,Hải Phòng,70,10399.2,7.07,Junior,34,"Research, Gamification",Low,Low,36.0,Stable
+2022-09-17,Education,EdTech Developer,Hà Nội,76,4393.26,5.06,Fresher,32,"Instructional Design, Learning Analytics",Medium,Medium,37.4,Growing
+2022-09-19,Education,Academic Researcher,Đồng Nai,67,22733.48,2.99,Senior,37,"Python, Instructional Design, Gamification, STEM Teaching",Low,Low,38.5,Growing
+2022-09-27,Education,Online Course Instructor,Cần Thơ,81,5677.83,7.67,Fresher,55,"Learning Analytics, Video Production, SCORM, Curriculum Development, Gamification",High,High,74.2,Stable
+2022-09-27,Education,Education Data Analyst,Đồng Nai,69,7930.98,7.19,Fresher,76,"Video Production, Gamification, Articulate 360, Learning Analytics",Low,Medium,74.5,Stable
+2022-09-28,Education,STEM Teacher,TP.HCM,84,24567.29,3.59,Senior,41,"Python, STEM Teaching",Low,Medium,38.2,Stable
+2022-09-28,Education,Academic Researcher,Bình Dương,70,7253.63,6.82,Fresher,45,"Learning Analytics, AI Tools",Medium,Medium,32.6,Declining
+2022-09-29,Education,STEM Teacher,Bình Dương,62,13151.55,8.17,Junior,68,"Data Analysis, Learning Analytics",High,Medium,48.0,Stable
+2022-09-30,Education,Education Data Analyst,Đồng Nai,72,4766.17,6.45,Fresher,38,"Learning Analytics, AI Tools, Gamification",Medium,High,44.2,Stable
+2022-10-02,Education,Curriculum Designer,Hải Phòng,72,6869.8,2.05,Fresher,69,"AI Tools, Gamification",Medium,Low,38.2,Stable
+2022-10-05,Education,Academic Researcher,Bình Dương,72,22676.86,8.79,Senior,37,"Articulate 360, Instructional Design, SCORM",High,High,34.8,Growing
+2022-10-06,Education,Learning Experience Designer,TP.HCM,82,13086.01,4.19,Junior,56,"AI Tools, Python, Instructional Design",Low,High,53.5,Growing
+2022-10-07,Education,Academic Researcher,Đà Nẵng,78,14316.72,6.2,Junior,74,"Video Production, Learning Analytics, Instructional Design",Medium,Medium,63.0,Growing
+2022-10-11,Education,Student Success Manager,Cần Thơ,84,19074.89,8.84,Senior,52,"Curriculum Development, Video Production, SCORM, Gamification",Low,High,72.1,Stable
+2022-10-13,Education,Learning Experience Designer,Đà Nẵng,87,27060.46,6.8,Senior,86,"Articulate 360, Video Production, Python, Gamification",Low,High,48.4,Stable
+2022-10-14,Education,EdTech Developer,Hà Nội,73,19904.2,8.01,Senior,74,"Gamification, LMS Administration",Medium,Medium,57.5,Stable
+2022-10-16,Education,Corporate Trainer,Hà Nội,89,18948.29,7.48,Senior,86,"Research, SCORM, Python, LMS Administration",Low,Low,67.2,Declining
+2022-10-16,Education,Education Data Analyst,Hải Phòng,65,11898.89,2.79,Junior,64,"SCORM, Research, STEM Teaching, AI Tools",Low,Medium,50.2,Growing
+2022-10-17,Education,Academic Researcher,Hà Nội,61,10980.35,5.19,Junior,90,"Gamification, Instructional Design, Data Analysis, LMS Administration",Medium,Medium,73.3,Declining
+2022-10-20,Education,STEM Teacher,Bình Dương,67,22523.29,4.01,Senior,33,"STEM Teaching, Gamification, SCORM",Low,Low,51.7,Declining
+2022-10-22,Education,E-Learning Developer,Bình Dương,77,22728.33,3.05,Senior,64,"AI Tools, LMS Administration, Instructional Design, Research, SCORM",Medium,Medium,70.8,Declining
+2022-10-23,Education,STEM Teacher,Bình Dương,83,12361.25,7.57,Junior,69,"Data Analysis, Learning Analytics, Video Production",Low,Medium,66.4,Declining
+2022-10-23,Education,E-Learning Developer,TP.HCM,77,11903.89,5.79,Junior,85,"Learning Analytics, Curriculum Development, Video Production, Python, Gamification",High,High,35.0,Stable
+2022-10-26,Education,School Principal,Hải Phòng,66,23653.14,7.56,Senior,52,"Gamification, Research, Learning Analytics, SCORM",Medium,Low,74.4,Growing
+2022-10-26,Education,Learning Experience Designer,TP.HCM,72,25585.55,7.58,Senior,84,"Learning Analytics, Curriculum Development, Instructional Design, Data Analysis, Articulate 360",Low,Medium,51.2,Growing
+2022-10-28,Education,Student Success Manager,Hà Nội,71,11330.61,8.7,Junior,37,"SCORM, Video Production, Articulate 360, STEM Teaching, Curriculum Development",High,Low,61.7,Growing
+2022-11-03,Education,Education Data Analyst,TP.HCM,77,12588.33,7.93,Junior,57,"AI Tools, Data Analysis, Gamification",High,High,39.1,Growing
+2022-11-03,Education,STEM Teacher,Đồng Nai,65,9603.16,4.53,Junior,33,"Curriculum Development, Data Analysis, Python, Articulate 360, LMS Administration",Medium,Low,49.0,Growing
+2022-11-05,Education,Academic Researcher,Cần Thơ,88,22847.74,3.96,Senior,37,"Video Production, Curriculum Development",Medium,Low,58.9,Stable
+2022-11-09,Education,E-Learning Developer,Cần Thơ,69,20930.09,2.95,Senior,64,"Learning Analytics, AI Tools, Python, Articulate 360, LMS Administration",Low,Medium,38.7,Stable
+2022-11-09,Education,Education Data Analyst,Đồng Nai,83,10859.41,3.71,Junior,76,"Learning Analytics, STEM Teaching, Python, SCORM, Research",Low,Low,47.7,Growing
+2022-11-11,Education,Academic Researcher,Hà Nội,81,24848.87,5.04,Senior,39,"AI Tools, STEM Teaching, LMS Administration, Curriculum Development, Learning Analytics",Medium,High,64.8,Stable
+2022-11-12,Education,Academic Researcher,Cần Thơ,80,7017.76,5.15,Fresher,80,"Video Production, AI Tools, Curriculum Development",Medium,Low,44.3,Declining
+2022-11-12,Education,Student Success Manager,Đồng Nai,78,23014.3,7.87,Senior,77,"Data Analysis, Video Production, Instructional Design, STEM Teaching, Curriculum Development",Low,Medium,33.4,Stable
+2022-11-12,Education,EdTech Developer,Hà Nội,73,8390.86,4.96,Junior,57,"Video Production, Curriculum Development",Medium,Medium,36.1,Growing
+2022-11-16,Education,Education Data Analyst,Đà Nẵng,71,23204.91,5.02,Senior,73,"Data Analysis, Python, STEM Teaching",Medium,Low,64.0,Growing
+2022-11-17,Education,STEM Teacher,Hà Nội,72,21325.8,5.05,Senior,35,"AI Tools, Instructional Design",Medium,High,36.2,Growing
+2022-11-18,Education,E-Learning Developer,Cần Thơ,62,13137.11,4.58,Junior,77,"Curriculum Development, Instructional Design, Articulate 360",Low,Medium,50.3,Stable
+2022-11-24,Education,Education Data Analyst,Cần Thơ,85,5217.3,7.79,Fresher,43,"Data Analysis, Gamification",High,High,38.7,Declining
+2022-11-24,Education,Academic Researcher,Hà Nội,63,23125.45,8.99,Senior,72,"Gamification, STEM Teaching, Research, Articulate 360",Medium,High,56.3,Growing
+2022-11-27,Education,Academic Researcher,TP.HCM,77,12306.52,6.49,Junior,66,"SCORM, STEM Teaching, Learning Analytics, LMS Administration",High,High,45.7,Growing
+2022-11-27,Education,Education Data Analyst,Cần Thơ,59,7785.21,4.06,Fresher,76,"SCORM, Python, Learning Analytics",High,Medium,57.4,Declining
+2022-11-28,Education,STEM Teacher,Bình Dương,78,10051.1,4.23,Junior,36,"Articulate 360, Instructional Design, Python, SCORM",Low,Medium,60.0,Stable
+2022-11-30,Education,EdTech Developer,Đà Nẵng,80,12312.74,3.89,Junior,68,"STEM Teaching, Gamification",Low,Medium,56.5,Stable
+2022-12-02,Education,Academic Researcher,Đồng Nai,72,5533.84,8.26,Fresher,63,"Data Analysis, Gamification, SCORM",Medium,Medium,64.2,Stable
+2022-12-09,Education,Online Course Instructor,Đồng Nai,59,9657.84,4.22,Junior,39,"Python, SCORM, AI Tools, Learning Analytics, Data Analysis",High,High,36.7,Stable
+2022-12-10,Education,Curriculum Designer,TP.HCM,73,7468.9,7.2,Fresher,37,"Learning Analytics, LMS Administration, Curriculum Development, Instructional Design",Medium,High,62.5,Stable
+2022-12-14,Education,Learning Experience Designer,Hà Nội,79,15379.22,5.45,Junior,88,"Learning Analytics, Data Analysis, Python",Low,Medium,44.7,Growing
+2022-12-21,Education,STEM Teacher,TP.HCM,82,8897.81,8.05,Junior,50,"Research, SCORM",Low,High,51.8,Declining
+2022-12-23,Education,EdTech Developer,Đà Nẵng,81,26084.09,8.74,Senior,30,"Learning Analytics, Instructional Design, STEM Teaching, AI Tools, SCORM",Low,Medium,43.3,Declining
+2022-12-23,Education,Education Data Analyst,Đồng Nai,83,3548.75,6.44,Fresher,63,"LMS Administration, Learning Analytics",Low,Low,52.9,Stable
+2022-12-30,Education,EdTech Developer,Đà Nẵng,73,22431.11,5.84,Senior,65,"AI Tools, Video Production, Data Analysis",Medium,Medium,60.0,Growing
+2023-01-01,Education,EdTech Developer,Đà Nẵng,60,8243.01,3.03,Fresher,53,"Curriculum Development, Data Analysis",Low,High,62.2,Stable
+2023-01-07,Education,E-Learning Developer,TP.HCM,74,22991.65,8.25,Senior,74,"Instructional Design, Articulate 360, LMS Administration, Learning Analytics",Medium,Medium,62.0,Growing
+2023-01-08,Education,School Principal,TP.HCM,65,23880.09,8.27,Senior,71,"Data Analysis, Learning Analytics",Low,High,30.5,Growing
+2023-01-10,Education,E-Learning Developer,Đà Nẵng,66,8483.99,2.49,Junior,69,"Curriculum Development, LMS Administration, Research",Medium,Low,52.9,Growing
+2023-01-16,Education,EdTech Developer,Hà Nội,72,8825.06,7.21,Junior,47,"Articulate 360, Gamification, Video Production, Research, AI Tools",High,Low,68.8,Stable
+2023-01-21,Education,Academic Researcher,Bình Dương,84,8155.37,4.32,Fresher,30,"Learning Analytics, Gamification, Research, Curriculum Development",Low,High,40.7,Stable
+2023-01-22,Education,STEM Teacher,Cần Thơ,82,8415.23,3.49,Fresher,59,"Research, STEM Teaching, Gamification, Learning Analytics, SCORM",Medium,Medium,54.7,Stable
+2023-01-23,Education,Curriculum Designer,Hà Nội,73,3021.33,4.82,Fresher,49,"Python, LMS Administration, Instructional Design",High,Medium,72.4,Growing
+2023-01-25,Education,Corporate Trainer,Bình Dương,79,21622.08,4.47,Senior,40,"SCORM, Learning Analytics",Medium,Medium,41.6,Stable
+2023-01-26,Education,STEM Teacher,Đồng Nai,58,13807.89,5.2,Junior,83,"Python, Gamification, AI Tools, Video Production",Low,High,31.8,Growing
+2023-01-27,Education,School Principal,Hà Nội,95,8863.98,4.71,Junior,64,"Data Analysis, Gamification",Low,Medium,71.3,Declining
+2023-01-28,Education,Education Data Analyst,Đà Nẵng,75,11064.16,5.82,Junior,86,"Research, AI Tools",Medium,High,35.0,Declining
+2023-01-28,Education,Curriculum Designer,Hà Nội,79,25463.33,4.23,Senior,74,"STEM Teaching, SCORM, Instructional Design, Curriculum Development",Low,High,35.3,Growing
+2023-02-02,Education,Online Course Instructor,Cần Thơ,68,7316.53,8.03,Fresher,76,"Gamification, LMS Administration, STEM Teaching",Medium,Low,69.4,Stable
+2023-02-04,Education,Learning Experience Designer,Bình Dương,69,4512.92,7.32,Fresher,56,"Research, SCORM, LMS Administration, Instructional Design",High,Low,62.1,Stable
+2023-02-05,Education,Student Success Manager,Bình Dương,64,7754.24,8.37,Fresher,80,"Gamification, Python, Data Analysis, LMS Administration, Research",Medium,Medium,45.4,Stable
+2023-02-07,Education,EdTech Developer,TP.HCM,67,4985.87,7.5,Fresher,46,"STEM Teaching, Python, Video Production, SCORM",Medium,Medium,72.1,Growing
+2023-02-08,Education,Corporate Trainer,Hải Phòng,77,11438.42,5.29,Junior,67,"Curriculum Development, LMS Administration, Data Analysis",High,Medium,49.9,Growing
+2023-02-09,Education,Corporate Trainer,Bình Dương,65,21686.48,3.66,Senior,60,"SCORM, Data Analysis, Video Production, AI Tools, Research",Medium,Medium,43.1,Stable
+2023-02-13,Education,Student Success Manager,Bình Dương,82,11223.35,8.19,Junior,54,"Curriculum Development, Data Analysis, AI Tools, Gamification, STEM Teaching",Medium,Medium,61.9,Declining
+2023-02-13,Education,Academic Researcher,Đồng Nai,65,10779.35,3.89,Junior,88,"SCORM, Video Production",Medium,High,54.7,Stable
+2023-02-13,Education,E-Learning Developer,TP.HCM,79,12271.19,2.82,Junior,86,"Gamification, Instructional Design, Research, SCORM",Low,Low,44.6,Stable
+2023-02-16,Education,STEM Teacher,Hải Phòng,81,15371.42,8.41,Junior,45,"Data Analysis, SCORM",Low,Medium,60.8,Declining
+2023-02-17,Education,Curriculum Designer,Hà Nội,72,11315.99,2.64,Junior,72,"Instructional Design, STEM Teaching, SCORM, Learning Analytics",Low,Low,58.9,Growing
+2023-02-18,Education,School Principal,Hà Nội,69,8543.64,3.94,Fresher,89,"Curriculum Development, Research, Python, Gamification, STEM Teaching",Medium,Low,36.2,Growing
+2023-02-21,Education,Student Success Manager,Bình Dương,72,24859.72,3.87,Senior,66,"SCORM, Data Analysis, Learning Analytics",Medium,Medium,55.6,Stable
+2023-02-23,Education,Student Success Manager,Bình Dương,70,10852.57,8.62,Junior,31,"Video Production, SCORM, Learning Analytics, LMS Administration",Low,Medium,64.0,Declining
+2023-02-24,Education,Learning Experience Designer,TP.HCM,79,22853.44,8.55,Senior,86,"STEM Teaching, Learning Analytics, Instructional Design, LMS Administration, Curriculum Development",Medium,Medium,55.6,Growing
+2023-03-01,Education,Student Success Manager,Đồng Nai,97,10526.92,7.49,Fresher,68,"LMS Administration, Video Production, Data Analysis, Research",Low,High,66.6,Stable
+2023-03-01,Education,Curriculum Designer,Hải Phòng,79,7755.21,8.76,Fresher,68,"SCORM, Instructional Design",Low,Low,70.9,Growing
+2023-03-05,Education,STEM Teacher,Hải Phòng,60,5766.21,7.32,Fresher,80,"AI Tools, STEM Teaching, Articulate 360, Video Production",Low,High,61.2,Stable
+2023-03-15,Education,Corporate Trainer,Cần Thơ,77,11170.43,7.56,Junior,58,"Python, STEM Teaching",Medium,Medium,62.1,Stable
+2023-03-22,Education,EdTech Developer,Cần Thơ,96,16041.13,3.58,Junior,86,"Curriculum Development, Research, STEM Teaching",Medium,Low,69.8,Stable
+2023-03-26,Education,STEM Teacher,TP.HCM,77,21282.29,8.92,Senior,59,"Data Analysis, Gamification, AI Tools, Articulate 360",Low,Medium,70.2,Stable
+2023-03-29,Education,Learning Experience Designer,Bình Dương,90,23135.73,7.86,Senior,71,"LMS Administration, Research, Python",Medium,Low,51.5,Stable
+2023-03-30,Education,Student Success Manager,Đồng Nai,75,12685.24,3.6,Junior,48,"Instructional Design, Curriculum Development, LMS Administration, Articulate 360, Learning Analytics",Low,High,66.1,Growing
+2023-04-04,Education,Online Course Instructor,Đồng Nai,73,15252.08,5.23,Junior,49,"Video Production, SCORM, STEM Teaching",Medium,Medium,44.3,Declining
+2023-04-07,Education,Curriculum Designer,Đà Nẵng,86,14751.37,8.6,Junior,34,"Python, Video Production, Curriculum Development, STEM Teaching",High,Medium,60.6,Stable
+2023-04-08,Education,Academic Researcher,Đà Nẵng,66,25248.37,2.32,Senior,62,"Data Analysis, LMS Administration",Low,High,70.6,Growing
+2023-04-08,Education,Online Course Instructor,Hà Nội,74,14751.35,5.49,Junior,76,"AI Tools, Articulate 360, Learning Analytics, Gamification, Python",Medium,Medium,36.0,Stable
+2023-04-12,Education,Learning Experience Designer,Hà Nội,75,9318.81,2.48,Fresher,70,"Data Analysis, Research, AI Tools, Curriculum Development",Medium,High,65.6,Declining
+2023-04-13,Education,Curriculum Designer,Hà Nội,80,10971.04,6.94,Junior,86,"Instructional Design, Articulate 360",Medium,Medium,43.0,Stable
+2023-04-16,Education,Curriculum Designer,Đồng Nai,70,5611.52,5.82,Fresher,35,"Learning Analytics, Curriculum Development, Gamification, Articulate 360, LMS Administration",Medium,Medium,36.4,Growing
+2023-04-16,Education,Curriculum Designer,Đồng Nai,64,8347.65,5.3,Fresher,52,"Instructional Design, AI Tools",Low,Low,58.7,Stable
+2023-04-18,Education,EdTech Developer,Hải Phòng,64,4325.96,8.11,Fresher,56,"Data Analysis, Python",Low,Low,51.4,Declining
+2023-04-24,Education,School Principal,Cần Thơ,76,4411.61,3.93,Fresher,50,"Research, Data Analysis, AI Tools",High,Low,31.2,Growing
+2023-04-25,Education,EdTech Developer,TP.HCM,79,7066.46,6.4,Fresher,41,"STEM Teaching, Learning Analytics",High,Medium,46.8,Declining
+2023-04-27,Education,Academic Researcher,Hà Nội,83,9885.47,3.61,Junior,82,"Learning Analytics, STEM Teaching",Low,High,62.9,Declining
+2023-05-03,Education,Learning Experience Designer,Bình Dương,81,8717.7,4.78,Junior,38,"Curriculum Development, Instructional Design, LMS Administration",High,Medium,34.0,Growing
+2023-05-03,Education,Education Data Analyst,Hà Nội,75,23523.36,2.27,Senior,73,"Articulate 360, Instructional Design, AI Tools, Data Analysis",Medium,Low,50.1,Declining
+2023-05-05,Education,Curriculum Designer,Hà Nội,81,7985.84,5.73,Fresher,53,"Articulate 360, Instructional Design, AI Tools",Medium,Low,41.8,Stable
+2023-05-06,Education,Education Data Analyst,Đồng Nai,87,22544.25,5.62,Senior,65,"Data Analysis, STEM Teaching, Research, LMS Administration, Curriculum Development",Low,Low,33.1,Stable
+2023-05-08,Education,Learning Experience Designer,Bình Dương,78,2517.89,7.72,Fresher,55,"Python, Curriculum Development",Low,Low,47.4,Stable
+2023-05-10,Education,Learning Experience Designer,Cần Thơ,95,13037.62,3.43,Junior,88,"Articulate 360, STEM Teaching, Instructional Design",Low,Low,36.9,Declining
+2023-05-11,Education,Student Success Manager,Cần Thơ,100,13716.64,4.12,Junior,56,"Curriculum Development, Python, Video Production",High,Medium,74.6,Stable
+2023-05-14,Education,Education Data Analyst,Đồng Nai,73,22929.29,2.29,Senior,54,"Research, Data Analysis, Gamification, Articulate 360",Medium,Low,34.3,Stable
+2023-05-15,Education,Curriculum Designer,Hải Phòng,76,21705.04,3.18,Senior,66,"Curriculum Development, STEM Teaching, Learning Analytics",Medium,Low,74.9,Growing
+2023-05-19,Education,Learning Experience Designer,Cần Thơ,93,11247.68,6.26,Junior,60,"LMS Administration, Articulate 360",Low,Low,52.8,Declining
+2023-05-21,Education,School Principal,Hải Phòng,85,19089.62,4.52,Senior,41,"AI Tools, STEM Teaching, Gamification, Python",Low,High,30.7,Stable
+2023-05-21,Education,Learning Experience Designer,Đà Nẵng,67,24942.64,5.51,Senior,72,"Python, Articulate 360, Gamification",Medium,High,34.5,Growing
+2023-05-21,Education,Curriculum Designer,Đồng Nai,84,11586.97,8.64,Junior,37,"Python, AI Tools, Gamification, Data Analysis",Medium,High,53.8,Growing
+2023-05-23,Education,Online Course Instructor,Đồng Nai,89,7715.04,8.82,Fresher,70,"STEM Teaching, Instructional Design, AI Tools, Curriculum Development",Low,High,52.2,Growing
+2023-05-25,Education,Academic Researcher,Đồng Nai,66,23525.57,7.34,Senior,58,"Instructional Design, Gamification, STEM Teaching, AI Tools, Video Production",Low,Medium,68.8,Declining
+2023-05-26,Education,Student Success Manager,Hải Phòng,84,10383.14,4.91,Junior,71,"Research, Data Analysis, AI Tools",Medium,Medium,60.6,Growing
+2023-05-27,Education,E-Learning Developer,Hà Nội,84,9141.38,2.03,Junior,76,"Video Production, Curriculum Development, SCORM",Medium,Medium,42.7,Stable
+2023-05-29,Education,Education Data Analyst,Đà Nẵng,75,13228.39,7.21,Junior,77,"Video Production, LMS Administration, Learning Analytics, SCORM, Instructional Design",High,High,40.9,Stable
+2023-06-06,Education,Curriculum Designer,Đồng Nai,78,10729.48,6.91,Junior,40,"Research, Curriculum Development",High,High,68.2,Growing
+2023-06-09,Education,STEM Teacher,Bình Dương,74,5321.29,5.71,Fresher,39,"STEM Teaching, Video Production, Research",Low,Low,43.8,Stable
+2023-06-12,Education,Learning Experience Designer,Hải Phòng,66,16192.93,4.85,Junior,42,"Instructional Design, Video Production, LMS Administration",Low,Low,39.4,Growing
+2023-06-15,Education,EdTech Developer,Đà Nẵng,70,7105.26,2.73,Fresher,48,"SCORM, Research, Python, Data Analysis",Low,Medium,37.2,Growing
+2023-06-19,Education,Corporate Trainer,Đà Nẵng,66,6373.72,8.93,Fresher,90,"Research, STEM Teaching",Medium,Medium,40.3,Stable
+2023-06-21,Education,Education Data Analyst,Đồng Nai,54,8167.85,8.52,Junior,36,"AI Tools, Gamification",Low,Low,73.9,Declining
+2023-06-26,Education,Education Data Analyst,Bình Dương,80,11183.57,8.87,Junior,80,"Video Production, Gamification, Instructional Design, Python, Curriculum Development",High,High,66.4,Declining
+2023-06-27,Education,Student Success Manager,Bình Dương,61,7989.42,2.98,Fresher,79,"Python, Learning Analytics, Gamification, Curriculum Development",Medium,Medium,60.8,Declining
+2023-06-28,Education,Student Success Manager,Bình Dương,69,12631.43,7.81,Junior,51,"Articulate 360, Research, AI Tools, STEM Teaching",Medium,High,30.9,Stable
+2023-07-05,Education,STEM Teacher,Cần Thơ,75,14343.84,7.66,Junior,59,"Instructional Design, STEM Teaching",Medium,Medium,51.9,Growing
+2023-07-07,Education,STEM Teacher,Bình Dương,78,9377.76,6.06,Fresher,36,"Articulate 360, AI Tools, Learning Analytics",Low,Low,58.0,Growing
+2023-07-11,Education,Education Data Analyst,Hải Phòng,80,9299.62,6.53,Fresher,85,"Curriculum Development, Data Analysis, LMS Administration",Medium,High,47.6,Declining
+2023-07-13,Education,Learning Experience Designer,Đà Nẵng,80,20126.57,2.07,Senior,77,"LMS Administration, STEM Teaching, Python, Curriculum Development",High,High,40.4,Growing
+2023-07-14,Education,Learning Experience Designer,Hải Phòng,77,24579.24,2.53,Senior,65,"Research, Articulate 360, Learning Analytics, LMS Administration, AI Tools",Medium,Low,64.6,Growing
+2023-07-15,Education,School Principal,Bình Dương,67,21091.41,7.1,Senior,65,"Python, Research, AI Tools, SCORM",Low,Medium,64.9,Stable
+2023-07-17,Education,Academic Researcher,Hà Nội,81,13070.64,5.95,Junior,88,"Data Analysis, AI Tools, Learning Analytics, Curriculum Development, LMS Administration",High,High,31.3,Growing
+2023-07-20,Education,Academic Researcher,TP.HCM,78,5904.29,3.94,Fresher,40,"Instructional Design, LMS Administration, Learning Analytics, Data Analysis",Medium,High,45.0,Stable
+2023-07-24,Education,Education Data Analyst,TP.HCM,84,14147.28,5.94,Junior,71,"AI Tools, STEM Teaching, Learning Analytics, Python, SCORM",High,Medium,40.0,Stable
+2023-07-27,Education,Curriculum Designer,Đồng Nai,71,23890.34,8.31,Senior,59,"Python, Learning Analytics, Articulate 360, Video Production, Instructional Design",High,Medium,32.4,Stable
+2023-07-27,Education,Learning Experience Designer,Bình Dương,87,3551.72,7.73,Fresher,82,"Articulate 360, Research",Low,Low,39.5,Stable
+2023-07-29,Education,E-Learning Developer,Đà Nẵng,82,11686.66,6.51,Junior,79,"LMS Administration, Learning Analytics, Curriculum Development",Medium,Low,72.5,Growing
+2023-08-11,Education,Education Data Analyst,Hà Nội,81,7578.71,5.03,Fresher,90,"Gamification, Data Analysis",Medium,Medium,65.9,Growing
+2023-08-11,Education,Online Course Instructor,Bình Dương,80,13312.39,6.12,Junior,35,"Video Production, LMS Administration, Research, Curriculum Development, Learning Analytics",High,Medium,65.8,Stable
+2023-08-14,Education,Corporate Trainer,Hà Nội,73,8616.42,5.07,Junior,48,"Video Production, Research, Curriculum Development, Python",Medium,High,68.9,Stable
+2023-08-17,Education,E-Learning Developer,Hải Phòng,89,22058.64,8.3,Senior,81,"Learning Analytics, Gamification, Articulate 360",High,High,75.0,Stable
+2023-08-20,Education,STEM Teacher,Cần Thơ,79,12105.37,4.55,Junior,60,"Data Analysis, AI Tools, Curriculum Development, Video Production",Low,Medium,69.9,Growing
+2023-08-25,Education,Corporate Trainer,Cần Thơ,81,11676.16,6.07,Junior,49,"Research, Gamification",High,High,44.2,Stable
+2023-08-27,Education,Online Course Instructor,TP.HCM,96,4601.38,5.97,Fresher,62,"Articulate 360, Data Analysis, Curriculum Development, Python, STEM Teaching",Medium,Medium,71.4,Growing
+2023-08-27,Education,STEM Teacher,TP.HCM,81,23850.33,2.6,Senior,59,"Curriculum Development, AI Tools, Python",Low,High,71.0,Stable
+2023-09-04,Education,EdTech Developer,Đồng Nai,78,11493.39,5.2,Junior,42,"STEM Teaching, SCORM, Video Production, Instructional Design",Medium,High,69.6,Declining
+2023-09-06,Education,Academic Researcher,Đà Nẵng,84,10763.02,5.51,Junior,40,"Gamification, Curriculum Development, AI Tools, Data Analysis",Medium,Medium,37.1,Stable
+2023-09-08,Education,Academic Researcher,Đà Nẵng,80,26410.19,7.45,Senior,33,"Data Analysis, Curriculum Development",Medium,High,37.3,Growing
+2023-09-12,Education,Education Data Analyst,Đà Nẵng,80,10843.66,2.42,Fresher,38,"Instructional Design, Video Production",Low,High,69.7,Declining
+2023-09-15,Education,Online Course Instructor,Bình Dương,84,6749.21,4.28,Fresher,86,"Video Production, Articulate 360, AI Tools, STEM Teaching",High,Medium,71.9,Declining
+2023-09-15,Education,Education Data Analyst,Hải Phòng,93,12784.94,6.58,Junior,58,"STEM Teaching, AI Tools, Curriculum Development, Python",Low,High,36.9,Declining
+2023-09-22,Education,E-Learning Developer,Hải Phòng,78,22948.62,2.88,Senior,35,"Research, Video Production, Instructional Design, Articulate 360, LMS Administration",Low,Medium,31.0,Stable
+2023-09-22,Education,Corporate Trainer,Đà Nẵng,82,6449.39,4.81,Fresher,37,"AI Tools, Articulate 360, STEM Teaching",Low,Medium,45.5,Growing
+2023-09-25,Education,Student Success Manager,Hải Phòng,100,10625.83,8.84,Junior,43,"AI Tools, Instructional Design",Low,Low,53.0,Growing
+2023-09-28,Education,Academic Researcher,TP.HCM,67,12845.18,8.55,Junior,89,"STEM Teaching, Instructional Design, Learning Analytics, AI Tools",High,High,67.4,Declining
+2023-09-28,Education,Education Data Analyst,TP.HCM,90,23520.35,7.71,Senior,47,"Articulate 360, LMS Administration, Gamification, Learning Analytics",Medium,Low,30.7,Stable
+2023-09-28,Education,Corporate Trainer,Bình Dương,81,7038.43,5.28,Fresher,41,"Instructional Design, Gamification, Video Production",High,High,50.9,Growing
+2023-09-29,Education,EdTech Developer,Bình Dương,90,21138.62,8.16,Senior,88,"AI Tools, Instructional Design, STEM Teaching, Python",Medium,Low,58.0,Declining
+2023-10-03,Education,Corporate Trainer,Bình Dương,82,27240.06,4.11,Senior,46,"STEM Teaching, Learning Analytics",Medium,Low,41.7,Declining
+2023-10-03,Education,Academic Researcher,Đà Nẵng,92,5744.04,3.15,Fresher,41,"Gamification, Instructional Design, Articulate 360, LMS Administration, SCORM",Low,Medium,47.2,Growing
+2023-10-06,Education,Curriculum Designer,Hà Nội,68,21964.27,3.83,Senior,68,"STEM Teaching, Data Analysis, SCORM, LMS Administration, Python",High,High,71.5,Stable
+2023-10-09,Education,Online Course Instructor,Cần Thơ,81,22261.76,5.82,Senior,38,"Learning Analytics, AI Tools",Low,High,55.6,Stable
+2023-10-11,Education,STEM Teacher,Đà Nẵng,84,11754.81,2.08,Junior,32,"Research, Learning Analytics, AI Tools, Video Production, Gamification",Medium,High,39.6,Stable
+2023-10-12,Education,Learning Experience Designer,Hải Phòng,79,21486.04,5.98,Senior,65,"Gamification, Articulate 360, Python, Research",Medium,High,45.7,Growing
+2023-10-14,Education,Student Success Manager,Đà Nẵng,81,7344.34,8.71,Fresher,47,"AI Tools, Instructional Design, STEM Teaching, Research",Medium,Medium,65.6,Stable
+2023-10-22,Education,Education Data Analyst,Cần Thơ,71,5430.33,4.7,Fresher,50,"SCORM, Articulate 360, Video Production, STEM Teaching",High,High,30.8,Stable
+2023-10-27,Education,Student Success Manager,TP.HCM,87,22561.09,7.18,Senior,56,"Articulate 360, STEM Teaching",Low,Medium,59.2,Stable
+2023-10-27,Education,Corporate Trainer,TP.HCM,91,10816.1,7.16,Junior,62,"SCORM, LMS Administration",Low,Low,62.0,Declining
+2023-10-28,Education,Learning Experience Designer,Cần Thơ,79,6051.26,3.37,Fresher,77,"Articulate 360, AI Tools, Curriculum Development, Video Production",Medium,Medium,62.9,Stable
+2023-10-30,Education,Learning Experience Designer,Cần Thơ,69,16380.06,8.12,Junior,89,"Instructional Design, Learning Analytics, Gamification, Articulate 360, LMS Administration",Medium,Low,30.1,Declining
+2023-11-06,Education,School Principal,Cần Thơ,72,6505.82,6.22,Fresher,77,"STEM Teaching, Python, Learning Analytics",High,High,57.2,Declining
+2023-11-08,Education,E-Learning Developer,Bình Dương,74,19998.1,5.01,Senior,59,"LMS Administration, STEM Teaching, SCORM, Gamification",Medium,Low,52.1,Growing
+2023-11-08,Education,Academic Researcher,Cần Thơ,95,22928.42,5.93,Senior,46,"SCORM, Data Analysis, Curriculum Development",Low,High,60.5,Growing
+2023-11-13,Education,Education Data Analyst,Hà Nội,81,23715.38,6.41,Senior,33,"AI Tools, STEM Teaching, Articulate 360, Data Analysis, Video Production",High,Medium,45.5,Stable
+2023-11-16,Education,Student Success Manager,Hải Phòng,95,19925.47,3.78,Senior,38,"Curriculum Development, Python",High,Medium,70.3,Declining
+2023-11-16,Education,Curriculum Designer,Hà Nội,91,18308.06,4.99,Senior,65,"Research, Instructional Design, LMS Administration, Gamification, Python",Medium,Low,32.6,Stable
+2023-11-20,Education,Curriculum Designer,Hà Nội,84,9267.5,3.02,Junior,74,"Articulate 360, Data Analysis, STEM Teaching, AI Tools, SCORM",Low,Medium,69.4,Growing
+2023-11-23,Education,Online Course Instructor,TP.HCM,84,14747.1,2.52,Junior,69,"SCORM, Gamification, Data Analysis",Low,High,48.3,Declining
+2023-11-23,Education,STEM Teacher,Bình Dương,81,23740.18,7.35,Senior,85,"Video Production, Research, Instructional Design, Gamification, SCORM",Medium,Medium,31.1,Declining
+2023-11-27,Education,School Principal,Hà Nội,101,13690.76,8.89,Junior,39,"Articulate 360, LMS Administration, Instructional Design, Video Production",Medium,Medium,52.6,Stable
+2023-12-02,Education,Academic Researcher,TP.HCM,87,12960.31,8.62,Junior,40,"Curriculum Development, LMS Administration",Medium,Low,31.8,Growing
+2023-12-04,Education,Education Data Analyst,Đồng Nai,79,8587.03,4.1,Fresher,53,"Gamification, Learning Analytics",Low,Low,59.6,Declining
+2023-12-04,Education,Education Data Analyst,Đồng Nai,91,10529.92,7.96,Junior,67,"Video Production, AI Tools, Learning Analytics, Research, LMS Administration",High,Low,33.8,Declining
+2023-12-08,Education,Learning Experience Designer,Đà Nẵng,77,22021.2,4.61,Senior,84,"Data Analysis, SCORM, Learning Analytics, Instructional Design, Articulate 360",Low,High,44.8,Growing
+2023-12-10,Education,Student Success Manager,Đà Nẵng,82,6929.76,4.84,Fresher,53,"STEM Teaching, Data Analysis, SCORM, Articulate 360, Video Production",Low,High,42.5,Stable
+2023-12-10,Education,Corporate Trainer,Hà Nội,93,11050.58,7.7,Junior,53,"Instructional Design, LMS Administration",Low,Low,32.8,Growing
+2023-12-13,Education,STEM Teacher,Hải Phòng,72,23662.7,5.83,Senior,86,"Articulate 360, Instructional Design, Gamification, LMS Administration",Low,Low,40.3,Growing
+2023-12-18,Education,Education Data Analyst,Đà Nẵng,91,24907.13,8.06,Senior,58,"STEM Teaching, Learning Analytics, AI Tools, Video Production, SCORM",High,High,47.8,Growing
+2023-12-20,Education,Student Success Manager,Cần Thơ,82,10153.04,7.34,Fresher,51,"Articulate 360, Curriculum Development, Research",Low,High,71.0,Stable
+2023-12-24,Education,Education Data Analyst,Hải Phòng,74,12207.94,6.83,Junior,66,"Data Analysis, Video Production, Research",Medium,Low,66.8,Declining
+2023-12-24,Education,Online Course Instructor,Cần Thơ,89,14540.15,3.1,Junior,69,"LMS Administration, Gamification",Low,Low,66.4,Declining
+2023-12-29,Education,EdTech Developer,Hải Phòng,76,22626.72,5.03,Senior,39,"Research, Gamification, Instructional Design, Learning Analytics, Curriculum Development",Medium,Low,44.6,Stable
+2023-12-30,Education,Corporate Trainer,Đồng Nai,92,11289.22,2.37,Junior,41,"Video Production, Research",High,Medium,58.1,Growing
+2023-12-31,Education,Learning Experience Designer,Đồng Nai,72,12801.7,8.16,Junior,61,"SCORM, AI Tools",Medium,Low,66.7,Growing
+2023-12-31,Education,Academic Researcher,Đồng Nai,72,4854.02,7.47,Fresher,68,"Python, STEM Teaching",High,Medium,63.7,Growing
+2024-01-04,Education,E-Learning Developer,Đà Nẵng,93,11169.73,5.75,Junior,58,"Curriculum Development, LMS Administration, Gamification, Instructional Design",Low,High,40.8,Stable
+2024-01-05,Education,Student Success Manager,Hà Nội,75,24227.06,7.69,Senior,50,"STEM Teaching, Gamification, Learning Analytics, AI Tools",Medium,High,58.5,Stable
+2024-01-07,Education,EdTech Developer,Hà Nội,92,25100.59,7.65,Senior,82,"Articulate 360, Learning Analytics",High,High,68.1,Stable
+2024-01-16,Education,E-Learning Developer,Cần Thơ,90,24639.7,6.24,Senior,88,"Learning Analytics, STEM Teaching, LMS Administration, Instructional Design",Medium,Low,50.7,Stable
+2024-01-20,Education,Curriculum Designer,Hải Phòng,87,19288.23,3.36,Senior,64,"Curriculum Development, AI Tools, Learning Analytics, LMS Administration, Python",High,High,74.7,Declining
+2024-01-23,Education,E-Learning Developer,TP.HCM,89,13317.51,3.38,Junior,81,"Data Analysis, Research",High,High,53.2,Growing
+2024-01-29,Education,Corporate Trainer,Hà Nội,91,12729.78,5.33,Junior,30,"Video Production, Gamification, Articulate 360, Learning Analytics, Research",High,Low,34.4,Declining
+2024-01-30,Education,STEM Teacher,Cần Thơ,91,15317.77,5.61,Junior,32,"Articulate 360, Instructional Design, Research, SCORM",High,Low,71.7,Stable
+2024-01-31,Education,E-Learning Developer,Đồng Nai,84,5683.38,8.99,Fresher,61,"Data Analysis, Gamification, Python",Medium,Medium,46.7,Declining
+2024-01-31,Education,School Principal,Đà Nẵng,85,23085.38,8.89,Senior,75,"Research, Curriculum Development, Python, SCORM, Instructional Design",High,High,41.0,Stable
+2024-02-07,Education,Learning Experience Designer,Đồng Nai,82,22313.74,6.5,Senior,72,"AI Tools, Data Analysis, Python, LMS Administration, Video Production",Medium,Medium,54.4,Stable
+2024-02-13,Education,School Principal,Cần Thơ,90,8671.11,8.51,Fresher,75,"AI Tools, Data Analysis, Instructional Design, SCORM, Gamification",High,High,56.5,Stable
+2024-02-13,Education,Online Course Instructor,Cần Thơ,93,15060.54,8.11,Junior,58,"AI Tools, Instructional Design, Articulate 360",Low,Medium,39.9,Growing
+2024-02-16,Education,Curriculum Designer,Hà Nội,83,6518.07,5.24,Fresher,87,"STEM Teaching, Gamification, SCORM",High,Medium,52.5,Stable
+2024-02-19,Education,Learning Experience Designer,Bình Dương,88,11663.4,4.55,Junior,80,"Gamification, STEM Teaching, Research",High,Medium,71.4,Stable
+2024-02-21,Education,Academic Researcher,Đồng Nai,90,24100.18,4.54,Senior,59,"Articulate 360, Data Analysis",Low,Medium,55.0,Stable
+2024-02-21,Education,Education Data Analyst,TP.HCM,93,24058.41,5.29,Senior,42,"Video Production, Research",Low,High,49.7,Stable
+2024-02-22,Education,E-Learning Developer,Hải Phòng,71,22692.94,6.31,Senior,52,"LMS Administration, Instructional Design",Low,High,39.7,Stable
+2024-02-23,Education,EdTech Developer,Đà Nẵng,91,20649.85,7.66,Senior,41,"SCORM, STEM Teaching, Learning Analytics",Low,Medium,41.3,Stable
+2024-02-28,Education,Student Success Manager,Đồng Nai,98,10382.21,7.13,Junior,58,"Learning Analytics, AI Tools, SCORM, STEM Teaching, Research",Low,Medium,47.3,Growing
+2024-03-02,Education,Learning Experience Designer,Cần Thơ,90,11441.26,8.23,Junior,65,"LMS Administration, Learning Analytics, Gamification, Video Production, Python",Medium,High,67.5,Stable
+2024-03-02,Education,Student Success Manager,Hà Nội,80,24548.66,3.62,Senior,40,"Instructional Design, Curriculum Development, Python, Gamification",Medium,Medium,74.8,Growing
+2024-03-07,Education,STEM Teacher,TP.HCM,92,12011.15,4.89,Junior,43,"Gamification, Articulate 360",Low,Low,45.1,Declining
+2024-03-08,Education,Learning Experience Designer,Đồng Nai,85,5536.74,6.55,Fresher,31,"LMS Administration, AI Tools",High,Medium,37.1,Stable
+2024-03-10,Education,Academic Researcher,TP.HCM,81,21425.01,8.44,Senior,78,"AI Tools, Python",Medium,High,69.9,Growing
+2024-03-10,Education,Education Data Analyst,Hải Phòng,95,25328.33,7.36,Senior,83,"SCORM, Curriculum Development, Gamification, Instructional Design, AI Tools",High,Medium,51.8,Stable
+2024-03-12,Education,Student Success Manager,Đà Nẵng,93,24386.22,8.3,Senior,74,"Video Production, Curriculum Development, Research, Learning Analytics",High,Medium,51.9,Growing
+2024-03-12,Education,Academic Researcher,Đồng Nai,92,7963.56,7.87,Fresher,51,"Data Analysis, Curriculum Development, Video Production",Medium,Low,58.2,Growing
+2024-03-13,Education,Academic Researcher,Đà Nẵng,90,12198.31,6.59,Junior,72,"Python, SCORM, STEM Teaching, Video Production, Research",Medium,High,63.5,Growing
+2024-03-14,Education,Student Success Manager,Cần Thơ,85,25656.65,8.88,Senior,65,"Instructional Design, Video Production, Curriculum Development, AI Tools, SCORM",Medium,Low,36.4,Growing
+2024-03-16,Education,STEM Teacher,Cần Thơ,88,16674.51,2.08,Junior,60,"SCORM, LMS Administration, Python, Research, STEM Teaching",Medium,Low,57.8,Stable
+2024-03-16,Education,Online Course Instructor,Đồng Nai,87,3952.98,7.11,Fresher,75,"LMS Administration, STEM Teaching",Low,Low,71.7,Growing
+2024-03-19,Education,School Principal,Hà Nội,82,21099.51,7.82,Senior,63,"Curriculum Development, Gamification, SCORM, Video Production, LMS Administration",Low,Low,34.4,Growing
+2024-03-25,Education,Learning Experience Designer,Bình Dương,89,5313.43,4.72,Fresher,38,"Data Analysis, Python",Medium,Medium,36.1,Growing
+2024-03-30,Education,Learning Experience Designer,Hà Nội,87,3258.27,5.39,Fresher,40,"Articulate 360, Python, Curriculum Development",Low,Medium,47.0,Declining
+2024-04-01,Education,Academic Researcher,Bình Dương,90,24647.1,4.64,Senior,40,"Instructional Design, Gamification, Learning Analytics, Data Analysis, STEM Teaching",Low,High,74.5,Stable
+2024-04-06,Education,Education Data Analyst,Cần Thơ,76,11882.47,5.83,Junior,73,"Gamification, Learning Analytics",Low,Low,68.0,Stable
+2024-04-06,Education,E-Learning Developer,Đồng Nai,72,23182.74,4.63,Senior,34,"STEM Teaching, Curriculum Development",High,Medium,44.5,Growing
+2024-04-08,Education,STEM Teacher,Cần Thơ,68,5827.67,7.87,Fresher,70,"STEM Teaching, Video Production, SCORM",Low,Medium,34.6,Growing
+2024-04-08,Education,Academic Researcher,TP.HCM,72,24549.77,8.45,Senior,88,"Learning Analytics, Python, AI Tools, Articulate 360, STEM Teaching",Medium,Medium,63.1,Growing
+2024-04-16,Education,Education Data Analyst,TP.HCM,90,13254.31,2.3,Junior,33,"Curriculum Development, STEM Teaching, Instructional Design",Medium,Low,61.2,Stable
+2024-04-18,Education,STEM Teacher,Hải Phòng,103,5891.71,2.29,Fresher,66,"Articulate 360, Learning Analytics, Python, Video Production",Low,High,64.3,Stable
+2024-04-18,Education,STEM Teacher,Đà Nẵng,85,9222.49,7.84,Fresher,42,"Learning Analytics, Video Production",Medium,Low,35.4,Growing
+2024-04-19,Education,Academic Researcher,Cần Thơ,92,13185.18,7.03,Junior,88,"Python, Learning Analytics, Gamification, LMS Administration, Articulate 360",High,High,61.9,Growing
+2024-04-21,Education,Education Data Analyst,Đồng Nai,83,7251.84,5.91,Fresher,46,"Instructional Design, Learning Analytics, LMS Administration",Low,Medium,52.1,Growing
+2024-04-22,Education,Online Course Instructor,Cần Thơ,88,23186.56,8.43,Senior,37,"Video Production, Instructional Design, Articulate 360",High,High,73.6,Stable
+2024-04-24,Education,Curriculum Designer,Đồng Nai,90,24240.39,2.48,Senior,63,"Data Analysis, STEM Teaching, Curriculum Development",Low,Medium,46.1,Growing
+2024-04-29,Education,Student Success Manager,Đà Nẵng,88,25193.09,8.45,Senior,86,"Research, AI Tools, Instructional Design",Low,High,63.2,Stable
+2024-05-01,Education,Online Course Instructor,TP.HCM,92,24996.69,6.55,Senior,77,"Learning Analytics, Articulate 360, SCORM, Data Analysis, Curriculum Development",Medium,Low,59.1,Growing
+2024-05-03,Education,E-Learning Developer,Hà Nội,87,12754.98,2.07,Junior,78,"AI Tools, STEM Teaching, Video Production, Learning Analytics, Python",Medium,Low,53.9,Declining
+2024-05-03,Education,School Principal,Đồng Nai,90,8230.31,7.32,Fresher,61,"Articulate 360, SCORM",Low,Medium,59.1,Growing
+2024-05-05,Education,Education Data Analyst,Hà Nội,91,16113.5,3.93,Junior,42,"Learning Analytics, Python, Video Production",Low,High,59.5,Growing
+2024-05-07,Education,EdTech Developer,Đà Nẵng,89,4625.34,6.79,Fresher,30,"Gamification, Articulate 360, Research",Medium,Low,36.7,Stable
+2024-05-10,Education,Student Success Manager,Hải Phòng,91,20276.36,5.77,Senior,81,"Articulate 360, Video Production, STEM Teaching, AI Tools",Low,Medium,51.8,Growing
+2024-05-16,Education,Corporate Trainer,Đồng Nai,88,11906.81,6.66,Fresher,72,"STEM Teaching, Video Production, LMS Administration",Medium,High,38.8,Growing
+2024-05-16,Education,Academic Researcher,Đồng Nai,72,15938.05,7.06,Junior,45,"LMS Administration, Learning Analytics",High,Low,46.8,Stable
+2024-05-23,Education,Academic Researcher,Đà Nẵng,79,13020.33,4.19,Junior,86,"AI Tools, Python",Medium,High,57.4,Stable
+2024-05-25,Education,Student Success Manager,Cần Thơ,105,24471.87,5.33,Senior,79,"Gamification, Learning Analytics, Instructional Design, Python",Medium,High,54.5,Growing
